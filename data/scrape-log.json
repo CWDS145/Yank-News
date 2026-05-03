@@ -207,6 +207,14 @@
       "status": 200,
       "items": 37,
       "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T14:49:42Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 30,
+      "note": "ok"
     }
   ]
 }
