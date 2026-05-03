@@ -1111,6 +1111,110 @@
       "status": 200,
       "items": 13,
       "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T17:10:39Z",
+      "source": "MLB MiLB: affiliates",
+      "url": "https://statsapi.mlb.com/api/v1/teams/affiliates?teamIds=147&season=2026",
+      "status": 200,
+      "items": 4,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T17:10:39Z",
+      "source": "MLB MiLB: SWB roster",
+      "url": "https://statsapi.mlb.com/api/v1/teams/531/roster?rosterType=active&season=2026",
+      "status": 200,
+      "items": 27,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T17:10:39Z",
+      "source": "MLB MiLB: SWB team stats",
+      "url": "https://statsapi.mlb.com/api/v1/teams/stats?season=2026&stats=season&group=hitting&teamId=531&sportId=11",
+      "status": 200,
+      "items": 2,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T17:10:42Z",
+      "source": "MLB MiLB: SWB player stats",
+      "url": "<bulk: 27 players>",
+      "status": 200,
+      "items": 27,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T17:10:42Z",
+      "source": "MLB MiLB: SOM roster",
+      "url": "https://statsapi.mlb.com/api/v1/teams/1956/roster?rosterType=active&season=2026",
+      "status": 200,
+      "items": 30,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T17:10:42Z",
+      "source": "MLB MiLB: SOM team stats",
+      "url": "https://statsapi.mlb.com/api/v1/teams/stats?season=2026&stats=season&group=hitting&teamId=1956&sportId=12",
+      "status": 200,
+      "items": 2,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T17:10:45Z",
+      "source": "MLB MiLB: SOM player stats",
+      "url": "<bulk: 30 players>",
+      "status": 200,
+      "items": 30,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T17:10:45Z",
+      "source": "MLB MiLB: HV roster",
+      "url": "https://statsapi.mlb.com/api/v1/teams/537/roster?rosterType=active&season=2026",
+      "status": 200,
+      "items": 31,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T17:10:45Z",
+      "source": "MLB MiLB: HV team stats",
+      "url": "https://statsapi.mlb.com/api/v1/teams/stats?season=2026&stats=season&group=hitting&teamId=537&sportId=13",
+      "status": 200,
+      "items": 2,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T17:10:49Z",
+      "source": "MLB MiLB: HV player stats",
+      "url": "<bulk: 31 players>",
+      "status": 200,
+      "items": 30,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T17:10:49Z",
+      "source": "MLB MiLB: TAM roster",
+      "url": "https://statsapi.mlb.com/api/v1/teams/587/roster?rosterType=active&season=2026",
+      "status": 200,
+      "items": 32,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T17:10:49Z",
+      "source": "MLB MiLB: TAM team stats",
+      "url": "https://statsapi.mlb.com/api/v1/teams/stats?season=2026&stats=season&group=hitting&teamId=587&sportId=14",
+      "status": 200,
+      "items": 2,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T17:10:52Z",
+      "source": "MLB MiLB: TAM player stats",
+      "url": "<bulk: 32 players>",
+      "status": 200,
+      "items": 31,
+      "note": "ok"
     }
   ]
 }
