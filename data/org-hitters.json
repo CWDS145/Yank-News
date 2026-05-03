@@ -1,0 +1,1649 @@
+{
+  "updated": "2026-05-03T19:39:29Z",
+  "season": 2026,
+  "window_days": 10,
+  "window_start": "2026-04-23",
+  "window_end": "2026-05-03",
+  "hitters": [
+    {
+      "id": 592450,
+      "name": "Aaron Judge",
+      "position": "RF",
+      "level": "MLB",
+      "level_since": "2026-04-15",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 118,
+        "k": 41,
+        "avg": ".254",
+        "ops": ".995",
+        "avg_num": 0.254,
+        "ops_num": 0.995
+      },
+      "last_10": {
+        "ab": 32,
+        "k": 12,
+        "avg": ".313",
+        "ops": "1.250",
+        "avg_num": 0.313,
+        "ops_num": 1.25
+      }
+    },
+    {
+      "id": 670868,
+      "name": "Abrahan Gutierrez",
+      "position": "C",
+      "level": "AA",
+      "level_since": "2026-03-23",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-02-05",
+      "season": {
+        "ab": 12,
+        "k": 2,
+        "avg": ".333",
+        "ops": ".833",
+        "avg_num": 0.333,
+        "ops_num": 0.833
+      },
+      "last_10": {
+        "ab": 12,
+        "k": 2,
+        "avg": ".333",
+        "ops": ".833",
+        "avg_num": 0.333,
+        "ops_num": 0.833
+      }
+    },
+    {
+      "id": 645305,
+      "name": "Ali Sánchez",
+      "position": "C",
+      "level": "AAA",
+      "level_since": null,
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 56,
+        "k": 10,
+        "avg": ".286",
+        "ops": ".831",
+        "avg_num": 0.286,
+        "ops_num": 0.831
+      },
+      "last_10": {
+        "ab": 16,
+        "k": 3,
+        "avg": ".188",
+        "ops": ".569",
+        "avg_num": 0.188,
+        "ops_num": 0.569
+      }
+    },
+    {
+      "id": 642708,
+      "name": "Amed Rosario",
+      "position": "3B",
+      "level": "MLB",
+      "level_since": "2026-04-15",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 60,
+        "k": 13,
+        "avg": ".267",
+        "ops": ".830",
+        "avg_num": 0.267,
+        "ops_num": 0.83
+      },
+      "last_10": {
+        "ab": 11,
+        "k": 5,
+        "avg": ".273",
+        "ops": ".606",
+        "avg_num": 0.273,
+        "ops_num": 0.606
+      }
+    },
+    {
+      "id": 683011,
+      "name": "Anthony Volpe",
+      "position": "SS",
+      "level": "MLB",
+      "level_since": "2026-04-28",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-04-21",
+      "season": null,
+      "last_10": {
+        "ab": 0,
+        "k": 0,
+        "avg": null,
+        "ops": null,
+        "avg_num": null,
+        "ops_num": null
+      }
+    },
+    {
+      "id": 669224,
+      "name": "Austin Wells",
+      "position": "C",
+      "level": "MLB",
+      "level_since": "2026-04-15",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 74,
+        "k": 16,
+        "avg": ".203",
+        "ops": ".679",
+        "avg_num": 0.203,
+        "ops_num": 0.679
+      },
+      "last_10": {
+        "ab": 19,
+        "k": 5,
+        "avg": ".263",
+        "ops": ".943",
+        "avg_num": 0.263,
+        "ops_num": 0.943
+      }
+    },
+    {
+      "id": 700250,
+      "name": "Ben Rice",
+      "position": "1B",
+      "level": "MLB",
+      "level_since": "2026-04-15",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 107,
+        "k": 32,
+        "avg": ".336",
+        "ops": "1.199",
+        "avg_num": 0.336,
+        "ops_num": 1.199
+      },
+      "last_10": {
+        "ab": 38,
+        "k": 6,
+        "avg": ".395",
+        "ops": "1.244",
+        "avg_num": 0.395,
+        "ops_num": 1.244
+      }
+    },
+    {
+      "id": 806963,
+      "name": "Brando Mayea",
+      "position": "CF",
+      "level": "Low-A",
+      "level_since": "2026-04-03",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-03-05",
+      "season": {
+        "ab": 84,
+        "k": 28,
+        "avg": ".238",
+        "ops": ".669",
+        "avg_num": 0.238,
+        "ops_num": 0.669
+      },
+      "last_10": {
+        "ab": 22,
+        "k": 9,
+        "avg": ".318",
+        "ops": ".920",
+        "avg_num": 0.318,
+        "ops_num": 0.92
+      }
+    },
+    {
+      "id": 701727,
+      "name": "Bryce Martin-Grudzielanek",
+      "position": "SS",
+      "level": "Low-A",
+      "level_since": "2026-02-20",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 76,
+        "k": 21,
+        "avg": ".237",
+        "ops": ".659",
+        "avg_num": 0.237,
+        "ops_num": 0.659
+      },
+      "last_10": {
+        "ab": 33,
+        "k": 8,
+        "avg": ".394",
+        "ops": "1.027",
+        "avg_num": 0.394,
+        "ops_num": 1.027
+      }
+    },
+    {
+      "id": 803131,
+      "name": "Camden Troyer",
+      "position": "OF",
+      "level": "High-A",
+      "level_since": "2026-02-20",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 72,
+        "k": 22,
+        "avg": ".222",
+        "ops": ".678",
+        "avg_num": 0.222,
+        "ops_num": 0.678
+      },
+      "last_10": {
+        "ab": 20,
+        "k": 3,
+        "avg": ".250",
+        "ops": ".860",
+        "avg_num": 0.25,
+        "ops_num": 0.86
+      }
+    },
+    {
+      "id": 815089,
+      "name": "Coby Morales",
+      "position": "IF",
+      "level": "AA",
+      "level_since": "2026-02-28",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 87,
+        "k": 27,
+        "avg": ".322",
+        "ops": "1.067",
+        "avg_num": 0.322,
+        "ops_num": 1.067
+      },
+      "last_10": {
+        "ab": 32,
+        "k": 8,
+        "avg": ".344",
+        "ops": "1.269",
+        "avg_num": 0.344,
+        "ops_num": 1.269
+      }
+    },
+    {
+      "id": 641355,
+      "name": "Cody Bellinger",
+      "position": "LF",
+      "level": "MLB",
+      "level_since": "2026-04-15",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 117,
+        "k": 20,
+        "avg": ".274",
+        "ops": ".849",
+        "avg_num": 0.274,
+        "ops_num": 0.849
+      },
+      "last_10": {
+        "ab": 36,
+        "k": 7,
+        "avg": ".306",
+        "ops": ".986",
+        "avg_num": 0.306,
+        "ops_num": 0.986
+      }
+    },
+    {
+      "id": 702068,
+      "name": "Cole Gabrielson",
+      "position": "CF",
+      "level": "High-A",
+      "level_since": "2026-03-30",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-03-01",
+      "season": {
+        "ab": 32,
+        "k": 5,
+        "avg": ".313",
+        "ops": ".859",
+        "avg_num": 0.313,
+        "ops_num": 0.859
+      },
+      "last_10": {
+        "ab": 17,
+        "k": 3,
+        "avg": ".294",
+        "ops": ".958",
+        "avg_num": 0.294,
+        "ops_num": 0.958
+      }
+    },
+    {
+      "id": 821296,
+      "name": "Connor McGinnis",
+      "position": "SS",
+      "level": "High-A",
+      "level_since": "2026-03-18",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 39,
+        "k": 13,
+        "avg": ".179",
+        "ops": ".564",
+        "avg_num": 0.179,
+        "ops_num": 0.564
+      },
+      "last_10": {
+        "ab": 17,
+        "k": 4,
+        "avg": ".176",
+        "ops": ".599",
+        "avg_num": 0.176,
+        "ops_num": 0.599
+      }
+    },
+    {
+      "id": 692110,
+      "name": "Core Jackson",
+      "position": "SS",
+      "level": "High-A",
+      "level_since": "2026-03-06",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 92,
+        "k": 26,
+        "avg": ".239",
+        "ops": ".703",
+        "avg_num": 0.239,
+        "ops_num": 0.703
+      },
+      "last_10": {
+        "ab": 36,
+        "k": 8,
+        "avg": ".361",
+        "ops": ".875",
+        "avg_num": 0.361,
+        "ops_num": 0.875
+      }
+    },
+    {
+      "id": 800299,
+      "name": "Diomedes Hernandez",
+      "position": "C",
+      "level": "High-A",
+      "level_since": "2026-05-01",
+      "prior_level": "AA",
+      "prior_level_since": "2026-04-12",
+      "season": null,
+      "last_10": {
+        "ab": 0,
+        "k": 0,
+        "avg": null,
+        "ops": null,
+        "avg_num": null,
+        "ops_num": null
+      }
+    },
+    {
+      "id": 687554,
+      "name": "DJ Gladney",
+      "position": "LF",
+      "level": "AA",
+      "level_since": null,
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 74,
+        "k": 20,
+        "avg": ".324",
+        "ops": ".825",
+        "avg_num": 0.324,
+        "ops_num": 0.825
+      },
+      "last_10": {
+        "ab": 26,
+        "k": 6,
+        "avg": ".269",
+        "ops": ".706",
+        "avg_num": 0.269,
+        "ops_num": 0.706
+      }
+    },
+    {
+      "id": 668752,
+      "name": "Duke Ellis",
+      "position": "CF",
+      "level": "AAA",
+      "level_since": "2026-02-05",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 27,
+        "k": 4,
+        "avg": ".259",
+        "ops": ".838",
+        "avg_num": 0.259,
+        "ops_num": 0.838
+      },
+      "last_10": {
+        "ab": 18,
+        "k": 2,
+        "avg": ".222",
+        "ops": ".891",
+        "avg_num": 0.222,
+        "ops_num": 0.891
+      }
+    },
+    {
+      "id": 804603,
+      "name": "Duncan Pastore",
+      "position": "3B",
+      "level": "AAA",
+      "level_since": "2026-04-28",
+      "prior_level": "High-A",
+      "prior_level_since": "2026-03-30",
+      "season": {
+        "ab": 8,
+        "k": 4,
+        "avg": ".000",
+        "ops": ".111",
+        "avg_num": 0.0,
+        "ops_num": 0.111
+      },
+      "last_10": {
+        "ab": 8,
+        "k": 4,
+        "avg": ".000",
+        "ops": ".111",
+        "avg_num": 0.0,
+        "ops_num": 0.111
+      }
+    },
+    {
+      "id": 815528,
+      "name": "Ediel Rivera",
+      "position": "C",
+      "level": "Low-A",
+      "level_since": null,
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 55,
+        "k": 20,
+        "avg": ".145",
+        "ops": ".448",
+        "avg_num": 0.145,
+        "ops_num": 0.448
+      },
+      "last_10": {
+        "ab": 18,
+        "k": 7,
+        "avg": ".111",
+        "ops": ".428",
+        "avg_num": 0.111,
+        "ops_num": 0.428
+      }
+    },
+    {
+      "id": 702750,
+      "name": "Edinson Duran",
+      "position": "C",
+      "level": "AAA",
+      "level_since": "2026-04-02",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-02-24",
+      "season": {
+        "ab": 3,
+        "k": 1,
+        "avg": ".333",
+        "ops": "1.000",
+        "avg_num": 0.333,
+        "ops_num": 1.0
+      },
+      "last_10": {
+        "ab": 3,
+        "k": 1,
+        "avg": ".333",
+        "ops": "1.000",
+        "avg_num": 0.333,
+        "ops_num": 1.0
+      }
+    },
+    {
+      "id": 800246,
+      "name": "Engelth Urena",
+      "position": "C",
+      "level": "Low-A",
+      "level_since": "2026-03-30",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-03-06",
+      "season": {
+        "ab": 74,
+        "k": 21,
+        "avg": ".176",
+        "ops": ".569",
+        "avg_num": 0.176,
+        "ops_num": 0.569
+      },
+      "last_10": {
+        "ab": 35,
+        "k": 10,
+        "avg": ".229",
+        "ops": ".614",
+        "avg_num": 0.229,
+        "ops_num": 0.614
+      }
+    },
+    {
+      "id": 800285,
+      "name": "Enmanuel Tejeda",
+      "position": "3B",
+      "level": "Low-A",
+      "level_since": "2026-02-21",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 86,
+        "k": 23,
+        "avg": ".267",
+        "ops": ".855",
+        "avg_num": 0.267,
+        "ops_num": 0.855
+      },
+      "last_10": {
+        "ab": 35,
+        "k": 8,
+        "avg": ".343",
+        "ops": ".943",
+        "avg_num": 0.343,
+        "ops_num": 0.943
+      }
+    },
+    {
+      "id": 823759,
+      "name": "Eric Genther",
+      "position": "C",
+      "level": "High-A",
+      "level_since": "2026-03-30",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 64,
+        "k": 14,
+        "avg": ".281",
+        "ops": ".818",
+        "avg_num": 0.281,
+        "ops_num": 0.818
+      },
+      "last_10": {
+        "ab": 19,
+        "k": 3,
+        "avg": ".158",
+        "ops": ".596",
+        "avg_num": 0.158,
+        "ops_num": 0.596
+      }
+    },
+    {
+      "id": 667803,
+      "name": "Ernesto Martinez Jr.",
+      "position": "1B",
+      "level": "AAA",
+      "level_since": null,
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 90,
+        "k": 29,
+        "avg": ".256",
+        "ops": ".835",
+        "avg_num": 0.256,
+        "ops_num": 0.835
+      },
+      "last_10": {
+        "ab": 24,
+        "k": 7,
+        "avg": ".250",
+        "ops": ".821",
+        "avg_num": 0.25,
+        "ops_num": 0.821
+      }
+    },
+    {
+      "id": 682003,
+      "name": "Garrett Martin",
+      "position": "RF",
+      "level": "AA",
+      "level_since": "2026-02-20",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 90,
+        "k": 21,
+        "avg": ".244",
+        "ops": ".847",
+        "avg_num": 0.244,
+        "ops_num": 0.847
+      },
+      "last_10": {
+        "ab": 33,
+        "k": 3,
+        "avg": ".273",
+        "ops": "1.078",
+        "avg_num": 0.273,
+        "ops_num": 1.078
+      }
+    },
+    {
+      "id": 806146,
+      "name": "George Lombard Jr.",
+      "position": "SS",
+      "level": "AAA",
+      "level_since": "2026-04-29",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-02-05",
+      "season": {
+        "ab": 15,
+        "k": 5,
+        "avg": ".267",
+        "ops": ".620",
+        "avg_num": 0.267,
+        "ops_num": 0.62
+      },
+      "last_10": {
+        "ab": 15,
+        "k": 5,
+        "avg": ".267",
+        "ops": ".620",
+        "avg_num": 0.267,
+        "ops_num": 0.62
+      }
+    },
+    {
+      "id": 519317,
+      "name": "Giancarlo Stanton",
+      "position": "DH",
+      "level": "MLB",
+      "level_since": "2026-04-15",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 90,
+        "k": 29,
+        "avg": ".256",
+        "ops": ".724",
+        "avg_num": 0.256,
+        "ops_num": 0.724
+      },
+      "last_10": {
+        "ab": 7,
+        "k": 4,
+        "avg": ".143",
+        "ops": ".286",
+        "avg_num": 0.143,
+        "ops_num": 0.286
+      }
+    },
+    {
+      "id": 801307,
+      "name": "Gregory Bozzo",
+      "position": "C",
+      "level": "Low-A",
+      "level_since": "2026-04-03",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 4,
+        "k": null,
+        "avg": ".500",
+        "ops": "1.750",
+        "avg_num": 0.5,
+        "ops_num": 1.75
+      },
+      "last_10": {
+        "ab": 0,
+        "k": 0,
+        "avg": null,
+        "ops": null,
+        "avg_num": null,
+        "ops_num": null
+      }
+    },
+    {
+      "id": 694215,
+      "name": "Hans Montero",
+      "position": "3B",
+      "level": "Low-A",
+      "level_since": "2026-03-04",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 69,
+        "k": 21,
+        "avg": ".275",
+        "ops": ".840",
+        "avg_num": 0.275,
+        "ops_num": 0.84
+      },
+      "last_10": {
+        "ab": 26,
+        "k": 8,
+        "avg": ".308",
+        "ops": "1.125",
+        "avg_num": 0.308,
+        "ops_num": 1.125
+      }
+    },
+    {
+      "id": 641555,
+      "name": "J.C. Escarra",
+      "position": "C",
+      "level": "MLB",
+      "level_since": "2026-04-15",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 35,
+        "k": 10,
+        "avg": ".200",
+        "ops": ".565",
+        "avg_num": 0.2,
+        "ops_num": 0.565
+      },
+      "last_10": {
+        "ab": 16,
+        "k": 4,
+        "avg": ".250",
+        "ops": ".625",
+        "avg_num": 0.25,
+        "ops_num": 0.625
+      }
+    },
+    {
+      "id": 701778,
+      "name": "Jace Avina",
+      "position": "LF",
+      "level": "AA",
+      "level_since": "2026-02-20",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 86,
+        "k": 34,
+        "avg": ".198",
+        "ops": ".751",
+        "avg_num": 0.198,
+        "ops_num": 0.751
+      },
+      "last_10": {
+        "ab": 31,
+        "k": 10,
+        "avg": ".258",
+        "ops": "1.077",
+        "avg_num": 0.258,
+        "ops_num": 1.077
+      }
+    },
+    {
+      "id": 814431,
+      "name": "Jackson Castillo",
+      "position": "RF",
+      "level": "AA",
+      "level_since": "2026-04-02",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-02-20",
+      "season": {
+        "ab": 29,
+        "k": 4,
+        "avg": ".448",
+        "ops": "1.150",
+        "avg_num": 0.448,
+        "ops_num": 1.15
+      },
+      "last_10": {
+        "ab": 29,
+        "k": 4,
+        "avg": ".448",
+        "ops": "1.150",
+        "avg_num": 0.448,
+        "ops_num": 1.15
+      }
+    },
+    {
+      "id": 804944,
+      "name": "Jackson Lovich",
+      "position": "SS",
+      "level": "Low-A",
+      "level_since": "2026-04-03",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 70,
+        "k": 25,
+        "avg": ".243",
+        "ops": ".800",
+        "avg_num": 0.243,
+        "ops_num": 0.8
+      },
+      "last_10": {
+        "ab": 25,
+        "k": 10,
+        "avg": ".240",
+        "ops": ".761",
+        "avg_num": 0.24,
+        "ops_num": 0.761
+      }
+    },
+    {
+      "id": 691176,
+      "name": "Jasson Domínguez",
+      "position": "LF",
+      "level": "MLB",
+      "level_since": "2026-04-27",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-03-20",
+      "season": {
+        "ab": 13,
+        "k": 3,
+        "avg": ".154",
+        "ops": ".368",
+        "avg_num": 0.154,
+        "ops_num": 0.368
+      },
+      "last_10": {
+        "ab": 15,
+        "k": 3,
+        "avg": ".133",
+        "ops": ".321",
+        "avg_num": 0.133,
+        "ops_num": 0.321
+      }
+    },
+    {
+      "id": 665862,
+      "name": "Jazz Chisholm Jr.",
+      "position": "2B",
+      "level": "MLB",
+      "level_since": "2026-04-15",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 115,
+        "k": 36,
+        "avg": ".209",
+        "ops": ".625",
+        "avg_num": 0.209,
+        "ops_num": 0.625
+      },
+      "last_10": {
+        "ab": 36,
+        "k": 8,
+        "avg": ".278",
+        "ops": ".894",
+        "avg_num": 0.278,
+        "ops_num": 0.894
+      }
+    },
+    {
+      "id": 701816,
+      "name": "John Cristino",
+      "position": "C",
+      "level": "Low-A",
+      "level_since": "2026-05-02",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "last_10": {
+        "ab": 0,
+        "k": 0,
+        "avg": null,
+        "ops": null,
+        "avg_num": null,
+        "ops_num": null
+      }
+    },
+    {
+      "id": 826142,
+      "name": "JoJo Jackson",
+      "position": "OF",
+      "level": "Low-A",
+      "level_since": "2026-03-09",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 80,
+        "k": 18,
+        "avg": ".250",
+        "ops": ".759",
+        "avg_num": 0.25,
+        "ops_num": 0.759
+      },
+      "last_10": {
+        "ab": 28,
+        "k": 5,
+        "avg": ".250",
+        "ops": ".764",
+        "avg_num": 0.25,
+        "ops_num": 0.764
+      }
+    },
+    {
+      "id": 680716,
+      "name": "Jonathan Ornelas",
+      "position": "SS",
+      "level": "AAA",
+      "level_since": null,
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 60,
+        "k": 15,
+        "avg": ".350",
+        "ops": ".917",
+        "avg_num": 0.35,
+        "ops_num": 0.917
+      },
+      "last_10": {
+        "ab": 28,
+        "k": 6,
+        "avg": ".357",
+        "ops": ".843",
+        "avg_num": 0.357,
+        "ops_num": 0.843
+      }
+    },
+    {
+      "id": 694742,
+      "name": "Josh Moylan",
+      "position": "1B",
+      "level": "High-A",
+      "level_since": "2026-02-28",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 67,
+        "k": 33,
+        "avg": ".194",
+        "ops": ".646",
+        "avg_num": 0.194,
+        "ops_num": 0.646
+      },
+      "last_10": {
+        "ab": 25,
+        "k": 9,
+        "avg": ".240",
+        "ops": ".579",
+        "avg_num": 0.24,
+        "ops_num": 0.579
+      }
+    },
+    {
+      "id": 700648,
+      "name": "Josue Gonzalez",
+      "position": "C",
+      "level": "High-A",
+      "level_since": "2026-03-30",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 58,
+        "k": 19,
+        "avg": ".207",
+        "ops": ".723",
+        "avg_num": 0.207,
+        "ops_num": 0.723
+      },
+      "last_10": {
+        "ab": 26,
+        "k": 9,
+        "avg": ".231",
+        "ops": ".632",
+        "avg_num": 0.231,
+        "ops_num": 0.632
+      }
+    },
+    {
+      "id": 676609,
+      "name": "José Caballero",
+      "position": "SS",
+      "level": "MLB",
+      "level_since": "2026-04-15",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 112,
+        "k": 27,
+        "avg": ".259",
+        "ops": ".719",
+        "avg_num": 0.259,
+        "ops_num": 0.719
+      },
+      "last_10": {
+        "ab": 34,
+        "k": 5,
+        "avg": ".294",
+        "ops": ".939",
+        "avg_num": 0.294,
+        "ops_num": 0.939
+      }
+    },
+    {
+      "id": 809763,
+      "name": "Kaeden Kent",
+      "position": "SS",
+      "level": "High-A",
+      "level_since": "2026-02-20",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 95,
+        "k": 16,
+        "avg": ".347",
+        "ops": ".952",
+        "avg_num": 0.347,
+        "ops_num": 0.952
+      },
+      "last_10": {
+        "ab": 35,
+        "k": 4,
+        "avg": ".429",
+        "ops": "1.202",
+        "avg_num": 0.429,
+        "ops_num": 1.202
+      }
+    },
+    {
+      "id": 685744,
+      "name": "Kenedy Corona",
+      "position": "CF",
+      "level": "AA",
+      "level_since": "2026-03-23",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 73,
+        "k": 20,
+        "avg": ".260",
+        "ops": ".770",
+        "avg_num": 0.26,
+        "ops_num": 0.77
+      },
+      "last_10": {
+        "ab": 23,
+        "k": 7,
+        "avg": ".261",
+        "ops": ".674",
+        "avg_num": 0.261,
+        "ops_num": 0.674
+      }
+    },
+    {
+      "id": 814269,
+      "name": "Kevin Verde",
+      "position": "SS",
+      "level": "Low-A",
+      "level_since": "2026-04-03",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-03-15",
+      "season": {
+        "ab": 29,
+        "k": 11,
+        "avg": ".138",
+        "ops": ".460",
+        "avg_num": 0.138,
+        "ops_num": 0.46
+      },
+      "last_10": {
+        "ab": 19,
+        "k": 8,
+        "avg": ".211",
+        "ops": ".707",
+        "avg_num": 0.211,
+        "ops_num": 0.707
+      }
+    },
+    {
+      "id": 823918,
+      "name": "Kyle West",
+      "position": "3B",
+      "level": "High-A",
+      "level_since": "2026-03-30",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-03-20",
+      "season": {
+        "ab": 91,
+        "k": 29,
+        "avg": ".187",
+        "ops": ".531",
+        "avg_num": 0.187,
+        "ops_num": 0.531
+      },
+      "last_10": {
+        "ab": 32,
+        "k": 9,
+        "avg": ".188",
+        "ops": ".476",
+        "avg_num": 0.188,
+        "ops_num": 0.476
+      }
+    },
+    {
+      "id": 800741,
+      "name": "Logan Maxwell",
+      "position": "OF",
+      "level": "Low-A",
+      "level_since": "2026-04-03",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 49,
+        "k": 8,
+        "avg": ".245",
+        "ops": ".733",
+        "avg_num": 0.245,
+        "ops_num": 0.733
+      },
+      "last_10": {
+        "ab": 1,
+        "k": 0,
+        "avg": ".000",
+        "ops": ".500",
+        "avg_num": 0.0,
+        "ops_num": 0.5
+      }
+    },
+    {
+      "id": 691411,
+      "name": "Luis Durango",
+      "position": "LF",
+      "level": "Low-A",
+      "level_since": "2026-04-26",
+      "prior_level": "High-A",
+      "prior_level_since": "2026-04-02",
+      "season": {
+        "ab": 15,
+        "k": 1,
+        "avg": ".267",
+        "ops": ".666",
+        "avg_num": 0.267,
+        "ops_num": 0.666
+      },
+      "last_10": {
+        "ab": 20,
+        "k": 2,
+        "avg": ".250",
+        "ops": ".604",
+        "avg_num": 0.25,
+        "ops_num": 0.604
+      }
+    },
+    {
+      "id": 692633,
+      "name": "Manuel Palencia",
+      "position": "C",
+      "level": "AA",
+      "level_since": null,
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 38,
+        "k": 8,
+        "avg": ".158",
+        "ops": ".391",
+        "avg_num": 0.158,
+        "ops_num": 0.391
+      },
+      "last_10": {
+        "ab": 13,
+        "k": 1,
+        "avg": ".308",
+        "ops": ".746",
+        "avg_num": 0.308,
+        "ops_num": 0.746
+      }
+    },
+    {
+      "id": 682617,
+      "name": "Marco Luciano",
+      "position": "SS",
+      "level": "AA",
+      "level_since": "2026-03-23",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-02-05",
+      "season": {
+        "ab": 85,
+        "k": 29,
+        "avg": ".306",
+        "ops": "1.005",
+        "avg_num": 0.306,
+        "ops_num": 1.005
+      },
+      "last_10": {
+        "ab": 33,
+        "k": 13,
+        "avg": ".242",
+        "ops": ".821",
+        "avg_num": 0.242,
+        "ops_num": 0.821
+      }
+    },
+    {
+      "id": 680474,
+      "name": "Max Schuemann",
+      "position": "3B",
+      "level": "MLB",
+      "level_since": "2026-04-28",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-03-21",
+      "season": {
+        "ab": 1,
+        "k": null,
+        "avg": ".000",
+        "ops": ".500",
+        "avg_num": 0.0,
+        "ops_num": 0.5
+      },
+      "last_10": {
+        "ab": 1,
+        "k": 0,
+        "avg": ".000",
+        "ops": ".500",
+        "avg_num": 0.0,
+        "ops_num": 0.5
+      }
+    },
+    {
+      "id": 682692,
+      "name": "Miguel Palma",
+      "position": "C",
+      "level": "AA",
+      "level_since": "2026-02-05",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 33,
+        "k": 11,
+        "avg": ".152",
+        "ops": ".606",
+        "avg_num": 0.152,
+        "ops_num": 0.606
+      },
+      "last_10": {
+        "ab": 5,
+        "k": 1,
+        "avg": ".400",
+        "ops": "1.100",
+        "avg_num": 0.4,
+        "ops_num": 1.1
+      }
+    },
+    {
+      "id": 665828,
+      "name": "Oswaldo Cabrera",
+      "position": "3B",
+      "level": "MLB",
+      "level_since": "2026-03-21",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "last_10": {
+        "ab": 0,
+        "k": 0,
+        "avg": null,
+        "ops": null,
+        "avg_num": null,
+        "ops_num": null
+      }
+    },
+    {
+      "id": 686540,
+      "name": "Owen Cobb",
+      "position": "SS",
+      "level": "AA",
+      "level_since": "2026-03-30",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-03-11",
+      "season": {
+        "ab": 36,
+        "k": 7,
+        "avg": ".278",
+        "ops": ".686",
+        "avg_num": 0.278,
+        "ops_num": 0.686
+      },
+      "last_10": {
+        "ab": 15,
+        "k": 2,
+        "avg": ".267",
+        "ops": ".646",
+        "avg_num": 0.267,
+        "ops_num": 0.646
+      }
+    },
+    {
+      "id": 502671,
+      "name": "Paul Goldschmidt",
+      "position": "1B",
+      "level": "MLB",
+      "level_since": "2026-04-15",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 32,
+        "k": 8,
+        "avg": ".156",
+        "ops": ".664",
+        "avg_num": 0.156,
+        "ops_num": 0.664
+      },
+      "last_10": {
+        "ab": 9,
+        "k": 0,
+        "avg": ".222",
+        "ops": ".744",
+        "avg_num": 0.222,
+        "ops_num": 0.744
+      }
+    },
+    {
+      "id": 668721,
+      "name": "Payton Henry",
+      "position": "C",
+      "level": "AAA",
+      "level_since": null,
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 53,
+        "k": 18,
+        "avg": ".208",
+        "ops": ".745",
+        "avg_num": 0.208,
+        "ops_num": 0.745
+      },
+      "last_10": {
+        "ab": 10,
+        "k": 2,
+        "avg": ".400",
+        "ops": "1.355",
+        "avg_num": 0.4,
+        "ops_num": 1.355
+      }
+    },
+    {
+      "id": 703149,
+      "name": "Roderick Arias",
+      "position": "SS",
+      "level": "High-A",
+      "level_since": "2026-03-30",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-02-21",
+      "season": {
+        "ab": 81,
+        "k": 30,
+        "avg": ".210",
+        "ops": ".568",
+        "avg_num": 0.21,
+        "ops_num": 0.568
+      },
+      "last_10": {
+        "ab": 28,
+        "k": 11,
+        "avg": ".179",
+        "ops": ".493",
+        "avg_num": 0.179,
+        "ops_num": 0.493
+      }
+    },
+    {
+      "id": 641857,
+      "name": "Ryan McMahon",
+      "position": "3B",
+      "level": "MLB",
+      "level_since": "2026-04-15",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 76,
+        "k": 28,
+        "avg": ".171",
+        "ops": ".530",
+        "avg_num": 0.171,
+        "ops_num": 0.53
+      },
+      "last_10": {
+        "ab": 30,
+        "k": 8,
+        "avg": ".267",
+        "ops": ".700",
+        "avg_num": 0.267,
+        "ops_num": 0.7
+      }
+    },
+    {
+      "id": 801726,
+      "name": "Santiago Gomez",
+      "position": "SS",
+      "level": "Low-A",
+      "level_since": "2026-04-03",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-03-04",
+      "season": {
+        "ab": 31,
+        "k": 11,
+        "avg": ".129",
+        "ops": ".408",
+        "avg_num": 0.129,
+        "ops_num": 0.408
+      },
+      "last_10": {
+        "ab": 16,
+        "k": 5,
+        "avg": ".188",
+        "ops": ".653",
+        "avg_num": 0.188,
+        "ops_num": 0.653
+      }
+    },
+    {
+      "id": 664913,
+      "name": "Seth Brown",
+      "position": "LF",
+      "level": "AAA",
+      "level_since": "2026-04-02",
+      "prior_level": "AA",
+      "prior_level_since": "2026-03-27",
+      "season": {
+        "ab": 75,
+        "k": 27,
+        "avg": ".227",
+        "ops": ".691",
+        "avg_num": 0.227,
+        "ops_num": 0.691
+      },
+      "last_10": {
+        "ab": 25,
+        "k": 11,
+        "avg": ".200",
+        "ops": ".646",
+        "avg_num": 0.2,
+        "ops_num": 0.646
+      }
+    },
+    {
+      "id": 682987,
+      "name": "Spencer Jones",
+      "position": "CF",
+      "level": "MLB",
+      "level_since": "2026-03-09",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "last_10": {
+        "ab": 0,
+        "k": 0,
+        "avg": null,
+        "ops": null,
+        "avg_num": null,
+        "ops_num": null
+      }
+    },
+    {
+      "id": 663757,
+      "name": "Trent Grisham",
+      "position": "CF",
+      "level": "MLB",
+      "level_since": "2026-04-15",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 102,
+        "k": 22,
+        "avg": ".167",
+        "ops": ".669",
+        "avg_num": 0.167,
+        "ops_num": 0.669
+      },
+      "last_10": {
+        "ab": 36,
+        "k": 7,
+        "avg": ".167",
+        "ops": ".668",
+        "avg_num": 0.167,
+        "ops_num": 0.668
+      }
+    },
+    {
+      "id": 676205,
+      "name": "Tyler Hardman",
+      "position": "1B",
+      "level": "AA",
+      "level_since": "2026-02-20",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 82,
+        "k": 26,
+        "avg": ".280",
+        "ops": ".939",
+        "avg_num": 0.28,
+        "ops_num": 0.939
+      },
+      "last_10": {
+        "ab": 33,
+        "k": 10,
+        "avg": ".333",
+        "ops": "1.025",
+        "avg_num": 0.333,
+        "ops_num": 1.025
+      }
+    },
+    {
+      "id": 694834,
+      "name": "Tyler Wilson",
+      "position": "LF",
+      "level": "High-A",
+      "level_since": "2026-04-02",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 45,
+        "k": 7,
+        "avg": ".200",
+        "ops": ".532",
+        "avg_num": 0.2,
+        "ops_num": 0.532
+      },
+      "last_10": {
+        "ab": 9,
+        "k": 1,
+        "avg": ".222",
+        "ops": ".639",
+        "avg_num": 0.222,
+        "ops_num": 0.639
+      }
+    },
+    {
+      "id": 701206,
+      "name": "Willy Montero",
+      "position": "CF",
+      "level": "Low-A",
+      "level_since": "2026-02-28",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 81,
+        "k": 26,
+        "avg": ".198",
+        "ops": ".623",
+        "avg_num": 0.198,
+        "ops_num": 0.623
+      },
+      "last_10": {
+        "ab": 37,
+        "k": 12,
+        "avg": ".243",
+        "ops": ".715",
+        "avg_num": 0.243,
+        "ops_num": 0.715
+      }
+    },
+    {
+      "id": 815147,
+      "name": "Wilson Rodriguez",
+      "position": "CF",
+      "level": "High-A",
+      "level_since": "2026-03-30",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-02-25",
+      "season": {
+        "ab": 72,
+        "k": 19,
+        "avg": ".181",
+        "ops": ".663",
+        "avg_num": 0.181,
+        "ops_num": 0.663
+      },
+      "last_10": {
+        "ab": 29,
+        "k": 10,
+        "avg": ".241",
+        "ops": ".785",
+        "avg_num": 0.241,
+        "ops_num": 0.785
+      }
+    },
+    {
+      "id": 692585,
+      "name": "Yanquiel Fernández",
+      "position": "RF",
+      "level": "AAA",
+      "level_since": "2026-02-16",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-02-04",
+      "season": {
+        "ab": 102,
+        "k": 20,
+        "avg": ".245",
+        "ops": ".762",
+        "avg_num": 0.245,
+        "ops_num": 0.762
+      },
+      "last_10": {
+        "ab": 34,
+        "k": 4,
+        "avg": ".265",
+        "ops": ".639",
+        "avg_num": 0.265,
+        "ops_num": 0.639
+      }
+    }
+  ]
+}

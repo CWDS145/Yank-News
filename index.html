@@ -112,8 +112,49 @@ footer{
 }
 footer a{color:var(--navy);text-decoration:none;font-weight:500}
 footer a:hover{text-decoration:underline}
+.data-section{
+  background:rgba(255,255,255,0.94);
+  backdrop-filter:blur(6px);
+  -webkit-backdrop-filter:blur(6px);
+  border:1px solid rgba(255,255,255,0.4);
+  border-radius:12px;
+  padding:22px 24px;
+  color:#111;
+  box-shadow:0 4px 16px rgba(0,0,0,0.06);
+}
+.section-head{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:14px;flex-wrap:wrap}
+.section-head h2{margin:0;color:var(--navy);font-size:22px;font-weight:700;letter-spacing:0.01em}
+.section-sub{font-size:13px;color:var(--gray);margin-top:4px}
+.refresh-btn{background:var(--navy);color:#fff;border:none;padding:7px 14px;border-radius:6px;cursor:pointer;font:inherit;font-size:13px;font-weight:500}
+.refresh-btn:hover{background:#1a3a64}
+.refresh-btn.loading{opacity:0.6;cursor:wait}
+.tx-group{margin-bottom:12px}
+.tx-group:last-child{margin-bottom:0}
+.tx-group h3{font-size:11px;color:var(--gray);margin:0 0 6px;font-weight:600;text-transform:uppercase;letter-spacing:0.5px}
+.tx-group ul{list-style:none;padding:0;margin:0}
+.tx-group li{padding:3px 0;font-size:13.5px;line-height:1.45}
+.tx-type{color:var(--navy);font-weight:600}
+.empty{padding:14px 0;color:var(--gray);font-style:italic;text-align:center}
+.controls{display:flex;flex-wrap:wrap;gap:10px 12px;align-items:center;margin-bottom:12px;font-size:13px}
+.ctrl-label{display:flex;gap:6px;align-items:center;color:var(--gray);white-space:nowrap}
+.ctrl-label input[type=number]{width:62px;border:1px solid #e5e5e5;border-radius:4px;padding:4px 6px;font:inherit;font-size:13px;background:#fff}
+input[type=search].search{flex:1;min-width:140px;border:1px solid #e5e5e5;border-radius:4px;padding:5px 9px;font:inherit;font-size:13px;background:#fff}
+.chips{display:flex;gap:4px;flex-wrap:wrap}
+.level-chip{background:#f3f4f6;border:1px solid #e5e5e5;padding:4px 10px;border-radius:999px;font:inherit;font-size:12px;cursor:pointer;color:#111}
+.level-chip[aria-pressed=true]{background:var(--navy);color:#fff;border-color:var(--navy)}
+.ctrl-count{color:var(--gray);font-size:12px;margin-left:auto;white-space:nowrap}
+.table-wrap{overflow-x:auto;border:1px solid #e5e5e5;border-radius:6px}
+table.hitters{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums;font-size:12.5px}
+table.hitters th,table.hitters td{padding:6px 8px;text-align:right;border-bottom:1px solid #e5e5e5;white-space:nowrap}
+table.hitters th:nth-child(-n+3),table.hitters td:nth-child(-n+3),table.hitters th:nth-child(13),table.hitters td:nth-child(13){text-align:left}
+table.hitters thead th{background:#fafafa;font-weight:600;color:var(--gray);font-size:11px;text-transform:uppercase;letter-spacing:0.3px;position:sticky;top:0}
+table.hitters thead th button{background:none;border:none;color:inherit;font:inherit;padding:0;cursor:pointer;text-align:inherit}
+table.hitters thead th button:hover{color:var(--navy)}
+table.hitters thead th button[data-sort=desc]::after{content:" ▼"}
+table.hitters thead th button[data-sort=asc]::after{content:" ▲"}
+table.hitters tbody tr:hover{background:#fafafa}
 @media (max-width:1024px){.grid{grid-template-columns:repeat(2,1fr)}}
-@media (max-width:640px){.grid{grid-template-columns:1fr}.wrap{padding:32px 16px 24px;gap:32px}}
+@media (max-width:640px){.grid{grid-template-columns:1fr}.wrap{padding:32px 16px 24px;gap:32px}.data-section{padding:18px}.section-head{flex-direction:column;align-items:stretch}.controls{font-size:12px}}
 @media (max-width:767px){body{background-attachment:scroll}}
 </style>
 </head>
@@ -131,10 +172,236 @@ footer a:hover{text-decoration:underline}
     <a class="tile" href="app/#sources"><h2>Data Sources</h2><p>Health, scrape log, force refresh</p></a>
     <a class="tile" href="app/"><h2>Full Dashboard</h2><p>Open the full app</p></a>
   </nav>
+  <section class="data-section" id="tx-section">
+    <div class="section-head">
+      <div>
+        <h2>Transactions</h2>
+        <div class="section-sub">Last 7 days · org-wide</div>
+      </div>
+      <button id="refresh-data" class="refresh-btn" type="button">Refresh data</button>
+    </div>
+    <div id="tx-body">Loading…</div>
+  </section>
+  <section class="data-section" id="hitters-section">
+    <div class="section-head">
+      <div>
+        <h2>Org-Wide Hitters</h2>
+        <div class="section-sub">MLB through Low-A · last 10 days vs season</div>
+      </div>
+    </div>
+    <div class="controls">
+      <label class="ctrl-label">Min AB (last 10) <input type="number" id="min-ab" min="0" value="5"></label>
+      <input type="search" class="search" id="search" placeholder="Filter by name…" aria-label="Filter by name">
+      <div class="chips" role="group" aria-label="Filter by level">
+        <button class="level-chip" data-level="all" aria-pressed="true">All</button>
+        <button class="level-chip" data-level="MLB" aria-pressed="false">MLB</button>
+        <button class="level-chip" data-level="AAA" aria-pressed="false">AAA</button>
+        <button class="level-chip" data-level="AA" aria-pressed="false">AA</button>
+        <button class="level-chip" data-level="High-A" aria-pressed="false">High-A</button>
+        <button class="level-chip" data-level="Low-A" aria-pressed="false">Low-A</button>
+      </div>
+      <span id="result-count" class="ctrl-count">— of —</span>
+    </div>
+    <div class="table-wrap">
+      <table class="hitters">
+        <thead><tr>
+          <th><button data-sort-col="player">Player</button></th>
+          <th><button data-sort-col="pos">Pos</button></th>
+          <th><button data-sort-col="level">Level</button></th>
+          <th><button data-sort-col="l10_ab">L10 AB</button></th>
+          <th><button data-sort-col="l10_k">L10 K</button></th>
+          <th><button data-sort-col="l10_avg" data-sort="desc">L10 BA</button></th>
+          <th><button data-sort-col="l10_ops">L10 OPS</button></th>
+          <th><button data-sort-col="s_ab">Season AB</button></th>
+          <th><button data-sort-col="s_k">Season K</button></th>
+          <th><button data-sort-col="s_avg">Season BA</button></th>
+          <th><button data-sort-col="s_ops">Season OPS</button></th>
+          <th><button data-sort-col="level_since">Lvl Since</button></th>
+          <th><button data-sort-col="prior_level">Prior Lvl</button></th>
+          <th><button data-sort-col="prior_since">Prior Since</button></th>
+        </tr></thead>
+        <tbody id="hitters-body"><tr><td colspan="14" class="empty">Loading…</td></tr></tbody>
+      </table>
+    </div>
+  </section>
 </div>
 <footer>
   <span>Yank News · open source</span>
   <a href="https://github.com/cwds145/Yank-News" target="_blank" rel="noopener noreferrer">GitHub repo</a>
 </footer>
+<script>
+"use strict";
+const D = { hitters: [], tx: [] };
+const F = { minAB: 5, search: "", levels: new Set() };
+const ST = { col: "l10_avg", dir: "desc" };
+const LEVEL_RANK = { MLB: 0, AAA: 1, AA: 2, "High-A": 3, "Low-A": 4 };
+const SORT = {
+  player: h => (h.name||"").toLowerCase(),
+  pos: h => (h.position||"").toLowerCase(),
+  level: h => LEVEL_RANK[h.level] ?? 99,
+  l10_ab: h => (h.last_10 && h.last_10.ab) ?? -1,
+  l10_k:  h => (h.last_10 && h.last_10.k)  ?? -1,
+  l10_avg:h => (h.last_10 && h.last_10.avg_num) ?? -1,
+  l10_ops:h => (h.last_10 && h.last_10.ops_num) ?? -1,
+  s_ab: h => (h.season && h.season.ab) ?? -1,
+  s_k:  h => (h.season && h.season.k)  ?? -1,
+  s_avg:h => (h.season && h.season.avg_num) ?? -1,
+  s_ops:h => (h.season && h.season.ops_num) ?? -1,
+  level_since: h => h.level_since || "",
+  prior_level: h => (h.prior_level||"").toLowerCase(),
+  prior_since: h => h.prior_level_since || "",
+};
+const $ = s => document.querySelector(s);
+const $$ = s => Array.from(document.querySelectorAll(s));
+function esc(s){ if(s==null) return ""; return String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+function fmt(v){ return (v==null||v==="") ? "—" : String(v); }
+function fmtDate(iso){ if(!iso) return "—"; try { return new Date(iso+"T12:00:00Z").toLocaleDateString("en-US",{weekday:"short",month:"short",day:"numeric"}); } catch(_){ return iso; } }
+
+async function fetchJson(url){
+  try {
+    const r = await fetch(url + "?t=" + Date.now(), { cache: "no-store" });
+    if (!r.ok) throw new Error("http " + r.status);
+    return await r.json();
+  } catch (e) { console.warn("fetch failed", url, e.message); return null; }
+}
+
+async function fetchAll(){
+  const [h, t] = await Promise.all([
+    fetchJson("data/org-hitters.json"),
+    fetchJson("data/org-transactions.json"),
+  ]);
+  D.hitters = (h && h.hitters) || [];
+  D.tx = (t && t.items) || [];
+}
+
+function renderTransactions(){
+  const cutoff = new Date(); cutoff.setDate(cutoff.getDate() - 7);
+  const cutoffISO = cutoff.toISOString().slice(0, 10);
+  const recent = D.tx.filter(t => (t.date || "") >= cutoffISO);
+  if (!recent.length) {
+    $("#tx-body").innerHTML = '<div class="empty">No transactions in the last 7 days.</div>';
+    return;
+  }
+  const byDate = {};
+  for (const t of recent) (byDate[t.date] ||= []).push(t);
+  const dates = Object.keys(byDate).sort().reverse();
+  let html = "";
+  for (const d of dates) {
+    html += '<div class="tx-group"><h3>' + esc(fmtDate(d)) + '</h3><ul>';
+    for (const t of byDate[d]) {
+      const arrow = t.from ? esc(t.from) + " → " + esc(t.to||"—") : esc(t.to||"—");
+      html += '<li><span class="tx-type">' + esc(t.type_desc||"") + '</span>: '
+        + '<strong>' + esc(t.player||"") + '</strong> — ' + arrow + '</li>';
+    }
+    html += '</ul></div>';
+  }
+  $("#tx-body").innerHTML = html;
+}
+
+function applyFilters(){
+  let rows = D.hitters;
+  if (F.minAB > 0) rows = rows.filter(h => h.last_10 && h.last_10.ab != null && h.last_10.ab >= F.minAB);
+  if (F.search) {
+    const q = F.search.toLowerCase();
+    rows = rows.filter(h => (h.name||"").toLowerCase().includes(q));
+  }
+  if (F.levels.size > 0) rows = rows.filter(h => F.levels.has(h.level));
+  return rows;
+}
+
+function applySort(rows){
+  const key = SORT[ST.col];
+  return [...rows].sort((a, b) => {
+    let va = key(a), vb = key(b);
+    let cmp = (typeof va === "string") ? va.localeCompare(vb) : (va - vb);
+    if (ST.dir === "desc") cmp = -cmp;
+    if (cmp === 0 && ST.col === "l10_avg") {
+      cmp = ((b.last_10 && b.last_10.ab) ?? -1) - ((a.last_10 && a.last_10.ab) ?? -1);
+    }
+    return cmp;
+  });
+}
+
+function renderHitters(){
+  const filtered = applyFilters();
+  const sorted = applySort(filtered);
+  $("#result-count").textContent = sorted.length + " of " + D.hitters.length + " hitters";
+  const body = $("#hitters-body");
+  if (!sorted.length) {
+    body.innerHTML = '<tr><td colspan="14" class="empty">No hitters match. Adjust filters.</td></tr>';
+    return;
+  }
+  body.innerHTML = sorted.map(h => {
+    const l = h.last_10 || {}, s = h.season || {};
+    return '<tr>'
+      + '<td>' + esc(h.name||"—") + '</td>'
+      + '<td>' + esc(h.position||"—") + '</td>'
+      + '<td>' + esc(h.level||"—") + '</td>'
+      + '<td>' + fmt(l.ab) + '</td>'
+      + '<td>' + fmt(l.k) + '</td>'
+      + '<td>' + fmt(l.avg) + '</td>'
+      + '<td>' + fmt(l.ops) + '</td>'
+      + '<td>' + fmt(s.ab) + '</td>'
+      + '<td>' + fmt(s.k) + '</td>'
+      + '<td>' + fmt(s.avg) + '</td>'
+      + '<td>' + fmt(s.ops) + '</td>'
+      + '<td>' + fmt(h.level_since) + '</td>'
+      + '<td>' + esc(h.prior_level || "—") + '</td>'
+      + '<td>' + fmt(h.prior_level_since) + '</td>'
+      + '</tr>';
+  }).join("");
+  $$("th button[data-sort-col]").forEach(b => {
+    b.dataset.sort = (b.dataset.sortCol === ST.col) ? ST.dir : "";
+  });
+}
+
+function updateChips(){
+  $$(".level-chip").forEach(c => {
+    const lvl = c.dataset.level;
+    const active = (lvl === "all" && F.levels.size === 0) || F.levels.has(lvl);
+    c.setAttribute("aria-pressed", active);
+  });
+}
+
+async function refresh(){
+  const btn = $("#refresh-data");
+  btn.classList.add("loading"); btn.disabled = true; btn.textContent = "Refreshing…";
+  try { await fetchAll(); renderTransactions(); renderHitters(); }
+  finally { btn.classList.remove("loading"); btn.disabled = false; btn.textContent = "Refresh data"; }
+}
+
+function attachEvents(){
+  $("#min-ab").addEventListener("input", e => {
+    F.minAB = parseInt(e.target.value) || 0; renderHitters();
+  });
+  let searchT;
+  $("#search").addEventListener("input", e => {
+    clearTimeout(searchT);
+    const v = e.target.value;
+    searchT = setTimeout(() => { F.search = v; renderHitters(); }, 200);
+  });
+  $$(".level-chip").forEach(c => c.addEventListener("click", () => {
+    const lvl = c.dataset.level;
+    if (lvl === "all") F.levels.clear();
+    else if (F.levels.has(lvl)) F.levels.delete(lvl);
+    else F.levels.add(lvl);
+    updateChips(); renderHitters();
+  }));
+  $$("th button[data-sort-col]").forEach(btn => btn.addEventListener("click", () => {
+    const col = btn.dataset.sortCol;
+    if (ST.col === col) ST.dir = (ST.dir === "desc") ? "asc" : "desc";
+    else { ST.col = col; ST.dir = "desc"; }
+    renderHitters();
+  }));
+  $("#refresh-data").addEventListener("click", refresh);
+}
+
+(async function init(){
+  attachEvents();
+  await fetchAll();
+  renderTransactions();
+  renderHitters();
+})();
+</script>
 </body>
 </html>
