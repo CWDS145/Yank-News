@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T20:26:12Z",
+  "updated": "2026-05-03T21:28:39Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-04-23",
@@ -14,20 +14,20 @@
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 120,
+        "ab": 121,
         "k": 42,
-        "avg": ".258",
-        "ops": "1.024",
-        "avg_num": 0.258,
-        "ops_num": 1.024
+        "avg": ".264",
+        "ops": "1.031",
+        "avg_num": 0.264,
+        "ops_num": 1.031
       },
       "last_10": {
-        "ab": 33,
+        "ab": 34,
         "k": 13,
-        "avg": ".303",
-        "ops": "1.216",
-        "avg_num": 0.303,
-        "ops_num": 1.216
+        "avg": ".324",
+        "ops": "1.235",
+        "avg_num": 0.324,
+        "ops_num": 1.235
       }
     },
     {
@@ -132,20 +132,20 @@
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 77,
+        "ab": 79,
         "k": 18,
-        "avg": ".195",
-        "ops": ".655",
-        "avg_num": 0.195,
-        "ops_num": 0.655
+        "avg": ".203",
+        "ops": ".662",
+        "avg_num": 0.203,
+        "ops_num": 0.662
       },
       "last_10": {
-        "ab": 20,
+        "ab": 22,
         "k": 5,
-        "avg": ".250",
-        "ops": ".898",
-        "avg_num": 0.25,
-        "ops_num": 0.898
+        "avg": ".273",
+        "ops": ".905",
+        "avg_num": 0.273,
+        "ops_num": 0.905
       }
     },
     {
@@ -285,17 +285,17 @@
         "ab": 120,
         "k": 20,
         "avg": ".275",
-        "ops": ".852",
+        "ops": ".856",
         "avg_num": 0.275,
-        "ops_num": 0.852
+        "ops_num": 0.856
       },
       "last_10": {
         "ab": 37,
         "k": 7,
         "avg": ".297",
-        "ops": ".961",
+        "ops": ".976",
         "avg_num": 0.297,
-        "ops_num": 0.961
+        "ops_num": 0.976
       }
     },
     {
@@ -850,20 +850,20 @@
       "prior_level": "AAA",
       "prior_level_since": "2026-03-20",
       "season": {
-        "ab": 16,
+        "ab": 18,
         "k": 3,
-        "avg": ".188",
-        "ops": ".485",
-        "avg_num": 0.188,
-        "ops_num": 0.485
+        "avg": ".278",
+        "ops": ".872",
+        "avg_num": 0.278,
+        "ops_num": 0.872
       },
       "last_10": {
-        "ab": 16,
+        "ab": 18,
         "k": 3,
-        "avg": ".188",
-        "ops": ".485",
-        "avg_num": 0.188,
-        "ops_num": 0.485
+        "avg": ".278",
+        "ops": ".872",
+        "avg_num": 0.278,
+        "ops_num": 0.872
       }
     },
     {
@@ -875,20 +875,20 @@
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 117,
+        "ab": 118,
         "k": 36,
-        "avg": ".205",
-        "ops": ".620",
-        "avg_num": 0.205,
-        "ops_num": 0.62
+        "avg": ".212",
+        "ops": ".630",
+        "avg_num": 0.212,
+        "ops_num": 0.63
       },
       "last_10": {
-        "ab": 36,
+        "ab": 37,
         "k": 8,
-        "avg": ".278",
-        "ops": ".894",
-        "avg_num": 0.278,
-        "ops_num": 0.894
+        "avg": ".297",
+        "ops": ".913",
+        "avg_num": 0.297,
+        "ops_num": 0.913
       }
     },
     {
@@ -1018,20 +1018,20 @@
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 115,
+        "ab": 116,
         "k": 27,
-        "avg": ".252",
-        "ops": ".701",
-        "avg_num": 0.252,
-        "ops_num": 0.701
+        "avg": ".259",
+        "ops": ".711",
+        "avg_num": 0.259,
+        "ops_num": 0.711
       },
       "last_10": {
-        "ab": 35,
+        "ab": 36,
         "k": 5,
-        "avg": ".286",
-        "ops": ".913",
-        "avg_num": 0.286,
-        "ops_num": 0.913
+        "avg": ".306",
+        "ops": ".942",
+        "avg_num": 0.306,
+        "ops_num": 0.942
       }
     },
     {
@@ -1336,20 +1336,20 @@
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 34,
+        "ab": 35,
         "k": 8,
-        "avg": ".147",
-        "ops": ".628",
-        "avg_num": 0.147,
-        "ops_num": 0.628
+        "avg": ".171",
+        "ops": ".664",
+        "avg_num": 0.171,
+        "ops_num": 0.664
       },
       "last_10": {
-        "ab": 10,
+        "ab": 11,
         "k": 0,
-        "avg": ".200",
-        "ops": ".673",
-        "avg_num": 0.2,
-        "ops_num": 0.673
+        "avg": ".273",
+        "ops": ".788",
+        "avg_num": 0.273,
+        "ops_num": 0.788
       }
     },
     {
@@ -1411,20 +1411,20 @@
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 79,
+        "ab": 80,
         "k": 28,
-        "avg": ".190",
-        "ops": ".572",
-        "avg_num": 0.19,
-        "ops_num": 0.572
+        "avg": ".200",
+        "ops": ".589",
+        "avg_num": 0.2,
+        "ops_num": 0.589
       },
       "last_10": {
-        "ab": 31,
+        "ab": 32,
         "k": 8,
-        "avg": ".290",
-        "ops": ".742",
-        "avg_num": 0.29,
-        "ops_num": 0.742
+        "avg": ".313",
+        "ops": ".782",
+        "avg_num": 0.313,
+        "ops_num": 0.782
       }
     },
     {
@@ -1507,17 +1507,17 @@
         "ab": 105,
         "k": 22,
         "avg": ".162",
-        "ops": ".651",
+        "ops": ".649",
         "avg_num": 0.162,
-        "ops_num": 0.651
+        "ops_num": 0.649
       },
       "last_10": {
         "ab": 37,
         "k": 7,
         "avg": ".162",
-        "ops": ".651",
+        "ops": ".645",
         "avg_num": 0.162,
-        "ops_num": 0.651
+        "ops_num": 0.645
       }
     },
     {
