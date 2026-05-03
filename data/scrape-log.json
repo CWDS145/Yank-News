@@ -215,6 +215,286 @@
       "status": 200,
       "items": 30,
       "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T14:57:24Z",
+      "source": "MLB StatsAPI: team",
+      "url": "https://statsapi.mlb.com/api/v1/teams/147?hydrate=record(type=regularSeason),league,division",
+      "status": 200,
+      "items": 1,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T14:57:24Z",
+      "source": "MLB StatsAPI: standings",
+      "url": "https://statsapi.mlb.com/api/v1/standings?leagueId=103&season=2026&standingsTypes=regularSeason",
+      "status": 200,
+      "items": 1,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T14:57:24Z",
+      "source": "MLB StatsAPI: roster 40Man",
+      "url": "https://statsapi.mlb.com/api/v1/teams/147/roster?rosterType=40Man&season=2026",
+      "status": 200,
+      "items": 38,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T14:57:25Z",
+      "source": "MLB StatsAPI: roster active",
+      "url": "https://statsapi.mlb.com/api/v1/teams/147/roster?rosterType=active&season=2026",
+      "status": 200,
+      "items": 26,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T14:57:25Z",
+      "source": "MLB StatsAPI: roster fullSeason",
+      "url": "https://statsapi.mlb.com/api/v1/teams/147/roster?rosterType=fullSeason&season=2026",
+      "status": 200,
+      "items": 31,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T14:57:25Z",
+      "source": "MLB StatsAPI: schedule",
+      "url": "https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=147&startDate=2026-04-26&endDate=2026-05-10",
+      "status": 200,
+      "items": 14,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T14:57:25Z",
+      "source": "MLB StatsAPI: team batting",
+      "url": "https://statsapi.mlb.com/api/v1/teams/stats?season=2026&stats=season&group=hitting&teamId=147",
+      "status": 200,
+      "items": 1,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T14:57:25Z",
+      "source": "MLB StatsAPI: team pitching",
+      "url": "https://statsapi.mlb.com/api/v1/teams/stats?season=2026&stats=season&group=pitching&teamId=147",
+      "status": 200,
+      "items": 1,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T14:57:29Z",
+      "source": "MLB StatsAPI: player stats",
+      "url": "<bulk>",
+      "status": 200,
+      "items": 30,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T14:57:29Z",
+      "source": "Baseball Savant: expected_batting",
+      "url": "https://baseballsavant.mlb.com/leaderboard/expected_statistics?type=batter&year=2026&team=147&csv=true",
+      "status": 200,
+      "items": 9,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T14:57:29Z",
+      "source": "Baseball Savant: expected_pitching",
+      "url": "https://baseballsavant.mlb.com/leaderboard/expected_statistics?type=pitcher&year=2026&team=147&csv=true",
+      "status": 200,
+      "items": 13,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T14:57:29Z",
+      "source": "Baseball Savant: statcast_batting",
+      "url": "https://baseballsavant.mlb.com/leaderboard/statcast?type=batter&year=2026&team=147&min=q&csv=true",
+      "status": 200,
+      "items": 9,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T14:57:30Z",
+      "source": "Baseball Savant: sprint_speed",
+      "url": "https://baseballsavant.mlb.com/sprint_speed_leaderboard?year=2026&team=147&min_year=2026&min_opp=10&min_pa=10&csv=true",
+      "status": 200,
+      "items": 381,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T14:59:57Z",
+      "source": "MLB StatsAPI: team",
+      "url": "https://statsapi.mlb.com/api/v1/teams/147?hydrate=record(type=regularSeason),league,division",
+      "status": 200,
+      "items": 1,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T14:59:57Z",
+      "source": "MLB StatsAPI: standings",
+      "url": "https://statsapi.mlb.com/api/v1/standings?leagueId=103&season=2026&standingsTypes=regularSeason",
+      "status": 200,
+      "items": 1,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T14:59:57Z",
+      "source": "MLB StatsAPI: roster 40Man",
+      "url": "https://statsapi.mlb.com/api/v1/teams/147/roster?rosterType=40Man&season=2026",
+      "status": 200,
+      "items": 38,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T14:59:57Z",
+      "source": "MLB StatsAPI: roster active",
+      "url": "https://statsapi.mlb.com/api/v1/teams/147/roster?rosterType=active&season=2026",
+      "status": 200,
+      "items": 26,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T14:59:57Z",
+      "source": "MLB StatsAPI: roster fullSeason",
+      "url": "https://statsapi.mlb.com/api/v1/teams/147/roster?rosterType=fullSeason&season=2026",
+      "status": 200,
+      "items": 31,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T14:59:57Z",
+      "source": "MLB StatsAPI: schedule",
+      "url": "https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=147&startDate=2026-04-26&endDate=2026-05-10",
+      "status": 200,
+      "items": 14,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T14:59:57Z",
+      "source": "MLB StatsAPI: team batting",
+      "url": "https://statsapi.mlb.com/api/v1/teams/stats?season=2026&stats=season&group=hitting&teamId=147",
+      "status": 200,
+      "items": 1,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T14:59:58Z",
+      "source": "MLB StatsAPI: team pitching",
+      "url": "https://statsapi.mlb.com/api/v1/teams/stats?season=2026&stats=season&group=pitching&teamId=147",
+      "status": 200,
+      "items": 1,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T15:00:01Z",
+      "source": "MLB StatsAPI: player stats",
+      "url": "<bulk>",
+      "status": 200,
+      "items": 30,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T15:00:02Z",
+      "source": "Baseball Savant: expected_batting",
+      "url": "https://baseballsavant.mlb.com/leaderboard/expected_statistics?type=batter&year=2026&team=147&csv=true",
+      "status": 200,
+      "items": 9,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T15:00:02Z",
+      "source": "Baseball Savant: expected_pitching",
+      "url": "https://baseballsavant.mlb.com/leaderboard/expected_statistics?type=pitcher&year=2026&team=147&csv=true",
+      "status": 200,
+      "items": 13,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T15:00:02Z",
+      "source": "Baseball Savant: statcast_batting",
+      "url": "https://baseballsavant.mlb.com/leaderboard/statcast?type=batter&year=2026&team=147&min=q&csv=true",
+      "status": 200,
+      "items": 9,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T15:00:02Z",
+      "source": "Baseball Savant: sprint_speed",
+      "url": "https://baseballsavant.mlb.com/sprint_speed_leaderboard?year=2026&team=147&min_year=2026&min_opp=10&min_pa=10&csv=true",
+      "status": 200,
+      "items": 13,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T15:01:09Z",
+      "source": "MLB StatsAPI: team",
+      "url": "https://statsapi.mlb.com/api/v1/teams/147?hydrate=record(type=regularSeason),league,division",
+      "status": 200,
+      "items": 1,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T15:01:09Z",
+      "source": "MLB StatsAPI: standings",
+      "url": "https://statsapi.mlb.com/api/v1/standings?leagueId=103&season=2026&standingsTypes=regularSeason",
+      "status": 200,
+      "items": 1,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T15:01:09Z",
+      "source": "MLB StatsAPI: roster 40Man",
+      "url": "https://statsapi.mlb.com/api/v1/teams/147/roster?rosterType=40Man&season=2026",
+      "status": 200,
+      "items": 38,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T15:01:09Z",
+      "source": "MLB StatsAPI: roster active",
+      "url": "https://statsapi.mlb.com/api/v1/teams/147/roster?rosterType=active&season=2026",
+      "status": 200,
+      "items": 26,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T15:01:09Z",
+      "source": "MLB StatsAPI: roster fullSeason",
+      "url": "https://statsapi.mlb.com/api/v1/teams/147/roster?rosterType=fullSeason&season=2026",
+      "status": 200,
+      "items": 31,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T15:01:09Z",
+      "source": "MLB StatsAPI: schedule",
+      "url": "https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=147&startDate=2026-04-26&endDate=2026-05-10",
+      "status": 200,
+      "items": 14,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T15:01:09Z",
+      "source": "MLB StatsAPI: team batting",
+      "url": "https://statsapi.mlb.com/api/v1/teams/stats?season=2026&stats=season&group=hitting&teamId=147",
+      "status": 200,
+      "items": 1,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T15:01:09Z",
+      "source": "MLB StatsAPI: team pitching",
+      "url": "https://statsapi.mlb.com/api/v1/teams/stats?season=2026&stats=season&group=pitching&teamId=147",
+      "status": 200,
+      "items": 1,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T15:01:13Z",
+      "source": "MLB StatsAPI: player stats",
+      "url": "<bulk>",
+      "status": 200,
+      "items": 30,
+      "note": "ok"
     }
   ]
 }
