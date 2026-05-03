@@ -1,13 +1,7 @@
 {
-  "updated": "2026-05-03T14:36:31Z",
+  "updated": "2026-05-03T14:48:49Z",
   "count": 37,
   "items": [
-    {
-      "date": "2026-05-01",
-      "type": "",
-      "player": "Paul DeJong",
-      "description": "Declared Free Agency"
-    },
     {
       "date": "2026-05-01",
       "type": "",
@@ -15,16 +9,22 @@
       "description": "Refused Minor League Assignment - Free Agent"
     },
     {
-      "date": "2026-04-29",
-      "type": "called up",
-      "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors"
+      "date": "2026-05-01",
+      "type": "",
+      "player": "Paul DeJong",
+      "description": "Declared Free Agency"
     },
     {
       "date": "2026-04-29",
       "type": "designated",
       "player": "Randal Grichuk",
       "description": "Designated for Assignment"
+    },
+    {
+      "date": "2026-04-29",
+      "type": "called up",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-04-28",
@@ -101,20 +101,14 @@
     {
       "date": "2026-04-14",
       "type": "sent",
-      "player": "Yerry De Los Santos",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-04-14",
-      "type": "sent",
       "player": "Anthony Volpe",
       "description": "Sent to Minors For Rehabilitation"
     },
     {
-      "date": "2026-04-13",
-      "type": "",
-      "player": "Cade Winquest",
-      "description": "Drafted Player Returned to Minors"
+      "date": "2026-04-14",
+      "type": "sent",
+      "player": "Yerry De Los Santos",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-04-13",
@@ -123,10 +117,10 @@
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-04-10",
-      "type": "called up",
-      "player": "Luis Gil",
-      "description": "Called Up from Minors"
+      "date": "2026-04-13",
+      "type": "",
+      "player": "Cade Winquest",
+      "description": "Drafted Player Returned to Minors"
     },
     {
       "date": "2026-04-10",
@@ -135,22 +129,16 @@
       "description": "Designated for Assignment"
     },
     {
+      "date": "2026-04-10",
+      "type": "called up",
+      "player": "Luis Gil",
+      "description": "Called Up from Minors"
+    },
+    {
       "date": "2026-03-27",
       "type": "signed",
       "player": "Luis Garcia",
       "description": "Signed to a Minor League Contract"
-    },
-    {
-      "date": "2026-03-25",
-      "type": "placed",
-      "player": "Anthony Volpe",
-      "description": "Placed on 10-Day IL (Recovery from left labrum surgery)"
-    },
-    {
-      "date": "2026-03-25",
-      "type": "placed",
-      "player": "Gerrit Cole",
-      "description": "Placed on 15-Day IL (Recovery from right elbow surgery)"
     },
     {
       "date": "2026-03-25",
@@ -165,6 +153,18 @@
       "description": "Purchased From Minors"
     },
     {
+      "date": "2026-03-25",
+      "type": "placed",
+      "player": "Gerrit Cole",
+      "description": "Placed on 15-Day IL (Recovery from right elbow surgery)"
+    },
+    {
+      "date": "2026-03-25",
+      "type": "placed",
+      "player": "Anthony Volpe",
+      "description": "Placed on 10-Day IL (Recovery from left labrum surgery)"
+    },
+    {
       "date": "2026-03-24",
       "type": "sent",
       "player": "Luis Gil",
@@ -173,13 +173,13 @@
     {
       "date": "2026-03-21",
       "type": "sent",
-      "player": "Max Schuemann",
+      "player": "Oswaldo Cabrera",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-03-21",
       "type": "sent",
-      "player": "Oswaldo Cabrera",
+      "player": "Max Schuemann",
       "description": "Sent to Minors"
     },
     {
@@ -209,13 +209,13 @@
     {
       "date": "2026-03-09",
       "type": "sent",
-      "player": "Elmer Rodriguez",
+      "player": "Spencer Jones",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-03-09",
       "type": "sent",
-      "player": "Spencer Jones",
+      "player": "Elmer Rodriguez",
       "description": "Sent to Minors"
     },
     {
