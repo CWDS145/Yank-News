@@ -2055,6 +2055,118 @@
       "status": 200,
       "items": 66,
       "note": "players needing prior_level fallback"
+    },
+    {
+      "timestamp": "2026-05-03T19:50:54Z",
+      "source": "MLB byDateRange: MLB",
+      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=byDateRange&group=hitting&sportId={sid}",
+      "status": 200,
+      "items": 17,
+      "note": "ok=17/17 window=2026-04-23..2026-05-03"
+    },
+    {
+      "timestamp": "2026-05-03T19:50:54Z",
+      "source": "MLB byDateRange: AAA",
+      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=byDateRange&group=hitting&sportId={sid}",
+      "status": 200,
+      "items": 10,
+      "note": "ok=10/10 window=2026-04-23..2026-05-03"
+    },
+    {
+      "timestamp": "2026-05-03T19:50:54Z",
+      "source": "MLB byDateRange: AA",
+      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=byDateRange&group=hitting&sportId={sid}",
+      "status": 200,
+      "items": 12,
+      "note": "ok=12/12 window=2026-04-23..2026-05-03"
+    },
+    {
+      "timestamp": "2026-05-03T19:50:54Z",
+      "source": "MLB byDateRange: High-A",
+      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=byDateRange&group=hitting&sportId={sid}",
+      "status": 200,
+      "items": 13,
+      "note": "ok=13/13 window=2026-04-23..2026-05-03"
+    },
+    {
+      "timestamp": "2026-05-03T19:50:54Z",
+      "source": "MLB byDateRange: Low-A",
+      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=byDateRange&group=hitting&sportId={sid}",
+      "status": 200,
+      "items": 15,
+      "note": "ok=15/15 window=2026-04-23..2026-05-03"
+    },
+    {
+      "timestamp": "2026-05-03T19:50:55Z",
+      "source": "MLB Transactions org",
+      "url": "https://statsapi.mlb.com/api/v1/transactions?teamId=147&startDate=2026-04-03&endDate=2026-05-03",
+      "status": 200,
+      "items": 88,
+      "note": "window 2026-04-03..2026-05-03"
+    },
+    {
+      "timestamp": "2026-05-03T19:52:29Z",
+      "source": "MLB personId fallback",
+      "url": "<bulk>",
+      "status": 200,
+      "items": 66,
+      "note": "players needing prior_level fallback"
+    },
+    {
+      "timestamp": "2026-05-03T19:54:14Z",
+      "source": "MLB byDateRange: MLB",
+      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=byDateRange&group=hitting&sportId={sid}",
+      "status": 200,
+      "items": 17,
+      "note": "ok=17/17 window=2026-04-23..2026-05-03"
+    },
+    {
+      "timestamp": "2026-05-03T19:54:14Z",
+      "source": "MLB byDateRange: AAA",
+      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=byDateRange&group=hitting&sportId={sid}",
+      "status": 200,
+      "items": 10,
+      "note": "ok=10/10 window=2026-04-23..2026-05-03"
+    },
+    {
+      "timestamp": "2026-05-03T19:54:14Z",
+      "source": "MLB byDateRange: AA",
+      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=byDateRange&group=hitting&sportId={sid}",
+      "status": 200,
+      "items": 12,
+      "note": "ok=12/12 window=2026-04-23..2026-05-03"
+    },
+    {
+      "timestamp": "2026-05-03T19:54:14Z",
+      "source": "MLB byDateRange: High-A",
+      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=byDateRange&group=hitting&sportId={sid}",
+      "status": 200,
+      "items": 13,
+      "note": "ok=13/13 window=2026-04-23..2026-05-03"
+    },
+    {
+      "timestamp": "2026-05-03T19:54:14Z",
+      "source": "MLB byDateRange: Low-A",
+      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=byDateRange&group=hitting&sportId={sid}",
+      "status": 200,
+      "items": 15,
+      "note": "ok=15/15 window=2026-04-23..2026-05-03"
+    },
+    {
+      "timestamp": "2026-05-03T19:54:14Z",
+      "source": "MLB Transactions org",
+      "url": "https://statsapi.mlb.com/api/v1/transactions?teamId=147&startDate=2026-04-03&endDate=2026-05-03",
+      "status": 200,
+      "items": 88,
+      "note": "window 2026-04-03..2026-05-03"
+    },
+    {
+      "timestamp": "2026-05-03T19:54:28Z",
+      "source": "MLB personId fallback",
+      "url": "<bulk>",
+      "status": 200,
+      "items": 66,
+      "note": "players needing prior_level fallback"
     }
   ]
 }

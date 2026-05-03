@@ -39,6 +39,28 @@ PITCHER_POS = {"P", "SP", "RP", "CP", "LHP", "RHP"}
 TWP = "TWP"
 LEVEL_RANK = {"MLB": 0, "AAA": 1, "AA": 2, "High-A": 3, "Low-A": 4}
 
+# Whitelist of MLB transaction type codes that represent actual organizational
+# level moves. Everything else (notably "NUM" / Number Change) is dropped from
+# level-history derivation.
+LEVEL_MOVE_TYPES = {
+    "CU",   # Recalled
+    "OPT",  # Optioned
+    "ASG",  # Assigned (broad — see spring-camp carve-out below)
+    "TR",   # Traded
+    "CLW",  # Claimed off Waivers
+    "DFA",  # Designated for Assignment
+    "REL",  # Released
+    "RTN",  # Returned
+    "SFA",  # Signed as Free Agent
+    "SC",   # Status Change
+}
+# Excluded from user-facing data/org-transactions.json (file is source of truth;
+# UI just renders what's in the file).
+NOISE_TX_TYPES = {"NUM"}
+# ASG spring-camp carve-out: ASG entries with toTeam=MLB between Feb 1 and the
+# regular-season start are spring-training assignments, not real callups.
+DEFAULT_SEASON_START_MMDD = "03-27"
+
 
 def now_iso() -> str:
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -347,6 +369,44 @@ def fallback_personid(session: requests.Session, player_id: int,
     return (data or {}).get("transactions") or []
 
 
+def fetch_season_start(session: requests.Session, season: int) -> str:
+    """Return the regular-season start date as 'YYYY-MM-DD' (March 27 fallback)."""
+    url = f"{BASE}/seasons?sportId=1&season={season}"
+    _, data = fetch_json(session, url)
+    seasons = (data or {}).get("seasons") or []
+    if seasons:
+        d = seasons[0].get("regularSeasonStartDate")
+        if d:
+            return d[:10]
+    return f"{season}-{DEFAULT_SEASON_START_MMDD}"
+
+
+def is_level_move(tx: dict, season_start_date: str) -> bool:
+    """Whitelist by type_code + drop spring-training MLB-camp assignments.
+
+    Carve-out applies to both ASG and SC entries with toTeam=MLB between
+    Feb 1 and opening day. The spec called out ASG only; SC is included
+    because the API uses SC for the same "join MLB camp" pattern in
+    spring training, and leaving it would still pollute prior_level.
+    """
+    code = (tx.get("typeCode") or "").upper()
+    if code not in LEVEL_MOVE_TYPES:
+        return False
+    if code in ("ASG", "SC"):
+        to_id = (tx.get("toTeam") or {}).get("id")
+        date = (tx.get("date") or "")[:10]
+        season_year = season_start_date[:4]
+        spring_start = f"{season_year}-02-01"
+        if (to_id == PARENT_TEAM_ID and date
+                and spring_start <= date < season_start_date):
+            return False
+    return True
+
+
+def filter_level_tx(transactions: list[dict], season_start_date: str) -> list[dict]:
+    return [t for t in transactions if is_level_move(t, season_start_date)]
+
+
 def main() -> int:
     season = get_season()
     today = datetime.now(timezone.utc).date()
@@ -373,18 +433,21 @@ def main() -> int:
 
     last10_map = fetch_last_10(session, org_players, season, start, end)
     raw_tx = fetch_transactions(session, milb)
+    season_start_date = fetch_season_start(session, season)
+    level_tx = filter_level_tx(raw_tx, season_start_date)
 
     hitters_out: list[dict[str, Any]] = []
     fallback_used = 0
     for p in org_players:
         current_since, prior_level, prior_since = derive_levels(
-            p["id"], p["level"], raw_tx, team_to_level
+            p["id"], p["level"], level_tx, team_to_level
         )
         if not prior_level:
             extra_tx = fallback_personid(session, p["id"], season)
             time.sleep(SUBMIT_DELAY_S)
             fallback_used += 1
-            cs2, pl2, ps2 = derive_levels(p["id"], p["level"], extra_tx, team_to_level)
+            extra_filtered = filter_level_tx(extra_tx, season_start_date)
+            cs2, pl2, ps2 = derive_levels(p["id"], p["level"], extra_filtered, team_to_level)
             if current_since is None:
                 current_since = cs2
             if prior_level is None:
@@ -442,6 +505,9 @@ def main() -> int:
     seen_tx: set[Any] = set()
     tx_normalized: list[dict[str, Any]] = []
     for t in raw_tx:
+        code = (t.get("typeCode") or "").upper()
+        if code in NOISE_TX_TYPES:
+            continue
         tid = t.get("id")
         if tid is None or tid in seen_tx:
             continue

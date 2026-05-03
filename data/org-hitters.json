@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T19:39:29Z",
+  "updated": "2026-05-03T19:54:28Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-04-23",
@@ -10,16 +10,16 @@
       "name": "Aaron Judge",
       "position": "RF",
       "level": "MLB",
-      "level_since": "2026-04-15",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 118,
+        "ab": 119,
         "k": 41,
-        "avg": ".254",
-        "ops": ".995",
-        "avg_num": 0.254,
-        "ops_num": 0.995
+        "avg": ".261",
+        "ops": "1.027",
+        "avg_num": 0.261,
+        "ops_num": 1.027
       },
       "last_10": {
         "ab": 32,
@@ -36,8 +36,8 @@
       "position": "C",
       "level": "AA",
       "level_since": "2026-03-23",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-02-05",
+      "prior_level": null,
+      "prior_level_since": null,
       "season": {
         "ab": 12,
         "k": 2,
@@ -85,7 +85,7 @@
       "name": "Amed Rosario",
       "position": "3B",
       "level": "MLB",
-      "level_since": "2026-04-15",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -128,24 +128,24 @@
       "name": "Austin Wells",
       "position": "C",
       "level": "MLB",
-      "level_since": "2026-04-15",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 74,
-        "k": 16,
-        "avg": ".203",
-        "ops": ".679",
-        "avg_num": 0.203,
-        "ops_num": 0.679
+        "ab": 76,
+        "k": 18,
+        "avg": ".197",
+        "ops": ".662",
+        "avg_num": 0.197,
+        "ops_num": 0.662
       },
       "last_10": {
-        "ab": 19,
+        "ab": 20,
         "k": 5,
-        "avg": ".263",
-        "ops": ".943",
-        "avg_num": 0.263,
-        "ops_num": 0.943
+        "avg": ".250",
+        "ops": ".898",
+        "avg_num": 0.25,
+        "ops_num": 0.898
       }
     },
     {
@@ -153,16 +153,16 @@
       "name": "Ben Rice",
       "position": "1B",
       "level": "MLB",
-      "level_since": "2026-04-15",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 107,
+        "ab": 108,
         "k": 32,
-        "avg": ".336",
-        "ops": "1.199",
-        "avg_num": 0.336,
-        "ops_num": 1.199
+        "avg": ".343",
+        "ops": "1.214",
+        "avg_num": 0.343,
+        "ops_num": 1.214
       },
       "last_10": {
         "ab": 38,
@@ -179,15 +179,15 @@
       "position": "CF",
       "level": "Low-A",
       "level_since": "2026-04-03",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-03-05",
+      "prior_level": null,
+      "prior_level_since": null,
       "season": {
-        "ab": 84,
-        "k": 28,
-        "avg": ".238",
-        "ops": ".669",
-        "avg_num": 0.238,
-        "ops_num": 0.669
+        "ab": 89,
+        "k": 31,
+        "avg": ".225",
+        "ops": ".633",
+        "avg_num": 0.225,
+        "ops_num": 0.633
       },
       "last_10": {
         "ab": 22,
@@ -203,16 +203,16 @@
       "name": "Bryce Martin-Grudzielanek",
       "position": "SS",
       "level": "Low-A",
-      "level_since": "2026-02-20",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 76,
+        "ab": 79,
         "k": 21,
-        "avg": ".237",
-        "ops": ".659",
-        "avg_num": 0.237,
-        "ops_num": 0.659
+        "avg": ".241",
+        "ops": ".672",
+        "avg_num": 0.241,
+        "ops_num": 0.672
       },
       "last_10": {
         "ab": 33,
@@ -228,7 +228,7 @@
       "name": "Camden Troyer",
       "position": "OF",
       "level": "High-A",
-      "level_since": "2026-02-20",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -253,7 +253,7 @@
       "name": "Coby Morales",
       "position": "IF",
       "level": "AA",
-      "level_since": "2026-02-28",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -265,12 +265,12 @@
         "ops_num": 1.067
       },
       "last_10": {
-        "ab": 32,
-        "k": 8,
-        "avg": ".344",
-        "ops": "1.269",
-        "avg_num": 0.344,
-        "ops_num": 1.269
+        "ab": 36,
+        "k": 10,
+        "avg": ".306",
+        "ops": "1.138",
+        "avg_num": 0.306,
+        "ops_num": 1.138
       }
     },
     {
@@ -278,16 +278,16 @@
       "name": "Cody Bellinger",
       "position": "LF",
       "level": "MLB",
-      "level_since": "2026-04-15",
+      "level_since": "2026-01-26",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 117,
+        "ab": 118,
         "k": 20,
-        "avg": ".274",
-        "ops": ".849",
-        "avg_num": 0.274,
-        "ops_num": 0.849
+        "avg": ".271",
+        "ops": ".842",
+        "avg_num": 0.271,
+        "ops_num": 0.842
       },
       "last_10": {
         "ab": 36,
@@ -304,8 +304,8 @@
       "position": "CF",
       "level": "High-A",
       "level_since": "2026-03-30",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-03-01",
+      "prior_level": null,
+      "prior_level_since": null,
       "season": {
         "ab": 32,
         "k": 5,
@@ -328,7 +328,7 @@
       "name": "Connor McGinnis",
       "position": "SS",
       "level": "High-A",
-      "level_since": "2026-03-18",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -353,7 +353,7 @@
       "name": "Core Jackson",
       "position": "SS",
       "level": "High-A",
-      "level_since": "2026-03-06",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -421,7 +421,7 @@
       "name": "Duke Ellis",
       "position": "CF",
       "level": "AAA",
-      "level_since": "2026-02-05",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -475,12 +475,12 @@
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 55,
-        "k": 20,
-        "avg": ".145",
-        "ops": ".448",
-        "avg_num": 0.145,
-        "ops_num": 0.448
+        "ab": 57,
+        "k": 21,
+        "avg": ".140",
+        "ops": ".440",
+        "avg_num": 0.14,
+        "ops_num": 0.44
       },
       "last_10": {
         "ab": 18,
@@ -497,8 +497,8 @@
       "position": "C",
       "level": "AAA",
       "level_since": "2026-04-02",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-02-24",
+      "prior_level": null,
+      "prior_level_since": null,
       "season": {
         "ab": 3,
         "k": 1,
@@ -522,15 +522,15 @@
       "position": "C",
       "level": "Low-A",
       "level_since": "2026-03-30",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-03-06",
+      "prior_level": null,
+      "prior_level_since": null,
       "season": {
-        "ab": 74,
-        "k": 21,
-        "avg": ".176",
-        "ops": ".569",
-        "avg_num": 0.176,
-        "ops_num": 0.569
+        "ab": 78,
+        "k": 23,
+        "avg": ".179",
+        "ops": ".586",
+        "avg_num": 0.179,
+        "ops_num": 0.586
       },
       "last_10": {
         "ab": 35,
@@ -546,16 +546,16 @@
       "name": "Enmanuel Tejeda",
       "position": "3B",
       "level": "Low-A",
-      "level_since": "2026-02-21",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 86,
-        "k": 23,
-        "avg": ".267",
-        "ops": ".855",
-        "avg_num": 0.267,
-        "ops_num": 0.855
+        "ab": 89,
+        "k": 24,
+        "avg": ".258",
+        "ops": ".839",
+        "avg_num": 0.258,
+        "ops_num": 0.839
       },
       "last_10": {
         "ab": 35,
@@ -621,7 +621,7 @@
       "name": "Garrett Martin",
       "position": "RF",
       "level": "AA",
-      "level_since": "2026-02-20",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -633,12 +633,12 @@
         "ops_num": 0.847
       },
       "last_10": {
-        "ab": 33,
-        "k": 3,
-        "avg": ".273",
-        "ops": "1.078",
-        "avg_num": 0.273,
-        "ops_num": 1.078
+        "ab": 37,
+        "k": 5,
+        "avg": ".243",
+        "ops": ".966",
+        "avg_num": 0.243,
+        "ops_num": 0.966
       }
     },
     {
@@ -647,8 +647,8 @@
       "position": "SS",
       "level": "AAA",
       "level_since": "2026-04-29",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-02-05",
+      "prior_level": null,
+      "prior_level_since": null,
       "season": {
         "ab": 15,
         "k": 5,
@@ -671,7 +671,7 @@
       "name": "Giancarlo Stanton",
       "position": "DH",
       "level": "MLB",
-      "level_since": "2026-04-15",
+      "level_since": "2026-04-28",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -721,16 +721,16 @@
       "name": "Hans Montero",
       "position": "3B",
       "level": "Low-A",
-      "level_since": "2026-03-04",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 69,
-        "k": 21,
-        "avg": ".275",
-        "ops": ".840",
-        "avg_num": 0.275,
-        "ops_num": 0.84
+        "ab": 72,
+        "k": 23,
+        "avg": ".264",
+        "ops": ".815",
+        "avg_num": 0.264,
+        "ops_num": 0.815
       },
       "last_10": {
         "ab": 26,
@@ -746,7 +746,7 @@
       "name": "J.C. Escarra",
       "position": "C",
       "level": "MLB",
-      "level_since": "2026-04-15",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -771,7 +771,7 @@
       "name": "Jace Avina",
       "position": "LF",
       "level": "AA",
-      "level_since": "2026-02-20",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -783,12 +783,12 @@
         "ops_num": 0.751
       },
       "last_10": {
-        "ab": 31,
-        "k": 10,
-        "avg": ".258",
-        "ops": "1.077",
-        "avg_num": 0.258,
-        "ops_num": 1.077
+        "ab": 35,
+        "k": 13,
+        "avg": ".257",
+        "ops": "1.040",
+        "avg_num": 0.257,
+        "ops_num": 1.04
       }
     },
     {
@@ -797,8 +797,8 @@
       "position": "RF",
       "level": "AA",
       "level_since": "2026-04-02",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-02-20",
+      "prior_level": null,
+      "prior_level_since": null,
       "season": {
         "ab": 29,
         "k": 4,
@@ -808,12 +808,12 @@
         "ops_num": 1.15
       },
       "last_10": {
-        "ab": 29,
-        "k": 4,
-        "avg": ".448",
-        "ops": "1.150",
-        "avg_num": 0.448,
-        "ops_num": 1.15
+        "ab": 33,
+        "k": 5,
+        "avg": ".455",
+        "ops": "1.132",
+        "avg_num": 0.455,
+        "ops_num": 1.132
       }
     },
     {
@@ -850,20 +850,20 @@
       "prior_level": "AAA",
       "prior_level_since": "2026-03-20",
       "season": {
-        "ab": 13,
-        "k": 3,
-        "avg": ".154",
-        "ops": ".368",
-        "avg_num": 0.154,
-        "ops_num": 0.368
-      },
-      "last_10": {
         "ab": 15,
         "k": 3,
         "avg": ".133",
         "ops": ".321",
         "avg_num": 0.133,
         "ops_num": 0.321
+      },
+      "last_10": {
+        "ab": 16,
+        "k": 3,
+        "avg": ".188",
+        "ops": ".485",
+        "avg_num": 0.188,
+        "ops_num": 0.485
       }
     },
     {
@@ -871,16 +871,16 @@
       "name": "Jazz Chisholm Jr.",
       "position": "2B",
       "level": "MLB",
-      "level_since": "2026-04-15",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 115,
+        "ab": 116,
         "k": 36,
-        "avg": ".209",
-        "ops": ".625",
-        "avg_num": 0.209,
-        "ops_num": 0.625
+        "avg": ".207",
+        "ops": ".626",
+        "avg_num": 0.207,
+        "ops_num": 0.626
       },
       "last_10": {
         "ab": 36,
@@ -914,7 +914,7 @@
       "name": "JoJo Jackson",
       "position": "OF",
       "level": "Low-A",
-      "level_since": "2026-03-09",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -964,7 +964,7 @@
       "name": "Josh Moylan",
       "position": "1B",
       "level": "High-A",
-      "level_since": "2026-02-28",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -1014,16 +1014,16 @@
       "name": "José Caballero",
       "position": "SS",
       "level": "MLB",
-      "level_since": "2026-04-15",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 112,
+        "ab": 114,
         "k": 27,
-        "avg": ".259",
-        "ops": ".719",
-        "avg_num": 0.259,
-        "ops_num": 0.719
+        "avg": ".254",
+        "ops": ".707",
+        "avg_num": 0.254,
+        "ops_num": 0.707
       },
       "last_10": {
         "ab": 34,
@@ -1039,7 +1039,7 @@
       "name": "Kaeden Kent",
       "position": "SS",
       "level": "High-A",
-      "level_since": "2026-02-20",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -1076,12 +1076,12 @@
         "ops_num": 0.77
       },
       "last_10": {
-        "ab": 23,
-        "k": 7,
-        "avg": ".261",
-        "ops": ".674",
-        "avg_num": 0.261,
-        "ops_num": 0.674
+        "ab": 26,
+        "k": 8,
+        "avg": ".231",
+        "ops": ".602",
+        "avg_num": 0.231,
+        "ops_num": 0.602
       }
     },
     {
@@ -1090,15 +1090,15 @@
       "position": "SS",
       "level": "Low-A",
       "level_since": "2026-04-03",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-03-15",
+      "prior_level": null,
+      "prior_level_since": null,
       "season": {
-        "ab": 29,
-        "k": 11,
-        "avg": ".138",
-        "ops": ".460",
-        "avg_num": 0.138,
-        "ops_num": 0.46
+        "ab": 33,
+        "k": 12,
+        "avg": ".152",
+        "ops": ".495",
+        "avg_num": 0.152,
+        "ops_num": 0.495
       },
       "last_10": {
         "ab": 19,
@@ -1115,8 +1115,8 @@
       "position": "3B",
       "level": "High-A",
       "level_since": "2026-03-30",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-03-20",
+      "prior_level": null,
+      "prior_level_since": null,
       "season": {
         "ab": 91,
         "k": 29,
@@ -1168,12 +1168,12 @@
       "prior_level": "High-A",
       "prior_level_since": "2026-04-02",
       "season": {
-        "ab": 15,
-        "k": 1,
-        "avg": ".267",
-        "ops": ".666",
-        "avg_num": 0.267,
-        "ops_num": 0.666
+        "ab": 20,
+        "k": 2,
+        "avg": ".250",
+        "ops": ".604",
+        "avg_num": 0.25,
+        "ops_num": 0.604
       },
       "last_10": {
         "ab": 20,
@@ -1201,12 +1201,12 @@
         "ops_num": 0.391
       },
       "last_10": {
-        "ab": 13,
-        "k": 1,
-        "avg": ".308",
-        "ops": ".746",
-        "avg_num": 0.308,
-        "ops_num": 0.746
+        "ab": 16,
+        "k": 2,
+        "avg": ".313",
+        "ops": ".734",
+        "avg_num": 0.313,
+        "ops_num": 0.734
       }
     },
     {
@@ -1216,7 +1216,7 @@
       "level": "AA",
       "level_since": "2026-03-23",
       "prior_level": "MLB",
-      "prior_level_since": "2026-02-05",
+      "prior_level_since": "2026-01-22",
       "season": {
         "ab": 85,
         "k": 29,
@@ -1226,12 +1226,12 @@
         "ops_num": 1.005
       },
       "last_10": {
-        "ab": 33,
-        "k": 13,
-        "avg": ".242",
-        "ops": ".821",
-        "avg_num": 0.242,
-        "ops_num": 0.821
+        "ab": 36,
+        "k": 14,
+        "avg": ".250",
+        "ops": ".908",
+        "avg_num": 0.25,
+        "ops_num": 0.908
       }
     },
     {
@@ -1264,7 +1264,7 @@
       "name": "Miguel Palma",
       "position": "C",
       "level": "AA",
-      "level_since": "2026-02-05",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -1308,8 +1308,8 @@
       "position": "SS",
       "level": "AA",
       "level_since": "2026-03-30",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-03-11",
+      "prior_level": null,
+      "prior_level_since": null,
       "season": {
         "ab": 36,
         "k": 7,
@@ -1332,7 +1332,7 @@
       "name": "Paul Goldschmidt",
       "position": "1B",
       "level": "MLB",
-      "level_since": "2026-04-15",
+      "level_since": "2026-02-12",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -1383,8 +1383,8 @@
       "position": "SS",
       "level": "High-A",
       "level_since": "2026-03-30",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-02-21",
+      "prior_level": null,
+      "prior_level_since": null,
       "season": {
         "ab": 81,
         "k": 30,
@@ -1407,24 +1407,24 @@
       "name": "Ryan McMahon",
       "position": "3B",
       "level": "MLB",
-      "level_since": "2026-04-15",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 76,
+        "ab": 78,
         "k": 28,
-        "avg": ".171",
-        "ops": ".530",
-        "avg_num": 0.171,
-        "ops_num": 0.53
+        "avg": ".179",
+        "ops": ".555",
+        "avg_num": 0.179,
+        "ops_num": 0.555
       },
       "last_10": {
-        "ab": 30,
+        "ab": 31,
         "k": 8,
-        "avg": ".267",
-        "ops": ".700",
-        "avg_num": 0.267,
-        "ops_num": 0.7
+        "avg": ".258",
+        "ops": ".677",
+        "avg_num": 0.258,
+        "ops_num": 0.677
       }
     },
     {
@@ -1433,8 +1433,8 @@
       "position": "SS",
       "level": "Low-A",
       "level_since": "2026-04-03",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-03-04",
+      "prior_level": null,
+      "prior_level_since": null,
       "season": {
         "ab": 31,
         "k": 11,
@@ -1500,16 +1500,16 @@
       "name": "Trent Grisham",
       "position": "CF",
       "level": "MLB",
-      "level_since": "2026-04-15",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 102,
+        "ab": 103,
         "k": 22,
-        "avg": ".167",
-        "ops": ".669",
-        "avg_num": 0.167,
-        "ops_num": 0.669
+        "avg": ".165",
+        "ops": ".663",
+        "avg_num": 0.165,
+        "ops_num": 0.663
       },
       "last_10": {
         "ab": 36,
@@ -1525,7 +1525,7 @@
       "name": "Tyler Hardman",
       "position": "1B",
       "level": "AA",
-      "level_since": "2026-02-20",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -1537,12 +1537,12 @@
         "ops_num": 0.939
       },
       "last_10": {
-        "ab": 33,
-        "k": 10,
-        "avg": ".333",
-        "ops": "1.025",
-        "avg_num": 0.333,
-        "ops_num": 1.025
+        "ab": 37,
+        "k": 12,
+        "avg": ".324",
+        "ops": "1.051",
+        "avg_num": 0.324,
+        "ops_num": 1.051
       }
     },
     {
@@ -1575,16 +1575,16 @@
       "name": "Willy Montero",
       "position": "CF",
       "level": "Low-A",
-      "level_since": "2026-02-28",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 81,
-        "k": 26,
-        "avg": ".198",
-        "ops": ".623",
-        "avg_num": 0.198,
-        "ops_num": 0.623
+        "ab": 85,
+        "k": 28,
+        "avg": ".212",
+        "ops": ".640",
+        "avg_num": 0.212,
+        "ops_num": 0.64
       },
       "last_10": {
         "ab": 37,
@@ -1601,8 +1601,8 @@
       "position": "CF",
       "level": "High-A",
       "level_since": "2026-03-30",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-02-25",
+      "prior_level": null,
+      "prior_level_since": null,
       "season": {
         "ab": 72,
         "k": 19,
