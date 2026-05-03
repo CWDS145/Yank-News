@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-03T22:07:44Z",
-  "count": 68,
+  "updated": "2026-05-03T23:11:32Z",
+  "count": 65,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-05-03T22:07:44Z",
+      "published": "2026-05-03T23:11:32Z",
       "image": null
     },
     {
@@ -17,7 +17,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-rhp-sean-paul-linan/",
-      "published": "2026-05-03T22:07:44Z",
+      "published": "2026-05-03T23:11:32Z",
+      "image": null
+    },
+    {
+      "title": "Yankees' Jones mashes a 117.4 mph laser AND a grand slam at Triple-A",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Brendan Samson",
+      "link": "https://www.mlb.com/yankees/news/yankees-spencer-jones-multihomer-game-at-triple-a",
+      "published": "2026-05-03T22:55:00Z",
       "image": null
     },
     {
@@ -108,24 +117,6 @@
       "author": "Jeremy Nielsen",
       "link": "https://www.pinstripealley.com/yankees-game-information/186416/mlb-yankees-game-day-thread-orioles-lineups-starting-pitchers-how-to-watch-tv-channel-max-fried",
       "published": "2026-05-03T17:05:00Z",
-      "image": null
-    },
-    {
-      "title": "Yankees' Rice leaves game with bruised hand",
-      "summary": "Yankees first baseman Ben Rice left Sunday's game against the Orioles with a bruised left hand after fielding a pickoff throw by Max Fried.",
-      "source": "ESPN MLB",
-      "author": null,
-      "link": "https://www.espn.com/mlb/story/_/id/48668266/yankees-ben-rice-leaves-game-bruised-left-hand",
-      "published": "2026-05-03T16:54:09Z",
-      "image": null
-    },
-    {
-      "title": "🐶 Judge's cleats spotlight his dachshunds",
-      "summary": "The Yankees' slugger wore custom Nike cleats, featuring a logo of his dachshunds, Penny and Gus.",
-      "source": "ESPN MLB",
-      "author": "Brianna Williams",
-      "link": "https://www.espn.com/mlb/story/_/id/48650211/yankees-aaron-judge-cleats-logo-dogs-penny-gus",
-      "published": "2026-05-03T16:54:09Z",
       "image": null
     },
     {
@@ -552,15 +543,6 @@
       "image": null
     },
     {
-      "title": "Yanks promoting No. 1 prospect Lombard to Triple-A (source)",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch",
-      "link": "https://www.mlb.com/yankees/news/george-lombard-jr-promoted-to-triple-a",
-      "published": "2026-04-29T04:50:00Z",
-      "image": null
-    },
-    {
       "title": "Schlittler, with 'ice in his veins,' outduels deGrom in epic mound battle",
       "summary": "",
       "source": "MLB.com Yankees",
@@ -603,15 +585,6 @@
       "author": "Mark Polishuk",
       "link": "https://www.mlbtraderumors.com/2026/04/yankees-to-promote-jasson-dominguez-3.html",
       "published": "2026-04-26T23:23:40Z",
-      "image": null
-    },
-    {
-      "title": "Yankees Option Luis Gil To Triple-A",
-      "summary": "The Yankees announced that Luis Gil was optioned to Triple-A Scranton/Wilkes-Barre following the right-hander’s tough start against the Astros today.  No corresponding move was announced, but the Yankees will likely call up another pitcher prior to tomorrow’s game with the Rangers. Gil didn’t record a strikeout over four innings pitched today, allowing six earned runs […]",
-      "source": "MLB Trade Rumors NYY",
-      "author": "Mark Polishuk",
-      "link": "https://www.mlbtraderumors.com/2026/04/yankees-option-luis-gil-to-triple-a.html",
-      "published": "2026-04-26T22:40:06Z",
       "image": null
     }
   ]

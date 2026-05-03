@@ -1,13 +1,7 @@
 {
-  "updated": "2026-05-03T22:07:45Z",
+  "updated": "2026-05-03T23:11:34Z",
   "count": 37,
   "items": [
-    {
-      "date": "2026-05-01",
-      "type": "",
-      "player": "Paul DeJong",
-      "description": "Declared Free Agency"
-    },
     {
       "date": "2026-05-01",
       "type": "",
@@ -15,10 +9,10 @@
       "description": "Refused Minor League Assignment - Free Agent"
     },
     {
-      "date": "2026-04-29",
-      "type": "called up",
-      "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors"
+      "date": "2026-05-01",
+      "type": "",
+      "player": "Paul DeJong",
+      "description": "Declared Free Agency"
     },
     {
       "date": "2026-04-29",
@@ -27,9 +21,9 @@
       "description": "Designated for Assignment"
     },
     {
-      "date": "2026-04-28",
+      "date": "2026-04-29",
       "type": "called up",
-      "player": "Max Schuemann",
+      "player": "Elmer Rodriguez",
       "description": "Called Up from Minors"
     },
     {
@@ -37,6 +31,12 @@
       "type": "placed",
       "player": "Giancarlo Stanton",
       "description": "Placed on 10-Day IL (Strained right calf)"
+    },
+    {
+      "date": "2026-04-28",
+      "type": "called up",
+      "player": "Max Schuemann",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-04-27",
@@ -52,15 +52,15 @@
     },
     {
       "date": "2026-04-25",
-      "type": "placed",
-      "player": "Angel Chivilli",
-      "description": "Placed on 15-Day IL (Right shoulder discomfort)"
-    },
-    {
-      "date": "2026-04-25",
       "type": "reinstated",
       "player": "Ryan Weathers",
       "description": "Reinstated from Paternity Leave List"
+    },
+    {
+      "date": "2026-04-25",
+      "type": "placed",
+      "player": "Angel Chivilli",
+      "description": "Placed on 15-Day IL (Right shoulder discomfort)"
     },
     {
       "date": "2026-04-24",
@@ -94,6 +94,12 @@
     },
     {
       "date": "2026-04-14",
+      "type": "sent",
+      "player": "Anthony Volpe",
+      "description": "Sent to Minors For Rehabilitation"
+    },
+    {
+      "date": "2026-04-14",
       "type": "called up",
       "player": "Yerry De Los Santos",
       "description": "Called Up from Minors"
@@ -103,12 +109,6 @@
       "type": "sent",
       "player": "Yerry De Los Santos",
       "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-04-14",
-      "type": "sent",
-      "player": "Anthony Volpe",
-      "description": "Sent to Minors For Rehabilitation"
     },
     {
       "date": "2026-04-13",
@@ -143,12 +143,6 @@
     {
       "date": "2026-03-25",
       "type": "placed",
-      "player": "Anthony Volpe",
-      "description": "Placed on 10-Day IL (Recovery from left labrum surgery)"
-    },
-    {
-      "date": "2026-03-25",
-      "type": "placed",
       "player": "Carlos Rodon",
       "description": "Placed on 15-Day IL (Recovery from left elbow surgery)"
     },
@@ -157,6 +151,12 @@
       "type": "placed",
       "player": "Gerrit Cole",
       "description": "Placed on 15-Day IL (Recovery from right elbow surgery)"
+    },
+    {
+      "date": "2026-03-25",
+      "type": "placed",
+      "player": "Anthony Volpe",
+      "description": "Placed on 10-Day IL (Recovery from left labrum surgery)"
     },
     {
       "date": "2026-03-25",
@@ -209,13 +209,13 @@
     {
       "date": "2026-03-09",
       "type": "sent",
-      "player": "Spencer Jones",
+      "player": "Elmer Rodriguez",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-03-09",
       "type": "sent",
-      "player": "Elmer Rodriguez",
+      "player": "Spencer Jones",
       "description": "Sent to Minors"
     },
     {
