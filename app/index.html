@@ -1,0 +1,1042 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Yank News</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="New York Yankees news + stats aggregator. RSS + scraping, static site via GitHub Pages.">
+<style>
+:root{--navy:#0C2340;--bg:#f5f5f5;--card:#fff;--border:#e5e5e5;--muted:#6b7280;--text:#111;--green:#10b981;--yellow:#f59e0b;--red:#ef4444}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background-color:var(--bg);background-image:url("../assets/Thurm.png");background-size:cover;background-position:center top;background-attachment:fixed;background-repeat:no-repeat;color:var(--text);font-size:14px;line-height:1.45;position:relative}
+body::before{content:"";position:fixed;inset:0;background:linear-gradient(180deg,rgba(12,35,64,0.55) 0%,rgba(245,245,245,0.85) 35%,rgba(245,245,245,0.92) 100%);z-index:-1;pointer-events:none}
+a{color:var(--navy)}a:hover{text-decoration:underline}
+button{font:inherit;cursor:pointer}
+h1,h2,h3{margin:0;font-weight:600}
+.skip{position:absolute;left:-9999px}.skip:focus{left:8px;top:8px;background:var(--navy);color:#fff;padding:8px 12px;z-index:100;border-radius:4px}
+.topbar{position:sticky;top:0;z-index:50;background:var(--navy);color:#fff;display:flex;align-items:center;gap:14px;padding:0 16px;height:56px;font-size:13px}
+.brand{font-weight:700;letter-spacing:0.5px;flex-shrink:0}
+.standings{flex:1;opacity:0.85;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;font-size:12.5px}
+.header-right{display:flex;align-items:center;gap:6px;flex-shrink:0}
+.pill{display:inline-flex;align-items:center;gap:5px;padding:3px 9px;border-radius:999px;background:rgba(255,255,255,0.1);color:#fff;font-size:11px;font-weight:500;white-space:nowrap}
+.pill .dot{width:8px;height:8px;border-radius:50%;background:var(--green)}
+.pill.yellow .dot{background:var(--yellow)}
+.pill.red .dot{background:var(--red)}
+.btn-refresh{background:rgba(255,255,255,0.1);color:#fff;border:1px solid rgba(255,255,255,0.25);padding:6px 12px;border-radius:6px;font-size:12px;font-weight:500}
+.btn-refresh:hover{background:rgba(255,255,255,0.2)}
+.btn-refresh.loading{opacity:0.6;cursor:wait}
+.btn-refresh.loading::before{content:"";display:inline-block;width:10px;height:10px;border:2px solid rgba(255,255,255,0.4);border-top-color:#fff;border-radius:50%;animation:spin 1s linear infinite;margin-right:6px;vertical-align:-1px}
+@keyframes spin{to{transform:rotate(360deg)}}
+.tabs{background:#fff;border-bottom:1px solid var(--border);display:flex;gap:0;padding:0 16px;overflow-x:auto;scrollbar-width:thin;position:sticky;top:56px;z-index:40}
+.tabs button{background:none;border:none;padding:13px 16px;font-size:14px;font-weight:500;color:var(--muted);border-bottom:3px solid transparent;white-space:nowrap}
+.tabs button[aria-selected=true]{color:var(--navy);border-bottom-color:var(--navy)}
+.layout{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:3fr 1fr;gap:16px;padding:16px}
+.content{min-width:0}
+.sidebar{display:flex;flex-direction:column;gap:12px;min-width:0}
+.panel{display:none}.panel.active{display:block}
+.card{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:16px;margin-bottom:12px}
+.section-title{font-size:12px;font-weight:600;text-transform:uppercase;color:var(--muted);letter-spacing:0.5px;margin:0 0 12px}
+.side-card{background:var(--card);border:1px solid var(--border);border-radius:8px;overflow:hidden}
+.side-card>summary{cursor:pointer;padding:11px 14px;font-size:11px;font-weight:600;text-transform:uppercase;color:var(--muted);letter-spacing:0.5px;user-select:none;list-style:none}
+.side-card>summary::-webkit-details-marker{display:none}
+.side-card>summary::before{content:"▸ ";display:inline-block;font-size:10px;transition:transform 0.15s}
+.side-card[open]>summary::before{transform:rotate(90deg)}
+.side-card .body{padding:0 14px 14px}
+.news-controls{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:10px 14px;margin-bottom:12px;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.chip{background:#f3f4f6;border:1px solid var(--border);padding:4px 10px;border-radius:999px;font-size:12px;color:var(--text)}
+.chip[aria-pressed=true]{background:var(--navy);color:#fff;border-color:var(--navy)}
+.input-search{flex:1;min-width:160px;border:1px solid var(--border);border-radius:6px;padding:6px 10px;font-size:13px;background:#fff}
+select.sort-select{border:1px solid var(--border);border-radius:6px;padding:6px 8px;font-size:13px;background:#fff}
+.article{display:flex;gap:12px;padding:12px 14px;background:var(--card);border:1px solid var(--border);border-radius:8px;margin-bottom:8px}
+.article-img{width:120px;height:80px;flex-shrink:0;object-fit:cover;border-radius:4px;background:var(--navy)}
+.article-body{flex:1;min-width:0}
+.article-title{font-size:15px;font-weight:600;color:var(--navy);text-decoration:none;display:block;margin:0 0 4px}
+.article-title:hover{text-decoration:underline}
+.article-meta{font-size:12px;color:var(--muted);margin-bottom:6px}
+.article-summary{font-size:13px;color:#374151;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.empty-state{padding:32px 16px;text-align:center;color:var(--muted);font-style:italic}
+table.data{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums}
+table.data th,table.data td{padding:6px 8px;text-align:right;border-bottom:1px solid var(--border);font-size:12.5px}
+table.data th:first-child,table.data td:first-child{text-align:left}
+table.data thead th{background:#fafafa;font-weight:600;color:var(--muted);position:sticky;top:0;font-size:11px;text-transform:uppercase;letter-spacing:0.3px}
+table.data thead th button{background:none;border:none;color:inherit;font:inherit;padding:0;text-align:inherit;cursor:pointer}
+table.data thead th button:hover{color:var(--navy)}
+table.data thead th button[data-sort=asc]::after{content:" ▲"}
+table.data thead th button[data-sort=desc]::after{content:" ▼"}
+table.data tbody tr:hover{background:#fafafa}
+.team-totals td{font-weight:700;background:#f3f4f6}
+.subtabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
+.subtabs button{background:var(--card);border:1px solid var(--border);padding:6px 12px;border-radius:999px;font-size:12.5px;color:var(--text)}
+.subtabs button[aria-selected=true]{background:var(--navy);color:#fff;border-color:var(--navy)}
+.kv-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(100px,1fr));gap:6px 12px;font-size:13px;margin-bottom:14px}
+.kv{display:flex;flex-direction:column}
+.kv .k{color:var(--muted);font-size:10px;text-transform:uppercase;letter-spacing:0.4px;margin-bottom:2px}
+.kv .v{font-weight:700;font-variant-numeric:tabular-nums;font-size:18px;color:var(--navy)}
+.two-col{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.dot-status{display:inline-block;width:10px;height:10px;border-radius:50%;vertical-align:middle;margin-right:6px}
+.dot-green{background:var(--green)}.dot-yellow{background:var(--yellow)}.dot-red{background:var(--red)}
+.btn-link{display:inline-block;background:var(--navy);color:#fff;padding:7px 14px;border-radius:6px;text-decoration:none;font-size:13px;font-weight:500;border:none}
+.btn-link:hover{background:#1a3a64;text-decoration:none;color:#fff}
+.btn-link.outline{background:transparent;color:var(--navy);border:1px solid var(--navy)}
+.btn-link.outline:hover{background:var(--navy);color:#fff}
+.gated::before{content:"🔒 ";font-size:0.95em}
+body.tos-unlocked .gated::before{content:none}
+.diff-pos{color:var(--green);font-weight:600}.diff-neg{color:var(--red);font-weight:600}
+footer{padding:24px 16px;text-align:center;color:var(--muted);font-size:12px;border-top:1px solid var(--border);margin-top:32px;background:rgba(255,255,255,0.85);backdrop-filter:blur(4px)}
+.help-text{font-size:11.5px;color:var(--muted);margin:6px 0}
+.badge{display:inline-block;padding:2px 7px;border-radius:4px;font-size:10px;font-weight:600;background:#e5e5e5;text-transform:uppercase;letter-spacing:0.3px;color:var(--text)}
+.badge.live{background:var(--red);color:#fff}
+.badge.win{background:var(--green);color:#fff}
+.badge.loss{background:var(--red);color:#fff}
+.badge.final{background:#9ca3af;color:#fff}
+.refresh-bar{background:#fffbeb;border:1px solid #fde68a;padding:10px 14px;border-radius:8px;margin-bottom:12px;display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.refresh-bar .lab{font-size:12px;color:#78350f;margin-right:auto}
+.scroll-x{overflow-x:auto}
+.tx-link{display:block;font-size:12px;margin-bottom:5px;line-height:1.3}
+.tx-link .d{color:var(--muted);margin-right:4px}
+.tx-link .p{font-weight:600;color:var(--text)}
+.dl-item{margin-bottom:7px;font-size:12.5px;line-height:1.35}
+.dl-item .pos{font-weight:700;color:var(--navy);margin-right:6px;display:inline-block;min-width:22px}
+@media (max-width:767px){body{background-attachment:scroll}}
+@media (max-width:768px){
+  .layout{grid-template-columns:1fr;padding:12px}
+  .standings{display:none}
+  .topbar{gap:8px;padding:0 12px}
+  .brand{font-size:13px}
+  .two-col{grid-template-columns:1fr}
+  .article-img{width:80px;height:60px}
+  .article-title{font-size:14px}
+  .article{padding:10px 12px}
+  .news-controls{padding:10px}
+  .pill{font-size:10px;padding:2px 7px}
+  .pill .dot{width:7px;height:7px}
+}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="topbar">
+  <div class="brand">YANK NEWS</div>
+  <div class="standings" id="standings">Loading…</div>
+  <div class="header-right">
+    <span class="pill" id="pill-news"><span class="dot"></span><span class="lbl">News —</span></span>
+    <span class="pill" id="pill-stats"><span class="dot"></span><span class="lbl">Stats —</span></span>
+    <span class="pill" id="pill-daily"><span class="dot"></span><span class="lbl">Daily —</span></span>
+    <button class="btn-refresh" id="refresh-btn" type="button">Refresh</button>
+  </div>
+</header>
+
+<nav class="tabs" role="tablist" aria-label="Sections">
+  <button role="tab" data-tab="news" aria-selected="true" aria-controls="panel-news">News</button>
+  <button role="tab" data-tab="stats" aria-selected="false" aria-controls="panel-stats">Stats</button>
+  <button role="tab" data-tab="schedule" aria-selected="false" aria-controls="panel-schedule">Schedule</button>
+  <button role="tab" data-tab="roster" aria-selected="false" aria-controls="panel-roster">Roster</button>
+  <button role="tab" data-tab="sources" aria-selected="false" aria-controls="panel-sources">Data Sources</button>
+</nav>
+
+<main id="main" class="layout">
+  <section class="content">
+    <div id="panel-news"     class="panel active" role="tabpanel"></div>
+    <div id="panel-stats"    class="panel" role="tabpanel" hidden></div>
+    <div id="panel-schedule" class="panel" role="tabpanel" hidden></div>
+    <div id="panel-roster"   class="panel" role="tabpanel" hidden></div>
+    <div id="panel-sources"  class="panel" role="tabpanel" hidden></div>
+  </section>
+  <aside class="sidebar">
+    <details class="side-card" open><summary>Depth Chart</summary><div class="body" id="side-depth">Loading…</div></details>
+    <details class="side-card" open><summary>Recent Transactions</summary><div class="body" id="side-tx">Loading…</div></details>
+    <details class="side-card" open><summary>Beat Writers</summary><div class="body" id="side-beat"></div></details>
+  </aside>
+</main>
+
+<footer id="footer"></footer>
+
+<script>
+"use strict";
+
+const FILES = {
+  articles:    "../data/articles.json",
+  transactions:"../data/transactions.json",
+  depth:       "../data/depth-chart.json",
+  statsMlb:    "../data/stats-mlb.json",
+  savant:      "../data/stats-savant.json",
+  milb:        "../data/stats-milb.json",
+  fg:          "../data/stats-fg.json",
+  bref:        "../data/stats-bref.json",
+  log:         "../data/scrape-log.json",
+  lastUpdated: "../data/last-updated.json",
+};
+const REPO = "https://github.com/cwds145/Yank-News";
+const WF = {
+  news:    REPO + "/actions/workflows/fetch-news.yml",
+  stats:   REPO + "/actions/workflows/fetch-stats.yml",
+  daily:   REPO + "/actions/workflows/depth-chart.yml",
+  flagged: REPO + "/actions/workflows/scrape-flagged.yml",
+};
+const POSITIONS = ["C","1B","2B","3B","SS","LF","CF","RF","DH","SP","RP"];
+const FALLBACK_IMG = "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 80'><rect width='120' height='80' fill='%230C2340'/><text x='60' y='53' text-anchor='middle' font-family='-apple-system,Segoe UI,sans-serif' font-weight='700' font-size='28' fill='%23fff'>NYY</text></svg>";
+
+const VALID_TABS = ["news","stats","schedule","roster","sources"];
+const STATS_SUBS  = ["mlb","savant","milb","fg","bref"];
+const STATS_LABELS = {mlb:"MLB",savant:"Savant",milb:"MiLB",fg:"FanGraphs",bref:"Baseball-Reference"};
+
+const S = {
+  d: {},
+  tab: "news",
+  sub: "mlb",
+  aff: null,
+  filters: { src: "all", q: "", sort: "desc", showTx: true },
+  sorts: {},
+  rosterView: "active",
+};
+
+// ---------- helpers
+const $ = sel => document.querySelector(sel);
+const $$ = (sel, root=document) => Array.from(root.querySelectorAll(sel));
+function esc(s){ if (s==null) return ""; return String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+function fmt(v){ return (v==null||v==="") ? "—" : String(v); }
+function fmtNum(v){ if (v==null||v==="") return "—"; const n = +v; return Number.isFinite(n) ? n.toLocaleString() : String(v); }
+function relAbs(d){
+  d = Math.max(0, d);
+  if (d < 60)    return Math.max(1,Math.floor(d)) + "s";
+  if (d < 3600)  return Math.floor(d/60)   + "m";
+  if (d < 86400) return Math.floor(d/3600) + "h";
+  return Math.floor(d/86400) + "d";
+}
+function relTime(iso){
+  if (!iso) return "—";
+  const t = new Date(iso).getTime();
+  if (isNaN(t)) return "—";
+  const d = (Date.now() - t) / 1000;
+  return d < 0 ? ("in " + relAbs(-d)) : (relAbs(d) + " ago");
+}
+function freshness(iso, fastH, midH){
+  if (!iso) return "red";
+  const ageH = (Date.now() - new Date(iso).getTime()) / 3600000;
+  if (isNaN(ageH)) return "red";
+  if (ageH < fastH) return "green";
+  if (ageH < midH)  return "yellow";
+  return "red";
+}
+function isPitcher(pos){ return ["P","SP","RP","CP","LHP","RHP","TWP"].includes((pos||"").toUpperCase()); }
+function logEntriesFor(matcher){
+  const log = (S.d.log && S.d.log.entries) || [];
+  return log.filter(e => matcher(e));
+}
+function lastLogFor(prefix){
+  const ents = logEntriesFor(e => (e.source||"").startsWith(prefix));
+  return ents.length ? ents[ents.length-1] : null;
+}
+
+// ---------- fetch
+async function fetchOne(url){
+  try {
+    const r = await fetch(url + "?t=" + Date.now(), { cache: "no-store" });
+    if (!r.ok) throw new Error("http " + r.status);
+    return await r.json();
+  } catch (e) {
+    console.warn("fetch failed:", url, e.message);
+    return null;
+  }
+}
+async function fetchAll(){
+  const entries = await Promise.all(
+    Object.entries(FILES).map(async ([k, url]) => [k, await fetchOne(url)])
+  );
+  S.d = Object.fromEntries(entries);
+}
+
+// ---------- header / sidebar
+function renderHeader(){
+  const al = (S.d.statsMlb && S.d.statsMlb.standings_al_east) || [];
+  const sorted = [...al].sort((a,b) => {
+    const ag = (a.gb==="-"||a.gb==null) ? 0 : parseFloat(a.gb)||0;
+    const bg = (b.gb==="-"||b.gb==null) ? 0 : parseFloat(b.gb)||0;
+    return ag - bg;
+  });
+  let strip = "AL EAST · ";
+  if (sorted.length) {
+    strip += sorted.map(t => {
+      const ab = t.abbr || abbrFor(t.team_id) || (t.name||"").slice(0,3).toUpperCase();
+      const gb = (t.gb && t.gb !== "-") ? " (" + t.gb + ")" : " (—)";
+      return ab + " " + (t.w ?? "?") + "-" + (t.l ?? "?") + gb;
+    }).join(" · ");
+  } else {
+    strip = "AL EAST · standings unavailable";
+  }
+  $("#standings").textContent = strip;
+
+  const lu = S.d.lastUpdated || {};
+  setPill("pill-news",  "News",  lu.news,           1, 2);
+  setPill("pill-stats", "Stats", lu.stats_safe,     1, 2);
+  setPill("pill-daily", "Daily", lu.stats_scraped, 26, 30);
+}
+function abbrFor(id){
+  const m = {147:"NYY",139:"TB",141:"TOR",110:"BAL",111:"BOS"};
+  return m[id] || null;
+}
+function setPill(id, label, iso, fastH, midH){
+  const el = $("#" + id);
+  if (!el) return;
+  const cls = freshness(iso, fastH, midH);
+  el.classList.remove("green","yellow","red");
+  el.classList.add(cls);
+  const age = iso ? relAbs((Date.now() - new Date(iso).getTime())/1000) : "—";
+  el.querySelector(".lbl").textContent = label + " " + age;
+}
+
+function renderSidebar(){
+  renderDepthSidebar();
+  renderTxSidebar();
+  renderBeatSidebar();
+}
+
+function renderDepthSidebar(){
+  const dc = S.d.depth;
+  const el = $("#side-depth");
+  if (!dc || !dc.positions || !dc.all_players || !dc.all_players.length) {
+    el.innerHTML = '<p class="help-text">No depth chart data yet.</p>';
+    return;
+  }
+  let h = "";
+  if (dc.source_used && dc.source_used !== "FanGraphs") {
+    h += '<p class="help-text">via ' + esc(dc.source_used) + '</p>';
+  }
+  for (const pos of POSITIONS) {
+    const lst = dc.positions[pos] || [];
+    if (!lst.length) continue;
+    const top = lst.slice(0, 3);
+    h += '<div class="dl-item"><span class="pos">' + pos + '</span>' +
+         top.map(p => esc(p.name)).join(" · ");
+    if (lst.length > 3) {
+      h += ' <a href="#" class="more-link" data-pos="' + pos + '">+' + (lst.length-3) + ' more</a>';
+    }
+    h += '</div>';
+  }
+  el.innerHTML = h;
+  $$("#side-depth .more-link").forEach(a => {
+    a.addEventListener("click", e => {
+      e.preventDefault();
+      const lst = dc.positions[a.dataset.pos];
+      a.parentElement.innerHTML = '<span class="pos">' + a.dataset.pos + '</span>' +
+        lst.map(p => esc(p.name)).join(" · ");
+    });
+  });
+}
+
+function renderTxSidebar(){
+  const tx = S.d.transactions;
+  const el = $("#side-tx");
+  if (!tx || !Array.isArray(tx.items) || !tx.items.length) {
+    el.innerHTML = '<p class="help-text">No transactions data.</p>';
+    return;
+  }
+  const cutoff = new Date(Date.now() - 14*86400000);
+  const recent = tx.items
+    .filter(it => it.date && new Date(it.date) >= cutoff)
+    .slice(0, 10);
+  if (!recent.length) {
+    el.innerHTML = '<p class="help-text">No transactions in last 14 days.</p>';
+    return;
+  }
+  let h = "";
+  for (const t of recent) {
+    const d = new Date(t.date);
+    const md = (d.getUTCMonth()+1) + "/" + d.getUTCDate();
+    h += '<div class="tx-link" title="' + esc(t.description) + '">' +
+         '<span class="d">' + md + '</span> ' +
+         (t.type ? '<span class="badge">' + esc(t.type) + '</span> ' : '') +
+         '<span class="p">' + esc(t.player||"") + '</span></div>';
+  }
+  h += '<p style="margin:10px 0 0"><a href="#news" id="tx-view-all">View all →</a></p>';
+  el.innerHTML = h;
+  $("#tx-view-all").addEventListener("click", e => {
+    e.preventDefault();
+    setTab("news");
+    setTimeout(() => {
+      const sec = $("#tx-section");
+      if (sec) sec.scrollIntoView({behavior:"smooth", block:"start"});
+    }, 80);
+  });
+}
+
+function renderBeatSidebar(){
+  $("#side-beat").innerHTML =
+    '<ul style="list-style:none;padding:0;margin:0;font-size:13px">' +
+    '<li style="margin:5px 0"><a href="https://x.com/Ken_Rosenthal" target="_blank" rel="noopener noreferrer">Ken Rosenthal</a></li>' +
+    '<li style="margin:5px 0"><a href="https://x.com/JonHeyman" target="_blank" rel="noopener noreferrer">Jon Heyman</a></li>' +
+    '<li style="margin:5px 0"><a href="https://x.com/Joelsherman1" target="_blank" rel="noopener noreferrer">Joel Sherman</a></li>' +
+    '<li style="margin:5px 0"><a href="https://x.com/BryanHoch" target="_blank" rel="noopener noreferrer">Bryan Hoch</a></li>' +
+    '</ul>';
+}
+
+// ---------- tab routing
+function applyHashTab(){
+  const h = (location.hash || "#news").slice(1);
+  S.tab = VALID_TABS.includes(h) ? h : "news";
+}
+function setTab(t){
+  if (!VALID_TABS.includes(t)) t = "news";
+  S.tab = t;
+  if (location.hash !== "#" + t) location.hash = t;
+  $$(".tabs button").forEach(b => b.setAttribute("aria-selected", b.dataset.tab === t ? "true" : "false"));
+  $$(".panel").forEach(p => {
+    const show = p.id === "panel-" + t;
+    p.hidden = !show;
+    p.classList.toggle("active", show);
+  });
+  renderActivePanel();
+}
+function renderActivePanel(){
+  ({news:renderNews, stats:renderStats, schedule:renderSchedule, roster:renderRoster, sources:renderSources})[S.tab]();
+}
+
+// ---------- News tab
+function renderNews(){
+  const arts = (S.d.articles && Array.isArray(S.d.articles.items)) ? S.d.articles.items : [];
+  const sources = ["all", ...Array.from(new Set(arts.map(a => a.source).filter(Boolean))).sort()];
+
+  let filtered = arts;
+  if (S.filters.src !== "all") filtered = filtered.filter(a => a.source === S.filters.src);
+  const q = S.filters.q.trim().toLowerCase();
+  if (q) filtered = filtered.filter(a =>
+    ((a.title||"") + " " + (a.summary||"")).toLowerCase().includes(q));
+  filtered = [...filtered].sort((a,b) => {
+    const ta = +new Date(a.published||0), tb = +new Date(b.published||0);
+    return S.filters.sort === "desc" ? tb - ta : ta - tb;
+  });
+
+  const chips = sources.map(s =>
+    '<button class="chip" data-src="' + esc(s) + '" aria-pressed="' + (s===S.filters.src) + '">' +
+    esc(s==="all"?"All":s) + '</button>').join("");
+
+  const ctrl =
+    '<div class="news-controls">' + chips +
+      '<input type="search" class="input-search" placeholder="Search title and summary…" value="' + esc(S.filters.q) + '">' +
+      '<select class="sort-select">' +
+        '<option value="desc"' + (S.filters.sort==="desc"?" selected":"") + '>Newest first</option>' +
+        '<option value="asc"'  + (S.filters.sort==="asc" ?" selected":"") + '>Oldest first</option>' +
+      '</select>' +
+      '<label style="display:flex;gap:5px;align-items:center;font-size:12px;color:var(--muted)">' +
+        '<input type="checkbox" id="show-tx-toggle"' + (S.filters.showTx?" checked":"") + '> ' +
+        'Transactions section</label>' +
+    '</div>';
+
+  let cards = "";
+  if (!filtered.length) {
+    cards = '<div class="empty-state">No articles match. Try clearing filters.</div>';
+  } else {
+    cards = filtered.map(a => {
+      const imgHtml = a.image
+        ? '<img class="article-img" src="' + esc(a.image) + '" loading="lazy" onerror="this.onerror=null;this.src=\'' + FALLBACK_IMG + '\'" alt="">'
+        : "";
+      const meta = esc(a.source||"") +
+        (a.author ? " · " + esc(a.author) : "") +
+        " · " + esc(relTime(a.published));
+      return '<article class="article">' + imgHtml +
+        '<div class="article-body">' +
+          '<a class="article-title" href="' + esc(a.link) + '" target="_blank" rel="noopener noreferrer">' + esc(a.title) + '</a>' +
+          '<div class="article-meta">' + meta + '</div>' +
+          '<div class="article-summary">' + esc(a.summary||"") + '</div>' +
+        '</div></article>';
+    }).join("");
+  }
+
+  let txSection = "";
+  if (S.filters.showTx) {
+    const tx = (S.d.transactions && S.d.transactions.items) || [];
+    const cutoff30 = new Date(Date.now() - 30*86400000);
+    const items = tx.filter(t => t.date && new Date(t.date) >= cutoff30);
+    if (items.length) {
+      txSection = '<h2 id="tx-section" style="margin:24px 0 12px;font-size:18px;color:var(--navy)">Recent Transactions</h2>' +
+        '<div class="card scroll-x" style="padding:0">' +
+        '<table class="data"><thead><tr><th>Date</th><th>Type</th><th>Player</th><th style="text-align:left">Description</th></tr></thead><tbody>' +
+        items.map(t =>
+          '<tr><td>' + esc(t.date) + '</td>' +
+              '<td>' + esc(t.type) + '</td>' +
+              '<td>' + esc(t.player) + '</td>' +
+              '<td style="text-align:left">' + esc(t.description) + '</td></tr>'
+        ).join("") +
+        '</tbody></table></div>';
+    }
+  }
+
+  $("#panel-news").innerHTML = ctrl + cards + txSection;
+
+  $$("#panel-news .chip").forEach(c => c.addEventListener("click", () => {
+    S.filters.src = c.dataset.src; renderNews();
+  }));
+  let searchT;
+  $("#panel-news .input-search").addEventListener("input", e => {
+    clearTimeout(searchT);
+    searchT = setTimeout(() => { S.filters.q = e.target.value; renderNews(); }, 200);
+  });
+  $("#panel-news .sort-select").addEventListener("change", e => {
+    S.filters.sort = e.target.value; renderNews();
+  });
+  const tg = $("#show-tx-toggle");
+  if (tg) tg.addEventListener("change", e => { S.filters.showTx = e.target.checked; renderNews(); });
+}
+
+// ---------- Stats tab
+function renderStats(){
+  const subs = STATS_SUBS.map(k =>
+    '<button data-sub="' + k + '" aria-selected="' + (k===S.sub) + '">' + STATS_LABELS[k] + '</button>'
+  ).join("");
+  let body = "";
+  switch (S.sub) {
+    case "mlb":    body = renderStatsMlb(); break;
+    case "savant": body = renderStatsSavant(); break;
+    case "milb":   body = renderStatsMilb(); break;
+    case "fg":     body = renderStatsFg(); break;
+    case "bref":   body = renderStatsBref(); break;
+  }
+  $("#panel-stats").innerHTML = '<div class="subtabs">' + subs + '</div>' + body;
+  $$("#panel-stats .subtabs button").forEach(b => b.addEventListener("click", () => {
+    S.sub = b.dataset.sub;
+    renderStats();
+  }));
+  bindSortableTables("#panel-stats");
+}
+
+function statusStrip(label, iso, sub){
+  const cls = freshness(iso, 1, 24);
+  const dot = '<span class="dot-status dot-' + cls + '"></span>';
+  return '<div style="display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin-bottom:10px">' +
+    '<strong style="color:var(--navy)">' + esc(label) + '</strong>' +
+    '<span style="font-size:12px;color:var(--muted)">' + dot + 'updated ' + relTime(iso) + '</span>' +
+    (sub ? '<span style="font-size:12px;color:var(--muted)">· ' + esc(sub) + '</span>' : '') +
+    '</div>';
+}
+
+function emptyState(label, prefix){
+  const last = lastLogFor(prefix);
+  let line;
+  if (last) {
+    line = "Last attempt: " + relTime(last.timestamp) + " (" + esc(last.note||("status "+last.status)) + ")";
+  } else {
+    line = "No scrape attempts logged yet.";
+  }
+  return '<div class="card"><h3 style="margin-bottom:8px;color:var(--navy)">' + esc(label) + " hasn't returned data yet</h3>" +
+    '<p class="help-text">' + line + '</p></div>';
+}
+
+function forceRefreshBar(workflowUrl){
+  return '<div class="refresh-bar">' +
+    '<span class="lab">ToS-flagged source. Refreshes once per 24 hours.</span>' +
+    '<a class="btn-link outline gated" href="' + workflowUrl + '" target="_blank" rel="noopener noreferrer">Force Refresh</a>' +
+    '<div class="help-text" style="width:100%">Opens GitHub Actions. Click "Run workflow" on that page.</div></div>';
+}
+
+function teamCardKv(pairs){
+  return '<div class="card"><div class="kv-grid">' +
+    pairs.map(([k,v]) => '<div class="kv"><span class="k">' + esc(k) + '</span><span class="v">' + esc(fmt(v)) + '</span></div>').join("") +
+    '</div></div>';
+}
+
+function tableBlock(title, tableKey, headers, rows, totalsRow){
+  if (!rows || !rows.length) return '<div class="card"><h3 class="section-title">' + esc(title) + '</h3><div class="empty-state">No rows yet.</div></div>';
+  const sort = S.sorts[tableKey];
+  let sortedRows = rows;
+  if (sort && sort.col != null) {
+    const colIdx = sort.col;
+    sortedRows = [...rows].sort((a,b) => {
+      const av = a[colIdx], bv = b[colIdx];
+      const an = parseFloat(String(av).replace(/[^\d.\-]/g,""));
+      const bn = parseFloat(String(bv).replace(/[^\d.\-]/g,""));
+      const aIsNum = !isNaN(an) && /\d/.test(String(av));
+      const bIsNum = !isNaN(bn) && /\d/.test(String(bv));
+      let cmp;
+      if (aIsNum && bIsNum) cmp = an - bn;
+      else cmp = String(av==null?"":av).localeCompare(String(bv==null?"":bv));
+      return sort.dir === "asc" ? cmp : -cmp;
+    });
+  }
+  const thead = '<thead><tr>' + headers.map((h, i) => {
+    const dir = (sort && sort.col===i) ? sort.dir : "";
+    return '<th><button data-table="' + tableKey + '" data-col="' + i + '" data-sort="' + dir + '">' + esc(h) + '</button></th>';
+  }).join("") + '</tr></thead>';
+  const tbody = '<tbody>' + sortedRows.map(r =>
+    '<tr>' + r.map(c => '<td>' + esc(fmt(c)) + '</td>').join("") + '</tr>'
+  ).join("");
+  const totals = totalsRow ? '<tr class="team-totals">' + totalsRow.map(c => '<td>' + esc(fmt(c)) + '</td>').join("") + '</tr>' : "";
+  return '<div class="card"><h3 class="section-title">' + esc(title) + '</h3>' +
+    '<div class="scroll-x"><table class="data">' + thead + tbody + totals + '</tbody></table></div></div>';
+}
+
+function bindSortableTables(scope){
+  $$(scope + " table.data thead th button").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const k = btn.dataset.table;
+      const col = +btn.dataset.col;
+      const cur = S.sorts[k];
+      const dir = (cur && cur.col===col && cur.dir==="desc") ? "asc" : "desc";
+      S.sorts[k] = { col, dir };
+      renderActivePanel();
+    });
+  });
+}
+
+function renderStatsMlb(){
+  const m = S.d.statsMlb;
+  if (!m || !m.team) return statusStrip("MLB Stats API", null) + emptyState("MLB Stats API", "MLB StatsAPI");
+  const t = m.team;
+  const rec = t.record || {};
+  const head = statusStrip("MLB Stats API", m.updated, "season " + (m.season||""));
+  const card = teamCardKv([
+    ["Record", (rec.w??"?") + "-" + (rec.l??"?")],
+    ["PCT", rec.pct],
+    ["GB", rec.gb],
+    ["Streak", rec.streak],
+    ["Last 10", rec.last10],
+    ["Run Diff", rec.run_diff!=null ? (rec.run_diff>0?"+":"") + rec.run_diff : null],
+  ]);
+
+  const ps = m.player_stats || {};
+  const roster = m.roster || [];
+  const batterRows = [];
+  const pitcherRows = [];
+  for (const r of roster) {
+    const ps_e = ps[String(r.id)];
+    if (!ps_e) continue;
+    if (ps_e.group === "hitting") {
+      const s = ps_e.stats || {};
+      batterRows.push([r.name||ps_e.name, s.G, s.AB, s.H, s.HR, s.RBI, s.SB, s.AVG, s.OBP, s.SLG, s.OPS]);
+    } else if (ps_e.group === "pitching") {
+      const s = ps_e.stats || {};
+      const wl = (s.W||"0") + "-" + (s.L||"0");
+      pitcherRows.push([r.name||ps_e.name, s.G, s.GS, wl, s.SV, s.IP, s.ERA, s.WHIP, s.SO]);
+    }
+  }
+  const tBat = m.team.batting || {};
+  const tPit = m.team.pitching || {};
+  const totBat = ["Team Total", tBat.G, tBat.AB, tBat.H, tBat.HR, tBat.RBI, tBat.SB, tBat.AVG, tBat.OBP, tBat.SLG, tBat.OPS];
+  const totPit = ["Team Total", tPit.G, tPit.GS, (tPit.W||"0")+"-"+(tPit.L||"0"), tPit.SV, tPit.IP, tPit.ERA, tPit.WHIP, tPit.SO];
+
+  const bat = tableBlock("Batters",  "mlb-bat", ["Name","G","AB","H","HR","RBI","SB","AVG","OBP","SLG","OPS"], batterRows, totBat);
+  const pit = tableBlock("Pitchers", "mlb-pit", ["Name","G","GS","W-L","SV","IP","ERA","WHIP","K"], pitcherRows, totPit);
+  return head + card + '<div class="two-col">' + bat + pit + '</div>';
+}
+
+function renderStatsSavant(){
+  const m = S.d.savant;
+  if (!m || !Array.isArray(m.players) || !m.players.length) {
+    return statusStrip("Baseball Savant", null) + emptyState("Baseball Savant", "Baseball Savant");
+  }
+  const head = statusStrip("Baseball Savant", m.updated, "season " + (m.season||""));
+  const expRows = [];
+  for (const p of m.players) {
+    const e = p.expected_batting; if (!e) continue;
+    expRows.push([p.name, e.pa, e.ba, e.est_ba, e.slg, e.est_slg, e.woba, e.est_woba,
+      e.est_woba_minus_woba!=null ? signFmt(e.est_woba_minus_woba) : ""]);
+  }
+  const sqRows = [];
+  for (const p of m.players) {
+    const s = p.statcast_batting; if (!s) continue;
+    sqRows.push([p.name, s.attempts, s.avg_ev, s.max_ev, s.barrel_pct, s.hardhit_pct]);
+  }
+  const ssRows = [];
+  for (const p of m.players) {
+    const s = p.sprint_speed; if (!s) continue;
+    ssRows.push([p.name, s.sprint_speed, s.hp_to_1b, s.bolts]);
+  }
+  const exp = tableBlock("Expected Batting", "sav-exp",
+    ["Name","PA","BA","est BA","SLG","est SLG","wOBA","est wOBA","est−actual"], expRows);
+  const sq  = tableBlock("Statcast Quality", "sav-sq",
+    ["Name","Attempts","Avg EV","Max EV","Barrel %","Hard-hit %"], sqRows);
+  const sp  = tableBlock("Sprint Speed", "sav-sp",
+    ["Name","Sprint","HP→1B","Bolts"], ssRows);
+  return head + '<div class="two-col">' + exp + sq + '</div>' + sp;
+}
+
+function signFmt(n){
+  if (n == null) return "";
+  const cls = n > 0 ? "diff-pos" : (n < 0 ? "diff-neg" : "");
+  const txt = (n > 0 ? "+" : "") + n.toFixed(3);
+  return '<span class="' + cls + '">' + esc(txt) + '</span>';
+}
+
+function renderStatsMilb(){
+  const m = S.d.milb;
+  if (!m || !Array.isArray(m.affiliates) || !m.affiliates.length) {
+    return statusStrip("MLB Stats API · MiLB", null) + emptyState("MiLB Stats", "MLB MiLB");
+  }
+  const aff = m.affiliates;
+  if (S.aff == null || !aff.find(a => a.id === S.aff)) S.aff = aff[0].id;
+  const cur = aff.find(a => a.id === S.aff) || aff[0];
+  const pills = aff.map(a =>
+    '<button data-aff="' + a.id + '" aria-selected="' + (a.id===cur.id) + '">' +
+    esc(a.level) + " " + esc(a.abbr||a.name) + '</button>').join("");
+  const head = statusStrip("MLB Stats API · MiLB", m.updated, "season " + (m.season||""));
+  const tBat = cur.team_batting || {};
+  const tPit = cur.team_pitching || {};
+  const card = teamCardKv([
+    ["Affiliate", cur.name],
+    ["League", cur.league],
+    ["AVG", tBat.AVG], ["OBP", tBat.OBP], ["SLG", tBat.SLG], ["OPS", tBat.OPS],
+    ["ERA", tPit.ERA], ["WHIP", tPit.WHIP],
+  ]);
+
+  const ps = cur.player_stats || {};
+  const batRows = [], pitRows = [];
+  for (const r of (cur.roster || [])) {
+    const e = ps[String(r.id)]; if (!e) continue;
+    const s = e.stats || {};
+    if (e.group === "hitting") {
+      batRows.push([r.name||e.name, s.G, s.AB, s.H, s.HR, s.RBI, s.SB, s.AVG, s.OBP, s.SLG, s.OPS]);
+    } else {
+      const wl = (s.W||"0") + "-" + (s.L||"0");
+      pitRows.push([r.name||e.name, s.G, s.GS, wl, s.SV, s.IP, s.ERA, s.WHIP, s.SO]);
+    }
+  }
+  const totBat = ["Team Total", tBat.G, tBat.AB, tBat.H, tBat.HR, tBat.RBI, tBat.SB, tBat.AVG, tBat.OBP, tBat.SLG, tBat.OPS];
+  const totPit = ["Team Total", tPit.G, tPit.GS, (tPit.W||"0")+"-"+(tPit.L||"0"), tPit.SV, tPit.IP, tPit.ERA, tPit.WHIP, tPit.SO];
+  const bat = tableBlock("Batters",  "milb-bat-"+cur.id, ["Name","G","AB","H","HR","RBI","SB","AVG","OBP","SLG","OPS"], batRows, totBat);
+  const pit = tableBlock("Pitchers", "milb-pit-"+cur.id, ["Name","G","GS","W-L","SV","IP","ERA","WHIP","K"], pitRows, totPit);
+
+  const subPills = '<div class="subtabs" style="margin-bottom:10px">' + pills + '</div>';
+  const html = head + subPills + card + '<div class="two-col">' + bat + pit + '</div>';
+  setTimeout(() => {
+    $$("#panel-stats .subtabs button[data-aff]").forEach(b => b.addEventListener("click", () => {
+      S.aff = +b.dataset.aff; renderStats();
+    }));
+  }, 0);
+  return html;
+}
+
+function renderStatsFg(){
+  const m = S.d.fg;
+  const head = statusStrip("FanGraphs · Yankees", m && m.updated, "1× per 24h");
+  const bar = forceRefreshBar(WF.flagged);
+  if (!m || !Array.isArray(m.batters) || (!m.batters.length && !(m.pitchers||[]).length)) {
+    return head + bar + emptyState("FanGraphs", "FanGraphs Yankees");
+  }
+  const tBat = m.team_batting || {};
+  const tPit = m.team_pitching || {};
+  const card = teamCardKv([
+    ["AVG", tBat.AVG], ["OBP", tBat.OBP], ["SLG", tBat.SLG],
+    ["wOBA", tBat.wOBA], ["wRC+", tBat["wRC+"]],
+    ["ERA", tPit.ERA], ["FIP", tPit.FIP], ["WHIP", tPit.WHIP],
+    ["WAR (bat)", tBat.WAR], ["WAR (pit)", tPit.WAR],
+  ]);
+  const batRows = (m.batters||[]).map(b =>
+    [b.name, b.G, b.PA, b.AVG, b.OBP, b.SLG, b.wOBA, b["wRC+"], b.WAR]);
+  const pitRows = (m.pitchers||[]).map(p =>
+    [p.name, p.G, p.IP, p.ERA, p.FIP, p.WHIP, p.K_per_9, p.BB_per_9, p.WAR]);
+  const totBat = ["Team Total", tBat.G, tBat.PA, tBat.AVG, tBat.OBP, tBat.SLG, tBat.wOBA, tBat["wRC+"], tBat.WAR];
+  const totPit = ["Team Total", tPit.G, tPit.IP, tPit.ERA, tPit.FIP, tPit.WHIP, tPit.K_per_9, tPit.BB_per_9, tPit.WAR];
+  const bat = tableBlock("Batters",  "fg-bat", ["Name","G","PA","AVG","OBP","SLG","wOBA","wRC+","WAR"], batRows, totBat);
+  const pit = tableBlock("Pitchers", "fg-pit", ["Name","G","IP","ERA","FIP","WHIP","K/9","BB/9","WAR"], pitRows, totPit);
+  return head + bar + card + '<div class="two-col">' + bat + pit + '</div>';
+}
+
+function renderStatsBref(){
+  const m = S.d.bref;
+  const head = statusStrip("Baseball-Reference · Yankees", m && m.updated, "1× per 24h");
+  const bar = forceRefreshBar(WF.flagged);
+  if (!m || !Array.isArray(m.batters) || (!m.batters.length && !(m.pitchers||[]).length)) {
+    return head + bar + emptyState("Baseball-Reference", "Baseball-Reference Yankees");
+  }
+  const rec = m.team_record || {};
+  const tBat = m.team_batting || {};
+  const tPit = m.team_pitching || {};
+  const card = teamCardKv([
+    ["Record", (rec.w??"?") + "-" + (rec.l??"?")],
+    ["Div Rank", rec.div_rank],
+    ["OPS+", tBat["OPS+"]],
+    ["ERA+", tPit["ERA+"]],
+    ["rWAR (bat)", tBat.rWAR],
+    ["rWAR (pit)", tPit.rWAR],
+  ]);
+  const batRows = (m.batters||[]).map(b =>
+    [b.name, b.age, b.G, b.PA, b.BA, b.OBP, b.SLG, b.OPS, b["OPS+"], b.rWAR]);
+  const pitRows = (m.pitchers||[]).map(p =>
+    [p.name, p.age, (p.W||"0")+"-"+(p.L||"0"), p.ERA, p.IP, p.WHIP, p["ERA+"], p.FIP, p.rWAR]);
+  const totBat = ["Team Total", "", tBat.G, tBat.PA, tBat.BA, tBat.OBP, tBat.SLG, tBat.OPS, tBat["OPS+"], tBat.rWAR];
+  const totPit = ["Team Total", "", (tPit.W||"0")+"-"+(tPit.L||"0"), tPit.ERA, tPit.IP, tPit.WHIP, tPit["ERA+"], tPit.FIP, tPit.rWAR];
+  const bat = tableBlock("Batters",  "bref-bat", ["Name","Age","G","PA","AVG","OBP","SLG","OPS","OPS+","rWAR"], batRows, totBat);
+  const pit = tableBlock("Pitchers", "bref-pit", ["Name","Age","W-L","ERA","IP","WHIP","ERA+","FIP","rWAR"], pitRows, totPit);
+  return head + bar + card + '<div class="two-col">' + bat + pit + '</div>';
+}
+
+// ---------- Schedule tab
+function renderSchedule(){
+  const m = S.d.statsMlb;
+  const games = (m && m.schedule) || [];
+  if (!games.length) {
+    $("#panel-schedule").innerHTML = '<div class="card"><div class="empty-state">No schedule data available.</div></div>';
+    return;
+  }
+  const today = new Date();
+  const todayKey = today.toISOString().slice(0,10);
+  const past = [], today_g = [], future = [];
+  for (const g of games) {
+    if (!g.date) continue;
+    const d = new Date(g.date);
+    const key = d.toISOString().slice(0,10);
+    if (key === todayKey) today_g.push(g);
+    else if (d < today) past.push(g);
+    else future.push(g);
+  }
+  past.sort((a,b) => new Date(b.date) - new Date(a.date));
+  future.sort((a,b) => new Date(a.date) - new Date(b.date));
+
+  function row(g){
+    const d = new Date(g.date);
+    const dateStr = d.toLocaleDateString("en-US", {weekday:"short", month:"numeric", day:"numeric", timeZone:"America/New_York"});
+    const timeStr = d.toLocaleTimeString("en-US", {hour:"numeric", minute:"2-digit", timeZone:"America/New_York"});
+    const vsAt = g.home_away === "home" ? "vs" : "@";
+    const opp = esc(g.opponent_abbr || g.opponent || "");
+    let result = "";
+    const st = (g.status||"").toLowerCase();
+    if (st === "final" || st.startsWith("game over")) {
+      const my = g.home_away === "home" ? g.home_score : g.away_score;
+      const op = g.home_away === "home" ? g.away_score : g.home_score;
+      const win = my != null && op != null && my > op;
+      const loss = my != null && op != null && my < op;
+      const badge = win ? '<span class="badge win">W</span>' : (loss ? '<span class="badge loss">L</span>' : '<span class="badge final">F</span>');
+      result = badge + ' <strong>' + (my??"?") + "-" + (op??"?") + '</strong>' +
+        (g.winning_pitcher ? ' <span style="color:var(--muted);font-size:11px">W: ' + esc(g.winning_pitcher) + '</span>' : '');
+    } else if (st === "in progress" || st === "live") {
+      result = '<span class="badge live">LIVE</span> ' + (g.home_score!=null ? (g.home_score+"-"+g.away_score) : "");
+    } else if (st === "postponed") {
+      result = '<span class="badge final">PPD</span>';
+    } else {
+      result = '<span style="color:var(--muted)">' + esc(timeStr) + '</span>';
+    }
+    return '<tr>' +
+      '<td style="white-space:nowrap">' + esc(dateStr) + '</td>' +
+      '<td>' + vsAt + " " + opp + '</td>' +
+      '<td style="text-align:left">' + result + '</td>' +
+      '</tr>';
+  }
+  function tableSec(title, rows){
+    if (!rows.length) return '<div class="card"><h3 class="section-title">' + esc(title) + '</h3><div class="empty-state" style="padding:16px">No games.</div></div>';
+    return '<div class="card" style="padding:0"><h3 class="section-title" style="padding:14px 14px 0">' + esc(title) + '</h3>' +
+      '<div class="scroll-x"><table class="data"><tbody>' + rows.map(row).join("") + '</tbody></table></div></div>';
+  }
+
+  $("#panel-schedule").innerHTML =
+    tableSec("Today", today_g) +
+    tableSec("Last 7 Days", past.slice(0, 10)) +
+    tableSec("Next 7 Days", future.slice(0, 10));
+}
+
+// ---------- Roster tab
+function renderRoster(){
+  const m = S.d.statsMlb;
+  if (!m) {
+    $("#panel-roster").innerHTML = '<div class="card"><div class="empty-state">No roster data available.</div></div>';
+    return;
+  }
+  const view = S.rosterView;
+  const toggle =
+    '<div class="subtabs">' +
+      ['active','40man','il'].map(v => {
+        const lbl = v==='active'?'Active 26-man':v==='40man'?'40-man':'Injured List';
+        return '<button data-rview="' + v + '" aria-selected="' + (v===view) + '">' + esc(lbl) + '</button>';
+      }).join("") +
+    '</div>';
+
+  let html = toggle;
+  if (view === "il") {
+    const il = m.injuries || [];
+    if (!il.length) html += '<div class="card"><div class="empty-state">No active injuries.</div></div>';
+    else {
+      const rows = il.map(p => '<tr><td>' + esc(p.name) + '</td><td>' + esc(p.position||"") + '</td><td style="text-align:left">' + esc(p.status||p.status_code||"") + '</td></tr>').join("");
+      html += '<div class="card scroll-x" style="padding:0"><table class="data"><thead><tr><th>Player</th><th>Pos</th><th style="text-align:left">Status</th></tr></thead><tbody>' + rows + '</tbody></table></div>';
+    }
+  } else {
+    const roster = (m.roster || []).filter(r => view === "40man" ? true : r.is_active);
+    const dc = S.d.depth || {};
+    const spSet = new Set(((dc.positions && dc.positions.SP) || []).map(p => p.name));
+    const rpSet = new Set(((dc.positions && dc.positions.RP) || []).map(p => p.name));
+    const groups = { "Catchers": [], "Infield": [], "Outfield": [], "Starting Pitchers": [], "Bullpen": [], "Other Pitchers": [] };
+    for (const r of roster) {
+      const pos = (r.position||"").toUpperCase();
+      if (pos === "C") groups["Catchers"].push(r);
+      else if (["1B","2B","3B","SS","IF","DH"].includes(pos)) groups["Infield"].push(r);
+      else if (["LF","CF","RF","OF"].includes(pos)) groups["Outfield"].push(r);
+      else if (isPitcher(pos)) {
+        if (spSet.has(r.name)) groups["Starting Pitchers"].push(r);
+        else if (rpSet.has(r.name)) groups["Bullpen"].push(r);
+        else groups["Other Pitchers"].push(r);
+      } else {
+        groups["Other Pitchers"].push(r);
+      }
+    }
+    for (const [label, list] of Object.entries(groups)) {
+      if (!list.length) continue;
+      const rows = list.map(r => {
+        const status = r.is_active ? "" : esc(r.status||r.status_code||"");
+        return '<tr><td style="text-align:right">' + esc(r.jersey||"") + '</td><td>' + esc(r.name) + '</td><td>' + esc(r.position||"") + '</td><td style="text-align:left">' + status + '</td></tr>';
+      }).join("");
+      html += '<div class="card" style="padding:0;margin-bottom:10px"><h3 class="section-title" style="padding:12px 14px 0">' + esc(label) + " (" + list.length + ")</h3>" +
+        '<div class="scroll-x"><table class="data"><thead><tr><th style="text-align:right">#</th><th>Name</th><th>Pos</th><th style="text-align:left">Status</th></tr></thead><tbody>' + rows + '</tbody></table></div></div>';
+    }
+  }
+  $("#panel-roster").innerHTML = html;
+  $$("#panel-roster .subtabs button").forEach(b => b.addEventListener("click", () => {
+    S.rosterView = b.dataset.rview;
+    renderRoster();
+  }));
+}
+
+// ---------- Data Sources tab
+function renderSources(){
+  const buttons =
+    '<div class="card"><h3 class="section-title">Force Refresh</h3>' +
+    '<div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:8px">' +
+      '<a class="btn-link" href="' + WF.news    + '" target="_blank" rel="noopener noreferrer">Refresh News Now</a>' +
+      '<a class="btn-link" href="' + WF.stats   + '" target="_blank" rel="noopener noreferrer">Refresh Stats Now</a>' +
+      '<a class="btn-link" href="' + WF.daily   + '" target="_blank" rel="noopener noreferrer">Refresh Depth Chart Now</a>' +
+      '<a class="btn-link gated" href="' + WF.flagged + '" target="_blank" rel="noopener noreferrer">Refresh Flagged Now</a>' +
+    '</div>' +
+    '<p class="help-text">Force-refresh requires GitHub sign-in. After clicking "Run workflow" there, return here and Refresh.</p>' +
+    '<p class="help-text">Lock is local UX only. Actual run still requires GitHub sign-in.</p>' +
+    '</div>';
+
+  // Source health (latest entry per source name)
+  const log = (S.d.log && S.d.log.entries) || [];
+  const latest = {};
+  for (const e of log) {
+    if (!e.source) continue;
+    if (!latest[e.source] || (e.timestamp||"") > (latest[e.source].timestamp||"")) latest[e.source] = e;
+  }
+  const sourceRows = Object.values(latest)
+    .sort((a,b) => (b.timestamp||"").localeCompare(a.timestamp||""));
+  const healthRows = sourceRows.map(e => {
+    const status = +e.status;
+    const note = (e.note||"").toLowerCase();
+    let cls;
+    if (note.includes("skipped") || note.includes("kept_lkg") || note.includes("preserved")) cls = "yellow";
+    else if (status >= 200 && status < 300) cls = "green";
+    else cls = "red";
+    return '<tr>' +
+      '<td><span class="dot-status dot-' + cls + '"></span>' + esc(e.source) + '</td>' +
+      '<td>' + esc(relTime(e.timestamp)) + '</td>' +
+      '<td>' + (e.status||"—") + '</td>' +
+      '<td>' + (e.items==null?"—":e.items) + '</td>' +
+      '<td style="text-align:left">' + esc(e.note||"") + '</td>' +
+    '</tr>';
+  }).join("");
+  const health = '<div class="card" style="padding:0">' +
+    '<h3 class="section-title" style="padding:14px 14px 0">Source Health (latest per source)</h3>' +
+    '<div class="scroll-x"><table class="data"><thead><tr><th style="text-align:left">Source</th><th>Last Run</th><th>HTTP</th><th>Items</th><th style="text-align:left">Note</th></tr></thead><tbody>' +
+    (healthRows || '<tr><td colspan="5" style="text-align:center;color:var(--muted);padding:14px">No log data.</td></tr>') +
+    '</tbody></table></div></div>';
+
+  // Recent activity (last 50)
+  const recent = [...log].sort((a,b) => (b.timestamp||"").localeCompare(a.timestamp||"")).slice(0, 50);
+  const recentRows = recent.map(e => {
+    const status = +e.status;
+    const note = (e.note||"").toLowerCase();
+    let cls;
+    if (note.includes("skipped") || note.includes("kept_lkg") || note.includes("preserved")) cls = "yellow";
+    else if (status >= 200 && status < 300) cls = "green";
+    else cls = "red";
+    return '<tr>' +
+      '<td><span class="dot-status dot-' + cls + '"></span>' + esc(e.timestamp||"") + '</td>' +
+      '<td>' + esc(e.source||"") + '</td>' +
+      '<td>' + (e.status||"—") + '</td>' +
+      '<td>' + (e.items==null?"—":e.items) + '</td>' +
+      '<td style="text-align:left">' + esc(e.note||"") + '</td>' +
+    '</tr>';
+  }).join("");
+  const activity = '<div class="card" style="padding:0">' +
+    '<h3 class="section-title" style="padding:14px 14px 0">Recent Activity (last 50)</h3>' +
+    '<div class="scroll-x"><table class="data"><thead><tr><th style="text-align:left">Timestamp</th><th style="text-align:left">Source</th><th>HTTP</th><th>Items</th><th style="text-align:left">Note</th></tr></thead><tbody>' +
+    (recentRows || '<tr><td colspan="5" style="text-align:center;color:var(--muted);padding:14px">No log data.</td></tr>') +
+    '</tbody></table></div></div>';
+
+  const tosNote = '<p class="help-text" style="margin-top:14px;text-align:center">' +
+    'ToS-flagged sources (FanGraphs, Baseball-Reference) are scraped at most once per 24 hours per their terms. ' +
+    'All scrapes are logged. Force Refresh respects these limits unless force=true is set on the workflow dispatch.' +
+    '</p>';
+
+  $("#panel-sources").innerHTML = buttons + health + activity + tosNote;
+}
+
+// ---------- footer
+function renderFooter(){
+  const ts = new Date().toUTCString();
+  $("#footer").innerHTML =
+    'Yank News · open source · <a href="' + REPO + '" target="_blank" rel="noopener noreferrer">' + REPO + '</a><br>' +
+    '<span style="font-size:11px">Page rendered ' + esc(ts) + '</span>';
+}
+
+// ---------- init / events
+function attachEvents(){
+  $$(".tabs button").forEach(b => b.addEventListener("click", () => setTab(b.dataset.tab)));
+  window.addEventListener("hashchange", () => { applyHashTab(); setTab(S.tab); });
+  $("#refresh-btn").addEventListener("click", refresh);
+  // Password gate for ToS-flagged Force Refresh buttons (delegated; works on
+  // dynamically-rendered .gated anchors). Local UX only — workflow runs still
+  // require GitHub sign-in.
+  document.addEventListener("click", e => {
+    const a = e.target.closest(".gated");
+    if (!a) return;
+    e.preventDefault();
+    if (document.body.classList.contains("tos-unlocked")) {
+      window.open(a.href, "_blank", "noopener,noreferrer");
+      return;
+    }
+    const entry = prompt("Force Refresh requires password (ToS-flagged source):");
+    if (entry == null) return;
+    if (entry.trim().toUpperCase() === "CWS") {
+      try { sessionStorage.setItem("tos_unlock", "1"); } catch (_) {}
+      document.body.classList.add("tos-unlocked");
+      window.open(a.href, "_blank", "noopener,noreferrer");
+    } else {
+      alert("Incorrect password.");
+    }
+  });
+}
+
+async function refresh(){
+  const btn = $("#refresh-btn");
+  btn.classList.add("loading");
+  btn.disabled = true;
+  btn.textContent = "Refreshing…";
+  try {
+    await fetchAll();
+    renderHeader();
+    renderSidebar();
+    renderActivePanel();
+    renderFooter();
+  } finally {
+    btn.classList.remove("loading");
+    btn.disabled = false;
+    btn.textContent = "Refresh";
+  }
+}
+
+async function init(){
+  // Restore unlock state from this tab's sessionStorage before any render so
+  // gated buttons paint without a locked → unlocked flash.
+  try {
+    if (sessionStorage.getItem("tos_unlock") === "1") {
+      document.body.classList.add("tos-unlocked");
+    }
+  } catch (_) {}
+  attachEvents();
+  applyHashTab();
+  // Initial paint with placeholders so user sees structure immediately
+  $$(".tabs button").forEach(b => b.setAttribute("aria-selected", b.dataset.tab === S.tab ? "true" : "false"));
+  $$(".panel").forEach(p => {
+    const show = p.id === "panel-" + S.tab;
+    p.hidden = !show;
+    p.classList.toggle("active", show);
+  });
+  renderFooter();
+  await fetchAll();
+  renderHeader();
+  renderSidebar();
+  renderActivePanel();
+}
+init();
+</script>
+</body>
+</html>
