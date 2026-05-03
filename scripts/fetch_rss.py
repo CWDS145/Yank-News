@@ -36,7 +36,7 @@ FEEDS = [
     ("MLB Trade Rumors NYY",     "https://www.mlbtraderumors.com/category/new-york-yankees/feed", True),
     ("ESPN MLB",                 "https://www.espn.com/espn/rss/mlb/news",               False),
     ("CBS Sports MLB",           "https://www.cbssports.com/rss/headlines/mlb/",         False),
-    ("The Athletic Yankees Pod", "https://feeds.megaphone.fm/yankeespod",                True),
+    ("Pinstripe Post (Sherman)", "https://feeds.megaphone.fm/NYPH3296340517",           True),
 ]
 
 BASE_KEYWORDS = [
