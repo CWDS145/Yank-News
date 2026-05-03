@@ -847,6 +847,166 @@
       "status": 200,
       "items": 37,
       "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-03T16:55:54Z",
+      "source": "FanGraphs Yankees",
+      "url": "https://www.fangraphs.com/teams/yankees",
+      "status": 200,
+      "items": 47,
+      "note": "ok | html_tables: batter_rows=33 pitcher_rows=18"
+    },
+    {
+      "timestamp": "2026-05-03T16:55:55Z",
+      "source": "FanGraphs MiLB: Scranton/WB RailRiders",
+      "url": "https://www.fangraphs.com/teams/scranton-wilkes-barre-railriders",
+      "status": 500,
+      "items": 0,
+      "note": "search_no_match; http_500"
+    },
+    {
+      "timestamp": "2026-05-03T16:55:57Z",
+      "source": "FanGraphs MiLB: Somerset Patriots",
+      "url": "https://www.fangraphs.com/teams/somerset-patriots",
+      "status": 500,
+      "items": 0,
+      "note": "search_no_match; http_500"
+    },
+    {
+      "timestamp": "2026-05-03T16:55:59Z",
+      "source": "FanGraphs MiLB: Hudson Valley Renegades",
+      "url": "https://www.fangraphs.com/teams/hudson-valley-renegades",
+      "status": 500,
+      "items": 0,
+      "note": "search_no_match; http_500"
+    },
+    {
+      "timestamp": "2026-05-03T16:56:01Z",
+      "source": "FanGraphs MiLB: Tampa Tarpons",
+      "url": "https://www.fangraphs.com/teams/tampa-tarpons",
+      "status": 500,
+      "items": 0,
+      "note": "search_no_match; http_500"
+    },
+    {
+      "timestamp": "2026-05-03T16:56:02Z",
+      "source": "Baseball-Reference Yankees",
+      "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
+      "status": 200,
+      "items": 32,
+      "note": "ok | tables: bat_id=players_standard_batting pit_id=players_standard_pitching batters=16 pitchers=16"
+    },
+    {
+      "timestamp": "2026-05-03T16:59:19Z",
+      "source": "FanGraphs Yankees",
+      "url": "https://www.fangraphs.com/teams/yankees",
+      "status": 200,
+      "items": 47,
+      "note": "ok | html_tables: batter_rows=33 pitcher_rows=18"
+    },
+    {
+      "timestamp": "2026-05-03T16:59:20Z",
+      "source": "FanGraphs MiLB: Scranton/WB RailRiders",
+      "url": "https://www.fangraphs.com/teams/scranton-wilkes-barre-railriders",
+      "status": 500,
+      "items": 0,
+      "note": "search_no_match; http_500"
+    },
+    {
+      "timestamp": "2026-05-03T16:59:22Z",
+      "source": "FanGraphs MiLB: Somerset Patriots",
+      "url": "https://www.fangraphs.com/teams/somerset-patriots",
+      "status": 500,
+      "items": 0,
+      "note": "search_no_match; http_500"
+    },
+    {
+      "timestamp": "2026-05-03T16:59:24Z",
+      "source": "FanGraphs MiLB: Hudson Valley Renegades",
+      "url": "https://www.fangraphs.com/teams/hudson-valley-renegades",
+      "status": 500,
+      "items": 0,
+      "note": "search_no_match; http_500"
+    },
+    {
+      "timestamp": "2026-05-03T16:59:27Z",
+      "source": "FanGraphs MiLB: Tampa Tarpons",
+      "url": "https://www.fangraphs.com/teams/tampa-tarpons",
+      "status": 500,
+      "items": 0,
+      "note": "search_no_match; http_500"
+    },
+    {
+      "timestamp": "2026-05-03T16:59:27Z",
+      "source": "FanGraphs MiLB",
+      "url": "<all>",
+      "status": 0,
+      "items": 0,
+      "note": "all_failed_kept_lkg"
+    },
+    {
+      "timestamp": "2026-05-03T16:59:27Z",
+      "source": "Baseball-Reference Yankees",
+      "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
+      "status": 200,
+      "items": 32,
+      "note": "ok | tables: bat_id=players_standard_batting pit_id=players_standard_pitching batters=16 pitchers=16"
+    },
+    {
+      "timestamp": "2026-05-03T16:59:50Z",
+      "source": "FanGraphs Yankees",
+      "url": "https://www.fangraphs.com/teams/yankees",
+      "status": 0,
+      "items": 0,
+      "note": "skipped_23h_gate"
+    },
+    {
+      "timestamp": "2026-05-03T16:59:51Z",
+      "source": "FanGraphs MiLB: Scranton/WB RailRiders",
+      "url": "https://www.fangraphs.com/teams/scranton-wilkes-barre-railriders",
+      "status": 500,
+      "items": 0,
+      "note": "search_no_match; http_500"
+    },
+    {
+      "timestamp": "2026-05-03T16:59:53Z",
+      "source": "FanGraphs MiLB: Somerset Patriots",
+      "url": "https://www.fangraphs.com/teams/somerset-patriots",
+      "status": 500,
+      "items": 0,
+      "note": "search_no_match; http_500"
+    },
+    {
+      "timestamp": "2026-05-03T16:59:55Z",
+      "source": "FanGraphs MiLB: Hudson Valley Renegades",
+      "url": "https://www.fangraphs.com/teams/hudson-valley-renegades",
+      "status": 500,
+      "items": 0,
+      "note": "search_no_match; http_500"
+    },
+    {
+      "timestamp": "2026-05-03T16:59:58Z",
+      "source": "FanGraphs MiLB: Tampa Tarpons",
+      "url": "https://www.fangraphs.com/teams/tampa-tarpons",
+      "status": 500,
+      "items": 0,
+      "note": "search_no_match; http_500"
+    },
+    {
+      "timestamp": "2026-05-03T16:59:58Z",
+      "source": "FanGraphs MiLB",
+      "url": "<all>",
+      "status": 0,
+      "items": 0,
+      "note": "all_failed_kept_lkg"
+    },
+    {
+      "timestamp": "2026-05-03T16:59:58Z",
+      "source": "Baseball-Reference Yankees",
+      "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
+      "status": 0,
+      "items": 0,
+      "note": "skipped_23h_gate"
     }
   ]
 }

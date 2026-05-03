@@ -1,0 +1,54 @@
+name: Flagged Stats Refresh (Daily)
+
+on:
+  schedule:
+    - cron: "0 14 * * *"   # 14:00 UTC daily (10am ET / 7am PT — off-peak, ToS-respectful)
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Bypass 23h gate (use sparingly, respects ToS limits)"
+        required: false
+        default: "false"
+        type: choice
+        options: ["false", "true"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape-flagged
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      FORCE: ${{ github.event.inputs.force || 'false' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deps
+        run: pip install -r scripts/requirements.txt
+      - name: FanGraphs Yankees
+        continue-on-error: true
+        run: python scripts/scrape_fangraphs.py
+      - name: FanGraphs MiLB
+        continue-on-error: true
+        run: python scripts/scrape_fangraphs_milb.py
+      - name: Baseball-Reference Yankees
+        continue-on-error: true
+        run: python scripts/scrape_bref.py
+      - name: Commit if changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/stats-fg.json data/stats-fg-milb.json data/stats-bref.json data/scrape-log.json data/last-updated.json
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            ts=$(date -u +'%Y-%m-%dT%H:%M:%SZ')
+            git commit -m "data: flagged stats refresh ${ts}"
+            git push
+          fi
