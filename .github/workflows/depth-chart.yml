@@ -1,15 +1,20 @@
-name: News Refresh
+name: Depth Chart Refresh
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "0 10 * * *"
   workflow_dispatch:
+    inputs:
+      force:
+        description: "Force refresh (bypasses any future rate limit)"
+        required: false
+        default: "false"
 
 permissions:
   contents: write
 
 concurrency:
-  group: fetch-news
+  group: depth-chart
   cancel-in-progress: false
 
 jobs:
@@ -27,26 +32,19 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
-      - name: Fetch RSS
-        continue-on-error: true
-        run: python scripts/fetch_rss.py
+      - name: Scrape depth chart
+        env:
+          FORCE_REFRESH: ${{ github.event.inputs.force }}
+        run: python scripts/scrape_depth_chart.py
 
-      - name: Scrape YES Network
-        continue-on-error: true
-        run: python scripts/scrape_yes.py
-
-      - name: Scrape CBS Transactions
-        continue-on-error: true
-        run: python scripts/scrape_cbs_transactions.py
-
-      - name: Commit data
+      - name: Commit depth chart data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/*.json
+          git add data/depth-chart.json data/scrape-log.json
           if git diff --cached --quiet; then
             echo "No data changes — skipping commit."
             exit 0
           fi
-          git commit -m "data: news refresh $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git commit -m "data: depth chart refresh $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
           git push

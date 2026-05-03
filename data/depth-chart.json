@@ -1,0 +1,180 @@
+{
+  "updated": "2026-05-03T14:36:26Z",
+  "source_used": "FanGraphs",
+  "positions": {
+    "C": [
+      {
+        "name": "Austin Wells",
+        "rank": 1
+      },
+      {
+        "name": "J.C. Escarra",
+        "rank": 2
+      }
+    ],
+    "1B": [
+      {
+        "name": "Ben Rice",
+        "rank": 1
+      },
+      {
+        "name": "Paul Goldschmidt",
+        "rank": 2
+      }
+    ],
+    "2B": [
+      {
+        "name": "Jazz Chisholm",
+        "rank": 1
+      }
+    ],
+    "3B": [
+      {
+        "name": "Ryan McMahon",
+        "rank": 1
+      }
+    ],
+    "SS": [
+      {
+        "name": "Jose Caballero",
+        "rank": 1
+      },
+      {
+        "name": "Anthony Volpe",
+        "rank": 2
+      }
+    ],
+    "LF": [
+      {
+        "name": "Cody Bellinger",
+        "rank": 1
+      }
+    ],
+    "CF": [
+      {
+        "name": "Trent Grisham",
+        "rank": 1
+      }
+    ],
+    "RF": [
+      {
+        "name": "Aaron Judge",
+        "rank": 1
+      }
+    ],
+    "DH": [
+      {
+        "name": "Jasson Dominguez",
+        "rank": 1
+      },
+      {
+        "name": "Giancarlo Stanton",
+        "rank": 2
+      }
+    ],
+    "SP": [
+      {
+        "name": "Max Fried",
+        "rank": 1
+      },
+      {
+        "name": "Cam Schlittler",
+        "rank": 2
+      },
+      {
+        "name": "Elmer Rodriguez-Cruz",
+        "rank": 3
+      },
+      {
+        "name": "Will Warren",
+        "rank": 4
+      },
+      {
+        "name": "Ryan Weathers",
+        "rank": 5
+      },
+      {
+        "name": "Gerrit Cole",
+        "rank": 6
+      },
+      {
+        "name": "Carlos Rodon",
+        "rank": 7
+      },
+      {
+        "name": "Clarke Schmidt",
+        "rank": 8
+      }
+    ],
+    "RP": [
+      {
+        "name": "David Bednar",
+        "rank": 1
+      },
+      {
+        "name": "Fernando E. Cruz",
+        "rank": 2
+      },
+      {
+        "name": "Tim Hill",
+        "rank": 3
+      },
+      {
+        "name": "Brent Headrick",
+        "rank": 4
+      },
+      {
+        "name": "Camilo Doval",
+        "rank": 5
+      },
+      {
+        "name": "Jake Bird",
+        "rank": 6
+      },
+      {
+        "name": "Ryan Yarbrough",
+        "rank": 7
+      },
+      {
+        "name": "Paul Blackburn",
+        "rank": 8
+      },
+      {
+        "name": "Angel Chivilli",
+        "rank": 9
+      }
+    ]
+  },
+  "all_players": [
+    "Aaron Judge",
+    "Angel Chivilli",
+    "Anthony Volpe",
+    "Austin Wells",
+    "Ben Rice",
+    "Brent Headrick",
+    "Cam Schlittler",
+    "Camilo Doval",
+    "Carlos Rodon",
+    "Clarke Schmidt",
+    "Cody Bellinger",
+    "David Bednar",
+    "Elmer Rodriguez-Cruz",
+    "Fernando E. Cruz",
+    "Gerrit Cole",
+    "Giancarlo Stanton",
+    "J.C. Escarra",
+    "Jake Bird",
+    "Jasson Dominguez",
+    "Jazz Chisholm",
+    "Jose Caballero",
+    "Max Fried",
+    "Paul Blackburn",
+    "Paul Goldschmidt",
+    "Ryan McMahon",
+    "Ryan Weathers",
+    "Ryan Yarbrough",
+    "Tim Hill",
+    "Trent Grisham",
+    "Will Warren"
+  ]
+}
