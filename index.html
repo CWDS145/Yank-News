@@ -80,6 +80,8 @@ table.data tbody tr:hover{background:#fafafa}
 .btn-link:hover{background:#1a3a64;text-decoration:none;color:#fff}
 .btn-link.outline{background:transparent;color:var(--navy);border:1px solid var(--navy)}
 .btn-link.outline:hover{background:var(--navy);color:#fff}
+.gated::before{content:"🔒 ";font-size:0.95em}
+body.tos-unlocked .gated::before{content:none}
 .diff-pos{color:var(--green);font-weight:600}.diff-neg{color:var(--red);font-weight:600}
 footer{padding:24px 16px;text-align:center;color:var(--muted);font-size:12px;border-top:1px solid var(--border);margin-top:32px;background:rgba(255,255,255,0.85);backdrop-filter:blur(4px)}
 .help-text{font-size:11.5px;color:var(--muted);margin:6px 0}
@@ -524,7 +526,7 @@ function emptyState(label, prefix){
 function forceRefreshBar(workflowUrl){
   return '<div class="refresh-bar">' +
     '<span class="lab">ToS-flagged source. Refreshes once per 24 hours.</span>' +
-    '<a class="btn-link outline" href="' + workflowUrl + '" target="_blank" rel="noopener noreferrer">Force Refresh</a>' +
+    '<a class="btn-link outline gated" href="' + workflowUrl + '" target="_blank" rel="noopener noreferrer">Force Refresh</a>' +
     '<div class="help-text" style="width:100%">Opens GitHub Actions. Click "Run workflow" on that page.</div></div>';
 }
 
@@ -890,9 +892,10 @@ function renderSources(){
       '<a class="btn-link" href="' + WF.news    + '" target="_blank" rel="noopener noreferrer">Refresh News Now</a>' +
       '<a class="btn-link" href="' + WF.stats   + '" target="_blank" rel="noopener noreferrer">Refresh Stats Now</a>' +
       '<a class="btn-link" href="' + WF.daily   + '" target="_blank" rel="noopener noreferrer">Refresh Depth Chart Now</a>' +
-      '<a class="btn-link" href="' + WF.flagged + '" target="_blank" rel="noopener noreferrer">Refresh Flagged Now</a>' +
+      '<a class="btn-link gated" href="' + WF.flagged + '" target="_blank" rel="noopener noreferrer">Refresh Flagged Now</a>' +
     '</div>' +
     '<p class="help-text">Force-refresh requires GitHub sign-in. After clicking "Run workflow" there, return here and Refresh.</p>' +
+    '<p class="help-text">Lock is local UX only. Actual run still requires GitHub sign-in.</p>' +
     '</div>';
 
   // Source health (latest entry per source name)
@@ -969,6 +972,27 @@ function attachEvents(){
   $$(".tabs button").forEach(b => b.addEventListener("click", () => setTab(b.dataset.tab)));
   window.addEventListener("hashchange", () => { applyHashTab(); setTab(S.tab); });
   $("#refresh-btn").addEventListener("click", refresh);
+  // Password gate for ToS-flagged Force Refresh buttons (delegated; works on
+  // dynamically-rendered .gated anchors). Local UX only — workflow runs still
+  // require GitHub sign-in.
+  document.addEventListener("click", e => {
+    const a = e.target.closest(".gated");
+    if (!a) return;
+    e.preventDefault();
+    if (document.body.classList.contains("tos-unlocked")) {
+      window.open(a.href, "_blank", "noopener,noreferrer");
+      return;
+    }
+    const entry = prompt("Force Refresh requires password (ToS-flagged source):");
+    if (entry == null) return;
+    if (entry.trim().toUpperCase() === "CWS") {
+      try { sessionStorage.setItem("tos_unlock", "1"); } catch (_) {}
+      document.body.classList.add("tos-unlocked");
+      window.open(a.href, "_blank", "noopener,noreferrer");
+    } else {
+      alert("Incorrect password.");
+    }
+  });
 }
 
 async function refresh(){
@@ -990,6 +1014,13 @@ async function refresh(){
 }
 
 async function init(){
+  // Restore unlock state from this tab's sessionStorage before any render so
+  // gated buttons paint without a locked → unlocked flash.
+  try {
+    if (sessionStorage.getItem("tos_unlock") === "1") {
+      document.body.classList.add("tos-unlocked");
+    }
+  } catch (_) {}
   attachEvents();
   applyHashTab();
   // Initial paint with placeholders so user sees structure immediately
