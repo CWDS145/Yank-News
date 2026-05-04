@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T01:22:36Z",
+  "updated": "2026-05-04T05:06:08Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-04-24",
@@ -110,9 +110,9 @@
       "name": "Anthony Volpe",
       "position": "SS",
       "level": "MLB",
-      "level_since": "2026-04-28",
-      "prior_level": "AAA",
-      "prior_level_since": "2026-04-21",
+      "level_since": "2026-05-04",
+      "prior_level": "AA",
+      "prior_level_since": "2026-04-28",
       "season": null,
       "last_10": {
         "ab": 0,
