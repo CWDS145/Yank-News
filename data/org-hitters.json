@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T19:56:50Z",
+  "updated": "2026-05-04T21:21:54Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-04-24",
@@ -445,25 +445,18 @@
       "id": 804603,
       "name": "Duncan Pastore",
       "position": "3B",
-      "level": "AAA",
-      "level_since": "2026-04-28",
-      "prior_level": "High-A",
-      "prior_level_since": "2026-03-30",
-      "season": {
-        "ab": 8,
-        "k": 4,
-        "avg": ".000",
-        "ops": ".111",
-        "avg_num": 0.0,
-        "ops_num": 0.111
-      },
+      "level": "AA",
+      "level_since": "2026-05-04",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-04-28",
+      "season": null,
       "last_10": {
-        "ab": 8,
-        "k": 4,
-        "avg": ".000",
-        "ops": ".111",
-        "avg_num": 0.0,
-        "ops_num": 0.111
+        "ab": 0,
+        "k": 0,
+        "avg": null,
+        "ops": null,
+        "avg_num": null,
+        "ops_num": null
       }
     },
     {
@@ -1063,25 +1056,18 @@
       "id": 685744,
       "name": "Kenedy Corona",
       "position": "CF",
-      "level": "AA",
-      "level_since": "2026-03-23",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 76,
-        "k": 21,
-        "avg": ".250",
-        "ops": ".741",
-        "avg_num": 0.25,
-        "ops_num": 0.741
-      },
+      "level": "AAA",
+      "level_since": "2026-05-04",
+      "prior_level": "AA",
+      "prior_level_since": "2026-03-23",
+      "season": null,
       "last_10": {
-        "ab": 23,
-        "k": 7,
-        "avg": ".217",
-        "ops": ".569",
-        "avg_num": 0.217,
-        "ops_num": 0.569
+        "ab": 0,
+        "k": 0,
+        "avg": null,
+        "ops": null,
+        "avg_num": null,
+        "ops_num": null
       }
     },
     {
