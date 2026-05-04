@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T12:10:27Z",
+  "updated": "2026-05-04T14:38:40Z",
   "count": 40,
   "items": [
     {
@@ -70,15 +70,15 @@
     },
     {
       "date": "2026-04-25",
-      "type": "reinstated",
-      "player": "Ryan Weathers",
-      "description": "Reinstated from Paternity Leave List"
-    },
-    {
-      "date": "2026-04-25",
       "type": "placed",
       "player": "Angel Chivilli",
       "description": "Placed on 15-Day IL (Right shoulder discomfort)"
+    },
+    {
+      "date": "2026-04-25",
+      "type": "reinstated",
+      "player": "Ryan Weathers",
+      "description": "Reinstated from Paternity Leave List"
     },
     {
       "date": "2026-04-24",
@@ -88,15 +88,15 @@
     },
     {
       "date": "2026-04-22",
-      "type": "called up",
-      "player": "Jacob Bird",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-04-22",
       "type": "placed",
       "player": "Ryan Weathers",
       "description": "Placed on Paternity Leave List"
+    },
+    {
+      "date": "2026-04-22",
+      "type": "called up",
+      "player": "Jacob Bird",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-04-17",
@@ -167,14 +167,14 @@
     {
       "date": "2026-03-25",
       "type": "placed",
-      "player": "Anthony Volpe",
-      "description": "Placed on 10-Day IL (Recovery from left labrum surgery)"
+      "player": "Carlos Rodon",
+      "description": "Placed on 15-Day IL (Recovery from left elbow surgery)"
     },
     {
       "date": "2026-03-25",
       "type": "placed",
-      "player": "Carlos Rodon",
-      "description": "Placed on 15-Day IL (Recovery from left elbow surgery)"
+      "player": "Anthony Volpe",
+      "description": "Placed on 10-Day IL (Recovery from left labrum surgery)"
     },
     {
       "date": "2026-03-25",
@@ -191,13 +191,13 @@
     {
       "date": "2026-03-21",
       "type": "sent",
-      "player": "Max Schuemann",
+      "player": "Oswaldo Cabrera",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-03-21",
       "type": "sent",
-      "player": "Oswaldo Cabrera",
+      "player": "Max Schuemann",
       "description": "Sent to Minors"
     },
     {
