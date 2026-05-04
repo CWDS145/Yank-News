@@ -1,14 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-05-03T16:55:55Z",
-      "source": "FanGraphs MiLB: Scranton/WB RailRiders",
-      "url": "https://www.fangraphs.com/teams/scranton-wilkes-barre-railriders",
-      "status": 500,
-      "items": 0,
-      "note": "search_no_match; http_500"
-    },
-    {
       "timestamp": "2026-05-03T16:55:57Z",
       "source": "FanGraphs MiLB: Somerset Patriots",
       "url": "https://www.fangraphs.com/teams/somerset-patriots",
@@ -3999,6 +3991,14 @@
       "status": 200,
       "items": 66,
       "note": "players needing prior_level fallback"
+    },
+    {
+      "timestamp": "2026-05-04T11:44:58Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 29,
+      "note": "ok"
     }
   ]
 }

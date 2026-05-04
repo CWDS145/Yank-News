@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T14:49:42Z",
+  "updated": "2026-05-04T11:44:58Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -38,10 +38,6 @@
       {
         "name": "Jose Caballero",
         "rank": 1
-      },
-      {
-        "name": "Anthony Volpe",
-        "rank": 2
       }
     ],
     "LF": [
@@ -148,7 +144,6 @@
   "all_players": [
     "Aaron Judge",
     "Angel Chivilli",
-    "Anthony Volpe",
     "Austin Wells",
     "Ben Rice",
     "Brent Headrick",
