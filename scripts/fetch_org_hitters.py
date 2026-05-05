@@ -204,13 +204,16 @@ def is_hitter(position: str | None, group: str | None) -> bool:
 
 
 def build_org_players(mlb: dict, milb: dict) -> tuple[list[int], dict[int, str], dict[int, str], dict[int, str]]:
-    """Walk cached MLB + MiLB rosters. Returns:
-      - player_ids: ordered list of unique hitter ids
-      - primary_level: {pid: highest level by LEVEL_RANK}
-      - primary_position: {pid: position string from primary level's roster}
-      - name: {pid: full name}
-    Stats themselves are fetched per-player-per-level later; this just enumerates
-    who's in the org and which level/position to display.
+    """Walk cached MLB + MiLB rosters; return primary level = where the player
+    is *actively playing* right now (not just where they're on the 40-man).
+
+    Rule:
+      - MLB roster with status_code != "RM" (Active, D10/D15/D60 IL) → MLB.
+        IL'd players rehabbing in the minors stay tagged MLB this way.
+      - MLB roster with status_code == "RM" (optioned) → defer to MiLB
+      - Otherwise highest MiLB level where the player is rostered (preferring
+        Active over Rehab Assignment by virtue of LEVEL_RANK ordering and the
+        fact that pure MiLB rehabbers usually only appear at one level)
     """
     player_ids: list[int] = []
     primary_level: dict[int, str] = {}
@@ -218,6 +221,7 @@ def build_org_players(mlb: dict, milb: dict) -> tuple[list[int], dict[int, str],
     name: dict[int, str] = {}
 
     mlb_player_stats = (mlb or {}).get("player_stats") or {}
+    mlb_roster_info: dict[int, tuple[str, str, str]] = {}  # pid -> (pos, name, status_code)
     for r in (mlb or {}).get("roster", []):
         pid = r.get("id")
         if pid is None:
@@ -225,7 +229,9 @@ def build_org_players(mlb: dict, milb: dict) -> tuple[list[int], dict[int, str],
         ps = mlb_player_stats.get(str(pid)) or {}
         if not is_hitter(r.get("position"), ps.get("group")):
             continue
-        if pid not in primary_level:
+        sc = (r.get("status_code") or "").upper()
+        mlb_roster_info[pid] = (r.get("position") or "", r.get("name") or "", sc)
+        if sc != "RM":
             player_ids.append(pid)
             primary_level[pid] = "MLB"
             primary_position[pid] = r.get("position") or ""
@@ -240,16 +246,24 @@ def build_org_players(mlb: dict, milb: dict) -> tuple[list[int], dict[int, str],
         ps_dict = aff.get("player_stats") or {}
         for r in aff.get("roster", []) or []:
             pid = r.get("id")
-            if pid is None:
+            if pid is None or pid in primary_level:
                 continue
             ps = ps_dict.get(str(pid)) or {}
             if not is_hitter(r.get("position"), ps.get("group")):
                 continue
-            if pid not in primary_level:
-                player_ids.append(pid)
-                primary_level[pid] = level
-                primary_position[pid] = r.get("position") or ""
-                name[pid] = r.get("name") or ""
+            player_ids.append(pid)
+            primary_level[pid] = level
+            primary_position[pid] = r.get("position") or ""
+            name[pid] = r.get("name") or ""
+
+    # Fallback: RM'd players not found on any MiLB roster keep MLB level (so
+    # they don't disappear entirely if MiLB cache is briefly stale).
+    for pid, (pos, nm, _) in mlb_roster_info.items():
+        if pid not in primary_level:
+            player_ids.append(pid)
+            primary_level[pid] = "MLB"
+            primary_position[pid] = pos
+            name[pid] = nm
 
     return player_ids, primary_level, primary_position, name
 

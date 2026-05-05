@@ -49,13 +49,17 @@ def is_pitcher(position: str | None, group: str | None) -> bool:
 
 def build_org_pitchers(mlb: dict, milb: dict
                         ) -> tuple[list[int], dict[int, str], dict[int, str], dict[int, str]]:
-    """Walk MLB + MiLB rosters; return (player_ids, primary_level, primary_position, name)."""
+    """Same selection rule as build_org_players (hitters): primary level = where
+    the pitcher is *actively playing*. MLB status_code "RM" defers to MiLB;
+    "Rehab Assignment" entries on MiLB rosters are skipped.
+    """
     player_ids: list[int] = []
     primary_level: dict[int, str] = {}
     primary_position: dict[int, str] = {}
     name: dict[int, str] = {}
 
     mlb_player_stats = (mlb or {}).get("player_stats") or {}
+    mlb_roster_info: dict[int, tuple[str, str, str]] = {}
     for r in (mlb or {}).get("roster", []):
         pid = r.get("id")
         if pid is None:
@@ -63,7 +67,9 @@ def build_org_pitchers(mlb: dict, milb: dict
         ps = mlb_player_stats.get(str(pid)) or {}
         if not is_pitcher(r.get("position"), ps.get("group")):
             continue
-        if pid not in primary_level:
+        sc = (r.get("status_code") or "").upper()
+        mlb_roster_info[pid] = (r.get("position") or "P", r.get("name") or "", sc)
+        if sc != "RM":
             player_ids.append(pid)
             primary_level[pid] = "MLB"
             primary_position[pid] = r.get("position") or "P"
@@ -78,16 +84,22 @@ def build_org_pitchers(mlb: dict, milb: dict
         ps_dict = aff.get("player_stats") or {}
         for r in aff.get("roster", []) or []:
             pid = r.get("id")
-            if pid is None:
+            if pid is None or pid in primary_level:
                 continue
             ps = ps_dict.get(str(pid)) or {}
             if not is_pitcher(r.get("position"), ps.get("group")):
                 continue
-            if pid not in primary_level:
-                player_ids.append(pid)
-                primary_level[pid] = level
-                primary_position[pid] = r.get("position") or "P"
-                name[pid] = r.get("name") or ""
+            player_ids.append(pid)
+            primary_level[pid] = level
+            primary_position[pid] = r.get("position") or "P"
+            name[pid] = r.get("name") or ""
+
+    for pid, (pos, nm, _) in mlb_roster_info.items():
+        if pid not in primary_level:
+            player_ids.append(pid)
+            primary_level[pid] = "MLB"
+            primary_position[pid] = pos
+            name[pid] = nm
 
     return player_ids, primary_level, primary_position, name
 
