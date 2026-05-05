@@ -207,7 +207,7 @@ table.hitters tbody tr:hover{background:#fafafa}
       <button id="refresh-hitters" class="refresh-btn" type="button" title="Re-read data/org-hitters.json (cron writes every 30 min)">Refresh now</button>
     </div>
     <div class="controls">
-      <label class="ctrl-label">Last <input type="number" id="window-days" min="1" max="60" value="10"> days</label>
+      <label class="ctrl-label">Last <input type="number" id="window-days" min="1" max="500" value="10"> ABs</label>
       <label class="ctrl-label">Min AB <input type="number" id="min-ab" min="0" value="5"></label>
       <input type="search" class="search" id="search" placeholder="Filter by name…" aria-label="Filter by name">
       <div class="chips" role="group" aria-label="Filter by level">
@@ -250,7 +250,7 @@ table.hitters tbody tr:hover{background:#fafafa}
 <script>
 "use strict";
 const D = { hitters: [], tx: [] };
-const F = { minAB: 5, search: "", levels: new Set(), positions: new Set(), windowDays: 10 };
+const F = { minAB: 5, search: "", levels: new Set(), positions: new Set(), windowAB: 10 };
 const STATS_API = "https://statsapi.mlb.com/api/v1";
 const SPORT_LEVELS = [[1,"MLB"],[11,"AAA"],[12,"AA"],[13,"High-A"],[14,"Low-A"]];
 const windowCache = new Map();
@@ -406,23 +406,6 @@ function fmtRate(x){
   return (x >= 0 && x < 1 && s.startsWith("0.")) ? s.slice(1) : s;
 }
 
-function aggregateBlocks(blocks){
-  const valid = blocks.filter(Boolean);
-  if (!valid.length) return null;
-  let ab=0, h=0, bb=0, so=0, hbp=0, sf=0, tb=0;
-  for (const b of valid) {
-    ab += +b.ab||0; h += +b.h||0; bb += +b.bb||0; so += +b.so||0;
-    hbp += +b.hbp||0; sf += +b.sf||0; tb += +b.tb||0;
-  }
-  if (ab === 0 && bb === 0) return null;
-  const avg = ab > 0 ? h/ab : null;
-  const obpDen = ab + bb + hbp + sf;
-  const obp = obpDen > 0 ? (h+bb+hbp)/obpDen : null;
-  const slg = ab > 0 ? tb/ab : null;
-  const ops = (obp != null && slg != null) ? (obp+slg) : null;
-  return { ab, k: so, avg: fmtRate(avg), ops: fmtRate(ops), avg_num: avg, ops_num: ops };
-}
-
 function levelsForPlayer(h){
   const set = new Set();
   if (h.level) set.add(h.level);
@@ -433,46 +416,58 @@ function levelsForPlayer(h){
   return SPORT_LEVELS.filter(([,lvl]) => set.has(lvl));
 }
 
-async function fetchPlayerWindow(pid, sportId, start, end, season){
-  const key = `${pid}|${sportId}|${start}|${end}`;
+async function fetchGameLog(pid, sportId, season){
+  const key = `gl|${pid}|${sportId}|${season}`;
   if (windowCache.has(key)) return windowCache.get(key);
-  const url = `${STATS_API}/people/${pid}/stats?stats=byDateRange&group=hitting&startDate=${start}&endDate=${end}&season=${season}&sportId=${sportId}`;
+  const url = `${STATS_API}/people/${pid}/stats?stats=gameLog&group=hitting&season=${season}&sportId=${sportId}`;
   try {
     const r = await fetch(url);
-    if (!r.ok) { windowCache.set(key, null); return null; }
+    if (!r.ok) { windowCache.set(key, []); return []; }
     const data = await r.json();
     const splits = ((data.stats || [{}])[0].splits) || [];
-    if (!splits.length) { windowCache.set(key, null); return null; }
-    const s = splits[0].stat || {};
-    const block = {
-      ab: parseInt(s.atBats) || 0,
-      h: parseInt(s.hits) || 0,
-      bb: parseInt(s.baseOnBalls) || 0,
-      so: parseInt(s.strikeOuts) || 0,
-      hbp: parseInt(s.hitByPitch) || 0,
-      sf: parseInt(s.sacFlies) || 0,
-      tb: parseInt(s.totalBases) || 0,
-    };
-    windowCache.set(key, block);
-    return block;
+    const games = splits
+      .map(sp => ({ date: (sp.date || sp.gameDate || "").slice(0,10), stat: sp.stat || {} }))
+      .filter(g => g.date);
+    windowCache.set(key, games);
+    return games;
   } catch (_) {
-    windowCache.set(key, null);
-    return null;
+    windowCache.set(key, []);
+    return [];
   }
 }
 
-async function recomputeWindow(days){
-  const today = new Date();
-  const startD = new Date(today); startD.setDate(startD.getDate() - days);
-  const start = startD.toISOString().slice(0,10);
-  const end = today.toISOString().slice(0,10);
-  const season = today.getUTCFullYear();
-  await Promise.all(D.hitters.map(async h => {
-    const targets = levelsForPlayer(h);
-    const blocks = await Promise.all(targets.map(([sid]) =>
-      fetchPlayerWindow(h.id, sid, start, end, season)
+function computeABWindow(games, targetAB){
+  // games: most-recent-first across all of the player's levels
+  let ab=0, h=0, bb=0, so=0, hbp=0, sf=0, tb=0;
+  for (const g of games) {
+    const s = g.stat;
+    ab  += parseInt(s.atBats)       || 0;
+    h   += parseInt(s.hits)         || 0;
+    bb  += parseInt(s.baseOnBalls)  || 0;
+    so  += parseInt(s.strikeOuts)   || 0;
+    hbp += parseInt(s.hitByPitch)   || 0;
+    sf  += parseInt(s.sacFlies)     || 0;
+    tb  += parseInt(s.totalBases)   || 0;
+    if (ab >= targetAB) break;
+  }
+  if (ab === 0 && bb === 0) return null;
+  const avg = ab > 0 ? h/ab : null;
+  const obpDen = ab + bb + hbp + sf;
+  const obp = obpDen > 0 ? (h+bb+hbp)/obpDen : null;
+  const slg = ab > 0 ? tb/ab : null;
+  const ops = (obp != null && slg != null) ? (obp+slg) : null;
+  return { ab, k: so, avg: fmtRate(avg), ops: fmtRate(ops), avg_num: avg, ops_num: ops };
+}
+
+async function recomputeWindow(targetAB){
+  const season = new Date().getUTCFullYear();
+  await Promise.all(D.hitters.map(async hitter => {
+    const targets = levelsForPlayer(hitter);
+    const perLevel = await Promise.all(targets.map(([sid]) =>
+      fetchGameLog(hitter.id, sid, season)
     ));
-    h.last_10 = aggregateBlocks(blocks);
+    const allGames = perLevel.flat().sort((a, b) => b.date.localeCompare(a.date));
+    hitter.last_10 = computeABWindow(allGames, targetAB);
   }));
 }
 
@@ -488,7 +483,8 @@ async function refresh(){
   try {
     await fetchAll();
     renderTransactions();
-    if (F.windowDays !== 10) await recomputeWindow(F.windowDays);
+    renderHitters();
+    await recomputeWindow(F.windowAB);
     renderHitters();
   }
   finally { btns.forEach(b => { b.classList.remove("loading"); b.disabled = false; b.textContent = b.dataset.lbl; }); }
@@ -500,15 +496,15 @@ function attachEvents(){
   });
   let windowT;
   $("#window-days").addEventListener("input", e => {
-    const days = parseInt(e.target.value);
-    if (!days || days < 1 || days > 60) return;
+    const ab = parseInt(e.target.value);
+    if (!ab || ab < 1 || ab > 500) return;
     clearTimeout(windowT);
     windowT = setTimeout(async () => {
-      F.windowDays = days;
-      updateColumnHeaders(days);
+      F.windowAB = ab;
+      updateColumnHeaders(ab);
       const btn = $("#refresh-hitters");
       btn.dataset.lbl = btn.textContent; btn.classList.add("loading"); btn.disabled = true; btn.textContent = "Loading…";
-      try { await recomputeWindow(days); renderHitters(); }
+      try { await recomputeWindow(ab); renderHitters(); }
       finally { btn.classList.remove("loading"); btn.disabled = false; btn.textContent = btn.dataset.lbl; }
     }, 400);
   });
@@ -553,6 +549,8 @@ function attachEvents(){
   attachEvents();
   await fetchAll();
   renderTransactions();
+  renderHitters();
+  await recomputeWindow(F.windowAB);
   renderHitters();
 })();
 </script>
