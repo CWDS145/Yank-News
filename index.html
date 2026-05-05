@@ -131,6 +131,7 @@ footer a:hover{text-decoration:underline}
 }
 .section-head{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:14px;flex-wrap:wrap}
 .section-head h2{margin:0;color:var(--navy);font-size:22px;font-weight:700;letter-spacing:0.01em}
+.updated-stamp{font-size:12px;font-weight:400;color:var(--gray);margin-left:10px;letter-spacing:normal;white-space:nowrap}
 .section-sub{font-size:13px;color:var(--gray);margin-top:4px}
 .refresh-btn{background:var(--navy);color:#fff;border:none;padding:7px 14px;border-radius:6px;cursor:pointer;font:inherit;font-size:13px;font-weight:500}
 .refresh-btn:hover{background:#1a3a64}
@@ -197,7 +198,7 @@ table.hitters tbody tr:hover{background:#fafafa}
   <section class="data-section" id="hitters-section">
     <div class="section-head">
       <div>
-        <h2>Org-Wide Hitters</h2>
+        <h2>Org-Wide Hitters <span class="updated-stamp" id="hitters-updated"></span></h2>
         <div class="section-sub">MLB through Low-A · last 10 days vs season</div>
       </div>
     </div>
@@ -284,6 +285,16 @@ async function fetchAll(){
   ]);
   D.hitters = (h && h.hitters) || [];
   D.tx = (t && t.items) || [];
+  const stamp = $("#hitters-updated");
+  if (stamp) {
+    if (h && h.updated) {
+      const d = new Date(h.updated);
+      stamp.textContent = "Updated " + d.toLocaleString("en-US",{month:"short",day:"numeric",hour:"numeric",minute:"2-digit"});
+      stamp.title = d.toString();
+    } else {
+      stamp.textContent = "";
+    }
+  }
 }
 
 function renderTransactions(){
