@@ -57,4 +57,14 @@ jobs:
             exit 0
           fi
           git commit -m "data: stats refresh $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
-          git push
+          # Rebase on remote in case other workflows/commits landed during this run,
+          # then push. Retry once on push failure to handle the brief window between
+          # rebase and push.
+          for i in 1 2 3; do
+            git pull --rebase --autostash || true
+            if git push; then exit 0; fi
+            echo "push attempt $i failed; sleeping then retrying"
+            sleep 5
+          done
+          echo "push failed after 3 attempts" >&2
+          exit 1
