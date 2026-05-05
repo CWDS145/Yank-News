@@ -10,8 +10,6 @@
 *{box-sizing:border-box}
 html,body{margin:0;padding:0}
 body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background-color:var(--bg);color:var(--text);font-size:14px;line-height:1.45;position:relative}
-body.thurm-on{background-image:url("../assets/Thurm.png");background-size:cover;background-position:center top;background-attachment:fixed;background-repeat:no-repeat}
-body.thurm-on::before{content:"";position:fixed;inset:0;background:linear-gradient(180deg,rgba(12,35,64,0.55) 0%,rgba(245,245,245,0.85) 35%,rgba(245,245,245,0.92) 100%);z-index:-1;pointer-events:none}
 a{color:var(--navy)}a:hover{text-decoration:underline}
 button{font:inherit;cursor:pointer}
 h1,h2,h3{margin:0;font-weight:600}
@@ -27,7 +25,11 @@ h1,h2,h3{margin:0;font-weight:600}
 .topbar{position:relative}
 .btn-thurm{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);background:rgba(255,255,255,0.1);color:#fff;border:1px solid rgba(255,255,255,0.25);padding:6px 14px;border-radius:6px;font-size:12px;font-weight:600;letter-spacing:0.3px;white-space:nowrap;z-index:1}
 .btn-thurm:hover{background:rgba(255,255,255,0.2)}
-body.thurm-on .btn-thurm{background:rgba(255,255,255,0.25);border-color:rgba(255,255,255,0.5)}
+.thurm-modal{position:fixed;inset:0;background:rgba(0,0,0,0.88);z-index:1000;display:flex;align-items:center;justify-content:center;padding:20px}
+.thurm-modal[hidden]{display:none}
+.thurm-modal img{max-width:100%;max-height:100%;object-fit:contain;border-radius:4px;box-shadow:0 8px 32px rgba(0,0,0,0.5)}
+.thurm-close{position:absolute;top:16px;right:20px;background:rgba(255,255,255,0.15);color:#fff;border:1px solid rgba(255,255,255,0.4);width:40px;height:40px;border-radius:50%;font:inherit;font-size:24px;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0}
+.thurm-close:hover{background:rgba(255,255,255,0.3)}
 .btn-refresh{background:rgba(255,255,255,0.1);color:#fff;border:1px solid rgba(255,255,255,0.25);padding:6px 12px;border-radius:6px;font-size:12px;font-weight:500}
 .btn-refresh:hover{background:rgba(255,255,255,0.2)}
 .btn-refresh.loading{opacity:0.6;cursor:wait}
@@ -103,7 +105,6 @@ footer{padding:24px 16px;text-align:center;color:var(--muted);font-size:12px;bor
 .tx-link .p{font-weight:600;color:var(--text)}
 .dl-item{margin-bottom:7px;font-size:12.5px;line-height:1.35}
 .dl-item .pos{font-weight:700;color:var(--navy);margin-right:6px;display:inline-block;min-width:22px}
-@media (max-width:767px){body.thurm-on{background-attachment:scroll}}
 @media (max-width:768px){
   .layout{grid-template-columns:1fr;padding:12px}
   .standings{display:none}
@@ -126,7 +127,7 @@ footer{padding:24px 16px;text-align:center;color:var(--muted);font-size:12px;bor
 <header class="topbar">
   <div class="brand">YANK NEWS</div>
   <div class="standings" id="standings">Loading…</div>
-  <button class="btn-thurm" id="thurm-btn" type="button" aria-pressed="false">We Love Thurm</button>
+  <button class="btn-thurm" id="thurm-btn" type="button">We Love Thurm</button>
   <div class="header-right">
     <span class="pill" id="pill-news"><span class="dot"></span><span class="lbl">News —</span></span>
     <span class="pill" id="pill-stats"><span class="dot"></span><span class="lbl">Stats —</span></span>
@@ -159,6 +160,11 @@ footer{padding:24px 16px;text-align:center;color:var(--muted);font-size:12px;bor
 </main>
 
 <footer id="footer"></footer>
+
+<div class="thurm-modal" id="thurm-modal" role="dialog" aria-modal="true" aria-label="Thurm" hidden>
+  <button class="thurm-close" id="thurm-close" type="button" aria-label="Close">&times;</button>
+  <img src="../assets/Thurm.png" alt="Thurm">
+</div>
 
 <script>
 "use strict";
@@ -979,16 +985,13 @@ function attachEvents(){
   $$(".tabs button").forEach(b => b.addEventListener("click", () => setTab(b.dataset.tab)));
   window.addEventListener("hashchange", () => { applyHashTab(); setTab(S.tab); });
   $("#refresh-btn").addEventListener("click", refresh);
-  // We Love Thurm — toggle background image, persist in localStorage
-  const thurmBtn = $("#thurm-btn");
-  const thurmOn = localStorage.getItem("thurm-on") === "1";
-  document.body.classList.toggle("thurm-on", thurmOn);
-  thurmBtn.setAttribute("aria-pressed", thurmOn ? "true" : "false");
-  thurmBtn.addEventListener("click", () => {
-    const on = document.body.classList.toggle("thurm-on");
-    thurmBtn.setAttribute("aria-pressed", on ? "true" : "false");
-    localStorage.setItem("thurm-on", on ? "1" : "0");
-  });
+  // We Love Thurm — show Thurm picture in foreground modal until dismissed
+  const thurmModal = $("#thurm-modal");
+  const closeThurm = () => { thurmModal.hidden = true; };
+  $("#thurm-btn").addEventListener("click", () => { thurmModal.hidden = false; });
+  $("#thurm-close").addEventListener("click", closeThurm);
+  thurmModal.addEventListener("click", e => { if (e.target === thurmModal) closeThurm(); });
+  document.addEventListener("keydown", e => { if (e.key === "Escape" && !thurmModal.hidden) closeThurm(); });
   // Password gate for ToS-flagged Force Refresh buttons (delegated; works on
   // dynamically-rendered .gated anchors). Local UX only — workflow runs still
   // require GitHub sign-in.

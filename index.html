@@ -19,28 +19,13 @@ body{
   background-color:#f5f5f5;
   position:relative;
 }
-body.thurm-on{
-  color:#fff;
-  background-image:url("assets/Thurm.png");
-  background-size:cover;
-  background-position:center top;
-  background-attachment:fixed;
-  background-repeat:no-repeat;
-}
-body.thurm-on::before{
-  content:"";
-  position:fixed;
-  inset:0;
-  background:linear-gradient(180deg,rgba(12,35,64,0.65) 0%,rgba(12,35,64,0.45) 40%,rgba(12,35,64,0.6) 100%);
-  z-index:-1;
-  pointer-events:none;
-}
-body:not(.thurm-on) .hero h1{color:var(--navy);text-shadow:none}
-body:not(.thurm-on) .hero p{color:var(--gray);text-shadow:none;opacity:1}
 .btn-thurm{position:fixed;top:14px;left:50%;transform:translateX(-50%);background:rgba(12,35,64,0.85);color:#fff;border:1px solid rgba(255,255,255,0.35);padding:7px 16px;border-radius:999px;font:inherit;font-size:12px;font-weight:600;letter-spacing:0.3px;cursor:pointer;z-index:50;backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);box-shadow:0 2px 8px rgba(0,0,0,0.18)}
 .btn-thurm:hover{background:var(--navy)}
-body.thurm-on .btn-thurm{background:rgba(255,255,255,0.18);border-color:rgba(255,255,255,0.55)}
-body.thurm-on .btn-thurm:hover{background:rgba(255,255,255,0.3)}
+.thurm-modal{position:fixed;inset:0;background:rgba(0,0,0,0.88);z-index:1000;display:flex;align-items:center;justify-content:center;padding:20px}
+.thurm-modal[hidden]{display:none}
+.thurm-modal img{max-width:100%;max-height:100%;object-fit:contain;border-radius:4px;box-shadow:0 8px 32px rgba(0,0,0,0.5)}
+.thurm-close{position:absolute;top:16px;right:20px;background:rgba(255,255,255,0.15);color:#fff;border:1px solid rgba(255,255,255,0.4);width:40px;height:40px;border-radius:50%;font:inherit;font-size:24px;line-height:1;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0}
+.thurm-close:hover{background:rgba(255,255,255,0.3)}
 .wrap{
   flex:1;
   width:100%;
@@ -58,16 +43,14 @@ body.thurm-on .btn-thurm:hover{background:rgba(255,255,255,0.3)}
   font-weight:800;
   letter-spacing:0.02em;
   line-height:1;
-  color:#fff;
-  text-shadow:0 4px 24px rgba(12,35,64,0.65),0 1px 4px rgba(0,0,0,0.45);
+  color:var(--navy);
 }
 .hero p{
   margin:14px 0 0;
   font-size:clamp(15px,2vw,20px);
   font-weight:400;
-  opacity:0.9;
   letter-spacing:0.01em;
-  text-shadow:0 1px 4px rgba(0,0,0,0.4);
+  color:var(--gray);
 }
 .grid{
   display:grid;
@@ -164,11 +147,15 @@ table.hitters thead th button[data-sort=asc]::after{content:" ▲"}
 table.hitters tbody tr:hover{background:#fafafa}
 @media (max-width:1024px){.grid{grid-template-columns:repeat(2,1fr)}}
 @media (max-width:640px){.grid{grid-template-columns:1fr}.wrap{padding:32px 16px 24px;gap:32px}.data-section{padding:18px}.section-head{flex-direction:column;align-items:stretch}.controls{font-size:12px}}
-@media (max-width:767px){body.thurm-on{background-attachment:scroll}.btn-thurm{top:8px;font-size:11px;padding:6px 12px}}
+@media (max-width:767px){.btn-thurm{top:8px;font-size:11px;padding:6px 12px}}
 </style>
 </head>
 <body>
-<button class="btn-thurm" id="thurm-btn" type="button" aria-pressed="false">We Love Thurm</button>
+<button class="btn-thurm" id="thurm-btn" type="button">We Love Thurm</button>
+<div class="thurm-modal" id="thurm-modal" role="dialog" aria-modal="true" aria-label="Thurm" hidden>
+  <button class="thurm-close" id="thurm-close" type="button" aria-label="Close">&times;</button>
+  <img src="assets/Thurm.png" alt="Thurm">
+</div>
 <div class="wrap">
   <header class="hero">
     <h1>YANK NEWS</h1>
@@ -404,16 +391,13 @@ function attachEvents(){
     renderHitters();
   }));
   $("#refresh-data").addEventListener("click", refresh);
-  // We Love Thurm — toggle background image, persist in localStorage
-  const thurmBtn = $("#thurm-btn");
-  const thurmOn = localStorage.getItem("thurm-on") === "1";
-  document.body.classList.toggle("thurm-on", thurmOn);
-  thurmBtn.setAttribute("aria-pressed", thurmOn ? "true" : "false");
-  thurmBtn.addEventListener("click", () => {
-    const on = document.body.classList.toggle("thurm-on");
-    thurmBtn.setAttribute("aria-pressed", on ? "true" : "false");
-    localStorage.setItem("thurm-on", on ? "1" : "0");
-  });
+  // We Love Thurm — show Thurm picture in foreground modal until dismissed
+  const thurmModal = $("#thurm-modal");
+  const closeThurm = () => { thurmModal.hidden = true; };
+  $("#thurm-btn").addEventListener("click", () => { thurmModal.hidden = false; });
+  $("#thurm-close").addEventListener("click", closeThurm);
+  thurmModal.addEventListener("click", e => { if (e.target === thurmModal) closeThurm(); });
+  document.addEventListener("keydown", e => { if (e.key === "Escape" && !thurmModal.hidden) closeThurm(); });
 }
 
 (async function init(){
