@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05T17:49:35Z",
+  "updated": "2026-05-05T18:14:30Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-04-25",
@@ -1092,19 +1092,6 @@
       ]
     },
     {
-      "id": 701816,
-      "name": "John Cristino",
-      "position": "C",
-      "level": "Low-A",
-      "level_since": "2026-05-02",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": null,
-      "last_10": null,
-      "season_levels": [],
-      "last_10_levels": []
-    },
-    {
       "id": 826142,
       "name": "JoJo Jackson",
       "position": "OF",
@@ -1319,37 +1306,6 @@
       ],
       "last_10_levels": [
         "AA"
-      ]
-    },
-    {
-      "id": 814269,
-      "name": "Kevin Verde",
-      "position": "SS",
-      "level": "Low-A",
-      "level_since": "2026-04-03",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 33,
-        "k": 12,
-        "avg": ".152",
-        "ops": ".495",
-        "avg_num": 0.15151515151515152,
-        "ops_num": 0.4949494949494949
-      },
-      "last_10": {
-        "ab": 15,
-        "k": 6,
-        "avg": ".200",
-        "ops": ".561",
-        "avg_num": 0.2,
-        "ops_num": 0.5607843137254902
-      },
-      "season_levels": [
-        "Low-A"
-      ],
-      "last_10_levels": [
-        "Low-A"
       ]
     },
     {
