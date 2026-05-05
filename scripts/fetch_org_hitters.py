@@ -38,6 +38,10 @@ TX_WINDOW_DAYS = 30
 PITCHER_POS = {"P", "SP", "RP", "CP", "LHP", "RHP"}
 TWP = "TWP"
 LEVEL_RANK = {"MLB": 0, "AAA": 1, "AA": 2, "High-A": 3, "Low-A": 4}
+# Every level is queried for every org player so stats follow them across
+# promotions/demotions; byDateRange/season at sportIds where they never played
+# returns empty splits, which aggregate cleanly to nothing.
+ALL_SPORT_LEVELS = [(1, "MLB"), (11, "AAA"), (12, "AA"), (13, "High-A"), (14, "Low-A")]
 
 # Whitelist of MLB transaction type codes that represent actual organizational
 # level moves. Everything else (notably "NUM" / Number Change) is dropped from
@@ -138,6 +142,60 @@ def to_num(v: Any) -> float | None:
         return None
 
 
+def to_int(v: Any) -> int | None:
+    if v in (None, ""):
+        return None
+    try:
+        return int(v)
+    except (ValueError, TypeError):
+        try:
+            return int(float(v))
+        except (ValueError, TypeError):
+            return None
+
+
+def fmt_rate(x: float | None) -> str | None:
+    if x is None:
+        return None
+    s = f"{x:.3f}"
+    if 0 <= x < 1 and s.startswith("0."):
+        s = s[1:]
+    return s
+
+
+def aggregate_blocks(blocks: list[dict | None]) -> dict | None:
+    """Sum raw counting stats across per-level blocks; recompute AVG/OBP/SLG/OPS
+    from totals (exact, no weighting). Each block must have keys: ab, h, bb, so,
+    hbp, sf, tb. Returns the frontend-compatible block shape (ab, k, avg, ops,
+    avg_num, ops_num) or None if no input has any AB.
+    """
+    valid = [b for b in blocks if b]
+    if not valid:
+        return None
+    ab = sum(to_int(b.get("ab")) or 0 for b in valid)
+    h = sum(to_int(b.get("h")) or 0 for b in valid)
+    bb = sum(to_int(b.get("bb")) or 0 for b in valid)
+    so = sum(to_int(b.get("so")) or 0 for b in valid)
+    hbp = sum(to_int(b.get("hbp")) or 0 for b in valid)
+    sf = sum(to_int(b.get("sf")) or 0 for b in valid)
+    tb = sum(to_int(b.get("tb")) or 0 for b in valid)
+    if ab == 0 and bb == 0:
+        return None
+    avg = (h / ab) if ab > 0 else None
+    obp_den = ab + bb + hbp + sf
+    obp = ((h + bb + hbp) / obp_den) if obp_den > 0 else None
+    slg = (tb / ab) if ab > 0 else None
+    ops = (obp + slg) if (obp is not None and slg is not None) else None
+    return {
+        "ab": ab,
+        "k": so,
+        "avg": fmt_rate(avg),
+        "ops": fmt_rate(ops),
+        "avg_num": avg,
+        "ops_num": ops,
+    }
+
+
 def is_hitter(position: str | None, group: str | None) -> bool:
     pos = (position or "").upper()
     if pos == TWP:
@@ -145,27 +203,33 @@ def is_hitter(position: str | None, group: str | None) -> bool:
     return pos not in PITCHER_POS
 
 
-def build_org_players(mlb: dict, milb: dict) -> list[dict[str, Any]]:
-    """Walk cached MLB + MiLB rosters, dedupe by player id (MLB > AAA > AA > High-A > Low-A)."""
-    players: list[dict[str, Any]] = []
-    seen: set[int] = set()
+def build_org_players(mlb: dict, milb: dict) -> tuple[list[int], dict[int, str], dict[int, str], dict[int, str]]:
+    """Walk cached MLB + MiLB rosters. Returns:
+      - player_ids: ordered list of unique hitter ids
+      - primary_level: {pid: highest level by LEVEL_RANK}
+      - primary_position: {pid: position string from primary level's roster}
+      - name: {pid: full name}
+    Stats themselves are fetched per-player-per-level later; this just enumerates
+    who's in the org and which level/position to display.
+    """
+    player_ids: list[int] = []
+    primary_level: dict[int, str] = {}
+    primary_position: dict[int, str] = {}
+    name: dict[int, str] = {}
 
     mlb_player_stats = (mlb or {}).get("player_stats") or {}
     for r in (mlb or {}).get("roster", []):
         pid = r.get("id")
-        if pid is None or pid in seen:
+        if pid is None:
             continue
         ps = mlb_player_stats.get(str(pid)) or {}
         if not is_hitter(r.get("position"), ps.get("group")):
             continue
-        stats = ps.get("stats") if ps.get("group") == "hitting" else None
-        players.append({
-            "id": pid, "name": r.get("name"),
-            "position": r.get("position"),
-            "level": "MLB", "team_id": PARENT_TEAM_ID, "sport_id": 1,
-            "season_stats": stats,
-        })
-        seen.add(pid)
+        if pid not in primary_level:
+            player_ids.append(pid)
+            primary_level[pid] = "MLB"
+            primary_position[pid] = r.get("position") or ""
+            name[pid] = r.get("name") or ""
 
     affiliates = sorted(
         (milb or {}).get("affiliates") or [],
@@ -173,78 +237,99 @@ def build_org_players(mlb: dict, milb: dict) -> list[dict[str, Any]]:
     )
     for aff in affiliates:
         level = aff.get("level")
-        team_id = aff.get("id")
-        sport_id = aff.get("sport_id")
         ps_dict = aff.get("player_stats") or {}
         for r in aff.get("roster", []) or []:
             pid = r.get("id")
-            if pid is None or pid in seen:
+            if pid is None:
                 continue
             ps = ps_dict.get(str(pid)) or {}
             if not is_hitter(r.get("position"), ps.get("group")):
                 continue
-            stats = ps.get("stats") if ps.get("group") == "hitting" else None
-            players.append({
-                "id": pid, "name": r.get("name"),
-                "position": r.get("position"),
-                "level": level, "team_id": team_id, "sport_id": sport_id,
-                "season_stats": stats,
-            })
-            seen.add(pid)
+            if pid not in primary_level:
+                player_ids.append(pid)
+                primary_level[pid] = level
+                primary_position[pid] = r.get("position") or ""
+                name[pid] = r.get("name") or ""
 
-    return players
+    return player_ids, primary_level, primary_position, name
 
 
-def fetch_last_10(session: requests.Session, players: list[dict],
-                   season: int, start: str, end: str) -> dict[int, dict | None]:
-    """Pull byDateRange hitting stats. Returns {player_id: stats_or_None}.
-    Logs once per level with aggregated success counts.
+def _parse_split_block(stat: dict) -> dict:
+    return {
+        "ab": to_int(stat.get("atBats")),
+        "h": to_int(stat.get("hits")),
+        "bb": to_int(stat.get("baseOnBalls")),
+        "so": to_int(stat.get("strikeOuts")),
+        "hbp": to_int(stat.get("hitByPitch")),
+        "sf": to_int(stat.get("sacFlies")),
+        "tb": to_int(stat.get("totalBases")),
+        "avg": stat.get("avg"),
+        "obp": stat.get("obp"),
+        "slg": stat.get("slg"),
+        "ops": stat.get("ops"),
+    }
+
+
+def fetch_player_stats(session: requests.Session, player_ids: list[int],
+                         season: int, start: str, end: str
+                         ) -> dict[tuple[int, int], dict[str, dict | None]]:
+    """For every player × every org level (sport_id), pull season + byDateRange
+    in one API call. Returns {(pid, sport_id): {"season": block_or_None,
+    "last_10": block_or_None}}. Empty splits → block None (player didn't play
+    at that level). This is what lets a recently-promoted hitter keep his
+    Somerset/SWB stats once he's on the MLB roster.
     """
-    out: dict[int, dict | None] = {}
+    targets: list[tuple[int, int, str]] = [
+        (pid, sid, lvl) for pid in player_ids for sid, lvl in ALL_SPORT_LEVELS
+    ]
+    out: dict[tuple[int, int], dict[str, dict | None]] = {}
     by_level_count: dict[str, int] = {}
     by_level_ok: dict[str, int] = {}
-    for p in players:
-        by_level_count[p["level"]] = by_level_count.get(p["level"], 0) + 1
-        by_level_ok.setdefault(p["level"], 0)
+    for _, _, lvl in targets:
+        by_level_count[lvl] = by_level_count.get(lvl, 0) + 1
+        by_level_ok.setdefault(lvl, 0)
 
-    def task(p: dict[str, Any]) -> tuple[int, str, int, dict | None]:
+    def task(pid: int, sport_id: int, lvl: str
+             ) -> tuple[int, int, str, int, dict[str, dict | None] | None]:
         url = (
-            f"{BASE}/people/{p['id']}/stats?stats=byDateRange&group=hitting"
-            f"&startDate={start}&endDate={end}&season={season}&sportId={p['sport_id']}"
+            f"{BASE}/people/{pid}/stats?stats=season,byDateRange&group=hitting"
+            f"&startDate={start}&endDate={end}&season={season}&sportId={sport_id}"
         )
         status, data = fetch_json(session, url)
         if status != 200 or not data:
-            return p["id"], p["level"], status, None
-        splits = ((data.get("stats") or [{}])[0].get("splits") or [])
-        if not splits:
-            return p["id"], p["level"], status, {"ab": 0, "k": 0, "avg": None, "ops": None}
-        s = splits[0].get("stat") or {}
-        return p["id"], p["level"], status, {
-            "ab": s.get("atBats"),
-            "k": s.get("strikeOuts"),
-            "avg": s.get("avg"),
-            "ops": s.get("ops"),
-        }
+            return pid, sport_id, lvl, status, None
+        result: dict[str, dict | None] = {"season": None, "last_10": None}
+        for stat_set in (data.get("stats") or []):
+            type_name = ((stat_set.get("type") or {}).get("displayName") or "").lower()
+            splits = stat_set.get("splits") or []
+            if not splits:
+                continue
+            block = _parse_split_block(splits[0].get("stat") or {})
+            if "datarange" in type_name.replace(" ", "") or "daterange" in type_name.replace(" ", ""):
+                result["last_10"] = block
+            elif type_name.startswith("season"):
+                result["season"] = block
+        return pid, sport_id, lvl, status, result
 
     with ThreadPoolExecutor(max_workers=WORKERS) as ex:
         futures = []
-        for p in players:
-            futures.append(ex.submit(task, p))
+        for pid, sid, lvl in targets:
+            futures.append(ex.submit(task, pid, sid, lvl))
             time.sleep(SUBMIT_DELAY_S)
         for fut in as_completed(futures):
             try:
-                pid, level, status, stats = fut.result()
+                pid, sport_id, lvl, status, result = fut.result()
             except Exception:
                 continue
-            out[pid] = stats
-            if stats is not None and status == 200:
-                by_level_ok[level] = by_level_ok.get(level, 0) + 1
+            out[(pid, sport_id)] = result or {"season": None, "last_10": None}
+            if status == 200:
+                by_level_ok[lvl] = by_level_ok.get(lvl, 0) + 1
 
     for lvl, count in by_level_count.items():
         ok = by_level_ok.get(lvl, 0)
         log_scrape(
-            f"MLB byDateRange: {lvl}",
-            f"{BASE}/people/{{id}}/stats?stats=byDateRange&group=hitting&sportId={{sid}}",
+            f"MLB season+byDateRange: {lvl}",
+            f"{BASE}/people/{{id}}/stats?stats=season,byDateRange&sportId={{sid}}",
             200 if ok else 0, ok,
             note=f"ok={ok}/{count} window={start}..{end}",
         )
@@ -424,67 +509,64 @@ def main() -> int:
         if aff.get("id") and aff.get("level"):
             team_to_level[aff["id"]] = aff["level"]
 
-    org_players = build_org_players(mlb, milb)
-    if not org_players:
+    player_ids, primary_level, primary_position, name_by_id = build_org_players(mlb, milb)
+    if not player_ids:
         log_scrape("OrgHitters", "<no-players>", 0, 0, note="no_hitters_resolved")
         return 0
 
     session = make_session()
 
-    last10_map = fetch_last_10(session, org_players, season, start, end)
+    stats_map = fetch_player_stats(session, player_ids, season, start, end)
     raw_tx = fetch_transactions(session, milb)
     season_start_date = fetch_season_start(session, season)
     level_tx = filter_level_tx(raw_tx, season_start_date)
 
     hitters_out: list[dict[str, Any]] = []
     fallback_used = 0
-    for p in org_players:
+    for pid in player_ids:
+        primary_lvl = primary_level[pid]
         current_since, prior_level, prior_since = derive_levels(
-            p["id"], p["level"], level_tx, team_to_level
+            pid, primary_lvl, level_tx, team_to_level
         )
         if not prior_level:
-            extra_tx = fallback_personid(session, p["id"], season)
+            extra_tx = fallback_personid(session, pid, season)
             time.sleep(SUBMIT_DELAY_S)
             fallback_used += 1
             extra_filtered = filter_level_tx(extra_tx, season_start_date)
-            cs2, pl2, ps2 = derive_levels(p["id"], p["level"], extra_filtered, team_to_level)
+            cs2, pl2, ps2 = derive_levels(pid, primary_lvl, extra_filtered, team_to_level)
             if current_since is None:
                 current_since = cs2
             if prior_level is None:
                 prior_level = pl2
                 prior_since = ps2
 
-        season_s = p.get("season_stats") or {}
-        s_avg = season_s.get("AVG") or season_s.get("avg")
-        s_ops = season_s.get("OPS") or season_s.get("ops")
-        s_ab = season_s.get("AB") or season_s.get("atBats")
-        s_so = season_s.get("SO") or season_s.get("strikeOuts")
-        season_block = {
-            "ab": s_ab, "k": s_so,
-            "avg": s_avg, "ops": s_ops,
-            "avg_num": to_num(s_avg), "ops_num": to_num(s_ops),
-        } if season_s else None
-
-        l10 = last10_map.get(p["id"])
-        last_10_block = None
-        if l10 is not None:
-            last_10_block = {
-                "ab": l10.get("ab"), "k": l10.get("k"),
-                "avg": l10.get("avg"), "ops": l10.get("ops"),
-                "avg_num": to_num(l10.get("avg")),
-                "ops_num": to_num(l10.get("ops")),
-            }
+        season_blocks: list[dict | None] = []
+        last_10_blocks: list[dict | None] = []
+        last_10_levels: list[str] = []
+        season_levels: list[str] = []
+        for sport_id, lvl in ALL_SPORT_LEVELS:
+            entry = stats_map.get((pid, sport_id)) or {}
+            sb = entry.get("season")
+            lb = entry.get("last_10")
+            if sb and (to_int(sb.get("ab")) or 0) > 0:
+                season_blocks.append(sb)
+                season_levels.append(lvl)
+            if lb and (to_int(lb.get("ab")) or 0) > 0:
+                last_10_blocks.append(lb)
+                last_10_levels.append(lvl)
 
         hitters_out.append({
-            "id": p["id"],
-            "name": p["name"],
-            "position": p["position"],
-            "level": p["level"],
+            "id": pid,
+            "name": name_by_id.get(pid) or "",
+            "position": primary_position.get(pid) or "",
+            "level": primary_lvl,
             "level_since": current_since,
             "prior_level": prior_level,
             "prior_level_since": prior_since,
-            "season": season_block,
-            "last_10": last_10_block,
+            "season": aggregate_blocks(season_blocks),
+            "last_10": aggregate_blocks(last_10_blocks),
+            "season_levels": season_levels,
+            "last_10_levels": last_10_levels,
         })
 
     log_scrape("MLB personId fallback", "<bulk>", 200, fallback_used,
