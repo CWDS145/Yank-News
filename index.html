@@ -207,7 +207,8 @@ table.hitters tbody tr:hover{background:#fafafa}
       <button id="refresh-hitters" class="refresh-btn" type="button" title="Re-read data/org-hitters.json (cron writes every 30 min)">Refresh now</button>
     </div>
     <div class="controls">
-      <label class="ctrl-label">Min AB (last 10) <input type="number" id="min-ab" min="0" value="5"></label>
+      <label class="ctrl-label">Last <input type="number" id="window-days" min="1" max="60" value="10"> days</label>
+      <label class="ctrl-label">Min AB <input type="number" id="min-ab" min="0" value="5"></label>
       <input type="search" class="search" id="search" placeholder="Filter by name…" aria-label="Filter by name">
       <div class="chips" role="group" aria-label="Filter by level">
         <button class="level-chip" data-level="all" aria-pressed="true">All</button>
@@ -225,10 +226,10 @@ table.hitters tbody tr:hover{background:#fafafa}
           <th><button data-sort-col="player">Player</button></th>
           <th><button data-sort-col="pos">Pos</button></th>
           <th><button data-sort-col="level">Level</button></th>
-          <th><button data-sort-col="l10_ab">L10 AB</button></th>
-          <th><button data-sort-col="l10_k">L10 K</button></th>
-          <th><button data-sort-col="l10_avg" data-sort="desc">L10 BA</button></th>
-          <th><button data-sort-col="l10_ops">L10 OPS</button></th>
+          <th><button data-sort-col="l10_ab" data-l-prefix="AB">L10 AB</button></th>
+          <th><button data-sort-col="l10_k" data-l-prefix="K">L10 K</button></th>
+          <th><button data-sort-col="l10_avg" data-l-prefix="BA" data-sort="desc">L10 BA</button></th>
+          <th><button data-sort-col="l10_ops" data-l-prefix="OPS">L10 OPS</button></th>
           <th><button data-sort-col="s_ab">Season AB</button></th>
           <th><button data-sort-col="s_k">Season K</button></th>
           <th><button data-sort-col="s_avg">Season BA</button></th>
@@ -249,7 +250,10 @@ table.hitters tbody tr:hover{background:#fafafa}
 <script>
 "use strict";
 const D = { hitters: [], tx: [] };
-const F = { minAB: 5, search: "", levels: new Set(), positions: new Set() };
+const F = { minAB: 5, search: "", levels: new Set(), positions: new Set(), windowDays: 10 };
+const STATS_API = "https://statsapi.mlb.com/api/v1";
+const SPORT_LEVELS = [[1,"MLB"],[11,"AAA"],[12,"AA"],[13,"High-A"],[14,"Low-A"]];
+const windowCache = new Map();
 const ST = { col: "l10_avg", dir: "desc" };
 const LEVEL_RANK = { MLB: 0, AAA: 1, AA: 2, "High-A": 3, "Low-A": 4 };
 const SORT = {
@@ -396,16 +400,117 @@ function updateChips(){
   });
 }
 
+function fmtRate(x){
+  if (x == null || !isFinite(x)) return null;
+  const s = x.toFixed(3);
+  return (x >= 0 && x < 1 && s.startsWith("0.")) ? s.slice(1) : s;
+}
+
+function aggregateBlocks(blocks){
+  const valid = blocks.filter(Boolean);
+  if (!valid.length) return null;
+  let ab=0, h=0, bb=0, so=0, hbp=0, sf=0, tb=0;
+  for (const b of valid) {
+    ab += +b.ab||0; h += +b.h||0; bb += +b.bb||0; so += +b.so||0;
+    hbp += +b.hbp||0; sf += +b.sf||0; tb += +b.tb||0;
+  }
+  if (ab === 0 && bb === 0) return null;
+  const avg = ab > 0 ? h/ab : null;
+  const obpDen = ab + bb + hbp + sf;
+  const obp = obpDen > 0 ? (h+bb+hbp)/obpDen : null;
+  const slg = ab > 0 ? tb/ab : null;
+  const ops = (obp != null && slg != null) ? (obp+slg) : null;
+  return { ab, k: so, avg: fmtRate(avg), ops: fmtRate(ops), avg_num: avg, ops_num: ops };
+}
+
+function levelsForPlayer(h){
+  const set = new Set();
+  if (h.level) set.add(h.level);
+  if (h.prior_level) set.add(h.prior_level);
+  if (Array.isArray(h.season_levels)) h.season_levels.forEach(l => set.add(l));
+  if (Array.isArray(h.last_10_levels)) h.last_10_levels.forEach(l => set.add(l));
+  if (set.size === 0) SPORT_LEVELS.forEach(([,lvl]) => set.add(lvl));
+  return SPORT_LEVELS.filter(([,lvl]) => set.has(lvl));
+}
+
+async function fetchPlayerWindow(pid, sportId, start, end, season){
+  const key = `${pid}|${sportId}|${start}|${end}`;
+  if (windowCache.has(key)) return windowCache.get(key);
+  const url = `${STATS_API}/people/${pid}/stats?stats=byDateRange&group=hitting&startDate=${start}&endDate=${end}&season=${season}&sportId=${sportId}`;
+  try {
+    const r = await fetch(url);
+    if (!r.ok) { windowCache.set(key, null); return null; }
+    const data = await r.json();
+    const splits = ((data.stats || [{}])[0].splits) || [];
+    if (!splits.length) { windowCache.set(key, null); return null; }
+    const s = splits[0].stat || {};
+    const block = {
+      ab: parseInt(s.atBats) || 0,
+      h: parseInt(s.hits) || 0,
+      bb: parseInt(s.baseOnBalls) || 0,
+      so: parseInt(s.strikeOuts) || 0,
+      hbp: parseInt(s.hitByPitch) || 0,
+      sf: parseInt(s.sacFlies) || 0,
+      tb: parseInt(s.totalBases) || 0,
+    };
+    windowCache.set(key, block);
+    return block;
+  } catch (_) {
+    windowCache.set(key, null);
+    return null;
+  }
+}
+
+async function recomputeWindow(days){
+  const today = new Date();
+  const startD = new Date(today); startD.setDate(startD.getDate() - days);
+  const start = startD.toISOString().slice(0,10);
+  const end = today.toISOString().slice(0,10);
+  const season = today.getUTCFullYear();
+  await Promise.all(D.hitters.map(async h => {
+    const targets = levelsForPlayer(h);
+    const blocks = await Promise.all(targets.map(([sid]) =>
+      fetchPlayerWindow(h.id, sid, start, end, season)
+    ));
+    h.last_10 = aggregateBlocks(blocks);
+  }));
+}
+
+function updateColumnHeaders(days){
+  $$("th button[data-l-prefix]").forEach(b => {
+    b.textContent = `L${days} ${b.dataset.lPrefix}`;
+  });
+}
+
 async function refresh(){
   const btns = [$("#refresh-data"), $("#refresh-hitters")].filter(Boolean);
   btns.forEach(b => { b.dataset.lbl = b.textContent; b.classList.add("loading"); b.disabled = true; b.textContent = "Refreshing…"; });
-  try { await fetchAll(); renderTransactions(); renderHitters(); }
+  try {
+    await fetchAll();
+    renderTransactions();
+    if (F.windowDays !== 10) await recomputeWindow(F.windowDays);
+    renderHitters();
+  }
   finally { btns.forEach(b => { b.classList.remove("loading"); b.disabled = false; b.textContent = b.dataset.lbl; }); }
 }
 
 function attachEvents(){
   $("#min-ab").addEventListener("input", e => {
     F.minAB = parseInt(e.target.value) || 0; renderHitters();
+  });
+  let windowT;
+  $("#window-days").addEventListener("input", e => {
+    const days = parseInt(e.target.value);
+    if (!days || days < 1 || days > 60) return;
+    clearTimeout(windowT);
+    windowT = setTimeout(async () => {
+      F.windowDays = days;
+      updateColumnHeaders(days);
+      const btn = $("#refresh-hitters");
+      btn.dataset.lbl = btn.textContent; btn.classList.add("loading"); btn.disabled = true; btn.textContent = "Loading…";
+      try { await recomputeWindow(days); renderHitters(); }
+      finally { btn.classList.remove("loading"); btn.disabled = false; btn.textContent = btn.dataset.lbl; }
+    }, 400);
   });
   let searchT;
   $("#search").addEventListener("input", e => {
