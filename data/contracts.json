@@ -51,6 +51,26 @@
     "800741": {"name": "Logan Maxwell", "signing_bonus": null, "signing_year": 2024, "signing_round": "NDFA (NYY)", "aav": null, "total": null, "years": "MiLB", "source": "Search results (NDFA, bonus undisclosed)"},
     "823918": {"name": "Kyle West", "signing_bonus": 150000, "signing_year": 2025, "signing_round": "13th (NYY)", "aav": null, "total": null, "years": "MiLB", "source": "Search results"},
     "804603": {"name": "Duncan Pastore", "signing_bonus": null, "signing_year": 2023, "signing_round": "NDFA (NYY)", "aav": null, "total": null, "years": "MiLB", "source": "Search results (NDFA, bonus undisclosed)"},
-    "686540": {"name": "Owen Cobb", "signing_bonus": null, "signing_year": 2025, "signing_round": "Drafted by NYY 2025 (round/bonus TBD from public sources)", "aav": null, "total": null, "years": "MiLB", "source": "ESPN + Pinstripe Alley"}
+    "686540": {"name": "Owen Cobb", "signing_bonus": null, "signing_year": 2025, "signing_round": "Drafted by NYY 2025 (round/bonus TBD from public sources)", "aav": null, "total": null, "years": "MiLB", "source": "ESPN + Pinstripe Alley"},
+    "692633": {"name": "Manuel Palencia", "signing_bonus": 187500, "signing_year": 2019, "signing_round": "J2 (NYY)", "aav": null, "total": null, "years": "MiLB", "source": "Pinstripe Alley + MLB Pipeline"},
+    "670868": {"name": "Abrahan Gutierrez", "signing_bonus": 550000, "signing_year": 2017, "signing_round": "J2 (PHI; originally $3.53M ATL voided)", "aav": null, "total": null, "years": "MiLB FA (NYY)", "source": "MLB Trade Rumors + MLB.com"},
+    "702750": {"name": "Edinson Duran", "signing_bonus": null, "signing_year": null, "signing_round": "MiLB FA (NYY)", "aav": null, "total": null, "years": "MiLB", "source": "Yanks Go Yard (bonus undisclosed)"},
+    "682692": {"name": "Miguel Palma", "signing_bonus": null, "signing_year": 2018, "signing_round": "J2 (HOU); MiLB FA NYY Dec 2025", "aav": null, "total": null, "years": "MiLB", "source": "World Baseball Network (bonus undisclosed)"},
+    "814431": {"name": "Jackson Castillo", "signing_bonus": 238000, "signing_year": 2023, "signing_round": "NDFA (NYY)", "aav": null, "total": null, "years": "MiLB", "source": "Yanks Go Yard"},
+    "800299": {"name": "Diomedes Hernandez", "signing_bonus": 100000, "signing_year": 2022, "signing_round": "J2 (NYY)", "aav": null, "total": null, "years": "MiLB", "source": "Spotrac + Prospects1500"},
+    "823759": {"name": "Eric Genther", "signing_bonus": null, "signing_year": 2025, "signing_round": "NDFA (NYY)", "aav": null, "total": null, "years": "MiLB", "source": "URI Athletics (bonus undisclosed)"},
+    "700648": {"name": "Josue Gonzalez", "signing_bonus": null, "signing_year": null, "signing_round": "J2 (NYY)", "aav": null, "total": null, "years": "MiLB", "source": "Spotrac (bonus undisclosed; common for sub-pool J2 deals)"},
+    "815147": {"name": "Wilson Rodriguez", "signing_bonus": 150000, "signing_year": 2023, "signing_round": "17th #522 (NYY)", "aav": null, "total": null, "years": "MiLB", "source": "Search results + Spotrac"},
+    "815528": {"name": "Ediel Rivera", "signing_bonus": 150000, "signing_year": 2024, "signing_round": "NDFA (NYY)", "aav": null, "total": null, "years": "MiLB", "source": "NYY Underground"},
+    "800285": {"name": "Enmanuel Tejeda", "signing_bonus": 40000, "signing_year": 2022, "signing_round": "J2 (NYY)", "aav": null, "total": null, "years": "MiLB", "source": "Pinstripe Alley"},
+    "800246": {"name": "Engelth Urena", "signing_bonus": 275000, "signing_year": 2022, "signing_round": "J2 (NYY)", "aav": null, "total": null, "years": "MiLB", "source": "Baseball America"},
+    "691411": {"name": "Luis Durango", "signing_bonus": null, "signing_year": 2019, "signing_round": "J2 (CLE); Rule 5 NYY Dec 2024", "aav": null, "total": null, "years": "MiLB", "source": "Wikipedia (bonus undisclosed)"},
+    "701206": {"name": "Willy Montero", "signing_bonus": null, "signing_year": 2024, "signing_round": "J2 (NYY)", "aav": null, "total": null, "years": "MiLB", "source": "Yankees IFA tracker (bonus undisclosed)"},
+    "801307": {"name": "Gregory Bozzo", "signing_bonus": null, "signing_year": 2025, "signing_round": "NDFA (NYY)", "aav": null, "total": null, "years": "MiLB", "source": "WRBB Sports + Northeastern Athletics (bonus undisclosed)"},
+    "804944": {"name": "Jackson Lovich", "signing_bonus": 150000, "signing_year": 2025, "signing_round": "16th #494 (NYY)", "aav": null, "total": null, "years": "MiLB", "source": "Pinstripe Alley + Mizzou Athletics"},
+    "826142": {"name": "JoJo Jackson", "signing_bonus": 150000, "signing_year": 2024, "signing_round": "17th #511 (NYY)", "aav": null, "total": null, "years": "MiLB", "source": "Search results"},
+    "701816": {"name": "John Cristino", "signing_bonus": null, "signing_year": null, "signing_round": "MiLB FA Mar 2025 (NYY, from Frontier League)", "aav": null, "total": null, "years": "MiLB", "source": "Towson Athletics (independent-league signing, no bonus)"},
+    "801726": {"name": "Santiago Gomez", "signing_bonus": 10000, "signing_year": 2022, "signing_round": "J2 (NYY, from Pericos de Puebla)", "aav": null, "total": null, "years": "MiLB", "source": "Prospects1500"},
+    "814269": {"name": "Kevin Verde", "signing_bonus": null, "signing_year": null, "signing_round": "J2 (NYY)", "aav": null, "total": null, "years": "MiLB", "source": "No public bonus reported"}
   }
 }
