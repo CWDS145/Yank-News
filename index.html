@@ -234,11 +234,10 @@ table.hitters tbody tr:hover{background:#fafafa}
           <th><button data-sort-col="s_k">Season K</button></th>
           <th><button data-sort-col="s_avg">Season BA</button></th>
           <th><button data-sort-col="s_ops">Season OPS</button></th>
-          <th><button data-sort-col="level_since">Lvl Since</button></th>
-          <th><button data-sort-col="prior_level">Prior Lvl</button></th>
-          <th><button data-sort-col="prior_since">Prior Since</button></th>
+          <th><button data-sort-col="signing_bonus">Signing $</button></th>
+          <th><button data-sort-col="contract_aav">Current $</button></th>
         </tr></thead>
-        <tbody id="hitters-body"><tr><td colspan="14" class="empty">Loading…</td></tr></tbody>
+        <tbody id="hitters-body"><tr><td colspan="13" class="empty">Loading…</td></tr></tbody>
       </table>
     </div>
   </section>
@@ -268,14 +267,19 @@ const SORT = {
   s_k:  h => (h.season && h.season.k)  ?? -1,
   s_avg:h => (h.season && h.season.avg_num) ?? -1,
   s_ops:h => (h.season && h.season.ops_num) ?? -1,
-  level_since: h => h.level_since || "",
-  prior_level: h => (h.prior_level||"").toLowerCase(),
-  prior_since: h => h.prior_level_since || "",
+  signing_bonus: h => (h.contract && h.contract.signing_bonus) ?? -1,
+  contract_aav: h => (h.contract && h.contract.aav) ?? -1,
 };
 const $ = s => document.querySelector(s);
 const $$ = s => Array.from(document.querySelectorAll(s));
 function esc(s){ if(s==null) return ""; return String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
 function fmt(v){ return (v==null||v==="") ? "—" : String(v); }
+function fmtMoney(n){
+  if (n == null || !isFinite(n) || n <= 0) return "—";
+  if (n >= 1_000_000) return "$" + (n/1_000_000).toFixed(n >= 10_000_000 ? 0 : 2).replace(/\.?0+$/, "") + "M";
+  if (n >= 1_000)     return "$" + Math.round(n/1_000) + "K";
+  return "$" + n;
+}
 function fmtDate(iso){ if(!iso) return "—"; try { return new Date(iso+"T12:00:00Z").toLocaleDateString("en-US",{weekday:"short",month:"short",day:"numeric"}); } catch(_){ return iso; } }
 
 async function fetchJson(url){
@@ -287,11 +291,16 @@ async function fetchJson(url){
 }
 
 async function fetchAll(){
-  const [h, t] = await Promise.all([
+  const [h, t, c] = await Promise.all([
     fetchJson("data/org-hitters.json"),
     fetchJson("data/org-transactions.json"),
+    fetchJson("data/contracts.json").catch(() => ({})),
   ]);
-  D.hitters = (h && h.hitters) || [];
+  const contracts = (c && c.players) || c || {};
+  D.hitters = ((h && h.hitters) || []).map(p => ({
+    ...p,
+    contract: contracts[String(p.id)] || contracts[p.id] || null,
+  }));
   D.tx = (t && t.items) || [];
   const stamp = $("#hitters-updated");
   if (stamp) {
@@ -377,9 +386,8 @@ function renderHitters(){
       + '<td>' + fmt(s.k) + '</td>'
       + '<td>' + fmt(s.avg) + '</td>'
       + '<td>' + fmt(s.ops) + '</td>'
-      + '<td>' + fmt(h.level_since) + '</td>'
-      + '<td>' + esc(h.prior_level || "—") + '</td>'
-      + '<td>' + fmt(h.prior_level_since) + '</td>'
+      + '<td>' + fmtMoney((h.contract||{}).signing_bonus) + '</td>'
+      + '<td>' + fmtMoney((h.contract||{}).aav) + '</td>'
       + '</tr>';
   }).join("");
   $$("th button[data-sort-col]").forEach(b => {
