@@ -204,7 +204,7 @@ table.hitters tbody tr:hover{background:#fafafa}
         <h2>Org-Wide Hitters <span class="updated-stamp" id="hitters-updated"></span><span class="position-chips" id="position-chips" role="group" aria-label="Filter by position"><button class="pos-chip" data-pos="all" aria-pressed="true">All</button><button class="pos-chip" data-pos="C" aria-pressed="false">C</button><button class="pos-chip" data-pos="1B" aria-pressed="false">1B</button><button class="pos-chip" data-pos="2B" aria-pressed="false">2B</button><button class="pos-chip" data-pos="3B" aria-pressed="false">3B</button><button class="pos-chip" data-pos="SS" aria-pressed="false">SS</button><button class="pos-chip" data-pos="IF" aria-pressed="false">IF</button><button class="pos-chip" data-pos="LF" aria-pressed="false">LF</button><button class="pos-chip" data-pos="CF" aria-pressed="false">CF</button><button class="pos-chip" data-pos="RF" aria-pressed="false">RF</button><button class="pos-chip" data-pos="OF" aria-pressed="false">OF</button><button class="pos-chip" data-pos="DH" aria-pressed="false">DH</button></span></h2>
         <div class="section-sub">MLB through Low-A · last 10 days vs season</div>
       </div>
-      <a class="refresh-btn" href="https://github.com/cwds145/Yank-News/actions/workflows/fetch-stats.yml" target="_blank" rel="noopener noreferrer" title="Opens the Stats Refresh workflow on GitHub Actions — click 'Run workflow' there to dispatch a fresh fetch (~1–2 min)">Refresh now</a>
+      <button id="refresh-hitters" class="refresh-btn" type="button" title="Re-read data/org-hitters.json (cron writes every 30 min)">Refresh now</button>
     </div>
     <div class="controls">
       <label class="ctrl-label">Min AB (last 10) <input type="number" id="min-ab" min="0" value="5"></label>
@@ -397,10 +397,10 @@ function updateChips(){
 }
 
 async function refresh(){
-  const btn = $("#refresh-data");
-  btn.classList.add("loading"); btn.disabled = true; btn.textContent = "Refreshing…";
+  const btns = [$("#refresh-data"), $("#refresh-hitters")].filter(Boolean);
+  btns.forEach(b => { b.dataset.lbl = b.textContent; b.classList.add("loading"); b.disabled = true; b.textContent = "Refreshing…"; });
   try { await fetchAll(); renderTransactions(); renderHitters(); }
-  finally { btn.classList.remove("loading"); btn.disabled = false; btn.textContent = "Refresh data"; }
+  finally { btns.forEach(b => { b.classList.remove("loading"); b.disabled = false; b.textContent = b.dataset.lbl; }); }
 }
 
 function attachEvents(){
@@ -434,6 +434,7 @@ function attachEvents(){
     renderHitters();
   }));
   $("#refresh-data").addEventListener("click", refresh);
+  $("#refresh-hitters").addEventListener("click", refresh);
   // We Love Thurm — show Thurm picture in foreground modal until dismissed
   const thurmModal = $("#thurm-modal");
   const closeThurm = () => { thurmModal.hidden = true; };
