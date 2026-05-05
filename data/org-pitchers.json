@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05T19:57:06Z",
+  "updated": "2026-05-05T21:19:10Z",
   "season": 2026,
   "pitchers": [
     {
@@ -677,9 +677,9 @@
       "name": "Carlos Rodón",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-04-30",
-      "prior_level": "High-A",
-      "prior_level_since": "2026-04-24",
+      "level_since": "2026-05-05",
+      "prior_level": "AA",
+      "prior_level_since": "2026-04-30",
       "season": {
         "w": 0,
         "l": 0,
@@ -1219,9 +1219,9 @@
       "name": "Gerrit Cole",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-04-29",
-      "prior_level": "High-A",
-      "prior_level_since": "2026-04-23",
+      "level_since": "2026-05-05",
+      "prior_level": "AA",
+      "prior_level_since": "2026-04-29",
       "season": {
         "w": 0,
         "l": 0,
