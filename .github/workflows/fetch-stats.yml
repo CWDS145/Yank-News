@@ -43,11 +43,15 @@ jobs:
         continue-on-error: true
         run: python scripts/fetch_org_hitters.py
 
+      - name: Org pitchers
+        continue-on-error: true
+        run: python scripts/fetch_org_pitchers.py
+
       - name: Commit data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/stats-mlb.json data/stats-savant.json data/stats-milb.json data/org-hitters.json data/org-transactions.json data/scrape-log.json data/last-updated.json
+          git add data/stats-mlb.json data/stats-savant.json data/stats-milb.json data/org-hitters.json data/org-transactions.json data/org-pitchers.json data/scrape-log.json data/last-updated.json
           if git diff --cached --quiet; then
             echo "No data changes — skipping commit."
             exit 0

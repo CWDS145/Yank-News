@@ -151,8 +151,8 @@ footer a:hover{text-decoration:underline}
 .ctrl-label input[type=number]{width:62px;border:1px solid #e5e5e5;border-radius:4px;padding:4px 6px;font:inherit;font-size:13px;background:#fff}
 input[type=search].search{flex:1;min-width:140px;border:1px solid #e5e5e5;border-radius:4px;padding:5px 9px;font:inherit;font-size:13px;background:#fff}
 .chips{display:flex;gap:4px;flex-wrap:wrap}
-.level-chip{background:#f3f4f6;border:1px solid #e5e5e5;padding:4px 10px;border-radius:999px;font:inherit;font-size:12px;cursor:pointer;color:#111}
-.level-chip[aria-pressed=true]{background:var(--navy);color:#fff;border-color:var(--navy)}
+.level-chip,.level-chip-p,.role-chip{background:#f3f4f6;border:1px solid #e5e5e5;padding:4px 10px;border-radius:999px;font:inherit;font-size:12px;cursor:pointer;color:#111}
+.level-chip[aria-pressed=true],.level-chip-p[aria-pressed=true],.role-chip[aria-pressed=true]{background:var(--navy);color:#fff;border-color:var(--navy)}
 .ctrl-count{color:var(--gray);font-size:12px;margin-left:auto;white-space:nowrap}
 .table-wrap{overflow-x:auto;border:1px solid #e5e5e5;border-radius:6px}
 table.hitters{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums;font-size:12.5px}
@@ -241,6 +241,64 @@ table.hitters tbody tr:hover{background:#fafafa}
       </table>
     </div>
   </section>
+  <section class="data-section" id="pitchers-section">
+    <div class="section-head">
+      <div>
+        <h2>Org-Wide Pitchers <span class="updated-stamp" id="pitchers-updated"></span></h2>
+        <div class="section-sub">MLB through Low-A · season totals (aggregated across levels)</div>
+      </div>
+      <button id="refresh-pitchers" class="refresh-btn" type="button" title="Re-read data/org-pitchers.json (cron writes every 30 min)">Refresh now</button>
+    </div>
+    <div class="controls">
+      <label class="ctrl-label">Min IP <input type="number" id="min-ip" min="0" value="5"></label>
+      <input type="search" class="search" id="search-p" placeholder="Filter by name…" aria-label="Filter pitchers by name">
+      <div class="chips" role="group" aria-label="Filter pitchers by role">
+        <button class="role-chip" data-role="all" aria-pressed="true">All</button>
+        <button class="role-chip" data-role="SP" aria-pressed="false">SP</button>
+        <button class="role-chip" data-role="RP" aria-pressed="false">RP</button>
+      </div>
+      <div class="chips" role="group" aria-label="Filter pitchers by level">
+        <button class="level-chip-p" data-level="all" aria-pressed="true">All</button>
+        <button class="level-chip-p" data-level="MLB" aria-pressed="false">MLB</button>
+        <button class="level-chip-p" data-level="AAA" aria-pressed="false">AAA</button>
+        <button class="level-chip-p" data-level="AA" aria-pressed="false">AA</button>
+        <button class="level-chip-p" data-level="High-A" aria-pressed="false">High-A</button>
+        <button class="level-chip-p" data-level="Low-A" aria-pressed="false">Low-A</button>
+      </div>
+      <span id="result-count-p" class="ctrl-count">— of —</span>
+    </div>
+    <div class="table-wrap">
+      <table class="hitters">
+        <thead><tr>
+          <th><button data-sort-pcol="player">Player</button></th>
+          <th><button data-sort-pcol="pos">Pos</button></th>
+          <th><button data-sort-pcol="level">Level</button></th>
+          <th><button data-sort-pcol="w">W</button></th>
+          <th><button data-sort-pcol="l">L</button></th>
+          <th><button data-sort-pcol="era" data-sort="asc">ERA</button></th>
+          <th><button data-sort-pcol="g">G</button></th>
+          <th><button data-sort-pcol="gs">GS</button></th>
+          <th><button data-sort-pcol="cg">CG</button></th>
+          <th><button data-sort-pcol="sho">SHO</button></th>
+          <th><button data-sort-pcol="sv">SV</button></th>
+          <th><button data-sort-pcol="svo">SVO</button></th>
+          <th><button data-sort-pcol="ip">IP</button></th>
+          <th><button data-sort-pcol="h">H</button></th>
+          <th><button data-sort-pcol="r">R</button></th>
+          <th><button data-sort-pcol="er">ER</button></th>
+          <th><button data-sort-pcol="hr">HR</button></th>
+          <th><button data-sort-pcol="hb">HB</button></th>
+          <th><button data-sort-pcol="bb">BB</button></th>
+          <th><button data-sort-pcol="so">SO</button></th>
+          <th><button data-sort-pcol="whip">WHIP</button></th>
+          <th><button data-sort-pcol="avg">AVG</button></th>
+          <th><button data-sort-pcol="signing_bonus">Signing $</button></th>
+          <th><button data-sort-pcol="contract_aav">Current $</button></th>
+        </tr></thead>
+        <tbody id="pitchers-body"><tr><td colspan="24" class="empty">Loading…</td></tr></tbody>
+      </table>
+    </div>
+  </section>
 </div>
 <footer>
   <span>Yank News · open source</span>
@@ -248,8 +306,10 @@ table.hitters tbody tr:hover{background:#fafafa}
 </footer>
 <script>
 "use strict";
-const D = { hitters: [], tx: [] };
+const D = { hitters: [], tx: [], pitchers: [] };
 const F = { minAB: 5, search: "", levels: new Set(), positions: new Set(), windowAB: 10 };
+const FP = { minIP: 5, search: "", levels: new Set(), role: "all" };
+const STP = { col: "era", dir: "asc" };
 const STATS_API = "https://statsapi.mlb.com/api/v1";
 const SPORT_LEVELS = [[1,"MLB"],[11,"AAA"],[12,"AA"],[13,"High-A"],[14,"Low-A"]];
 const windowCache = new Map();
@@ -295,27 +355,35 @@ async function fetchJson(url){
 }
 
 async function fetchAll(){
-  const [h, t, c] = await Promise.all([
+  const [h, t, c, p] = await Promise.all([
     fetchJson("data/org-hitters.json"),
     fetchJson("data/org-transactions.json"),
     fetchJson("data/contracts.json").catch(() => ({})),
+    fetchJson("data/org-pitchers.json").catch(() => ({})),
   ]);
   const contracts = (c && c.players) || c || {};
-  D.hitters = ((h && h.hitters) || []).map(p => ({
-    ...p,
-    contract: contracts[String(p.id)] || contracts[p.id] || null,
+  D.hitters = ((h && h.hitters) || []).map(x => ({
+    ...x,
+    contract: contracts[String(x.id)] || contracts[x.id] || null,
+  }));
+  D.pitchers = ((p && p.pitchers) || []).map(x => ({
+    ...x,
+    contract: contracts[String(x.id)] || contracts[x.id] || null,
   }));
   D.tx = (t && t.items) || [];
-  const stamp = $("#hitters-updated");
-  if (stamp) {
-    if (h && h.updated) {
-      const d = new Date(h.updated);
-      stamp.textContent = "Updated " + d.toLocaleString("en-US",{month:"short",day:"numeric",hour:"numeric",minute:"2-digit"});
-      stamp.title = d.toString();
+  const setStamp = (sel, d) => {
+    const el = $(sel);
+    if (!el) return;
+    if (d && d.updated) {
+      const dt = new Date(d.updated);
+      el.textContent = "Updated " + dt.toLocaleString("en-US",{month:"short",day:"numeric",hour:"numeric",minute:"2-digit"});
+      el.title = dt.toString();
     } else {
-      stamp.textContent = "";
+      el.textContent = "";
     }
-  }
+  };
+  setStamp("#hitters-updated", h);
+  setStamp("#pitchers-updated", p);
 }
 
 function renderTransactions(){
@@ -364,6 +432,119 @@ function applySort(rows){
       cmp = ((b.last_10 && b.last_10.ab) ?? -1) - ((a.last_10 && a.last_10.ab) ?? -1);
     }
     return cmp;
+  });
+}
+
+// ---------- Pitchers ----------
+const SORT_P = {
+  player: p => (p.name||"").toLowerCase(),
+  pos: p => {
+    const s = p.season; if (!s) return 99;
+    if ((s.gs||0) > 0) return 0; // SP
+    return 1; // RP
+  },
+  level: p => LEVEL_RANK[p.level] ?? 99,
+  w: p => (p.season && p.season.w) ?? -1,
+  l: p => (p.season && p.season.l) ?? -1,
+  era: p => (p.season && p.season.era_num) ?? 99,
+  g: p => (p.season && p.season.g) ?? -1,
+  gs: p => (p.season && p.season.gs) ?? -1,
+  cg: p => (p.season && p.season.cg) ?? -1,
+  sho: p => (p.season && p.season.sho) ?? -1,
+  sv: p => (p.season && p.season.sv) ?? -1,
+  svo: p => (p.season && p.season.svo) ?? -1,
+  ip: p => (p.season && p.season.ip_outs) ?? -1,
+  h: p => (p.season && p.season.h) ?? -1,
+  r: p => (p.season && p.season.r) ?? -1,
+  er: p => (p.season && p.season.er) ?? -1,
+  hr: p => (p.season && p.season.hr) ?? -1,
+  hb: p => (p.season && p.season.hb) ?? -1,
+  bb: p => (p.season && p.season.bb) ?? -1,
+  so: p => (p.season && p.season.so) ?? -1,
+  whip: p => (p.season && p.season.whip_num) ?? 99,
+  avg: p => (p.season && p.season.avg_num) ?? 99,
+  signing_bonus: p => (p.contract && p.contract.signing_bonus) ?? -1,
+  contract_aav: p => (p.contract && p.contract.aav) ?? -1,
+};
+
+function pitcherRole(p){
+  const s = p.season || {};
+  return (s.gs||0) > 0 ? "SP" : "RP";
+}
+
+function applyFiltersP(){
+  let rows = D.pitchers;
+  if (FP.minIP > 0) rows = rows.filter(p => p.season && (p.season.ip_outs/3) >= FP.minIP);
+  if (FP.search) {
+    const q = FP.search.toLowerCase();
+    rows = rows.filter(p => (p.name||"").toLowerCase().includes(q));
+  }
+  if (FP.levels.size > 0) rows = rows.filter(p => FP.levels.has(p.level));
+  if (FP.role !== "all") rows = rows.filter(p => pitcherRole(p) === FP.role);
+  return rows;
+}
+
+function applySortP(rows){
+  const key = SORT_P[STP.col];
+  return [...rows].sort((a,b) => {
+    let va = key(a), vb = key(b);
+    let cmp = (typeof va === "string") ? va.localeCompare(vb) : (va - vb);
+    if (STP.dir === "desc") cmp = -cmp;
+    return cmp;
+  });
+}
+
+function renderPitchers(){
+  const filtered = applyFiltersP();
+  const sorted = applySortP(filtered);
+  $("#result-count-p").textContent = sorted.length + " of " + D.pitchers.length + " pitchers";
+  const body = $("#pitchers-body");
+  if (!sorted.length) {
+    body.innerHTML = '<tr><td colspan="24" class="empty">No pitchers match. Adjust filters.</td></tr>';
+    return;
+  }
+  body.innerHTML = sorted.map(p => {
+    const s = p.season || {};
+    return '<tr>'
+      + '<td>' + esc(p.name||"—") + '</td>'
+      + '<td>' + esc(pitcherRole(p)) + '</td>'
+      + '<td>' + esc(p.level||"—") + '</td>'
+      + '<td>' + fmt(s.w) + '</td>'
+      + '<td>' + fmt(s.l) + '</td>'
+      + '<td>' + fmt(s.era) + '</td>'
+      + '<td>' + fmt(s.g) + '</td>'
+      + '<td>' + fmt(s.gs) + '</td>'
+      + '<td>' + fmt(s.cg) + '</td>'
+      + '<td>' + fmt(s.sho) + '</td>'
+      + '<td>' + fmt(s.sv) + '</td>'
+      + '<td>' + fmt(s.svo) + '</td>'
+      + '<td>' + fmt(s.ip) + '</td>'
+      + '<td>' + fmt(s.h) + '</td>'
+      + '<td>' + fmt(s.r) + '</td>'
+      + '<td>' + fmt(s.er) + '</td>'
+      + '<td>' + fmt(s.hr) + '</td>'
+      + '<td>' + fmt(s.hb) + '</td>'
+      + '<td>' + fmt(s.bb) + '</td>'
+      + '<td>' + fmt(s.so) + '</td>'
+      + '<td>' + fmt(s.whip) + '</td>'
+      + '<td>' + fmt(s.avg) + '</td>'
+      + '<td>' + fmtMoney((p.contract||{}).signing_bonus) + '</td>'
+      + '<td>' + fmtMoney((p.contract||{}).aav) + '</td>'
+      + '</tr>';
+  }).join("");
+  $$("th button[data-sort-pcol]").forEach(b => {
+    b.dataset.sort = (b.dataset.sortPcol === STP.col) ? STP.dir : "";
+  });
+}
+
+function updateChipsP(){
+  $$(".level-chip-p").forEach(c => {
+    const lvl = c.dataset.level;
+    const active = (lvl === "all" && FP.levels.size === 0) || FP.levels.has(lvl);
+    c.setAttribute("aria-pressed", active);
+  });
+  $$(".role-chip").forEach(c => {
+    c.setAttribute("aria-pressed", c.dataset.role === FP.role);
   });
 }
 
@@ -490,12 +671,13 @@ function updateColumnHeaders(days){
 }
 
 async function refresh(){
-  const btns = [$("#refresh-data"), $("#refresh-hitters")].filter(Boolean);
+  const btns = [$("#refresh-data"), $("#refresh-hitters"), $("#refresh-pitchers")].filter(Boolean);
   btns.forEach(b => { b.dataset.lbl = b.textContent; b.classList.add("loading"); b.disabled = true; b.textContent = "Refreshing…"; });
   try {
     await fetchAll();
     renderTransactions();
     renderHitters();
+    renderPitchers();
     await recomputeWindow(F.windowAB);
     renderHitters();
   }
@@ -548,6 +730,35 @@ function attachEvents(){
   }));
   $("#refresh-data").addEventListener("click", refresh);
   $("#refresh-hitters").addEventListener("click", refresh);
+  $("#refresh-pitchers").addEventListener("click", refresh);
+
+  // Pitchers controls
+  $("#min-ip").addEventListener("input", e => {
+    FP.minIP = parseInt(e.target.value) || 0; renderPitchers();
+  });
+  let searchPT;
+  $("#search-p").addEventListener("input", e => {
+    clearTimeout(searchPT);
+    const v = e.target.value;
+    searchPT = setTimeout(() => { FP.search = v; renderPitchers(); }, 200);
+  });
+  $$(".level-chip-p").forEach(c => c.addEventListener("click", () => {
+    const lvl = c.dataset.level;
+    if (lvl === "all") FP.levels.clear();
+    else if (FP.levels.has(lvl)) FP.levels.delete(lvl);
+    else FP.levels.add(lvl);
+    updateChipsP(); renderPitchers();
+  }));
+  $$(".role-chip").forEach(c => c.addEventListener("click", () => {
+    FP.role = c.dataset.role;
+    updateChipsP(); renderPitchers();
+  }));
+  $$("th button[data-sort-pcol]").forEach(btn => btn.addEventListener("click", () => {
+    const col = btn.dataset.sortPcol;
+    if (STP.col === col) STP.dir = (STP.dir === "desc") ? "asc" : "desc";
+    else { STP.col = col; STP.dir = (col === "era" || col === "whip" || col === "avg") ? "asc" : "desc"; }
+    renderPitchers();
+  }));
   // We Love Thurm — show Thurm picture in foreground modal until dismissed
   const thurmModal = $("#thurm-modal");
   const closeThurm = () => { thurmModal.hidden = true; };
@@ -562,6 +773,7 @@ function attachEvents(){
   await fetchAll();
   renderTransactions();
   renderHitters();
+  renderPitchers();
   await recomputeWindow(F.windowAB);
   renderHitters();
 })();
