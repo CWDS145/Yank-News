@@ -9,7 +9,8 @@
 :root{--navy:#0C2340;--bg:#f5f5f5;--card:#fff;--border:#e5e5e5;--muted:#6b7280;--text:#111;--green:#10b981;--yellow:#f59e0b;--red:#ef4444}
 *{box-sizing:border-box}
 html,body{margin:0;padding:0}
-body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background-color:var(--bg);color:var(--text);font-size:14px;line-height:1.45;position:relative}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background-color:var(--bg);background-image:url("../assets/Thurm.png");background-size:cover;background-position:center top;background-attachment:fixed;background-repeat:no-repeat;color:var(--text);font-size:14px;line-height:1.45;position:relative}
+body::before{content:"";position:fixed;inset:0;background:linear-gradient(180deg,rgba(12,35,64,0.55) 0%,rgba(245,245,245,0.85) 35%,rgba(245,245,245,0.92) 100%);z-index:-1;pointer-events:none}
 a{color:var(--navy)}a:hover{text-decoration:underline}
 button{font:inherit;cursor:pointer}
 h1,h2,h3{margin:0;font-weight:600}
@@ -105,6 +106,7 @@ footer{padding:24px 16px;text-align:center;color:var(--muted);font-size:12px;bor
 .tx-link .p{font-weight:600;color:var(--text)}
 .dl-item{margin-bottom:7px;font-size:12.5px;line-height:1.35}
 .dl-item .pos{font-weight:700;color:var(--navy);margin-right:6px;display:inline-block;min-width:22px}
+@media (max-width:767px){body{background-attachment:scroll}}
 @media (max-width:768px){
   .layout{grid-template-columns:1fr;padding:12px}
   .standings{display:none}
