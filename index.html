@@ -130,8 +130,11 @@ footer a:hover{text-decoration:underline}
   box-shadow:0 4px 16px rgba(0,0,0,0.06);
 }
 .section-head{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;margin-bottom:14px;flex-wrap:wrap}
-.section-head h2{margin:0;color:var(--navy);font-size:22px;font-weight:700;letter-spacing:0.01em}
-.updated-stamp{font-size:12px;font-weight:400;color:var(--gray);margin-left:10px;letter-spacing:normal;white-space:nowrap}
+.section-head h2{margin:0;color:var(--navy);font-size:22px;font-weight:700;letter-spacing:0.01em;display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px}
+.updated-stamp{font-size:12px;font-weight:400;color:var(--gray);letter-spacing:normal;white-space:nowrap}
+.position-chips{display:inline-flex;flex-wrap:wrap;gap:4px}
+.pos-chip{background:#f3f4f6;border:1px solid #e5e5e5;padding:3px 9px;border-radius:999px;font:inherit;font-size:11px;font-weight:500;cursor:pointer;color:#111}
+.pos-chip[aria-pressed=true]{background:var(--navy);color:#fff;border-color:var(--navy)}
 .section-sub{font-size:13px;color:var(--gray);margin-top:4px}
 .refresh-btn{background:var(--navy);color:#fff;border:none;padding:7px 14px;border-radius:6px;cursor:pointer;font:inherit;font-size:13px;font-weight:500}
 .refresh-btn:hover{background:#1a3a64}
@@ -198,7 +201,7 @@ table.hitters tbody tr:hover{background:#fafafa}
   <section class="data-section" id="hitters-section">
     <div class="section-head">
       <div>
-        <h2>Org-Wide Hitters <span class="updated-stamp" id="hitters-updated"></span></h2>
+        <h2>Org-Wide Hitters <span class="updated-stamp" id="hitters-updated"></span><span class="position-chips" id="position-chips" role="group" aria-label="Filter by position"><button class="pos-chip" data-pos="all" aria-pressed="true">All</button><button class="pos-chip" data-pos="C" aria-pressed="false">C</button><button class="pos-chip" data-pos="1B" aria-pressed="false">1B</button><button class="pos-chip" data-pos="2B" aria-pressed="false">2B</button><button class="pos-chip" data-pos="3B" aria-pressed="false">3B</button><button class="pos-chip" data-pos="SS" aria-pressed="false">SS</button><button class="pos-chip" data-pos="IF" aria-pressed="false">IF</button><button class="pos-chip" data-pos="LF" aria-pressed="false">LF</button><button class="pos-chip" data-pos="CF" aria-pressed="false">CF</button><button class="pos-chip" data-pos="RF" aria-pressed="false">RF</button><button class="pos-chip" data-pos="OF" aria-pressed="false">OF</button><button class="pos-chip" data-pos="DH" aria-pressed="false">DH</button></span></h2>
         <div class="section-sub">MLB through Low-A · last 10 days vs season</div>
       </div>
     </div>
@@ -245,7 +248,7 @@ table.hitters tbody tr:hover{background:#fafafa}
 <script>
 "use strict";
 const D = { hitters: [], tx: [] };
-const F = { minAB: 5, search: "", levels: new Set() };
+const F = { minAB: 5, search: "", levels: new Set(), positions: new Set() };
 const ST = { col: "l10_avg", dir: "desc" };
 const LEVEL_RANK = { MLB: 0, AAA: 1, AA: 2, "High-A": 3, "Low-A": 4 };
 const SORT = {
@@ -329,6 +332,7 @@ function applyFilters(){
     rows = rows.filter(h => (h.name||"").toLowerCase().includes(q));
   }
   if (F.levels.size > 0) rows = rows.filter(h => F.levels.has(h.level));
+  if (F.positions.size > 0) rows = rows.filter(h => F.positions.has(h.position));
   return rows;
 }
 
@@ -384,6 +388,11 @@ function updateChips(){
     const active = (lvl === "all" && F.levels.size === 0) || F.levels.has(lvl);
     c.setAttribute("aria-pressed", active);
   });
+  $$(".pos-chip").forEach(c => {
+    const pos = c.dataset.pos;
+    const active = (pos === "all" && F.positions.size === 0) || F.positions.has(pos);
+    c.setAttribute("aria-pressed", active);
+  });
 }
 
 async function refresh(){
@@ -408,6 +417,13 @@ function attachEvents(){
     if (lvl === "all") F.levels.clear();
     else if (F.levels.has(lvl)) F.levels.delete(lvl);
     else F.levels.add(lvl);
+    updateChips(); renderHitters();
+  }));
+  $$(".pos-chip").forEach(c => c.addEventListener("click", () => {
+    const pos = c.dataset.pos;
+    if (pos === "all") F.positions.clear();
+    else if (F.positions.has(pos)) F.positions.delete(pos);
+    else F.positions.add(pos);
     updateChips(); renderHitters();
   }));
   $$("th button[data-sort-col]").forEach(btn => btn.addEventListener("click", () => {
