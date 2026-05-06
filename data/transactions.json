@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T22:25:35Z",
+  "updated": "2026-05-06T23:28:06Z",
   "count": 41,
   "items": [
     {
@@ -35,14 +35,14 @@
     {
       "date": "2026-05-01",
       "type": "",
-      "player": "Randal Grichuk",
-      "description": "Refused Minor League Assignment - Free Agent"
+      "player": "Paul DeJong",
+      "description": "Declared Free Agency"
     },
     {
       "date": "2026-05-01",
       "type": "",
-      "player": "Paul DeJong",
-      "description": "Declared Free Agency"
+      "player": "Randal Grichuk",
+      "description": "Refused Minor League Assignment - Free Agent"
     },
     {
       "date": "2026-04-29",
@@ -173,14 +173,14 @@
     {
       "date": "2026-03-25",
       "type": "placed",
-      "player": "Anthony Volpe",
-      "description": "Placed on 10-Day IL (Recovery from left labrum surgery)"
+      "player": "Carlos Rodon",
+      "description": "Placed on 15-Day IL (Recovery from left elbow surgery)"
     },
     {
       "date": "2026-03-25",
       "type": "placed",
-      "player": "Carlos Rodon",
-      "description": "Placed on 15-Day IL (Recovery from left elbow surgery)"
+      "player": "Gerrit Cole",
+      "description": "Placed on 15-Day IL (Recovery from right elbow surgery)"
     },
     {
       "date": "2026-03-25",
@@ -191,8 +191,8 @@
     {
       "date": "2026-03-25",
       "type": "placed",
-      "player": "Gerrit Cole",
-      "description": "Placed on 15-Day IL (Recovery from right elbow surgery)"
+      "player": "Anthony Volpe",
+      "description": "Placed on 10-Day IL (Recovery from left labrum surgery)"
     },
     {
       "date": "2026-03-24",
