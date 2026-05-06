@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T15:41:32Z",
+  "updated": "2026-05-06T17:43:34Z",
   "count": 40,
   "items": [
     {
@@ -119,8 +119,8 @@
     {
       "date": "2026-04-14",
       "type": "sent",
-      "player": "Anthony Volpe",
-      "description": "Sent to Minors For Rehabilitation"
+      "player": "Yerry De Los Santos",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-04-14",
@@ -131,8 +131,8 @@
     {
       "date": "2026-04-14",
       "type": "sent",
-      "player": "Yerry De Los Santos",
-      "description": "Sent to Minors"
+      "player": "Anthony Volpe",
+      "description": "Sent to Minors For Rehabilitation"
     },
     {
       "date": "2026-04-13",
@@ -148,15 +148,15 @@
     },
     {
       "date": "2026-04-10",
-      "type": "designated",
-      "player": "Cade Winquest",
-      "description": "Designated for Assignment"
-    },
-    {
-      "date": "2026-04-10",
       "type": "called up",
       "player": "Luis Gil",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-04-10",
+      "type": "designated",
+      "player": "Cade Winquest",
+      "description": "Designated for Assignment"
     },
     {
       "date": "2026-03-27",
@@ -166,15 +166,15 @@
     },
     {
       "date": "2026-03-25",
-      "type": "placed",
-      "player": "Gerrit Cole",
-      "description": "Placed on 15-Day IL (Recovery from right elbow surgery)"
-    },
-    {
-      "date": "2026-03-25",
       "type": "purchased",
       "player": "Randal Grichuk",
       "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-03-25",
+      "type": "placed",
+      "player": "Gerrit Cole",
+      "description": "Placed on 15-Day IL (Recovery from right elbow surgery)"
     },
     {
       "date": "2026-03-25",
@@ -197,13 +197,13 @@
     {
       "date": "2026-03-21",
       "type": "sent",
-      "player": "Oswaldo Cabrera",
+      "player": "Max Schuemann",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-03-21",
       "type": "sent",
-      "player": "Max Schuemann",
+      "player": "Oswaldo Cabrera",
       "description": "Sent to Minors"
     },
     {
@@ -215,13 +215,13 @@
     {
       "date": "2026-03-20",
       "type": "sent",
-      "player": "Kervin Castro",
+      "player": "Jasson Dominguez",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-03-20",
       "type": "sent",
-      "player": "Jasson Dominguez",
+      "player": "Kervin Castro",
       "description": "Sent to Minors"
     },
     {
@@ -233,13 +233,13 @@
     {
       "date": "2026-03-09",
       "type": "sent",
-      "player": "Spencer Jones",
+      "player": "Elmer Rodriguez",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-03-09",
       "type": "sent",
-      "player": "Elmer Rodriguez",
+      "player": "Spencer Jones",
       "description": "Sent to Minors"
     }
   ]
