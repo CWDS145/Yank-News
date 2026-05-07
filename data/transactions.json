@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T04:58:09Z",
+  "updated": "2026-05-07T07:47:36Z",
   "count": 42,
   "items": [
     {
@@ -41,26 +41,26 @@
     {
       "date": "2026-05-01",
       "type": "",
-      "player": "Paul DeJong",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-05-01",
-      "type": "",
       "player": "Randal Grichuk",
       "description": "Refused Minor League Assignment - Free Agent"
     },
     {
-      "date": "2026-04-29",
-      "type": "called up",
-      "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors"
+      "date": "2026-05-01",
+      "type": "",
+      "player": "Paul DeJong",
+      "description": "Declared Free Agency"
     },
     {
       "date": "2026-04-29",
       "type": "designated",
       "player": "Randal Grichuk",
       "description": "Designated for Assignment"
+    },
+    {
+      "date": "2026-04-29",
+      "type": "called up",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-04-28",
@@ -160,15 +160,15 @@
     },
     {
       "date": "2026-04-10",
-      "type": "called up",
-      "player": "Luis Gil",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-04-10",
       "type": "designated",
       "player": "Cade Winquest",
       "description": "Designated for Assignment"
+    },
+    {
+      "date": "2026-04-10",
+      "type": "called up",
+      "player": "Luis Gil",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-03-27",
@@ -184,9 +184,9 @@
     },
     {
       "date": "2026-03-25",
-      "type": "placed",
-      "player": "Gerrit Cole",
-      "description": "Placed on 15-Day IL (Recovery from right elbow surgery)"
+      "type": "purchased",
+      "player": "Randal Grichuk",
+      "description": "Purchased From Minors"
     },
     {
       "date": "2026-03-25",
@@ -196,9 +196,9 @@
     },
     {
       "date": "2026-03-25",
-      "type": "purchased",
-      "player": "Randal Grichuk",
-      "description": "Purchased From Minors"
+      "type": "placed",
+      "player": "Gerrit Cole",
+      "description": "Placed on 15-Day IL (Recovery from right elbow surgery)"
     },
     {
       "date": "2026-03-24",
