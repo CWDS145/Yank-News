@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T12:24:08Z",
+  "updated": "2026-05-07T15:20:32Z",
   "items": [
     {
       "id": 906389,
@@ -15,17 +15,17 @@
       "description": "New York Yankees optioned RHP Yerry De los Santos to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 906086,
-      "date": "2026-05-06",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 695684,
-      "player": "Elmer Rodríguez",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees optioned RHP Elmer Rodríguez to Scranton/Wilkes-Barre RailRiders."
+      "id": 906406,
+      "date": "2026-05-07",
+      "type_code": "SE",
+      "type_desc": "Selected",
+      "player_id": 694341,
+      "player": "Brendan Beck",
+      "from_team_id": 531,
+      "to_team_id": 147,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
+      "to": "New York Yankees",
+      "description": "New York Yankees selected the contract of RHP Brendan Beck from Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 906235,
@@ -39,6 +39,19 @@
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
       "description": "New York Yankees recalled RHP Yerry De los Santos from Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 906086,
+      "date": "2026-05-06",
+      "type_code": "OPT",
+      "type_desc": "Optioned",
+      "player_id": 695684,
+      "player": "Elmer Rodríguez",
+      "from_team_id": 147,
+      "to_team_id": 531,
+      "from": "New York Yankees",
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees optioned RHP Elmer Rodríguez to Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 905900,
@@ -119,6 +132,19 @@
       "description": "LF Randal Grichuk elected free agency."
     },
     {
+      "id": 904761,
+      "date": "2026-04-30",
+      "type_code": "ASG",
+      "type_desc": "Assigned",
+      "player_id": 607074,
+      "player": "Carlos Rodón",
+      "from_team_id": 147,
+      "to_team_id": 1956,
+      "from": "New York Yankees",
+      "to": "AA Somerset Patriots",
+      "description": "New York Yankees sent LHP Carlos Rodón on a rehab assignment to Somerset Patriots."
+    },
+    {
       "id": 905899,
       "date": "2026-04-30",
       "type_code": "ASG",
@@ -132,17 +158,17 @@
       "description": "New York Yankees sent LHP Carlos Rodón on a rehab assignment to Somerset Patriots."
     },
     {
-      "id": 904761,
-      "date": "2026-04-30",
+      "id": 904029,
+      "date": "2026-04-29",
       "type_code": "ASG",
       "type_desc": "Assigned",
-      "player_id": 607074,
-      "player": "Carlos Rodón",
+      "player_id": 543037,
+      "player": "Gerrit Cole",
       "from_team_id": 147,
       "to_team_id": 1956,
       "from": "New York Yankees",
       "to": "AA Somerset Patriots",
-      "description": "New York Yankees sent LHP Carlos Rodón on a rehab assignment to Somerset Patriots."
+      "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Somerset Patriots."
     },
     {
       "id": 904040,
@@ -171,19 +197,6 @@
       "description": "New York Yankees designated LF Randal Grichuk for assignment."
     },
     {
-      "id": 904029,
-      "date": "2026-04-29",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 543037,
-      "player": "Gerrit Cole",
-      "from_team_id": 147,
-      "to_team_id": 1956,
-      "from": "New York Yankees",
-      "to": "AA Somerset Patriots",
-      "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Somerset Patriots."
-    },
-    {
       "id": 903902,
       "date": "2026-04-29",
       "type_code": "CU",
@@ -197,17 +210,17 @@
       "description": "New York Yankees recalled RHP Elmer Rodríguez from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 903729,
+      "id": 903653,
       "date": "2026-04-28",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 683011,
-      "player": "Anthony Volpe",
-      "from_team_id": 147,
-      "to_team_id": 1956,
-      "from": "New York Yankees",
-      "to": "AA Somerset Patriots",
-      "description": "New York Yankees sent SS Anthony Volpe on a rehab assignment to Somerset Patriots."
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 519317,
+      "player": "Giancarlo Stanton",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees placed DH Giancarlo Stanton on the 10-day injured list retroactive to April 25, 2026. Right calf strain."
     },
     {
       "id": 903741,
@@ -223,17 +236,17 @@
       "description": "New York Yankees sent SS Anthony Volpe on a rehab assignment to Somerset Patriots."
     },
     {
-      "id": 903653,
+      "id": 903729,
       "date": "2026-04-28",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 519317,
-      "player": "Giancarlo Stanton",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees placed DH Giancarlo Stanton on the 10-day injured list retroactive to April 25, 2026. Right calf strain."
+      "type_code": "ASG",
+      "type_desc": "Assigned",
+      "player_id": 683011,
+      "player": "Anthony Volpe",
+      "from_team_id": 147,
+      "to_team_id": 1956,
+      "from": "New York Yankees",
+      "to": "AA Somerset Patriots",
+      "description": "New York Yankees sent SS Anthony Volpe on a rehab assignment to Somerset Patriots."
     },
     {
       "id": 903652,
@@ -275,19 +288,6 @@
       "description": "New York Yankees recalled LF Jasson Domínguez from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 902952,
-      "date": "2026-04-25",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 677960,
-      "player": "Ryan Weathers",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees activated LHP Ryan Weathers from the paternity list."
-    },
-    {
       "id": 902951,
       "date": "2026-04-25",
       "type_code": "SC",
@@ -301,6 +301,19 @@
       "description": "New York Yankees placed RHP Angel Chivilli on the 15-day injured list retroactive to April 23, 2026. Right shoulder discomfort."
     },
     {
+      "id": 902952,
+      "date": "2026-04-25",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 677960,
+      "player": "Ryan Weathers",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated LHP Ryan Weathers from the paternity list."
+    },
+    {
       "id": 902783,
       "date": "2026-04-24",
       "type_code": "ASG",
@@ -312,6 +325,19 @@
       "from": "New York Yankees",
       "to": "High-A Hudson Valley Renegades",
       "description": "New York Yankees sent LHP Carlos Rodón on a rehab assignment to Hudson Valley Renegades."
+    },
+    {
+      "id": 904028,
+      "date": "2026-04-23",
+      "type_code": "ASG",
+      "type_desc": "Assigned",
+      "player_id": 543037,
+      "player": "Gerrit Cole",
+      "from_team_id": 147,
+      "to_team_id": 537,
+      "from": "New York Yankees",
+      "to": "High-A Hudson Valley Renegades",
+      "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Hudson Valley Renegades."
     },
     {
       "id": 902540,
@@ -328,19 +354,6 @@
     },
     {
       "id": 902542,
-      "date": "2026-04-23",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 543037,
-      "player": "Gerrit Cole",
-      "from_team_id": 147,
-      "to_team_id": 537,
-      "from": "New York Yankees",
-      "to": "High-A Hudson Valley Renegades",
-      "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Hudson Valley Renegades."
-    },
-    {
-      "id": 904028,
       "date": "2026-04-23",
       "type_code": "ASG",
       "type_desc": "Assigned",
@@ -418,6 +431,19 @@
       "description": "Houston Astros traded RHP Wilmy Sanchez to New York Yankees for SS Braden Shewmake."
     },
     {
+      "id": 901385,
+      "date": "2026-04-17",
+      "type_code": "ASG",
+      "type_desc": "Assigned",
+      "player_id": 543037,
+      "player": "Gerrit Cole",
+      "from_team_id": 147,
+      "to_team_id": 1956,
+      "from": "New York Yankees",
+      "to": "AA Somerset Patriots",
+      "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Somerset Patriots."
+    },
+    {
       "id": 901383,
       "date": "2026-04-17",
       "type_code": "ASG",
@@ -432,19 +458,6 @@
     },
     {
       "id": 902539,
-      "date": "2026-04-17",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 543037,
-      "player": "Gerrit Cole",
-      "from_team_id": 147,
-      "to_team_id": 1956,
-      "from": "New York Yankees",
-      "to": "AA Somerset Patriots",
-      "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Somerset Patriots."
-    },
-    {
-      "id": 901385,
       "date": "2026-04-17",
       "type_code": "ASG",
       "type_desc": "Assigned",
@@ -483,7 +496,7 @@
       "description": "New York Yankees optioned RHP Yerry De los Santos to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 902031,
+      "id": 898812,
       "date": "2026-04-14",
       "type_code": "ASG",
       "type_desc": "Assigned",
@@ -496,7 +509,7 @@
       "description": "New York Yankees sent SS Anthony Volpe on a rehab assignment to Somerset Patriots."
     },
     {
-      "id": 898812,
+      "id": 902031,
       "date": "2026-04-14",
       "type_code": "ASG",
       "type_desc": "Assigned",
