@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-07T17:17:42Z",
-  "count": 70,
+  "updated": "2026-05-07T19:15:31Z",
+  "count": 68,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-05-07T17:17:42Z",
+      "published": "2026-05-07T19:15:31Z",
       "image": null
     },
     {
@@ -17,16 +17,34 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-rhp-sean-paul-linan/",
-      "published": "2026-05-07T17:17:42Z",
+      "published": "2026-05-07T19:15:31Z",
       "image": null
     },
     {
-      "title": "Domínguez carted off in first inning after hard collision with outfield wall",
+      "title": "Yankees' Jasson Domínguez carted off field after making wall-slamming catch",
+      "summary": "The 23-year-old Yankees outfielder made a spectacular and painful grab against the Rangers on Thursday afternoon",
+      "source": "CBS Sports MLB",
+      "author": "Dayn Perry",
+      "link": "https://www.cbssports.com/mlb/news/yankees-jasson-dominguez-carted-off-wall-catch/",
+      "published": "2026-05-07T18:31:14Z",
+      "image": "https://sportshub.cbsistatic.com/i/2026/05/07/7a6cd95f-9e30-43be-904c-6647eacd7b53/jasson-dominguez-imagn.png"
+    },
+    {
+      "title": "Domínguez in concussion protocol after hard collision with outfield wall",
       "summary": "",
       "source": "MLB.com Yankees",
       "author": "Bryan Hoch",
       "link": "https://www.mlb.com/yankees/news/jasson-dominguez-injured-on-collision-with-wall",
-      "published": "2026-05-07T17:16:00Z",
+      "published": "2026-05-07T18:30:00Z",
+      "image": null
+    },
+    {
+      "title": "Jasson Domínguez carted off field after collision with left field wall",
+      "summary": "Jasson Domínguez exited today’s game against the Rangers after a scary collision with the left field wall. Brandon Nimmo, Texas’ leadoff hitter, sent a line drive to left, which Domínguez caught before ramming into the wall. Domínguez immediately went to the ground and Aaron Boone and the team’s trainers quickly ran to the outfield. The left fielder was […]",
+      "source": "Pinstripe Alley",
+      "author": "Jake Devin",
+      "link": "https://www.pinstripealley.com/yankees-news/187202/yankees-news-injuries-jasson-dominguez-collision-wall-catch",
+      "published": "2026-05-07T17:15:13Z",
       "image": null
     },
     {
@@ -58,7 +76,7 @@
     },
     {
       "title": "Yankees call up rookie right-handed pitcher Brendan Beck",
-      "summary": "Prior to Thursday afternoon’s game against the Rangers, the Yankees called up right-handed pitcher Brendan Beck. The 27-year-old has been with triple-A Scranton-Wilkes Barre all season, and will likely make his big league debut against Texas. Across seven starts and 37 innings to this point in 2026, Beck’s results have been so-so. The righty has […]",
+      "summary": "Prior to Thursday afternoon’s game against the Rangers, the Yankees called up right-handed pitcher Brendan Beck. The 27-year-old has been with Triple-A Scranton-Wilkes Barre all season, and will likely make his big-league debut against Texas. Across seven starts and 37 innings to this point in 2026, Beck’s results have been so-so. The righty has managed […]",
       "source": "Pinstripe Alley",
       "author": "Sam Chapman",
       "link": "https://www.pinstripealley.com/yankees-news/187168/yankees-callup-rookie-brendan-beck-rangers-bullpen-pitching-rodon-debut-news-roster",
@@ -156,30 +174,12 @@
       "image": null
     },
     {
-      "title": "MLB Power Rankings: A red-hot AL team makes its to...",
-      "summary": "While the Dodgers and Yankees duke it out at the top of our list, an unexpected club is making noise.",
-      "source": "ESPN MLB",
-      "author": "ESPN",
-      "link": "https://www.espn.com/mlb/story/_/id/48694135/mlb-2026-power-rankings-week-6-dodgers-yankees-braves-cubs-rays",
-      "published": "2026-05-07T12:35:11Z",
-      "image": null
-    },
-    {
       "title": "Which opposing pitcher is the greatest Yankee Killer?",
       "summary": "A few weeks ago upon the news of Angels franchise icon Garret Anderson passing away, John wrote a tribute to him, saluting him as one of the great Yankee Killers of recent vintage. Although David Ortiz was far more famous, Yankees pitchers were also quite flummoxed by having to pitch to Garret. Now today, we’re […]",
       "source": "Pinstripe Alley",
       "author": "Andrew Mearns",
       "link": "https://www.pinstripealley.com/pinstripe-alley-discussions/187108/yankees-killers-opposing-pitchers-eovaldi-randy-johnson-cliff-lee-fan-discussion",
       "published": "2026-05-07T12:00:26Z",
-      "image": null
-    },
-    {
-      "title": "Yankees scratch Weathers (illness) from start",
-      "summary": "Yankees left-hander Ryan Weathers will not make his scheduled start Thursday against the Texas Rangers after dealing with a virus following his last outing.",
-      "source": "ESPN MLB",
-      "author": "Jorge Castillo",
-      "link": "https://www.espn.com/mlb/story/_/id/48699430/ryan-weathers-miss-start-yankees-vs-rangers-illness",
-      "published": "2026-05-07T11:43:27Z",
       "image": null
     },
     {
@@ -234,15 +234,6 @@
       "author": "Bryan Hoch",
       "link": "https://www.mlb.com/yankees/news/ryan-weathers-scratched-from-start-vs-rangers-due-to-illness",
       "published": "2026-05-07T03:13:02Z",
-      "image": null
-    },
-    {
-      "title": "Nathan Eovaldi keeps rolling against Yankees as Will Warren falters",
-      "summary": "There was reason to be optimistic heading into tonight. Will Warren has been outstanding early this season and the Yankee offense has been humming. Warren has been stingy with issuing walks and has kept the ball in the yard, while the bats have been posting crooked numbers on the regular. Conversely, there was a very […]",
-      "source": "Pinstripe Alley",
-      "author": "Kevin Winterhalt",
-      "link": "https://www.pinstripealley.com/yankees-scores-standings/187076/yankees-game-score-recap-rangers-will-warren-aaron-judge",
-      "published": "2026-05-07T02:30:47Z",
       "image": null
     },
     {
@@ -550,15 +541,6 @@
       "link": "https://www.mlb.com/yankees/news/remembering-john-sterling-legendary-career",
       "published": "2026-05-04T17:57:00Z",
       "image": null
-    },
-    {
-      "title": "John Sterling, iconic Yankees radio announcer, dies at 87: 'Synonymous with an entire generation'",
-      "summary": "Sterling spent 36 years in the booth for the Yankees",
-      "source": "CBS Sports MLB",
-      "author": "Matt Snyder",
-      "link": "https://www.cbssports.com/mlb/news/john-sterling-dies-yankees-radio-announcer/",
-      "published": "2026-05-04T16:36:19Z",
-      "image": "https://sportshub.cbsistatic.com/i/2026/05/04/5713b092-1f44-41e7-b0ab-326dfe1753db/sterling-getty.png"
     },
     {
       "title": "John Sterling, beloved longtime Yankees radio voice, passes at 87",
