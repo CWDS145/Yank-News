@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T20:48:08Z",
+  "updated": "2026-05-07T22:02:46Z",
   "count": 43,
   "items": [
     {
@@ -28,12 +28,6 @@
     },
     {
       "date": "2026-05-03",
-      "type": "sent",
-      "player": "Anthony Volpe",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-05-03",
       "type": "recalled",
       "player": "Anthony Volpe",
       "description": "Recalled From Minors Rehab Assignment"
@@ -43,6 +37,12 @@
       "type": "",
       "player": "Anthony Volpe",
       "description": "Removed From 10-Day IL (Recovery from left labrum surgery)"
+    },
+    {
+      "date": "2026-05-03",
+      "type": "sent",
+      "player": "Anthony Volpe",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-01",
@@ -58,15 +58,15 @@
     },
     {
       "date": "2026-04-29",
-      "type": "designated",
-      "player": "Randal Grichuk",
-      "description": "Designated for Assignment"
-    },
-    {
-      "date": "2026-04-29",
       "type": "called up",
       "player": "Elmer Rodriguez",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-04-29",
+      "type": "designated",
+      "player": "Randal Grichuk",
+      "description": "Designated for Assignment"
     },
     {
       "date": "2026-04-28",
@@ -94,15 +94,15 @@
     },
     {
       "date": "2026-04-25",
-      "type": "placed",
-      "player": "Angel Chivilli",
-      "description": "Placed on 15-Day IL (Right shoulder discomfort)"
-    },
-    {
-      "date": "2026-04-25",
       "type": "reinstated",
       "player": "Ryan Weathers",
       "description": "Reinstated from Paternity Leave List"
+    },
+    {
+      "date": "2026-04-25",
+      "type": "placed",
+      "player": "Angel Chivilli",
+      "description": "Placed on 15-Day IL (Right shoulder discomfort)"
     },
     {
       "date": "2026-04-24",
@@ -112,15 +112,15 @@
     },
     {
       "date": "2026-04-22",
-      "type": "placed",
-      "player": "Ryan Weathers",
-      "description": "Placed on Paternity Leave List"
-    },
-    {
-      "date": "2026-04-22",
       "type": "called up",
       "player": "Jacob Bird",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-04-22",
+      "type": "placed",
+      "player": "Ryan Weathers",
+      "description": "Placed on Paternity Leave List"
     },
     {
       "date": "2026-04-17",
@@ -136,15 +136,15 @@
     },
     {
       "date": "2026-04-14",
-      "type": "called up",
-      "player": "Yerry De Los Santos",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-04-14",
       "type": "sent",
       "player": "Yerry De Los Santos",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-04-14",
+      "type": "called up",
+      "player": "Yerry De Los Santos",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-04-14",
@@ -185,6 +185,12 @@
     {
       "date": "2026-03-25",
       "type": "placed",
+      "player": "Carlos Rodon",
+      "description": "Placed on 15-Day IL (Recovery from left elbow surgery)"
+    },
+    {
+      "date": "2026-03-25",
+      "type": "placed",
       "player": "Gerrit Cole",
       "description": "Placed on 15-Day IL (Recovery from right elbow surgery)"
     },
@@ -193,12 +199,6 @@
       "type": "purchased",
       "player": "Randal Grichuk",
       "description": "Purchased From Minors"
-    },
-    {
-      "date": "2026-03-25",
-      "type": "placed",
-      "player": "Carlos Rodon",
-      "description": "Placed on 15-Day IL (Recovery from left elbow surgery)"
     },
     {
       "date": "2026-03-25",
@@ -215,19 +215,13 @@
     {
       "date": "2026-03-21",
       "type": "sent",
-      "player": "Max Schuemann",
+      "player": "Oswaldo Cabrera",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-03-21",
       "type": "sent",
-      "player": "Oswaldo Cabrera",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-03-20",
-      "type": "sent",
-      "player": "Jasson Dominguez",
+      "player": "Max Schuemann",
       "description": "Sent to Minors"
     },
     {
@@ -243,6 +237,12 @@
       "description": "Sent to Minors"
     },
     {
+      "date": "2026-03-20",
+      "type": "sent",
+      "player": "Jasson Dominguez",
+      "description": "Sent to Minors"
+    },
+    {
       "date": "2026-03-19",
       "type": "sent",
       "player": "Angel Chivilli",
@@ -251,13 +251,13 @@
     {
       "date": "2026-03-09",
       "type": "sent",
-      "player": "Elmer Rodriguez",
+      "player": "Spencer Jones",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-03-09",
       "type": "sent",
-      "player": "Spencer Jones",
+      "player": "Elmer Rodriguez",
       "description": "Sent to Minors"
     }
   ]
