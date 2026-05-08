@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T23:28:12Z",
+  "updated": "2026-05-08T01:20:04Z",
   "count": 44,
   "items": [
     {
@@ -34,6 +34,12 @@
     },
     {
       "date": "2026-05-03",
+      "type": "",
+      "player": "Anthony Volpe",
+      "description": "Removed From 10-Day IL (Recovery from left labrum surgery)"
+    },
+    {
+      "date": "2026-05-03",
       "type": "sent",
       "player": "Anthony Volpe",
       "description": "Sent to Minors"
@@ -43,12 +49,6 @@
       "type": "recalled",
       "player": "Anthony Volpe",
       "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-05-03",
-      "type": "",
-      "player": "Anthony Volpe",
-      "description": "Removed From 10-Day IL (Recovery from left labrum surgery)"
     },
     {
       "date": "2026-05-01",
@@ -118,15 +118,15 @@
     },
     {
       "date": "2026-04-22",
-      "type": "placed",
-      "player": "Ryan Weathers",
-      "description": "Placed on Paternity Leave List"
-    },
-    {
-      "date": "2026-04-22",
       "type": "called up",
       "player": "Jacob Bird",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-04-22",
+      "type": "placed",
+      "player": "Ryan Weathers",
+      "description": "Placed on Paternity Leave List"
     },
     {
       "date": "2026-04-17",
@@ -143,8 +143,8 @@
     {
       "date": "2026-04-14",
       "type": "sent",
-      "player": "Anthony Volpe",
-      "description": "Sent to Minors For Rehabilitation"
+      "player": "Yerry De Los Santos",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-04-14",
@@ -155,7 +155,13 @@
     {
       "date": "2026-04-14",
       "type": "sent",
-      "player": "Yerry De Los Santos",
+      "player": "Anthony Volpe",
+      "description": "Sent to Minors For Rehabilitation"
+    },
+    {
+      "date": "2026-04-13",
+      "type": "sent",
+      "player": "Jacob Bird",
       "description": "Sent to Minors"
     },
     {
@@ -163,12 +169,6 @@
       "type": "",
       "player": "Cade Winquest",
       "description": "Drafted Player Returned to Minors"
-    },
-    {
-      "date": "2026-04-13",
-      "type": "sent",
-      "player": "Jacob Bird",
-      "description": "Sent to Minors"
     },
     {
       "date": "2026-04-10",
@@ -203,14 +203,14 @@
     {
       "date": "2026-03-25",
       "type": "placed",
-      "player": "Anthony Volpe",
-      "description": "Placed on 10-Day IL (Recovery from left labrum surgery)"
+      "player": "Gerrit Cole",
+      "description": "Placed on 15-Day IL (Recovery from right elbow surgery)"
     },
     {
       "date": "2026-03-25",
       "type": "placed",
-      "player": "Gerrit Cole",
-      "description": "Placed on 15-Day IL (Recovery from right elbow surgery)"
+      "player": "Anthony Volpe",
+      "description": "Placed on 10-Day IL (Recovery from left labrum surgery)"
     },
     {
       "date": "2026-03-24",
@@ -221,13 +221,13 @@
     {
       "date": "2026-03-21",
       "type": "sent",
-      "player": "Oswaldo Cabrera",
+      "player": "Max Schuemann",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-03-21",
       "type": "sent",
-      "player": "Max Schuemann",
+      "player": "Oswaldo Cabrera",
       "description": "Sent to Minors"
     },
     {
