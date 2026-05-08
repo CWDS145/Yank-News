@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T11:44:22Z",
+  "updated": "2026-05-08T11:09:27Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -128,7 +128,7 @@
         "rank": 7
       },
       {
-        "name": "Yerry De Los Santos",
+        "name": "Brendan Beck",
         "rank": 8
       },
       {
@@ -146,6 +146,7 @@
     "Angel Chivilli",
     "Austin Wells",
     "Ben Rice",
+    "Brendan Beck",
     "Brent Headrick",
     "Cam Schlittler",
     "Camilo Doval",
@@ -169,7 +170,6 @@
     "Ryan Yarbrough",
     "Tim Hill",
     "Trent Grisham",
-    "Will Warren",
-    "Yerry De Los Santos"
+    "Will Warren"
   ]
 }
