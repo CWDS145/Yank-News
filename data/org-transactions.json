@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-07T23:37:13Z",
+  "updated": "2026-05-08T01:26:55Z",
   "items": [
+    {
+      "id": 906762,
+      "date": "2026-05-08",
+      "type_code": "OPT",
+      "type_desc": "Optioned",
+      "player_id": 694341,
+      "player": "Brendan Beck",
+      "from_team_id": 147,
+      "to_team_id": 531,
+      "from": "New York Yankees",
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees optioned RHP Brendan Beck to Scranton/Wilkes-Barre RailRiders."
+    },
     {
       "id": 906389,
       "date": "2026-05-07",
