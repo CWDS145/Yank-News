@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T08:22:35Z",
+  "updated": "2026-05-08T10:03:50Z",
   "count": 44,
   "items": [
     {
@@ -100,15 +100,15 @@
     },
     {
       "date": "2026-04-25",
-      "type": "placed",
-      "player": "Angel Chivilli",
-      "description": "Placed on 15-Day IL (Right shoulder discomfort)"
-    },
-    {
-      "date": "2026-04-25",
       "type": "reinstated",
       "player": "Ryan Weathers",
       "description": "Reinstated from Paternity Leave List"
+    },
+    {
+      "date": "2026-04-25",
+      "type": "placed",
+      "player": "Angel Chivilli",
+      "description": "Placed on 15-Day IL (Right shoulder discomfort)"
     },
     {
       "date": "2026-04-24",
@@ -118,15 +118,15 @@
     },
     {
       "date": "2026-04-22",
-      "type": "called up",
-      "player": "Jacob Bird",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-04-22",
       "type": "placed",
       "player": "Ryan Weathers",
       "description": "Placed on Paternity Leave List"
+    },
+    {
+      "date": "2026-04-22",
+      "type": "called up",
+      "player": "Jacob Bird",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-04-17",
@@ -233,6 +233,12 @@
     {
       "date": "2026-03-20",
       "type": "sent",
+      "player": "Jasson Dominguez",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-03-20",
+      "type": "sent",
       "player": "Kervin Castro",
       "description": "Sent to Minors"
     },
@@ -240,12 +246,6 @@
       "date": "2026-03-20",
       "type": "sent",
       "player": "Yerry De Los Santos",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-03-20",
-      "type": "sent",
-      "player": "Jasson Dominguez",
       "description": "Sent to Minors"
     },
     {
@@ -257,13 +257,13 @@
     {
       "date": "2026-03-09",
       "type": "sent",
-      "player": "Elmer Rodriguez",
+      "player": "Spencer Jones",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-03-09",
       "type": "sent",
-      "player": "Spencer Jones",
+      "player": "Elmer Rodriguez",
       "description": "Sent to Minors"
     }
   ]
