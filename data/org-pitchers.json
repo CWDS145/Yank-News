@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T13:05:38Z",
+  "updated": "2026-05-08T15:08:11Z",
   "season": 2026,
   "pitchers": [
     {
@@ -308,8 +308,8 @@
       "position": "P",
       "level": "AAA",
       "level_since": "2026-05-08",
-      "prior_level": null,
-      "prior_level_since": null,
+      "prior_level": "MLB",
+      "prior_level_since": "2026-05-07",
       "season": {
         "w": 2,
         "l": 2,
@@ -1889,10 +1889,10 @@
       "id": 665645,
       "name": "Kervin Castro",
       "position": "P",
-      "level": "AAA",
-      "level_since": "2026-03-20",
-      "prior_level": null,
-      "prior_level_since": null,
+      "level": "MLB",
+      "level_since": "2026-05-08",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-03-20",
       "season": {
         "w": 1,
         "l": 0,
