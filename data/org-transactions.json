@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T06:25:20Z",
+  "updated": "2026-05-08T08:16:05Z",
   "items": [
     {
       "id": 906762,
@@ -67,19 +67,6 @@
       "description": "New York Yankees optioned RHP Elmer Rodríguez to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 905900,
-      "date": "2026-05-05",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 607074,
-      "player": "Carlos Rodón",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees sent LHP Carlos Rodón on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 905954,
       "date": "2026-05-05",
       "type_code": "ASG",
@@ -93,17 +80,17 @@
       "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Hudson Valley Renegades."
     },
     {
-      "id": 906185,
-      "date": "2026-05-04",
-      "type_code": "SFA",
-      "type_desc": "Signed as Free Agent",
-      "player_id": 825266,
-      "player": "Dariel Santana",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees signed free agent SS Dariel Santana to a minor league contract."
+      "id": 905900,
+      "date": "2026-05-05",
+      "type_code": "ASG",
+      "type_desc": "Assigned",
+      "player_id": 607074,
+      "player": "Carlos Rodón",
+      "from_team_id": 147,
+      "to_team_id": 531,
+      "from": "New York Yankees",
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees sent LHP Carlos Rodón on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 905662,
@@ -117,6 +104,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees signed free agent RHP Dariel Chalas to a minor league contract."
+    },
+    {
+      "id": 906185,
+      "date": "2026-05-04",
+      "type_code": "SFA",
+      "type_desc": "Signed as Free Agent",
+      "player_id": 825266,
+      "player": "Dariel Santana",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees signed free agent SS Dariel Santana to a minor league contract."
     },
     {
       "id": 905623,
@@ -184,19 +184,6 @@
       "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Somerset Patriots."
     },
     {
-      "id": 904040,
-      "date": "2026-04-29",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 543037,
-      "player": "Gerrit Cole",
-      "from_team_id": 147,
-      "to_team_id": 1956,
-      "from": "New York Yankees",
-      "to": "AA Somerset Patriots",
-      "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Somerset Patriots."
-    },
-    {
       "id": 903903,
       "date": "2026-04-29",
       "type_code": "DES",
@@ -208,6 +195,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees designated LF Randal Grichuk for assignment."
+    },
+    {
+      "id": 904040,
+      "date": "2026-04-29",
+      "type_code": "ASG",
+      "type_desc": "Assigned",
+      "player_id": 543037,
+      "player": "Gerrit Cole",
+      "from_team_id": 147,
+      "to_team_id": 1956,
+      "from": "New York Yankees",
+      "to": "AA Somerset Patriots",
+      "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Somerset Patriots."
     },
     {
       "id": 903902,
@@ -301,19 +301,6 @@
       "description": "New York Yankees optioned RHP Luis Gil to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 902951,
-      "date": "2026-04-25",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 683409,
-      "player": "Angel Chivilli",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees placed RHP Angel Chivilli on the 15-day injured list retroactive to April 23, 2026. Right shoulder discomfort."
-    },
-    {
       "id": 902952,
       "date": "2026-04-25",
       "type_code": "SC",
@@ -325,6 +312,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees activated LHP Ryan Weathers from the paternity list."
+    },
+    {
+      "id": 902951,
+      "date": "2026-04-25",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 683409,
+      "player": "Angel Chivilli",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees placed RHP Angel Chivilli on the 15-day injured list retroactive to April 23, 2026. Right shoulder discomfort."
     },
     {
       "id": 902783,
@@ -353,7 +353,7 @@
       "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Hudson Valley Renegades."
     },
     {
-      "id": 904028,
+      "id": 902542,
       "date": "2026-04-23",
       "type_code": "ASG",
       "type_desc": "Assigned",
@@ -366,7 +366,7 @@
       "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Hudson Valley Renegades."
     },
     {
-      "id": 902542,
+      "id": 904028,
       "date": "2026-04-23",
       "type_code": "ASG",
       "type_desc": "Assigned",
@@ -435,13 +435,26 @@
       "date": "2026-04-19",
       "type_code": "TR",
       "type_desc": "Trade",
-      "player_id": 669699,
-      "player": "Braden Shewmake",
-      "from_team_id": 147,
-      "to_team_id": 117,
-      "from": "New York Yankees",
-      "to": "Houston Astros",
+      "player_id": 804522,
+      "player": "Wilmy Sanchez",
+      "from_team_id": 117,
+      "to_team_id": 147,
+      "from": "Houston Astros",
+      "to": "New York Yankees",
       "description": "Houston Astros traded RHP Wilmy Sanchez to New York Yankees for SS Braden Shewmake."
+    },
+    {
+      "id": 901383,
+      "date": "2026-04-17",
+      "type_code": "ASG",
+      "type_desc": "Assigned",
+      "player_id": 543037,
+      "player": "Gerrit Cole",
+      "from_team_id": 147,
+      "to_team_id": 1956,
+      "from": "New York Yankees",
+      "to": "AA Somerset Patriots",
+      "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Somerset Patriots."
     },
     {
       "id": 902539,
@@ -470,17 +483,17 @@
       "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Somerset Patriots."
     },
     {
-      "id": 901383,
-      "date": "2026-04-17",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 543037,
-      "player": "Gerrit Cole",
+      "id": 898933,
+      "date": "2026-04-15",
+      "type_code": "OPT",
+      "type_desc": "Optioned",
+      "player_id": 660787,
+      "player": "Yerry De los Santos",
       "from_team_id": 147,
-      "to_team_id": 1956,
+      "to_team_id": 531,
       "from": "New York Yankees",
-      "to": "AA Somerset Patriots",
-      "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Somerset Patriots."
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees optioned RHP Yerry De los Santos to Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 899757,
@@ -494,19 +507,6 @@
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
       "description": "New York Yankees recalled RHP Angel Chivilli from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 898933,
-      "date": "2026-04-15",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 660787,
-      "player": "Yerry De los Santos",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees optioned RHP Yerry De los Santos to Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 902031,
