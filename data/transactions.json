@@ -1,11 +1,11 @@
 {
-  "updated": "2026-05-08T23:58:17Z",
-  "count": 47,
+  "updated": "2026-05-09T03:48:33Z",
+  "count": 45,
   "items": [
     {
       "date": "2026-05-08",
       "type": "called up",
-      "player": "Spencer Jones",
+      "player": "Kervin Castro",
       "description": "Called Up from Minors"
     },
     {
@@ -17,7 +17,7 @@
     {
       "date": "2026-05-08",
       "type": "called up",
-      "player": "Kervin Castro",
+      "player": "Spencer Jones",
       "description": "Called Up from Minors"
     },
     {
@@ -270,18 +270,6 @@
       "date": "2026-03-19",
       "type": "sent",
       "player": "Angel Chivilli",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-03-09",
-      "type": "sent",
-      "player": "Elmer Rodriguez",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-03-09",
-      "type": "sent",
-      "player": "Spencer Jones",
       "description": "Sent to Minors"
     }
   ]
