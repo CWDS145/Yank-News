@@ -2,22 +2,6 @@
   "entries": [
     {
       "timestamp": "2026-05-09T20:25:44Z",
-      "source": "MLB StatsAPI: team",
-      "url": "https://statsapi.mlb.com/api/v1/teams/147?hydrate=record(type=regularSeason),league,division",
-      "status": 200,
-      "items": 1,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-05-09T20:25:44Z",
-      "source": "MLB StatsAPI: standings",
-      "url": "https://statsapi.mlb.com/api/v1/standings?leagueId=103&season=2026&standingsTypes=regularSeason",
-      "status": 200,
-      "items": 1,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-05-09T20:25:44Z",
       "source": "MLB StatsAPI: roster 40Man",
       "url": "https://statsapi.mlb.com/api/v1/teams/147/roster?rosterType=40Man&season=2026",
       "status": 200,
@@ -3999,6 +3983,22 @@
       "status": 200,
       "items": 45,
       "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-10T14:55:10Z",
+      "source": "FanGraphs Yankees",
+      "url": "https://www.fangraphs.com/teams/yankees",
+      "status": 200,
+      "items": 52,
+      "note": "ok | html_tables: batter_rows=36 pitcher_rows=20"
+    },
+    {
+      "timestamp": "2026-05-10T14:55:10Z",
+      "source": "Baseball-Reference Yankees",
+      "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
+      "status": 200,
+      "items": 35,
+      "note": "ok | tables: bat_id=players_standard_batting pit_id=players_standard_pitching batters=17 pitchers=18"
     }
   ]
 }
