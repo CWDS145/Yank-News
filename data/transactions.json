@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T11:27:54Z",
+  "updated": "2026-05-10T12:10:50Z",
   "count": 45,
   "items": [
     {
@@ -251,12 +251,6 @@
     {
       "date": "2026-03-20",
       "type": "sent",
-      "player": "Kervin Castro",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-03-20",
-      "type": "sent",
       "player": "Yerry De Los Santos",
       "description": "Sent to Minors"
     },
@@ -264,6 +258,12 @@
       "date": "2026-03-20",
       "type": "sent",
       "player": "Jasson Dominguez",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-03-20",
+      "type": "sent",
+      "player": "Kervin Castro",
       "description": "Sent to Minors"
     },
     {
