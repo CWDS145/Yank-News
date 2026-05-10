@@ -1,78 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-05-09T21:52:46Z",
-      "source": "NY Post Yankees",
-      "url": "https://nypost.com/tag/new-york-yankees/feed/",
-      "status": 200,
-      "items": 20,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-05-09T21:52:46Z",
-      "source": "MLB Trade Rumors NYY",
-      "url": "https://www.mlbtraderumors.com/category/new-york-yankees/feed",
-      "status": 200,
-      "items": 15,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-05-09T21:52:46Z",
-      "source": "ESPN MLB",
-      "url": "https://www.espn.com/espn/rss/mlb/news",
-      "status": 200,
-      "items": 2,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-05-09T21:52:46Z",
-      "source": "CBS Sports MLB",
-      "url": "https://www.cbssports.com/rss/headlines/mlb/",
-      "status": 200,
-      "items": 6,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-05-09T21:52:47Z",
-      "source": "Pinstripe Post (Sherman)",
-      "url": "https://feeds.megaphone.fm/NYPH3296340517",
-      "status": 200,
-      "items": 1,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-05-09T21:52:48Z",
-      "source": "YES Network",
-      "url": "https://www.yesnetwork.com/yankees",
-      "status": 200,
-      "items": 2,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-05-09T21:52:49Z",
-      "source": "CBS Transactions",
-      "url": "https://www.cbssports.com/mlb/teams/NYY/new-york-yankees/transactions/",
-      "status": 200,
-      "items": 45,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-05-09T22:25:22Z",
-      "source": "MLB StatsAPI: team",
-      "url": "https://statsapi.mlb.com/api/v1/teams/147?hydrate=record(type=regularSeason),league,division",
-      "status": 200,
-      "items": 1,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-05-09T22:25:23Z",
-      "source": "MLB StatsAPI: standings",
-      "url": "https://statsapi.mlb.com/api/v1/standings?leagueId=103&season=2026&standingsTypes=regularSeason",
-      "status": 200,
-      "items": 1,
-      "note": "ok"
-    },
-    {
       "timestamp": "2026-05-09T22:25:23Z",
       "source": "MLB StatsAPI: roster 40Man",
       "url": "https://statsapi.mlb.com/api/v1/teams/147/roster?rosterType=40Man&season=2026",
@@ -3999,6 +3927,78 @@
       "status": 200,
       "items": 75,
       "note": "pitchers needing prior_level fallback"
+    },
+    {
+      "timestamp": "2026-05-10T16:59:13Z",
+      "source": "MLB.com Yankees",
+      "url": "https://www.mlb.com/yankees/feeds/news/rss.xml",
+      "status": 200,
+      "items": 25,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-10T16:59:13Z",
+      "source": "Pinstripe Alley",
+      "url": "https://www.pinstripealley.com/rss/current.xml",
+      "status": 200,
+      "items": 10,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-10T16:59:14Z",
+      "source": "NY Post Yankees",
+      "url": "https://nypost.com/tag/new-york-yankees/feed/",
+      "status": 200,
+      "items": 20,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-10T16:59:14Z",
+      "source": "MLB Trade Rumors NYY",
+      "url": "https://www.mlbtraderumors.com/category/new-york-yankees/feed",
+      "status": 200,
+      "items": 15,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-10T16:59:14Z",
+      "source": "ESPN MLB",
+      "url": "https://www.espn.com/espn/rss/mlb/news",
+      "status": 200,
+      "items": 1,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-10T16:59:15Z",
+      "source": "CBS Sports MLB",
+      "url": "https://www.cbssports.com/rss/headlines/mlb/",
+      "status": 200,
+      "items": 6,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-10T16:59:15Z",
+      "source": "Pinstripe Post (Sherman)",
+      "url": "https://feeds.megaphone.fm/NYPH3296340517",
+      "status": 200,
+      "items": 1,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-10T16:59:16Z",
+      "source": "YES Network",
+      "url": "https://www.yesnetwork.com/yankees",
+      "status": 200,
+      "items": 2,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-10T16:59:19Z",
+      "source": "CBS Transactions",
+      "url": "https://www.cbssports.com/mlb/teams/NYY/new-york-yankees/transactions/",
+      "status": 200,
+      "items": 48,
+      "note": "ok"
     }
   ]
 }
