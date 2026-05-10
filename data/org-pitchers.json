@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T12:09:57Z",
+  "updated": "2026-05-10T15:18:41Z",
   "season": 2026,
   "pitchers": [
     {
@@ -678,9 +678,9 @@
       "name": "Carlos Rodón",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-05-05",
-      "prior_level": "AA",
-      "prior_level_since": "2026-04-30",
+      "level_since": "2026-05-10",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-05-05",
       "season": {
         "w": 0,
         "l": 0,
@@ -1915,10 +1915,10 @@
       "id": 665645,
       "name": "Kervin Castro",
       "position": "P",
-      "level": "MLB",
-      "level_since": "2026-05-08",
-      "prior_level": "AAA",
-      "prior_level_since": "2026-03-20",
+      "level": "AAA",
+      "level_since": "2026-05-10",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-05-08",
       "season": {
         "w": 1,
         "l": 0,
