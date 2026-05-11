@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T10:58:09Z",
+  "updated": "2026-05-11T12:36:53Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -78,19 +78,19 @@
         "rank": 2
       },
       {
-        "name": "Ryan Weathers",
+        "name": "Carlos Rodon",
         "rank": 3
       },
       {
-        "name": "Will Warren",
+        "name": "Ryan Weathers",
         "rank": 4
       },
       {
-        "name": "Gerrit Cole",
+        "name": "Will Warren",
         "rank": 5
       },
       {
-        "name": "Carlos Rodon",
+        "name": "Gerrit Cole",
         "rank": 6
       },
       {
@@ -128,16 +128,12 @@
         "rank": 7
       },
       {
-        "name": "Kervin Castro",
+        "name": "Paul Blackburn",
         "rank": 8
       },
       {
-        "name": "Paul Blackburn",
-        "rank": 9
-      },
-      {
         "name": "Angel Chivilli",
-        "rank": 10
+        "rank": 9
       }
     ]
   },
@@ -160,7 +156,6 @@
     "Jake Bird",
     "Jazz Chisholm",
     "Jose Caballero",
-    "Kervin Castro",
     "Max Fried",
     "Paul Blackburn",
     "Paul Goldschmidt",
