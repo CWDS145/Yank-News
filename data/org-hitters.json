@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T21:43:40Z",
+  "updated": "2026-05-11T22:41:18Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-05-01",
@@ -222,37 +222,6 @@
       ],
       "last_10_levels": [
         "MLB"
-      ]
-    },
-    {
-      "id": 806963,
-      "name": "Brando Mayea",
-      "position": "CF",
-      "level": "Low-A",
-      "level_since": "2026-04-03",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 110,
-        "k": 37,
-        "avg": ".209",
-        "ops": ".602",
-        "avg_num": 0.20909090909090908,
-        "ops_num": 0.6017738359201774
-      },
-      "last_10": {
-        "ab": 33,
-        "k": 13,
-        "avg": ".152",
-        "ops": ".445",
-        "avg_num": 0.15151515151515152,
-        "ops_num": 0.4449760765550239
-      },
-      "season_levels": [
-        "Low-A"
-      ],
-      "last_10_levels": [
-        "Low-A"
       ]
     },
     {
@@ -1351,28 +1320,6 @@
       ]
     },
     {
-      "id": 800741,
-      "name": "Logan Maxwell",
-      "position": "OF",
-      "level": "Low-A",
-      "level_since": "2026-04-03",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 49,
-        "k": 8,
-        "avg": ".245",
-        "ops": ".733",
-        "avg_num": 0.24489795918367346,
-        "ops_num": 0.7325826882477129
-      },
-      "last_10": null,
-      "season_levels": [
-        "Low-A"
-      ],
-      "last_10_levels": []
-    },
-    {
       "id": 691411,
       "name": "Luis Durango",
       "position": "LF",
@@ -1820,20 +1767,20 @@
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 129,
+        "ab": 130,
         "k": 28,
-        "avg": ".178",
-        "ops": ".660",
-        "avg_num": 0.17829457364341086,
-        "ops_num": 0.6598149537384346
+        "avg": ".177",
+        "ops": ".655",
+        "avg_num": 0.17692307692307693,
+        "ops_num": 0.6551282051282051
       },
       "last_10": {
-        "ab": 36,
+        "ab": 37,
         "k": 7,
-        "avg": ".250",
-        "ops": ".789",
-        "avg_num": 0.25,
-        "ops_num": 0.7892953929539295
+        "avg": ".243",
+        "ops": ".769",
+        "avg_num": 0.24324324324324326,
+        "ops_num": 0.768983268983269
       },
       "season_levels": [
         "MLB"
