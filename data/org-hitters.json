@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T12:31:05Z",
+  "updated": "2026-05-12T15:34:54Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-05-02",
@@ -383,8 +383,8 @@
       "id": 821296,
       "name": "Connor McGinnis",
       "position": "SS",
-      "level": "High-A",
-      "level_since": null,
+      "level": "AA",
+      "level_since": "2026-05-12",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -402,37 +402,6 @@
         "ops": "1.110",
         "avg_num": 0.3684210526315789,
         "ops_num": 1.1098398169336385
-      },
-      "season_levels": [
-        "High-A"
-      ],
-      "last_10_levels": [
-        "High-A"
-      ]
-    },
-    {
-      "id": 692110,
-      "name": "Core Jackson",
-      "position": "SS",
-      "level": "High-A",
-      "level_since": null,
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 109,
-        "k": 32,
-        "avg": ".248",
-        "ops": ".730",
-        "avg_num": 0.24770642201834864,
-        "ops_num": 0.7299929428369796
-      },
-      "last_10": {
-        "ab": 21,
-        "k": 7,
-        "avg": ".238",
-        "ops": ".718",
-        "avg_num": 0.23809523809523808,
-        "ops_num": 0.717948717948718
       },
       "season_levels": [
         "High-A"
@@ -637,8 +606,8 @@
       "id": 800285,
       "name": "Enmanuel Tejeda",
       "position": "3B",
-      "level": "Low-A",
-      "level_since": null,
+      "level": "High-A",
+      "level_since": "2026-05-12",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -725,6 +694,19 @@
       "last_10_levels": [
         "AAA"
       ]
+    },
+    {
+      "id": 808106,
+      "name": "Gabriel Lara",
+      "position": "CF",
+      "level": "Low-A",
+      "level_since": "2026-05-12",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "last_10": null,
+      "season_levels": [],
+      "last_10_levels": []
     },
     {
       "id": 682003,
@@ -1340,6 +1322,19 @@
       "last_10_levels": [
         "Low-A"
       ]
+    },
+    {
+      "id": 809772,
+      "name": "Luis Puello",
+      "position": "C",
+      "level": "Low-A",
+      "level_since": "2026-05-12",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "last_10": null,
+      "season_levels": [],
+      "last_10_levels": []
     },
     {
       "id": 692633,
