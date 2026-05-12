@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T20:09:26Z",
+  "updated": "2026-05-12T21:41:48Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-05-02",
@@ -133,10 +133,10 @@
       "id": 683011,
       "name": "Anthony Volpe",
       "position": "SS",
-      "level": "AAA",
-      "level_since": "2026-05-04",
-      "prior_level": "AA",
-      "prior_level_since": "2026-04-28",
+      "level": "MLB",
+      "level_since": "2026-05-12",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-05-04",
       "season": {
         "ab": 68,
         "k": 15,
@@ -1171,7 +1171,7 @@
       "name": "José Caballero",
       "position": "SS",
       "level": "MLB",
-      "level_since": null,
+      "level_since": "2026-05-12",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -1805,28 +1805,6 @@
       "last_10_levels": [
         "AA"
       ]
-    },
-    {
-      "id": 694834,
-      "name": "Tyler Wilson",
-      "position": "LF",
-      "level": "High-A",
-      "level_since": "2026-04-02",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 45,
-        "k": 7,
-        "avg": ".200",
-        "ops": ".533",
-        "avg_num": 0.2,
-        "ops_num": 0.5329059829059829
-      },
-      "last_10": null,
-      "season_levels": [
-        "High-A"
-      ],
-      "last_10_levels": []
     },
     {
       "id": 701206,
