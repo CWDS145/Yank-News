@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T11:50:48Z",
+  "updated": "2026-05-13T12:01:06Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -36,7 +36,7 @@
     ],
     "SS": [
       {
-        "name": "Jose Caballero",
+        "name": "Anthony Volpe",
         "rank": 1
       }
     ],
@@ -140,6 +140,7 @@
   "all_players": [
     "Aaron Judge",
     "Angel Chivilli",
+    "Anthony Volpe",
     "Austin Wells",
     "Ben Rice",
     "Brent Headrick",
@@ -155,7 +156,6 @@
     "J.C. Escarra",
     "Jake Bird",
     "Jazz Chisholm",
-    "Jose Caballero",
     "Max Fried",
     "Paul Blackburn",
     "Paul Goldschmidt",
