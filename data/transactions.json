@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T15:37:11Z",
+  "updated": "2026-05-15T17:42:12Z",
   "count": 50,
   "items": [
     {
@@ -64,15 +64,15 @@
     },
     {
       "date": "2026-05-06",
-      "type": "called up",
-      "player": "Yerry De Los Santos",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-05-06",
       "type": "sent",
       "player": "Yerry De Los Santos",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-05-06",
+      "type": "called up",
+      "player": "Yerry De Los Santos",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-05-05",
@@ -101,14 +101,14 @@
     {
       "date": "2026-05-01",
       "type": "",
-      "player": "Randal Grichuk",
-      "description": "Refused Minor League Assignment - Free Agent"
+      "player": "Paul DeJong",
+      "description": "Declared Free Agency"
     },
     {
       "date": "2026-05-01",
       "type": "",
-      "player": "Paul DeJong",
-      "description": "Declared Free Agency"
+      "player": "Randal Grichuk",
+      "description": "Refused Minor League Assignment - Free Agent"
     },
     {
       "date": "2026-04-29",
@@ -281,13 +281,13 @@
     {
       "date": "2026-03-20",
       "type": "sent",
-      "player": "Jasson Dominguez",
+      "player": "Kervin Castro",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-03-20",
       "type": "sent",
-      "player": "Kervin Castro",
+      "player": "Jasson Dominguez",
       "description": "Sent to Minors"
     },
     {
