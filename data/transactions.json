@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T01:24:34Z",
+  "updated": "2026-05-15T05:30:31Z",
   "count": 50,
   "items": [
     {
@@ -148,15 +148,15 @@
     },
     {
       "date": "2026-04-25",
-      "type": "placed",
-      "player": "Angel Chivilli",
-      "description": "Placed on 15-Day IL (Right shoulder discomfort)"
-    },
-    {
-      "date": "2026-04-25",
       "type": "reinstated",
       "player": "Ryan Weathers",
       "description": "Reinstated from Paternity Leave List"
+    },
+    {
+      "date": "2026-04-25",
+      "type": "placed",
+      "player": "Angel Chivilli",
+      "description": "Placed on 15-Day IL (Right shoulder discomfort)"
     },
     {
       "date": "2026-04-24",
@@ -269,19 +269,19 @@
     {
       "date": "2026-03-21",
       "type": "sent",
-      "player": "Max Schuemann",
+      "player": "Oswaldo Cabrera",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-03-21",
       "type": "sent",
-      "player": "Oswaldo Cabrera",
+      "player": "Max Schuemann",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-03-20",
       "type": "sent",
-      "player": "Kervin Castro",
+      "player": "Yerry De Los Santos",
       "description": "Sent to Minors"
     },
     {
@@ -293,7 +293,7 @@
     {
       "date": "2026-03-20",
       "type": "sent",
-      "player": "Yerry De Los Santos",
+      "player": "Kervin Castro",
       "description": "Sent to Minors"
     },
     {
