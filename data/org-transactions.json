@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T23:39:10Z",
+  "updated": "2026-05-15T01:32:40Z",
   "items": [
     {
       "id": 907881,
@@ -637,58 +637,6 @@
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
       "description": "New York Yankees recalled RHP Angel Chivilli from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 902031,
-      "date": "2026-04-14",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 683011,
-      "player": "Anthony Volpe",
-      "from_team_id": 147,
-      "to_team_id": 1956,
-      "from": "New York Yankees",
-      "to": "AA Somerset Patriots",
-      "description": "New York Yankees sent SS Anthony Volpe on a rehab assignment to Somerset Patriots."
-    },
-    {
-      "id": 898812,
-      "date": "2026-04-14",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 683011,
-      "player": "Anthony Volpe",
-      "from_team_id": 147,
-      "to_team_id": 1956,
-      "from": "New York Yankees",
-      "to": "AA Somerset Patriots",
-      "description": "New York Yankees sent SS Anthony Volpe on a rehab assignment to Somerset Patriots."
-    },
-    {
-      "id": 898705,
-      "date": "2026-04-14",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 656234,
-      "player": "Jake Bird",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees optioned RHP Jake Bird to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 898806,
-      "date": "2026-04-14",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 660787,
-      "player": "Yerry De los Santos",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Yerry De los Santos from Scranton/Wilkes-Barre RailRiders."
     }
   ]
 }
