@@ -1,12 +1,12 @@
 {
-  "updated": "2026-05-14T16:10:31Z",
+  "updated": "2026-05-15T16:04:17Z",
   "source": "Baseball-Reference",
   "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
   "season": 2026,
   "scrape_attempt": {
     "status": "ok",
     "http_status": 200,
-    "duration_ms": 319,
+    "duration_ms": 256,
     "note": "tables: bat_id=players_standard_batting pit_id=players_standard_pitching batters=18 pitchers=19"
   },
   "team_record": {
@@ -36,7 +36,7 @@
     "OPS": ".763",
     "OPS+": "112",
     "TB": "621",
-    "rWAR": "8.1"
+    "rWAR": "8.0"
   },
   "team_pitching": {
     "name": "Team Totals",
@@ -125,7 +125,7 @@
       "OBP": ".281",
       "SLG": ".327",
       "OPS": ".607",
-      "OPS+": "70",
+      "OPS+": "69",
       "TB": "50",
       "rWAR": "-0.1"
     },
@@ -150,7 +150,7 @@
       "OPS": ".720",
       "OPS+": "100",
       "TB": "54",
-      "rWAR": "1.7"
+      "rWAR": "1.6"
     },
     {
       "name": "Ryan McMahon",
@@ -173,7 +173,7 @@
       "OPS": ".578",
       "OPS+": "62",
       "TB": "34",
-      "rWAR": "-0.4"
+      "rWAR": "-0.3"
     },
     {
       "name": "Cody Bellinger",
@@ -196,7 +196,7 @@
       "OPS": ".852",
       "OPS+": "137",
       "TB": "73",
-      "rWAR": "2.3"
+      "rWAR": "2.2"
     },
     {
       "name": "Trent Grisham",
@@ -219,7 +219,7 @@
       "OPS": ".676",
       "OPS+": "89",
       "TB": "50",
-      "rWAR": "0.0"
+      "rWAR": "0.1"
     },
     {
       "name": "Aaron Judge",
@@ -240,9 +240,9 @@
       "OBP": ".404",
       "SLG": ".618",
       "OPS": "1.022",
-      "OPS+": "182",
+      "OPS+": "181",
       "TB": "97",
-      "rWAR": "2.5"
+      "rWAR": "2.6"
     },
     {
       "name": "Giancarlo Stanton",
@@ -263,7 +263,7 @@
       "OBP": ".302",
       "SLG": ".422",
       "OPS": ".724",
-      "OPS+": "101",
+      "OPS+": "100",
       "TB": "38",
       "rWAR": "0.2"
     },
@@ -311,7 +311,7 @@
       "OPS": ".915",
       "OPS+": "152",
       "TB": "34",
-      "rWAR": "0.7"
+      "rWAR": "0.6"
     },
     {
       "name": "J.C. Escarra",
@@ -357,7 +357,7 @@
       "OPS": ".535",
       "OPS+": "47",
       "TB": "10",
-      "rWAR": "-0.3"
+      "rWAR": "-0.4"
     },
     {
       "name": "Jasson Domínguez",
@@ -449,7 +449,7 @@
       "OPS": ".000",
       "OPS+": "-100",
       "TB": "0",
-      "rWAR": "-0.1"
+      "rWAR": "-0.2"
     },
     {
       "name": "Paul Blackburn",
@@ -514,7 +514,7 @@
       "SO": "59",
       "HR": "1",
       "ERA+": "312",
-      "FIP": "1.64",
+      "FIP": "1.65",
       "WHIP": "0.806",
       "rWAR": "2.5"
     },
@@ -535,7 +535,7 @@
       "SO": "59",
       "HR": "6",
       "ERA+": "123",
-      "FIP": "3.08",
+      "FIP": "3.09",
       "WHIP": "1.162",
       "rWAR": "0.5"
     },
@@ -598,7 +598,7 @@
       "SO": "22",
       "HR": "1",
       "ERA+": "122",
-      "FIP": "2.38",
+      "FIP": "2.39",
       "WHIP": "1.333",
       "rWAR": "0.0"
     },
@@ -640,7 +640,7 @@
       "SO": "7",
       "HR": "1",
       "ERA+": "427",
-      "FIP": "3.38",
+      "FIP": "3.39",
       "WHIP": "0.778",
       "rWAR": "0.9"
     },
@@ -681,7 +681,7 @@
       "BB": "3",
       "SO": "17",
       "HR": "3",
-      "ERA+": "74",
+      "ERA+": "75",
       "FIP": "4.00",
       "WHIP": "1.149",
       "rWAR": "-0.2"
@@ -703,7 +703,7 @@
       "SO": "11",
       "HR": "1",
       "ERA+": "105",
-      "FIP": "4.29",
+      "FIP": "4.30",
       "WHIP": "1.528",
       "rWAR": "0.0"
     },
@@ -766,7 +766,7 @@
       "SO": "5",
       "HR": "0",
       "ERA+": "84",
-      "FIP": "5.41",
+      "FIP": "5.42",
       "WHIP": "2.077",
       "rWAR": "0.1"
     },
@@ -808,7 +808,7 @@
       "SO": "4",
       "HR": "0",
       "ERA+": "73",
-      "FIP": "5.41",
+      "FIP": "5.42",
       "WHIP": "1.615",
       "rWAR": "0.0"
     },
@@ -849,7 +849,7 @@
       "BB": "3",
       "SO": "3",
       "HR": "1",
-      "ERA+": "125",
+      "ERA+": "126",
       "FIP": "11.25",
       "WHIP": "2.143",
       "rWAR": "0.0"
