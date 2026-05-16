@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T16:42:00Z",
+  "updated": "2026-05-16T17:45:39Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1109,10 +1109,10 @@
       "id": 695684,
       "name": "Elmer Rodríguez",
       "position": "P",
-      "level": "AAA",
-      "level_since": "2026-05-06",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-04-29",
+      "level": "MLB",
+      "level_since": "2026-05-16",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-05-06",
       "season": {
         "w": 1,
         "l": 3,
@@ -2226,7 +2226,7 @@
       "name": "Max Fried",
       "position": "P",
       "level": "MLB",
-      "level_since": null,
+      "level_since": "2026-05-16",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
