@@ -1,22 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-05-15T20:35:24Z",
-      "source": "MLB Transactions org",
-      "url": "https://statsapi.mlb.com/api/v1/transactions?teamId=147&startDate=2026-04-15&endDate=2026-05-15",
-      "status": 200,
-      "items": 101,
-      "note": "window 2026-04-15..2026-05-15"
-    },
-    {
-      "timestamp": "2026-05-15T20:37:13Z",
-      "source": "MLB personId fallback",
-      "url": "<bulk>",
-      "status": 200,
-      "items": 62,
-      "note": "players needing prior_level fallback"
-    },
-    {
       "timestamp": "2026-05-15T20:37:54Z",
       "source": "MLB season pitching: MLB",
       "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
@@ -3999,6 +3983,22 @@
       "status": 200,
       "items": 50,
       "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-16T14:57:52Z",
+      "source": "FanGraphs Yankees",
+      "url": "https://www.fangraphs.com/teams/yankees",
+      "status": 0,
+      "items": 0,
+      "note": "skipped_23h_gate"
+    },
+    {
+      "timestamp": "2026-05-16T14:57:52Z",
+      "source": "Baseball-Reference Yankees",
+      "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
+      "status": 0,
+      "items": 0,
+      "note": "skipped_23h_gate"
     }
   ]
 }
