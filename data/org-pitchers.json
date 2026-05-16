@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T19:52:43Z",
+  "updated": "2026-05-16T21:09:45Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1252,43 +1252,6 @@
       },
       "season_levels": [
         "High-A"
-      ]
-    },
-    {
-      "id": 687280,
-      "name": "Geoffrey Gilbert",
-      "position": "P",
-      "level": "AA",
-      "level_since": null,
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "w": 1,
-        "l": 1,
-        "g": 11,
-        "gs": 0,
-        "cg": 0,
-        "sho": 0,
-        "sv": 0,
-        "svo": 0,
-        "ip": "11.2",
-        "ip_outs": 35,
-        "h": 5,
-        "r": 4,
-        "er": 4,
-        "hr": 3,
-        "hb": 1,
-        "bb": 8,
-        "so": 11,
-        "era": "3.09",
-        "era_num": 3.085714285714286,
-        "whip": "1.11",
-        "whip_num": 1.1142857142857143,
-        "avg": ".128",
-        "avg_num": 0.1282051282051282
-      },
-      "season_levels": [
-        "AA"
       ]
     },
     {
