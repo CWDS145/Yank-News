@@ -1,14 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-05-15T17:15:09Z",
-      "source": "MLB MiLB: HV team stats",
-      "url": "https://statsapi.mlb.com/api/v1/teams/stats?season=2026&stats=season&group=hitting&teamId=537&sportId=13",
-      "status": 200,
-      "items": 2,
-      "note": "ok"
-    },
-    {
       "timestamp": "2026-05-15T17:15:11Z",
       "source": "MLB MiLB: HV player stats",
       "url": "<bulk: 28 players>",
@@ -3999,6 +3991,14 @@
       "status": 200,
       "items": 77,
       "note": "pitchers needing prior_level fallback"
+    },
+    {
+      "timestamp": "2026-05-16T10:59:57Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 28,
+      "note": "ok"
     }
   ]
 }
