@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T23:28:04Z",
+  "updated": "2026-05-17T01:26:00Z",
   "count": 68,
   "items": [
     {
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-05-16T23:28:04Z",
+      "published": "2026-05-17T01:26:00Z",
       "image": null
     },
     {
@@ -17,7 +17,34 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-rhp-sean-paul-linan/",
-      "published": "2026-05-16T23:28:04Z",
+      "published": "2026-05-17T01:26:00Z",
+      "image": null
+    },
+    {
+      "title": "It must be the ... pants? Chisholm borrows Stanton's, busts out of slump",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Bryan Hoch",
+      "link": "https://www.mlb.com/yankees/news/jazz-chisholm-jr-wearing-giancarlo-stanton-s-pants",
+      "published": "2026-05-17T00:25:00Z",
+      "image": null
+    },
+    {
+      "title": "Latest Yankees injuries and transactions",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "MLB.com",
+      "link": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
+      "published": "2026-05-17T00:09:00Z",
+      "image": null
+    },
+    {
+      "title": "Rodríguez to have another wish fulfilled: A start in Subway Series",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Bryan Hoch",
+      "link": "https://www.mlb.com/yankees/news/elmer-rodriguez-called-up-to-start-in-subway-series-finale",
+      "published": "2026-05-16T23:39:00Z",
       "image": null
     },
     {
@@ -55,15 +82,6 @@
       "link": "https://nypost.com/2026/05/16/sports/hits-keep-coming-for-mets-as-the-beat-rolls-on-for-yankees/",
       "published": "2026-05-16T22:57:12Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F05%2FNYP042926METS85JS-1.jpg?quality%3D90%26"
-    },
-    {
-      "title": "It must be the ... pants? Chisholm borrows Stanton's, busts out of slump",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch",
-      "link": "https://www.mlb.com/yankees/news/jazz-chisholm-jr-wearing-giancarlo-stanton-s-pants",
-      "published": "2026-05-16T22:49:26Z",
-      "image": null
     },
     {
       "title": "New York Yankees @ New York Mets: Carlos Rodón vs. Huascar Brazobán",
@@ -163,15 +181,6 @@
       "link": "https://www.cbssports.com/mlb/news/yankees-max-fried-elbow-injury/",
       "published": "2026-05-16T17:56:01Z",
       "image": "https://sportshub.cbsistatic.com/i/2026/05/13/6403957f-8c1f-466a-801a-f02017085e61/fried-getty.png"
-    },
-    {
-      "title": "Latest Yankees injuries and transactions",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "MLB.com",
-      "link": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
-      "published": "2026-05-16T17:47:00Z",
-      "image": null
     },
     {
       "title": "Yankees Place Max Fried On 10-Day Injured List",
@@ -603,15 +612,6 @@
       "author": "AJ Eustace",
       "link": "https://www.mlbtraderumors.com/2026/05/yankees-reinstate-carlos-rodon-from-injured-list.html",
       "published": "2026-05-10T13:59:45Z",
-      "image": null
-    },
-    {
-      "title": "Schlittler drilled by 108.5 mph liner, throws 6 shutout innings anyway",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Casey Drottar",
-      "link": "https://www.mlb.com/yankees/news/cam-schlittler-yankees-vs-brewers",
-      "published": "2026-05-10T03:46:00Z",
       "image": null
     }
   ]
