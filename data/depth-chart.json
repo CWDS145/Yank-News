@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T10:59:57Z",
+  "updated": "2026-05-17T11:01:55Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -70,15 +70,15 @@
     ],
     "SP": [
       {
-        "name": "Max Fried",
+        "name": "Cam Schlittler",
         "rank": 1
       },
       {
-        "name": "Cam Schlittler",
+        "name": "Carlos Rodon",
         "rank": 2
       },
       {
-        "name": "Carlos Rodon",
+        "name": "Elmer Rodriguez-Cruz",
         "rank": 3
       },
       {
@@ -94,8 +94,12 @@
         "rank": 6
       },
       {
-        "name": "Clarke Schmidt",
+        "name": "Max Fried",
         "rank": 7
+      },
+      {
+        "name": "Clarke Schmidt",
+        "rank": 8
       }
     ],
     "RP": [
@@ -150,6 +154,7 @@
     "Clarke Schmidt",
     "Cody Bellinger",
     "David Bednar",
+    "Elmer Rodriguez-Cruz",
     "Fernando E. Cruz",
     "Gerrit Cole",
     "Giancarlo Stanton",
