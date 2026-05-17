@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T20:04:57Z",
+  "updated": "2026-05-17T21:27:50Z",
   "count": 52,
   "items": [
     {
@@ -28,12 +28,6 @@
     },
     {
       "date": "2026-05-10",
-      "type": "",
-      "player": "Carlos Rodon",
-      "description": "Removed From 15-Day IL (Recovery from left elbow surgery)"
-    },
-    {
-      "date": "2026-05-10",
       "type": "recalled",
       "player": "Carlos Rodon",
       "description": "Recalled From Minors Rehab Assignment"
@@ -45,16 +39,22 @@
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-05-08",
-      "type": "placed",
-      "player": "Jasson Dominguez",
-      "description": "Placed on 10-Day IL (Sprained left shoulder AC joint)"
+      "date": "2026-05-10",
+      "type": "",
+      "player": "Carlos Rodon",
+      "description": "Removed From 15-Day IL (Recovery from left elbow surgery)"
     },
     {
       "date": "2026-05-08",
       "type": "called up",
       "player": "Spencer Jones",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-05-08",
+      "type": "placed",
+      "player": "Jasson Dominguez",
+      "description": "Placed on 10-Day IL (Sprained left shoulder AC joint)"
     },
     {
       "date": "2026-05-08",
@@ -293,13 +293,13 @@
     {
       "date": "2026-03-20",
       "type": "sent",
-      "player": "Jasson Dominguez",
+      "player": "Kervin Castro",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-03-20",
       "type": "sent",
-      "player": "Kervin Castro",
+      "player": "Jasson Dominguez",
       "description": "Sent to Minors"
     },
     {
