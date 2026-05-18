@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T08:36:43Z",
+  "updated": "2026-05-18T12:05:39Z",
   "season": 2026,
   "players": [
     {
@@ -17,14 +17,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 108,
+        "attempts": 111,
         "avg_ev": 93.7,
         "max_ev": 116.2,
-        "avg_la": 14.3,
-        "barrel_pct": 23.1,
-        "barrel_per_pa": 12.3,
-        "ev95plus": 60,
-        "ev95_pct": 55.6,
+        "avg_la": 14.8,
+        "barrel_pct": 22.5,
+        "barrel_per_pa": 12,
+        "ev95plus": 62,
+        "ev95_pct": 55.9,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -60,14 +60,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 77,
-        "avg_ev": 91.1,
+        "attempts": 79,
+        "avg_ev": 90.7,
         "max_ev": 110.5,
-        "avg_la": 17.3,
-        "barrel_pct": 6.5,
-        "barrel_per_pa": 3.9,
+        "avg_la": 16.1,
+        "barrel_pct": 6.3,
+        "barrel_per_pa": 3.8,
         "ev95plus": 37,
-        "ev95_pct": 48.1,
+        "ev95_pct": 46.8,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -91,14 +91,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 101,
-        "avg_ev": 93.6,
+        "attempts": 105,
+        "avg_ev": 93.5,
         "max_ev": 110.9,
         "avg_la": 13.6,
-        "barrel_pct": 19.8,
-        "barrel_per_pa": 11.8,
-        "ev95plus": 56,
-        "ev95_pct": 55.4,
+        "barrel_pct": 21,
+        "barrel_per_pa": 12.6,
+        "ev95plus": 58,
+        "ev95_pct": 55.2,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -173,14 +173,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 141,
+        "attempts": 143,
         "avg_ev": 89.8,
         "max_ev": 109.3,
-        "avg_la": 19.1,
-        "barrel_pct": 7.8,
-        "barrel_per_pa": 5.6,
-        "ev95plus": 55,
-        "ev95_pct": 39,
+        "avg_la": 19.4,
+        "barrel_pct": 7.7,
+        "barrel_per_pa": 5.5,
+        "ev95plus": 56,
+        "ev95_pct": 39.2,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -308,14 +308,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 111,
-        "avg_ev": 88.7,
+        "attempts": 113,
+        "avg_ev": 88.6,
         "max_ev": 110.9,
-        "avg_la": 18.3,
-        "barrel_pct": 5.4,
-        "barrel_per_pa": 3.3,
+        "avg_la": 18.2,
+        "barrel_pct": 5.3,
+        "barrel_per_pa": 3.2,
         "ev95plus": 39,
-        "ev95_pct": 35.1,
+        "ev95_pct": 34.5,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -433,14 +433,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 75,
-        "avg_ev": 91.2,
+        "attempts": 80,
+        "avg_ev": 91.3,
         "max_ev": 110.5,
-        "avg_la": 15.6,
-        "barrel_pct": 8,
-        "barrel_per_pa": 4.7,
-        "ev95plus": 37,
-        "ev95_pct": 49.3,
+        "avg_la": 16,
+        "barrel_pct": 7.5,
+        "barrel_per_pa": 4.5,
+        "ev95plus": 39,
+        "ev95_pct": 48.8,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -515,14 +515,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 115,
-        "avg_ev": 91.8,
+        "attempts": 119,
+        "avg_ev": 91.6,
         "max_ev": 111.6,
-        "avg_la": 17.4,
-        "barrel_pct": 14.8,
-        "barrel_per_pa": 9.7,
-        "ev95plus": 58,
-        "ev95_pct": 50.4,
+        "avg_la": 17.3,
+        "barrel_pct": 15.1,
+        "barrel_per_pa": 9.9,
+        "ev95plus": 59,
+        "ev95_pct": 49.6,
         "hardhit_pct": null
       },
       "sprint_speed": {
