@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-18T23:04:47Z",
-  "count": 54,
+  "updated": "2026-05-19T01:29:57Z",
+  "count": 53,
   "items": [
     {
       "date": "2026-05-18",
@@ -88,21 +88,27 @@
     },
     {
       "date": "2026-05-06",
-      "type": "called up",
-      "player": "Yerry De Los Santos",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-05-06",
       "type": "sent",
       "player": "Yerry De Los Santos",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-05-06",
+      "type": "called up",
+      "player": "Yerry De Los Santos",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-05-05",
       "type": "sent",
       "player": "Elmer Rodriguez",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-05-03",
+      "type": "",
+      "player": "Anthony Volpe",
+      "description": "Removed From 10-Day IL (Recovery from left labrum surgery)"
     },
     {
       "date": "2026-05-03",
@@ -115,12 +121,6 @@
       "type": "sent",
       "player": "Anthony Volpe",
       "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-05-03",
-      "type": "",
-      "player": "Anthony Volpe",
-      "description": "Removed From 10-Day IL (Recovery from left labrum surgery)"
     },
     {
       "date": "2026-05-01",
@@ -148,15 +148,15 @@
     },
     {
       "date": "2026-04-28",
-      "type": "called up",
-      "player": "Max Schuemann",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-04-28",
       "type": "placed",
       "player": "Giancarlo Stanton",
       "description": "Placed on 10-Day IL (Strained right calf)"
+    },
+    {
+      "date": "2026-04-28",
+      "type": "called up",
+      "player": "Max Schuemann",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-04-27",
@@ -244,27 +244,21 @@
     },
     {
       "date": "2026-04-10",
-      "type": "called up",
-      "player": "Luis Gil",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-04-10",
       "type": "designated",
       "player": "Cade Winquest",
       "description": "Designated for Assignment"
+    },
+    {
+      "date": "2026-04-10",
+      "type": "called up",
+      "player": "Luis Gil",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-03-27",
       "type": "signed",
       "player": "Luis Garcia",
       "description": "Signed to a Minor League Contract"
-    },
-    {
-      "date": "2026-03-25",
-      "type": "placed",
-      "player": "Anthony Volpe",
-      "description": "Placed on 10-Day IL (Recovery from left labrum surgery)"
     },
     {
       "date": "2026-03-25",
@@ -277,6 +271,12 @@
       "type": "purchased",
       "player": "Randal Grichuk",
       "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-03-25",
+      "type": "placed",
+      "player": "Anthony Volpe",
+      "description": "Placed on 10-Day IL (Recovery from left labrum surgery)"
     },
     {
       "date": "2026-03-25",
@@ -305,12 +305,6 @@
     {
       "date": "2026-03-20",
       "type": "sent",
-      "player": "Yerry De Los Santos",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-03-20",
-      "type": "sent",
       "player": "Kervin Castro",
       "description": "Sent to Minors"
     },
@@ -321,9 +315,9 @@
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-03-19",
+      "date": "2026-03-20",
       "type": "sent",
-      "player": "Angel Chivilli",
+      "player": "Yerry De Los Santos",
       "description": "Sent to Minors"
     }
   ]
