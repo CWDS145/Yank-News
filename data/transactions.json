@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-19T05:46:23Z",
+  "updated": "2026-05-19T09:51:39Z",
   "count": 53,
   "items": [
     {
@@ -148,15 +148,15 @@
     },
     {
       "date": "2026-04-28",
-      "type": "placed",
-      "player": "Giancarlo Stanton",
-      "description": "Placed on 10-Day IL (Strained right calf)"
-    },
-    {
-      "date": "2026-04-28",
       "type": "called up",
       "player": "Max Schuemann",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-04-28",
+      "type": "placed",
+      "player": "Giancarlo Stanton",
+      "description": "Placed on 10-Day IL (Strained right calf)"
     },
     {
       "date": "2026-04-27",
@@ -268,15 +268,15 @@
     },
     {
       "date": "2026-03-25",
-      "type": "placed",
-      "player": "Anthony Volpe",
-      "description": "Placed on 10-Day IL (Recovery from left labrum surgery)"
-    },
-    {
-      "date": "2026-03-25",
       "type": "purchased",
       "player": "Randal Grichuk",
       "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-03-25",
+      "type": "placed",
+      "player": "Anthony Volpe",
+      "description": "Placed on 10-Day IL (Recovery from left labrum surgery)"
     },
     {
       "date": "2026-03-25",
