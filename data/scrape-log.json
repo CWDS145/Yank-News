@@ -1,14 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-05-18T08:36:52Z",
-      "source": "MLB MiLB: TAM team stats",
-      "url": "https://statsapi.mlb.com/api/v1/teams/stats?season=2026&stats=season&group=hitting&teamId=587&sportId=14",
-      "status": 200,
-      "items": 2,
-      "note": "ok"
-    },
-    {
       "timestamp": "2026-05-18T08:36:56Z",
       "source": "MLB MiLB: TAM player stats",
       "url": "<bulk: 30 players>",
@@ -3999,6 +3991,14 @@
       "status": 200,
       "items": 77,
       "note": "pitchers needing prior_level fallback"
+    },
+    {
+      "timestamp": "2026-05-19T12:36:43Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 29,
+      "note": "ok"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T13:42:04Z",
+  "updated": "2026-05-19T12:36:43Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -78,28 +78,24 @@
         "rank": 2
       },
       {
-        "name": "Elmer Rodriguez-Cruz",
+        "name": "Ryan Weathers",
         "rank": 3
       },
       {
-        "name": "Ryan Weathers",
+        "name": "Will Warren",
         "rank": 4
       },
       {
-        "name": "Will Warren",
+        "name": "Gerrit Cole",
         "rank": 5
       },
       {
-        "name": "Gerrit Cole",
+        "name": "Max Fried",
         "rank": 6
       },
       {
-        "name": "Max Fried",
-        "rank": 7
-      },
-      {
         "name": "Clarke Schmidt",
-        "rank": 8
+        "rank": 7
       }
     ],
     "RP": [
@@ -132,12 +128,16 @@
         "rank": 7
       },
       {
-        "name": "Paul Blackburn",
+        "name": "Yovanny Cruz",
         "rank": 8
       },
       {
-        "name": "Angel Chivilli",
+        "name": "Paul Blackburn",
         "rank": 9
+      },
+      {
+        "name": "Angel Chivilli",
+        "rank": 10
       }
     ]
   },
@@ -154,7 +154,6 @@
     "Clarke Schmidt",
     "Cody Bellinger",
     "David Bednar",
-    "Elmer Rodriguez-Cruz",
     "Fernando E. Cruz",
     "Gerrit Cole",
     "Giancarlo Stanton",
@@ -170,6 +169,7 @@
     "Spencer G. Jones",
     "Tim Hill",
     "Trent Grisham",
-    "Will Warren"
+    "Will Warren",
+    "Yovanny Cruz"
   ]
 }
