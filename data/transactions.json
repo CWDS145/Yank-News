@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T12:34:30Z",
+  "updated": "2026-05-20T18:41:34Z",
   "count": 50,
   "items": [
     {
@@ -28,15 +28,21 @@
     },
     {
       "date": "2026-05-12",
+      "type": "called up",
+      "player": "Anthony Volpe",
+      "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-05-12",
       "type": "placed",
       "player": "Jose Caballero",
       "description": "Placed on 10-Day IL (Right middle finger fracture)"
     },
     {
-      "date": "2026-05-12",
-      "type": "called up",
-      "player": "Anthony Volpe",
-      "description": "Called Up from Minors"
+      "date": "2026-05-10",
+      "type": "",
+      "player": "Carlos Rodon",
+      "description": "Removed From 15-Day IL (Recovery from left elbow surgery)"
     },
     {
       "date": "2026-05-10",
@@ -49,12 +55,6 @@
       "type": "recalled",
       "player": "Carlos Rodon",
       "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-05-10",
-      "type": "",
-      "player": "Carlos Rodon",
-      "description": "Removed From 15-Day IL (Recovery from left elbow surgery)"
     },
     {
       "date": "2026-05-08",
@@ -76,15 +76,15 @@
     },
     {
       "date": "2026-05-07",
-      "type": "purchased",
-      "player": "Brendan Beck",
-      "description": "Purchased From Minors"
-    },
-    {
-      "date": "2026-05-07",
       "type": "sent",
       "player": "Brendan Beck",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-05-07",
+      "type": "purchased",
+      "player": "Brendan Beck",
+      "description": "Purchased From Minors"
     },
     {
       "date": "2026-05-06",
@@ -106,6 +106,12 @@
     },
     {
       "date": "2026-05-03",
+      "type": "sent",
+      "player": "Anthony Volpe",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-05-03",
       "type": "recalled",
       "player": "Anthony Volpe",
       "description": "Recalled From Minors Rehab Assignment"
@@ -115,12 +121,6 @@
       "type": "",
       "player": "Anthony Volpe",
       "description": "Removed From 10-Day IL (Recovery from left labrum surgery)"
-    },
-    {
-      "date": "2026-05-03",
-      "type": "sent",
-      "player": "Anthony Volpe",
-      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-01",
