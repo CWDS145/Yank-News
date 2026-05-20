@@ -2,14 +2,6 @@
   "entries": [
     {
       "timestamp": "2026-05-19T08:09:01Z",
-      "source": "MLB season pitching: MLB",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
-      "status": 200,
-      "items": 83,
-      "note": "ok=83/83"
-    },
-    {
-      "timestamp": "2026-05-19T08:09:01Z",
       "source": "MLB season pitching: AAA",
       "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
       "status": 200,
@@ -3999,6 +3991,14 @@
       "status": 200,
       "items": 77,
       "note": "pitchers needing prior_level fallback"
+    },
+    {
+      "timestamp": "2026-05-20T12:19:09Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 29,
+      "note": "ok"
     }
   ]
 }
