@@ -1,18 +1,18 @@
 {
-  "updated": "2026-05-20T21:00:00Z",
+  "updated": "2026-05-20T22:40:10Z",
   "count": 50,
   "items": [
-    {
-      "date": "2026-05-18",
-      "type": "sent",
-      "player": "Elmer Rodriguez",
-      "description": "Sent to Minors"
-    },
     {
       "date": "2026-05-18",
       "type": "purchased",
       "player": "Yovanny Cruz",
       "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-05-18",
+      "type": "sent",
+      "player": "Elmer Rodriguez",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-16",
@@ -28,21 +28,15 @@
     },
     {
       "date": "2026-05-12",
-      "type": "placed",
-      "player": "Jose Caballero",
-      "description": "Placed on 10-Day IL (Right middle finger fracture)"
-    },
-    {
-      "date": "2026-05-12",
       "type": "called up",
       "player": "Anthony Volpe",
       "description": "Called Up from Minors"
     },
     {
-      "date": "2026-05-10",
-      "type": "sent",
-      "player": "Kervin Castro",
-      "description": "Sent to Minors"
+      "date": "2026-05-12",
+      "type": "placed",
+      "player": "Jose Caballero",
+      "description": "Placed on 10-Day IL (Right middle finger fracture)"
     },
     {
       "date": "2026-05-10",
@@ -52,21 +46,27 @@
     },
     {
       "date": "2026-05-10",
+      "type": "sent",
+      "player": "Kervin Castro",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-05-10",
       "type": "recalled",
       "player": "Carlos Rodon",
       "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-05-08",
-      "type": "placed",
-      "player": "Jasson Dominguez",
-      "description": "Placed on 10-Day IL (Sprained left shoulder AC joint)"
-    },
-    {
-      "date": "2026-05-08",
       "type": "called up",
       "player": "Spencer Jones",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-05-08",
+      "type": "placed",
+      "player": "Jasson Dominguez",
+      "description": "Placed on 10-Day IL (Sprained left shoulder AC joint)"
     },
     {
       "date": "2026-05-08",
@@ -136,15 +136,15 @@
     },
     {
       "date": "2026-04-29",
-      "type": "called up",
-      "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-04-29",
       "type": "designated",
       "player": "Randal Grichuk",
       "description": "Designated for Assignment"
+    },
+    {
+      "date": "2026-04-29",
+      "type": "called up",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-04-28",
@@ -172,15 +172,15 @@
     },
     {
       "date": "2026-04-25",
-      "type": "reinstated",
-      "player": "Ryan Weathers",
-      "description": "Reinstated from Paternity Leave List"
-    },
-    {
-      "date": "2026-04-25",
       "type": "placed",
       "player": "Angel Chivilli",
       "description": "Placed on 15-Day IL (Right shoulder discomfort)"
+    },
+    {
+      "date": "2026-04-25",
+      "type": "reinstated",
+      "player": "Ryan Weathers",
+      "description": "Reinstated from Paternity Leave List"
     },
     {
       "date": "2026-04-24",
@@ -214,9 +214,9 @@
     },
     {
       "date": "2026-04-14",
-      "type": "sent",
-      "player": "Anthony Volpe",
-      "description": "Sent to Minors For Rehabilitation"
+      "type": "called up",
+      "player": "Yerry De Los Santos",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-04-14",
@@ -226,9 +226,9 @@
     },
     {
       "date": "2026-04-14",
-      "type": "called up",
-      "player": "Yerry De Los Santos",
-      "description": "Called Up from Minors"
+      "type": "sent",
+      "player": "Anthony Volpe",
+      "description": "Sent to Minors For Rehabilitation"
     },
     {
       "date": "2026-04-13",
@@ -268,6 +268,12 @@
     },
     {
       "date": "2026-03-25",
+      "type": "purchased",
+      "player": "Randal Grichuk",
+      "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-03-25",
       "type": "placed",
       "player": "Anthony Volpe",
       "description": "Placed on 10-Day IL (Recovery from left labrum surgery)"
@@ -277,12 +283,6 @@
       "type": "placed",
       "player": "Gerrit Cole",
       "description": "Placed on 15-Day IL (Recovery from right elbow surgery)"
-    },
-    {
-      "date": "2026-03-25",
-      "type": "purchased",
-      "player": "Randal Grichuk",
-      "description": "Purchased From Minors"
     },
     {
       "date": "2026-03-24",
