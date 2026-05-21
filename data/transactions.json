@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T12:16:38Z",
+  "updated": "2026-05-21T18:06:53Z",
   "count": 48,
   "items": [
     {
@@ -40,15 +40,15 @@
     },
     {
       "date": "2026-05-10",
-      "type": "sent",
-      "player": "Kervin Castro",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-05-10",
       "type": "recalled",
       "player": "Carlos Rodon",
       "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-05-10",
+      "type": "sent",
+      "player": "Kervin Castro",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-10",
@@ -65,26 +65,26 @@
     {
       "date": "2026-05-08",
       "type": "called up",
-      "player": "Spencer Jones",
+      "player": "Kervin Castro",
       "description": "Called Up from Minors"
     },
     {
       "date": "2026-05-08",
       "type": "called up",
-      "player": "Kervin Castro",
+      "player": "Spencer Jones",
       "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-05-07",
-      "type": "purchased",
-      "player": "Brendan Beck",
-      "description": "Purchased From Minors"
     },
     {
       "date": "2026-05-07",
       "type": "sent",
       "player": "Brendan Beck",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-05-07",
+      "type": "purchased",
+      "player": "Brendan Beck",
+      "description": "Purchased From Minors"
     },
     {
       "date": "2026-05-06",
@@ -106,15 +106,15 @@
     },
     {
       "date": "2026-05-03",
-      "type": "",
-      "player": "Anthony Volpe",
-      "description": "Removed From 10-Day IL (Recovery from left labrum surgery)"
-    },
-    {
-      "date": "2026-05-03",
       "type": "recalled",
       "player": "Anthony Volpe",
       "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-05-03",
+      "type": "",
+      "player": "Anthony Volpe",
+      "description": "Removed From 10-Day IL (Recovery from left labrum surgery)"
     },
     {
       "date": "2026-05-03",
@@ -125,14 +125,14 @@
     {
       "date": "2026-05-01",
       "type": "",
-      "player": "Paul DeJong",
-      "description": "Declared Free Agency"
+      "player": "Randal Grichuk",
+      "description": "Refused Minor League Assignment - Free Agent"
     },
     {
       "date": "2026-05-01",
       "type": "",
-      "player": "Randal Grichuk",
-      "description": "Refused Minor League Assignment - Free Agent"
+      "player": "Paul DeJong",
+      "description": "Declared Free Agency"
     },
     {
       "date": "2026-04-29",
@@ -262,12 +262,6 @@
     },
     {
       "date": "2026-03-25",
-      "type": "purchased",
-      "player": "Randal Grichuk",
-      "description": "Purchased From Minors"
-    },
-    {
-      "date": "2026-03-25",
       "type": "placed",
       "player": "Carlos Rodon",
       "description": "Placed on 15-Day IL (Recovery from left elbow surgery)"
@@ -275,14 +269,20 @@
     {
       "date": "2026-03-25",
       "type": "placed",
-      "player": "Anthony Volpe",
-      "description": "Placed on 10-Day IL (Recovery from left labrum surgery)"
+      "player": "Gerrit Cole",
+      "description": "Placed on 15-Day IL (Recovery from right elbow surgery)"
+    },
+    {
+      "date": "2026-03-25",
+      "type": "purchased",
+      "player": "Randal Grichuk",
+      "description": "Purchased From Minors"
     },
     {
       "date": "2026-03-25",
       "type": "placed",
-      "player": "Gerrit Cole",
-      "description": "Placed on 15-Day IL (Recovery from right elbow surgery)"
+      "player": "Anthony Volpe",
+      "description": "Placed on 10-Day IL (Recovery from left labrum surgery)"
     },
     {
       "date": "2026-03-24",
