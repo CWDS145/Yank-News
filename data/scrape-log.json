@@ -1,78 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-05-19T23:45:01Z",
-      "source": "MLB MiLB: SWB team stats",
-      "url": "https://statsapi.mlb.com/api/v1/teams/stats?season=2026&stats=season&group=hitting&teamId=531&sportId=11",
-      "status": 200,
-      "items": 2,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-05-19T23:45:04Z",
-      "source": "MLB MiLB: SWB player stats",
-      "url": "<bulk: 28 players>",
-      "status": 200,
-      "items": 27,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-05-19T23:45:04Z",
-      "source": "MLB MiLB: SOM roster",
-      "url": "https://statsapi.mlb.com/api/v1/teams/1956/roster?rosterType=active&season=2026",
-      "status": 200,
-      "items": 27,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-05-19T23:45:04Z",
-      "source": "MLB MiLB: SOM team stats",
-      "url": "https://statsapi.mlb.com/api/v1/teams/stats?season=2026&stats=season&group=hitting&teamId=1956&sportId=12",
-      "status": 200,
-      "items": 2,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-05-19T23:45:07Z",
-      "source": "MLB MiLB: SOM player stats",
-      "url": "<bulk: 27 players>",
-      "status": 200,
-      "items": 26,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-05-19T23:45:07Z",
-      "source": "MLB MiLB: HV roster",
-      "url": "https://statsapi.mlb.com/api/v1/teams/537/roster?rosterType=active&season=2026",
-      "status": 200,
-      "items": 29,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-05-19T23:45:07Z",
-      "source": "MLB MiLB: HV team stats",
-      "url": "https://statsapi.mlb.com/api/v1/teams/stats?season=2026&stats=season&group=hitting&teamId=537&sportId=13",
-      "status": 200,
-      "items": 2,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-05-19T23:45:10Z",
-      "source": "MLB MiLB: HV player stats",
-      "url": "<bulk: 29 players>",
-      "status": 200,
-      "items": 27,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-05-19T23:45:10Z",
-      "source": "MLB MiLB: TAM roster",
-      "url": "https://statsapi.mlb.com/api/v1/teams/587/roster?rosterType=active&season=2026",
-      "status": 200,
-      "items": 29,
-      "note": "ok"
-    },
-    {
       "timestamp": "2026-05-19T23:45:10Z",
       "source": "MLB MiLB: TAM team stats",
       "url": "https://statsapi.mlb.com/api/v1/teams/stats?season=2026&stats=season&group=hitting&teamId=587&sportId=14",
@@ -3999,6 +3927,78 @@
       "status": 200,
       "items": 77,
       "note": "pitchers needing prior_level fallback"
+    },
+    {
+      "timestamp": "2026-05-21T04:53:31Z",
+      "source": "MLB.com Yankees",
+      "url": "https://www.mlb.com/yankees/feeds/news/rss.xml",
+      "status": 200,
+      "items": 25,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-21T04:53:31Z",
+      "source": "Pinstripe Alley",
+      "url": "https://www.pinstripealley.com/rss/current.xml",
+      "status": 200,
+      "items": 10,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-21T04:53:31Z",
+      "source": "NY Post Yankees",
+      "url": "https://nypost.com/tag/new-york-yankees/feed/",
+      "status": 200,
+      "items": 20,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-21T04:53:31Z",
+      "source": "MLB Trade Rumors NYY",
+      "url": "https://www.mlbtraderumors.com/category/new-york-yankees/feed",
+      "status": 200,
+      "items": 15,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-21T04:53:31Z",
+      "source": "ESPN MLB",
+      "url": "https://www.espn.com/espn/rss/mlb/news",
+      "status": 200,
+      "items": 1,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-21T04:53:31Z",
+      "source": "CBS Sports MLB",
+      "url": "https://www.cbssports.com/rss/headlines/mlb/",
+      "status": 200,
+      "items": 1,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-21T04:53:31Z",
+      "source": "Pinstripe Post (Sherman)",
+      "url": "https://feeds.megaphone.fm/NYPH3296340517",
+      "status": 200,
+      "items": 1,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-21T04:53:32Z",
+      "source": "YES Network",
+      "url": "https://www.yesnetwork.com/yankees",
+      "status": 200,
+      "items": 1,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-21T04:53:34Z",
+      "source": "CBS Transactions",
+      "url": "https://www.cbssports.com/mlb/teams/NYY/new-york-yankees/transactions/",
+      "status": 200,
+      "items": 48,
+      "note": "ok"
     }
   ]
 }
