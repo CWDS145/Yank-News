@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T23:58:04Z",
+  "updated": "2026-05-21T04:45:57Z",
   "items": [
     {
       "id": 909982,
@@ -624,19 +624,6 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees sent SS Anthony Volpe on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 902280,
-      "date": "2026-04-20",
-      "type_code": "SFA",
-      "type_desc": "Signed as Free Agent",
-      "player_id": 840309,
-      "player": "Freddy Lopez",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees signed free agent RHP Freddy Lopez to a minor league contract."
     }
   ]
 }
