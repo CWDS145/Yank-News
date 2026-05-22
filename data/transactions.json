@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T05:46:36Z",
+  "updated": "2026-05-22T09:32:25Z",
   "count": 50,
   "items": [
     {
@@ -118,6 +118,12 @@
     },
     {
       "date": "2026-05-03",
+      "type": "",
+      "player": "Anthony Volpe",
+      "description": "Removed From 10-Day IL (Recovery from left labrum surgery)"
+    },
+    {
+      "date": "2026-05-03",
       "type": "recalled",
       "player": "Anthony Volpe",
       "description": "Recalled From Minors Rehab Assignment"
@@ -127,12 +133,6 @@
       "type": "sent",
       "player": "Anthony Volpe",
       "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-05-03",
-      "type": "",
-      "player": "Anthony Volpe",
-      "description": "Removed From 10-Day IL (Recovery from left labrum surgery)"
     },
     {
       "date": "2026-05-01",
