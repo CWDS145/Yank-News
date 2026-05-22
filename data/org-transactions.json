@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T23:19:03Z",
+  "updated": "2026-05-22T01:38:15Z",
   "items": [
     {
       "id": 909982,
@@ -611,19 +611,6 @@
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
       "description": "New York Yankees recalled RHP Jake Bird from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 902034,
-      "date": "2026-04-21",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 683011,
-      "player": "Anthony Volpe",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees sent SS Anthony Volpe on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
     }
   ]
 }
