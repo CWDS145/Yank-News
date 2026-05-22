@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T17:54:40Z",
+  "updated": "2026-05-22T19:51:32Z",
   "count": 50,
   "items": [
     {
@@ -148,15 +148,15 @@
     },
     {
       "date": "2026-04-29",
-      "type": "called up",
-      "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-04-29",
       "type": "designated",
       "player": "Randal Grichuk",
       "description": "Designated for Assignment"
+    },
+    {
+      "date": "2026-04-29",
+      "type": "called up",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-04-28",
@@ -202,15 +202,15 @@
     },
     {
       "date": "2026-04-22",
-      "type": "called up",
-      "player": "Jacob Bird",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-04-22",
       "type": "placed",
       "player": "Ryan Weathers",
       "description": "Placed on Paternity Leave List"
+    },
+    {
+      "date": "2026-04-22",
+      "type": "called up",
+      "player": "Jacob Bird",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-04-17",
@@ -227,8 +227,8 @@
     {
       "date": "2026-04-14",
       "type": "sent",
-      "player": "Anthony Volpe",
-      "description": "Sent to Minors For Rehabilitation"
+      "player": "Yerry De Los Santos",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-04-14",
@@ -239,7 +239,13 @@
     {
       "date": "2026-04-14",
       "type": "sent",
-      "player": "Yerry De Los Santos",
+      "player": "Anthony Volpe",
+      "description": "Sent to Minors For Rehabilitation"
+    },
+    {
+      "date": "2026-04-13",
+      "type": "sent",
+      "player": "Jacob Bird",
       "description": "Sent to Minors"
     },
     {
@@ -247,12 +253,6 @@
       "type": "",
       "player": "Cade Winquest",
       "description": "Drafted Player Returned to Minors"
-    },
-    {
-      "date": "2026-04-13",
-      "type": "sent",
-      "player": "Jacob Bird",
-      "description": "Sent to Minors"
     },
     {
       "date": "2026-04-10",
@@ -280,12 +280,6 @@
     },
     {
       "date": "2026-03-25",
-      "type": "purchased",
-      "player": "Randal Grichuk",
-      "description": "Purchased From Minors"
-    },
-    {
-      "date": "2026-03-25",
       "type": "placed",
       "player": "Gerrit Cole",
       "description": "Placed on 15-Day IL (Recovery from right elbow surgery)"
@@ -295,6 +289,12 @@
       "type": "placed",
       "player": "Carlos Rodon",
       "description": "Placed on 15-Day IL (Recovery from left elbow surgery)"
+    },
+    {
+      "date": "2026-03-25",
+      "type": "purchased",
+      "player": "Randal Grichuk",
+      "description": "Purchased From Minors"
     },
     {
       "date": "2026-03-24",
