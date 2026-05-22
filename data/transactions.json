@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T09:32:25Z",
+  "updated": "2026-05-22T12:22:50Z",
   "count": 50,
   "items": [
     {
@@ -118,12 +118,6 @@
     },
     {
       "date": "2026-05-03",
-      "type": "",
-      "player": "Anthony Volpe",
-      "description": "Removed From 10-Day IL (Recovery from left labrum surgery)"
-    },
-    {
-      "date": "2026-05-03",
       "type": "recalled",
       "player": "Anthony Volpe",
       "description": "Recalled From Minors Rehab Assignment"
@@ -135,10 +129,10 @@
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-05-01",
+      "date": "2026-05-03",
       "type": "",
-      "player": "Randal Grichuk",
-      "description": "Refused Minor League Assignment - Free Agent"
+      "player": "Anthony Volpe",
+      "description": "Removed From 10-Day IL (Recovery from left labrum surgery)"
     },
     {
       "date": "2026-05-01",
@@ -147,16 +141,22 @@
       "description": "Declared Free Agency"
     },
     {
-      "date": "2026-04-29",
-      "type": "designated",
+      "date": "2026-05-01",
+      "type": "",
       "player": "Randal Grichuk",
-      "description": "Designated for Assignment"
+      "description": "Refused Minor League Assignment - Free Agent"
     },
     {
       "date": "2026-04-29",
       "type": "called up",
       "player": "Elmer Rodriguez",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-04-29",
+      "type": "designated",
+      "player": "Randal Grichuk",
+      "description": "Designated for Assignment"
     },
     {
       "date": "2026-04-28",
@@ -274,15 +274,15 @@
     },
     {
       "date": "2026-03-25",
-      "type": "purchased",
-      "player": "Randal Grichuk",
-      "description": "Purchased From Minors"
-    },
-    {
-      "date": "2026-03-25",
       "type": "placed",
       "player": "Anthony Volpe",
       "description": "Placed on 10-Day IL (Recovery from left labrum surgery)"
+    },
+    {
+      "date": "2026-03-25",
+      "type": "purchased",
+      "player": "Randal Grichuk",
+      "description": "Purchased From Minors"
     },
     {
       "date": "2026-03-25",
