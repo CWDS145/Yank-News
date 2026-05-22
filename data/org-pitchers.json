@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T19:22:34Z",
+  "updated": "2026-05-22T21:05:18Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1286,9 +1286,9 @@
       "name": "Gerrit Cole",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-05-16",
-      "prior_level": "AA",
-      "prior_level_since": "2026-05-10",
+      "level_since": "2026-05-22",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-05-16",
       "season": {
         "w": 0,
         "l": 2,
