@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T12:15:11Z",
+  "updated": "2026-05-23T11:07:39Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -14,12 +14,8 @@
     ],
     "1B": [
       {
-        "name": "Ben Rice",
-        "rank": 1
-      },
-      {
         "name": "Paul Goldschmidt",
-        "rank": 2
+        "rank": 1
       }
     ],
     "2B": [
@@ -36,7 +32,7 @@
     ],
     "SS": [
       {
-        "name": "Anthony Volpe",
+        "name": "Jose Caballero",
         "rank": 1
       }
     ],
@@ -60,7 +56,7 @@
     ],
     "DH": [
       {
-        "name": "Spencer G. Jones",
+        "name": "Ben Rice",
         "rank": 1
       },
       {
@@ -70,23 +66,23 @@
     ],
     "SP": [
       {
-        "name": "Cam Schlittler",
+        "name": "Gerrit Cole",
         "rank": 1
       },
       {
-        "name": "Carlos Rodon",
+        "name": "Ryan Weathers",
         "rank": 2
       },
       {
-        "name": "Ryan Weathers",
+        "name": "Will Warren",
         "rank": 3
       },
       {
-        "name": "Will Warren",
+        "name": "Cam Schlittler",
         "rank": 4
       },
       {
-        "name": "Gerrit Cole",
+        "name": "Carlos Rodon",
         "rank": 5
       },
       {
@@ -128,23 +124,18 @@
         "rank": 7
       },
       {
-        "name": "Yovanny Cruz",
+        "name": "Paul Blackburn",
         "rank": 8
       },
       {
-        "name": "Paul Blackburn",
-        "rank": 9
-      },
-      {
         "name": "Angel Chivilli",
-        "rank": 10
+        "rank": 9
       }
     ]
   },
   "all_players": [
     "Aaron Judge",
     "Angel Chivilli",
-    "Anthony Volpe",
     "Austin Wells",
     "Ben Rice",
     "Brent Headrick",
@@ -160,16 +151,15 @@
     "J.C. Escarra",
     "Jake Bird",
     "Jazz Chisholm",
+    "Jose Caballero",
     "Max Fried",
     "Paul Blackburn",
     "Paul Goldschmidt",
     "Ryan McMahon",
     "Ryan Weathers",
     "Ryan Yarbrough",
-    "Spencer G. Jones",
     "Tim Hill",
     "Trent Grisham",
-    "Will Warren",
-    "Yovanny Cruz"
+    "Will Warren"
   ]
 }
