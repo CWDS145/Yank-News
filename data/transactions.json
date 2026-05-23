@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T12:01:08Z",
+  "updated": "2026-05-23T14:09:25Z",
   "count": 53,
   "items": [
     {
@@ -70,6 +70,12 @@
     },
     {
       "date": "2026-05-10",
+      "type": "",
+      "player": "Carlos Rodon",
+      "description": "Removed From 15-Day IL (Recovery from left elbow surgery)"
+    },
+    {
+      "date": "2026-05-10",
       "type": "recalled",
       "player": "Carlos Rodon",
       "description": "Recalled From Minors Rehab Assignment"
@@ -81,12 +87,6 @@
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-05-10",
-      "type": "",
-      "player": "Carlos Rodon",
-      "description": "Removed From 15-Day IL (Recovery from left elbow surgery)"
-    },
-    {
       "date": "2026-05-08",
       "type": "placed",
       "player": "Jasson Dominguez",
@@ -95,26 +95,26 @@
     {
       "date": "2026-05-08",
       "type": "called up",
-      "player": "Spencer Jones",
+      "player": "Kervin Castro",
       "description": "Called Up from Minors"
     },
     {
       "date": "2026-05-08",
       "type": "called up",
-      "player": "Kervin Castro",
+      "player": "Spencer Jones",
       "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-05-07",
-      "type": "purchased",
-      "player": "Brendan Beck",
-      "description": "Purchased From Minors"
     },
     {
       "date": "2026-05-07",
       "type": "sent",
       "player": "Brendan Beck",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-05-07",
+      "type": "purchased",
+      "player": "Brendan Beck",
+      "description": "Purchased From Minors"
     },
     {
       "date": "2026-05-06",
@@ -136,12 +136,6 @@
     },
     {
       "date": "2026-05-03",
-      "type": "sent",
-      "player": "Anthony Volpe",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-05-03",
       "type": "recalled",
       "player": "Anthony Volpe",
       "description": "Recalled From Minors Rehab Assignment"
@@ -151,6 +145,12 @@
       "type": "",
       "player": "Anthony Volpe",
       "description": "Removed From 10-Day IL (Recovery from left labrum surgery)"
+    },
+    {
+      "date": "2026-05-03",
+      "type": "sent",
+      "player": "Anthony Volpe",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-01",
@@ -220,15 +220,15 @@
     },
     {
       "date": "2026-04-22",
-      "type": "called up",
-      "player": "Jacob Bird",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-04-22",
       "type": "placed",
       "player": "Ryan Weathers",
       "description": "Placed on Paternity Leave List"
+    },
+    {
+      "date": "2026-04-22",
+      "type": "called up",
+      "player": "Jacob Bird",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-04-17",
