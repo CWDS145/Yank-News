@@ -1,22 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-05-22T17:54:36Z",
-      "source": "MLB.com Yankees",
-      "url": "https://www.mlb.com/yankees/feeds/news/rss.xml",
-      "status": 200,
-      "items": 25,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-05-22T17:54:36Z",
-      "source": "Pinstripe Alley",
-      "url": "https://www.pinstripealley.com/rss/current.xml",
-      "status": 200,
-      "items": 10,
-      "note": "ok"
-    },
-    {
       "timestamp": "2026-05-22T17:54:37Z",
       "source": "NY Post Yankees",
       "url": "https://nypost.com/tag/new-york-yankees/feed/",
@@ -3999,6 +3983,22 @@
       "status": 200,
       "items": 53,
       "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-23T15:02:02Z",
+      "source": "FanGraphs Yankees",
+      "url": "https://www.fangraphs.com/teams/yankees",
+      "status": 0,
+      "items": 0,
+      "note": "skipped_23h_gate"
+    },
+    {
+      "timestamp": "2026-05-23T15:02:02Z",
+      "source": "Baseball-Reference Yankees",
+      "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
+      "status": 0,
+      "items": 0,
+      "note": "skipped_23h_gate"
     }
   ]
 }
