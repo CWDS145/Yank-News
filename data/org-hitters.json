@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T11:49:18Z",
+  "updated": "2026-05-23T14:04:35Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-05-13",
@@ -1293,6 +1293,28 @@
       ]
     },
     {
+      "id": 814269,
+      "name": "Kevin Verde",
+      "position": "SS",
+      "level": "AA",
+      "level_since": "2026-05-23",
+      "prior_level": "Low-A",
+      "prior_level_since": "2026-04-03",
+      "season": {
+        "ab": 33,
+        "k": 12,
+        "avg": ".152",
+        "ops": ".495",
+        "avg_num": 0.15151515151515152,
+        "ops_num": 0.4949494949494949
+      },
+      "last_10": null,
+      "season_levels": [
+        "Low-A"
+      ],
+      "last_10_levels": []
+    },
+    {
       "id": 823918,
       "name": "Kyle West",
       "position": "3B",
@@ -1353,6 +1375,19 @@
       "last_10_levels": [
         "Low-A"
       ]
+    },
+    {
+      "id": 806884,
+      "name": "Luis Escudero",
+      "position": "2B",
+      "level": "Low-A",
+      "level_since": "2026-05-23",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "last_10": null,
+      "season_levels": [],
+      "last_10_levels": []
     },
     {
       "id": 809772,
