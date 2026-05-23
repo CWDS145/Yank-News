@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T18:46:34Z",
+  "updated": "2026-05-23T19:55:27Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-05-13",
@@ -484,38 +484,6 @@
       ],
       "last_10_levels": [
         "AAA"
-      ]
-    },
-    {
-      "id": 804603,
-      "name": "Duncan Pastore",
-      "position": "3B",
-      "level": "AA",
-      "level_since": "2026-05-04",
-      "prior_level": "AAA",
-      "prior_level_since": "2026-04-28",
-      "season": {
-        "ab": 35,
-        "k": 9,
-        "avg": ".286",
-        "ops": ".746",
-        "avg_num": 0.2857142857142857,
-        "ops_num": 0.7464285714285714
-      },
-      "last_10": {
-        "ab": 14,
-        "k": 0,
-        "avg": ".357",
-        "ops": ".899",
-        "avg_num": 0.35714285714285715,
-        "ops_num": 0.8991596638655461
-      },
-      "season_levels": [
-        "AAA",
-        "AA"
-      ],
-      "last_10_levels": [
-        "AA"
       ]
     },
     {
@@ -1704,10 +1672,10 @@
       "id": 801726,
       "name": "Santiago Gomez",
       "position": "SS",
-      "level": "Low-A",
-      "level_since": "2026-04-03",
-      "prior_level": null,
-      "prior_level_since": null,
+      "level": "AA",
+      "level_since": "2026-05-23",
+      "prior_level": "Low-A",
+      "prior_level_since": "2026-04-03",
       "season": {
         "ab": 63,
         "k": 14,
@@ -1829,8 +1797,8 @@
       "id": 676205,
       "name": "Tyler Hardman",
       "position": "1B",
-      "level": "AA",
-      "level_since": null,
+      "level": "AAA",
+      "level_since": "2026-05-23",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
