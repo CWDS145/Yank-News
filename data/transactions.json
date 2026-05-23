@@ -1,7 +1,19 @@
 {
-  "updated": "2026-05-23T20:07:31Z",
-  "count": 53,
+  "updated": "2026-05-23T21:27:10Z",
+  "count": 54,
   "items": [
+    {
+      "date": "2026-05-23",
+      "type": "signed",
+      "player": "Peter Strzelecki",
+      "description": "Signed to a Minor League Contract"
+    },
+    {
+      "date": "2026-05-22",
+      "type": "",
+      "player": "Jose Caballero",
+      "description": "Removed From 10-Day IL (Right middle finger fracture)"
+    },
     {
       "date": "2026-05-22",
       "type": "",
@@ -15,27 +27,15 @@
       "description": "Recalled From Minors Rehab Assignment"
     },
     {
-      "date": "2026-05-22",
-      "type": "",
-      "player": "Jose Caballero",
-      "description": "Removed From 10-Day IL (Right middle finger fracture)"
-    },
-    {
-      "date": "2026-05-21",
-      "type": "sent",
-      "player": "Yovanny Cruz",
-      "description": "Sent to Minors"
-    },
-    {
       "date": "2026-05-21",
       "type": "sent",
       "player": "Spencer Jones",
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-05-18",
+      "date": "2026-05-21",
       "type": "sent",
-      "player": "Elmer Rodriguez",
+      "player": "Yovanny Cruz",
       "description": "Sent to Minors"
     },
     {
@@ -45,16 +45,22 @@
       "description": "Purchased From Minors"
     },
     {
-      "date": "2026-05-16",
-      "type": "placed",
-      "player": "Max Fried",
-      "description": "Placed on 15-Day IL (Left elbow bone bruise)"
+      "date": "2026-05-18",
+      "type": "sent",
+      "player": "Elmer Rodriguez",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-16",
       "type": "called up",
       "player": "Elmer Rodriguez",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-05-16",
+      "type": "placed",
+      "player": "Max Fried",
+      "description": "Placed on 15-Day IL (Left elbow bone bruise)"
     },
     {
       "date": "2026-05-12",
@@ -76,27 +82,27 @@
     },
     {
       "date": "2026-05-10",
-      "type": "",
-      "player": "Carlos Rodon",
-      "description": "Removed From 15-Day IL (Recovery from left elbow surgery)"
-    },
-    {
-      "date": "2026-05-10",
       "type": "sent",
       "player": "Kervin Castro",
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-05-08",
-      "type": "called up",
-      "player": "Spencer Jones",
-      "description": "Called Up from Minors"
+      "date": "2026-05-10",
+      "type": "",
+      "player": "Carlos Rodon",
+      "description": "Removed From 15-Day IL (Recovery from left elbow surgery)"
     },
     {
       "date": "2026-05-08",
       "type": "placed",
       "player": "Jasson Dominguez",
       "description": "Placed on 10-Day IL (Sprained left shoulder AC joint)"
+    },
+    {
+      "date": "2026-05-08",
+      "type": "called up",
+      "player": "Spencer Jones",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-05-08",
@@ -178,15 +184,15 @@
     },
     {
       "date": "2026-04-28",
-      "type": "called up",
-      "player": "Max Schuemann",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-04-28",
       "type": "placed",
       "player": "Giancarlo Stanton",
       "description": "Placed on 10-Day IL (Strained right calf)"
+    },
+    {
+      "date": "2026-04-28",
+      "type": "called up",
+      "player": "Max Schuemann",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-04-27",
@@ -274,21 +280,27 @@
     },
     {
       "date": "2026-04-10",
-      "type": "designated",
-      "player": "Cade Winquest",
-      "description": "Designated for Assignment"
-    },
-    {
-      "date": "2026-04-10",
       "type": "called up",
       "player": "Luis Gil",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-04-10",
+      "type": "designated",
+      "player": "Cade Winquest",
+      "description": "Designated for Assignment"
     },
     {
       "date": "2026-03-27",
       "type": "signed",
       "player": "Luis Garcia",
       "description": "Signed to a Minor League Contract"
+    },
+    {
+      "date": "2026-03-25",
+      "type": "placed",
+      "player": "Carlos Rodon",
+      "description": "Placed on 15-Day IL (Recovery from left elbow surgery)"
     },
     {
       "date": "2026-03-25",
@@ -299,20 +311,14 @@
     {
       "date": "2026-03-25",
       "type": "placed",
-      "player": "Carlos Rodon",
-      "description": "Placed on 15-Day IL (Recovery from left elbow surgery)"
+      "player": "Gerrit Cole",
+      "description": "Placed on 15-Day IL (Recovery from right elbow surgery)"
     },
     {
       "date": "2026-03-25",
       "type": "placed",
       "player": "Anthony Volpe",
       "description": "Placed on 10-Day IL (Recovery from left labrum surgery)"
-    },
-    {
-      "date": "2026-03-25",
-      "type": "placed",
-      "player": "Gerrit Cole",
-      "description": "Placed on 15-Day IL (Recovery from right elbow surgery)"
     },
     {
       "date": "2026-03-24",
