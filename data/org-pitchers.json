@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T09:00:49Z",
+  "updated": "2026-05-23T10:48:18Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1811,7 +1811,7 @@
       "name": "Jose Martinez",
       "position": "P",
       "level": "Low-A",
-      "level_since": null,
+      "level_since": "2026-04-07",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
