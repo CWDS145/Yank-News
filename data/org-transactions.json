@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T23:13:37Z",
+  "updated": "2026-05-24T00:14:26Z",
   "items": [
     {
       "id": 911252,
@@ -624,45 +624,6 @@
       "from": "New York Yankees",
       "to": "High-A Hudson Valley Renegades",
       "description": "New York Yankees sent LHP Carlos Rodón on a rehab assignment to Hudson Valley Renegades."
-    },
-    {
-      "id": 902540,
-      "date": "2026-04-23",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 543037,
-      "player": "Gerrit Cole",
-      "from_team_id": 147,
-      "to_team_id": 537,
-      "from": "New York Yankees",
-      "to": "High-A Hudson Valley Renegades",
-      "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Hudson Valley Renegades."
-    },
-    {
-      "id": 902542,
-      "date": "2026-04-23",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 543037,
-      "player": "Gerrit Cole",
-      "from_team_id": 147,
-      "to_team_id": 537,
-      "from": "New York Yankees",
-      "to": "High-A Hudson Valley Renegades",
-      "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Hudson Valley Renegades."
-    },
-    {
-      "id": 904028,
-      "date": "2026-04-23",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 543037,
-      "player": "Gerrit Cole",
-      "from_team_id": 147,
-      "to_team_id": 537,
-      "from": "New York Yankees",
-      "to": "High-A Hudson Valley Renegades",
-      "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Hudson Valley Renegades."
     }
   ]
 }
