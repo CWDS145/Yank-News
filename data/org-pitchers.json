@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T16:58:43Z",
+  "updated": "2026-05-25T18:58:19Z",
   "season": 2026,
   "pitchers": [
     {
@@ -2626,10 +2626,10 @@
       "id": 703748,
       "name": "Tanner Bauman",
       "position": "P",
-      "level": "AA",
-      "level_since": "2026-05-21",
-      "prior_level": "High-A",
-      "prior_level_since": "2026-03-30",
+      "level": "High-A",
+      "level_since": "2026-05-25",
+      "prior_level": "AA",
+      "prior_level_since": "2026-05-21",
       "season": {
         "w": 2,
         "l": 0,
