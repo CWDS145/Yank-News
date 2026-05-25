@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T23:46:00Z",
+  "updated": "2026-05-25T01:56:06Z",
   "items": [
     {
       "id": 911252,
@@ -611,19 +611,6 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees activated LHP Ryan Weathers from the paternity list."
-    },
-    {
-      "id": 902783,
-      "date": "2026-04-24",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 607074,
-      "player": "Carlos Rodón",
-      "from_team_id": 147,
-      "to_team_id": 537,
-      "from": "New York Yankees",
-      "to": "High-A Hudson Valley Renegades",
-      "description": "New York Yankees sent LHP Carlos Rodón on a rehab assignment to Hudson Valley Renegades."
     }
   ]
 }
