@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-24T22:34:35Z",
-  "count": 65,
+  "updated": "2026-05-25T00:02:14Z",
+  "count": 66,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-05-24T22:34:35Z",
+      "published": "2026-05-25T00:02:14Z",
+      "image": null
+    },
+    {
+      "title": "Judge ends HR drought with maximum drama: A walk-off shot vs. Rays",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Bryan Hoch",
+      "link": "https://www.mlb.com/yankees/news/aaron-judge-hits-walk-off-home-run-against-rays",
+      "published": "2026-05-24T23:16:00Z",
       "image": null
     },
     {
@@ -48,12 +57,12 @@
       "image": null
     },
     {
-      "title": "Perfect timing! Judge snaps homerless streak with walk-off blast vs. Rays",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch",
-      "link": "https://www.mlb.com/yankees/news/aaron-judge-hits-walk-off-home-run-against-rays",
-      "published": "2026-05-24T20:12:00Z",
+      "title": "Judge halts homer drought with walk-off vs. Rays",
+      "summary": "The Yankees' Aaron Judge ended a career-worst 11-game streak with no RBIs by hitting a two-run homer.",
+      "source": "ESPN MLB",
+      "author": null,
+      "link": "https://www.espn.com/mlb/story/_/id/48864718/yankees-aaron-judge-ends-homerless-drought-walk-vs-rays",
+      "published": "2026-05-24T19:21:01Z",
       "image": null
     },
     {
