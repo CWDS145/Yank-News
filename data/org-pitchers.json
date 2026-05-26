@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T23:26:14Z",
+  "updated": "2026-05-26T01:34:49Z",
   "season": 2026,
   "pitchers": [
     {
@@ -157,7 +157,7 @@
       "name": "Angel Chivilli",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-04-25",
+      "level_since": "2026-04-15",
       "prior_level": "AAA",
       "prior_level_since": "2026-03-19",
       "season": {
@@ -2516,7 +2516,7 @@
       "name": "Ryan Weathers",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-04-25",
+      "level_since": "2026-01-13",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
