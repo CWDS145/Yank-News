@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T13:42:06Z",
+  "updated": "2026-05-26T17:03:28Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-05-16",
@@ -161,6 +161,28 @@
       "last_10_levels": [
         "MLB"
       ]
+    },
+    {
+      "id": 809719,
+      "name": "Austin Green",
+      "position": "SS",
+      "level": "Low-A",
+      "level_since": "2026-05-01",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 36,
+        "k": 2,
+        "avg": ".222",
+        "ops": ".619",
+        "avg_num": 0.2222222222222222,
+        "ops_num": 0.6186868686868687
+      },
+      "last_10": null,
+      "season_levels": [
+        "Low-A"
+      ],
+      "last_10_levels": []
     },
     {
       "id": 669224,
