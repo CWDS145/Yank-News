@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T22:23:01Z",
+  "updated": "2026-05-26T23:41:12Z",
   "count": 49,
   "items": [
     {
@@ -161,20 +161,14 @@
     {
       "date": "2026-05-01",
       "type": "",
-      "player": "Paul DeJong",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-05-01",
-      "type": "",
       "player": "Randal Grichuk",
       "description": "Refused Minor League Assignment - Free Agent"
     },
     {
-      "date": "2026-04-29",
-      "type": "designated",
-      "player": "Randal Grichuk",
-      "description": "Designated for Assignment"
+      "date": "2026-05-01",
+      "type": "",
+      "player": "Paul DeJong",
+      "description": "Declared Free Agency"
     },
     {
       "date": "2026-04-29",
@@ -183,16 +177,22 @@
       "description": "Called Up from Minors"
     },
     {
-      "date": "2026-04-28",
-      "type": "placed",
-      "player": "Giancarlo Stanton",
-      "description": "Placed on 10-Day IL (Strained right calf)"
+      "date": "2026-04-29",
+      "type": "designated",
+      "player": "Randal Grichuk",
+      "description": "Designated for Assignment"
     },
     {
       "date": "2026-04-28",
       "type": "called up",
       "player": "Max Schuemann",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-04-28",
+      "type": "placed",
+      "player": "Giancarlo Stanton",
+      "description": "Placed on 10-Day IL (Strained right calf)"
     },
     {
       "date": "2026-04-27",
