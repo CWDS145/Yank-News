@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T17:03:28Z",
+  "updated": "2026-05-26T19:30:41Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-05-16",
@@ -803,37 +803,6 @@
       "last_10_levels": []
     },
     {
-      "id": 801307,
-      "name": "Gregory Bozzo",
-      "position": "C",
-      "level": "Low-A",
-      "level_since": "2026-04-03",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 12,
-        "k": 5,
-        "avg": ".250",
-        "ops": ".833",
-        "avg_num": 0.25,
-        "ops_num": 0.8333333333333334
-      },
-      "last_10": {
-        "ab": 4,
-        "k": 2,
-        "avg": ".000",
-        "ops": ".000",
-        "avg_num": 0.0,
-        "ops_num": 0.0
-      },
-      "season_levels": [
-        "Low-A"
-      ],
-      "last_10_levels": [
-        "Low-A"
-      ]
-    },
-    {
       "id": 694215,
       "name": "Hans Montero",
       "position": "3B",
@@ -1022,18 +991,18 @@
       "season": {
         "ab": 190,
         "k": 61,
-        "avg": ".247",
-        "ops": ".713",
-        "avg_num": 0.24736842105263157,
-        "ops_num": 0.7134173461823573
+        "avg": ".242",
+        "ops": ".703",
+        "avg_num": 0.24210526315789474,
+        "ops_num": 0.7034593526068693
       },
       "last_10": {
         "ab": 33,
         "k": 11,
-        "avg": ".394",
-        "ops": "1.066",
-        "avg_num": 0.3939393939393939,
-        "ops_num": 1.0655200655200656
+        "avg": ".364",
+        "ops": "1.008",
+        "avg_num": 0.36363636363636365,
+        "ops_num": 1.0081900081900081
       },
       "season_levels": [
         "MLB"
