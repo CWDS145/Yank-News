@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T08:33:31Z",
+  "updated": "2026-05-26T16:25:29Z",
   "count": 49,
   "items": [
     {
@@ -7,6 +7,12 @@
       "type": "signed",
       "player": "Peter Strzelecki",
       "description": "Signed to a Minor League Contract"
+    },
+    {
+      "date": "2026-05-22",
+      "type": "recalled",
+      "player": "Gerrit Cole",
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-05-22",
@@ -19,12 +25,6 @@
       "type": "",
       "player": "Gerrit Cole",
       "description": "Removed From 15-Day IL (Recovery from right elbow surgery)"
-    },
-    {
-      "date": "2026-05-22",
-      "type": "recalled",
-      "player": "Gerrit Cole",
-      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-05-21",
@@ -64,15 +64,15 @@
     },
     {
       "date": "2026-05-12",
-      "type": "placed",
-      "player": "Jose Caballero",
-      "description": "Placed on 10-Day IL (Right middle finger fracture)"
-    },
-    {
-      "date": "2026-05-12",
       "type": "called up",
       "player": "Anthony Volpe",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-05-12",
+      "type": "placed",
+      "player": "Jose Caballero",
+      "description": "Placed on 10-Day IL (Right middle finger fracture)"
     },
     {
       "date": "2026-05-10",
@@ -208,15 +208,15 @@
     },
     {
       "date": "2026-04-25",
-      "type": "placed",
-      "player": "Angel Chivilli",
-      "description": "Placed on 15-Day IL (Right shoulder discomfort)"
-    },
-    {
-      "date": "2026-04-25",
       "type": "reinstated",
       "player": "Ryan Weathers",
       "description": "Reinstated from Paternity Leave List"
+    },
+    {
+      "date": "2026-04-25",
+      "type": "placed",
+      "player": "Angel Chivilli",
+      "description": "Placed on 15-Day IL (Right shoulder discomfort)"
     },
     {
       "date": "2026-04-24",
