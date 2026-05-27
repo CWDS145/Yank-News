@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T12:34:22Z",
+  "updated": "2026-05-27T16:29:58Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-05-17",
@@ -414,10 +414,10 @@
       "id": 821296,
       "name": "Connor McGinnis",
       "position": "SS",
-      "level": "AA",
-      "level_since": "2026-05-12",
-      "prior_level": null,
-      "prior_level_since": null,
+      "level": "High-A",
+      "level_since": "2026-05-27",
+      "prior_level": "AA",
+      "prior_level_since": "2026-05-12",
       "season": {
         "ab": 80,
         "k": 28,
@@ -441,19 +441,6 @@
       "last_10_levels": [
         "AA"
       ]
-    },
-    {
-      "id": 800299,
-      "name": "Diomedes Hernandez",
-      "position": "C",
-      "level": "High-A",
-      "level_since": "2026-05-01",
-      "prior_level": "AA",
-      "prior_level_since": "2026-04-12",
-      "season": null,
-      "last_10": null,
-      "season_levels": [],
-      "last_10_levels": []
     },
     {
       "id": 687554,
@@ -1520,6 +1507,28 @@
       ]
     },
     {
+      "id": 657051,
+      "name": "Nicholas Torres",
+      "position": "OF",
+      "level": "AA",
+      "level_since": "2026-04-18",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 30,
+        "k": 7,
+        "avg": ".467",
+        "ops": "1.148",
+        "avg_num": 0.4666666666666667,
+        "ops_num": 1.1484848484848484
+      },
+      "last_10": null,
+      "season_levels": [
+        "AA"
+      ],
+      "last_10_levels": []
+    },
+    {
       "id": 665828,
       "name": "Oswaldo Cabrera",
       "position": "3B",
@@ -1736,37 +1745,6 @@
       "last_10_levels": [
         "AA",
         "Low-A"
-      ]
-    },
-    {
-      "id": 664913,
-      "name": "Seth Brown",
-      "position": "LF",
-      "level": "AAA",
-      "level_since": "2026-04-02",
-      "prior_level": "AA",
-      "prior_level_since": "2026-03-27",
-      "season": {
-        "ab": 140,
-        "k": 51,
-        "avg": ".243",
-        "ops": ".782",
-        "avg_num": 0.24285714285714285,
-        "ops_num": 0.7819836214740673
-      },
-      "last_10": {
-        "ab": 25,
-        "k": 9,
-        "avg": ".320",
-        "ops": "1.033",
-        "avg_num": 0.32,
-        "ops_num": 1.032857142857143
-      },
-      "season_levels": [
-        "AAA"
-      ],
-      "last_10_levels": [
-        "AAA"
       ]
     },
     {
