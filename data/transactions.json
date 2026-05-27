@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T20:35:39Z",
+  "updated": "2026-05-27T22:42:37Z",
   "count": 48,
   "items": [
     {
@@ -76,9 +76,9 @@
     },
     {
       "date": "2026-05-10",
-      "type": "recalled",
-      "player": "Carlos Rodon",
-      "description": "Recalled From Minors Rehab Assignment"
+      "type": "sent",
+      "player": "Kervin Castro",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-10",
@@ -88,9 +88,9 @@
     },
     {
       "date": "2026-05-10",
-      "type": "sent",
-      "player": "Kervin Castro",
-      "description": "Sent to Minors"
+      "type": "recalled",
+      "player": "Carlos Rodon",
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-05-08",
@@ -161,14 +161,14 @@
     {
       "date": "2026-05-01",
       "type": "",
-      "player": "Randal Grichuk",
-      "description": "Refused Minor League Assignment - Free Agent"
+      "player": "Paul DeJong",
+      "description": "Declared Free Agency"
     },
     {
       "date": "2026-05-01",
       "type": "",
-      "player": "Paul DeJong",
-      "description": "Declared Free Agency"
+      "player": "Randal Grichuk",
+      "description": "Refused Minor League Assignment - Free Agent"
     },
     {
       "date": "2026-04-29",
@@ -208,15 +208,15 @@
     },
     {
       "date": "2026-04-25",
-      "type": "placed",
-      "player": "Angel Chivilli",
-      "description": "Placed on 15-Day IL (Right shoulder discomfort)"
-    },
-    {
-      "date": "2026-04-25",
       "type": "reinstated",
       "player": "Ryan Weathers",
       "description": "Reinstated from Paternity Leave List"
+    },
+    {
+      "date": "2026-04-25",
+      "type": "placed",
+      "player": "Angel Chivilli",
+      "description": "Placed on 15-Day IL (Right shoulder discomfort)"
     },
     {
       "date": "2026-04-24",
