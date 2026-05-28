@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T22:57:10Z",
+  "updated": "2026-05-28T00:19:50Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1258,27 +1258,27 @@
       "season": {
         "w": 0,
         "l": 2,
-        "g": 7,
-        "gs": 7,
+        "g": 8,
+        "gs": 8,
         "cg": 0,
         "sho": 0,
         "sv": 0,
         "svo": 0,
-        "ip": "35.0",
-        "ip_outs": 105,
+        "ip": "37.1",
+        "ip_outs": 112,
         "h": 30,
         "r": 17,
         "er": 15,
         "hr": 6,
         "hb": 1,
         "bb": 6,
-        "so": 30,
-        "era": "3.86",
-        "era_num": 3.857142857142857,
-        "whip": "1.03",
-        "whip_num": 1.0285714285714285,
-        "avg": ".231",
-        "avg_num": 0.23076923076923078
+        "so": 35,
+        "era": "3.62",
+        "era_num": 3.6160714285714284,
+        "whip": "0.96",
+        "whip_num": 0.9642857142857143,
+        "avg": ".219",
+        "avg_num": 0.21897810218978103
       },
       "season_levels": [
         "MLB",
@@ -1999,7 +1999,7 @@
       "name": "Luis Gil",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-04-27",
+      "level_since": "2026-04-10",
       "prior_level": "AAA",
       "prior_level_since": "2026-03-25",
       "season": {
