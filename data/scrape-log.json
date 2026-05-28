@@ -2,14 +2,6 @@
   "entries": [
     {
       "timestamp": "2026-05-27T05:04:13Z",
-      "source": "MLB MiLB: TAM roster",
-      "url": "https://statsapi.mlb.com/api/v1/teams/587/roster?rosterType=active&season=2026",
-      "status": 200,
-      "items": 30,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-05-27T05:04:13Z",
       "source": "MLB MiLB: TAM team stats",
       "url": "https://statsapi.mlb.com/api/v1/teams/stats?season=2026&stats=season&group=hitting&teamId=587&sportId=14",
       "status": 200,
@@ -3998,6 +3990,14 @@
       "url": "https://www.cbssports.com/mlb/teams/NYY/new-york-yankees/transactions/",
       "status": 200,
       "items": 48,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-05-28T13:44:37Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 27,
       "note": "ok"
     }
   ]
