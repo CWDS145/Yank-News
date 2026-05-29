@@ -2,22 +2,6 @@
   "entries": [
     {
       "timestamp": "2026-05-28T08:35:50Z",
-      "source": "MLB season pitching: AAA",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
-      "status": 200,
-      "items": 85,
-      "note": "ok=85/85"
-    },
-    {
-      "timestamp": "2026-05-28T08:35:50Z",
-      "source": "MLB season pitching: AA",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
-      "status": 200,
-      "items": 85,
-      "note": "ok=85/85"
-    },
-    {
-      "timestamp": "2026-05-28T08:35:50Z",
       "source": "MLB season pitching: High-A",
       "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
       "status": 200,
@@ -3999,6 +3983,22 @@
       "status": 200,
       "items": 79,
       "note": "pitchers needing prior_level fallback"
+    },
+    {
+      "timestamp": "2026-05-29T17:34:41Z",
+      "source": "FanGraphs Yankees",
+      "url": "https://www.fangraphs.com/teams/yankees",
+      "status": 200,
+      "items": 59,
+      "note": "ok | html_tables: batter_rows=40 pitcher_rows=23"
+    },
+    {
+      "timestamp": "2026-05-29T17:34:42Z",
+      "source": "Baseball-Reference Yankees",
+      "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
+      "status": 200,
+      "items": 39,
+      "note": "ok | tables: bat_id=players_standard_batting pit_id=players_standard_pitching batters=18 pitchers=21"
     }
   ]
 }
