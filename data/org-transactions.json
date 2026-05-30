@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T23:01:39Z",
+  "updated": "2026-05-30T00:20:25Z",
   "items": [
     {
       "id": 912368,
@@ -468,58 +468,6 @@
       "from": "New York Yankees",
       "to": "AA Somerset Patriots",
       "description": "New York Yankees sent LHP Carlos Rodón on a rehab assignment to Somerset Patriots."
-    },
-    {
-      "id": 904040,
-      "date": "2026-04-29",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 543037,
-      "player": "Gerrit Cole",
-      "from_team_id": 147,
-      "to_team_id": 1956,
-      "from": "New York Yankees",
-      "to": "AA Somerset Patriots",
-      "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Somerset Patriots."
-    },
-    {
-      "id": 903903,
-      "date": "2026-04-29",
-      "type_code": "DES",
-      "type_desc": "Designated for Assignment",
-      "player_id": 545341,
-      "player": "Randal Grichuk",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees designated LF Randal Grichuk for assignment."
-    },
-    {
-      "id": 904029,
-      "date": "2026-04-29",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 543037,
-      "player": "Gerrit Cole",
-      "from_team_id": 147,
-      "to_team_id": 1956,
-      "from": "New York Yankees",
-      "to": "AA Somerset Patriots",
-      "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Somerset Patriots."
-    },
-    {
-      "id": 903902,
-      "date": "2026-04-29",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 695684,
-      "player": "Elmer Rodríguez",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Elmer Rodríguez from Scranton/Wilkes-Barre RailRiders."
     }
   ]
 }
