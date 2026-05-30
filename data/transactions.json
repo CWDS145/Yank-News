@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T23:49:40Z",
+  "updated": "2026-05-30T03:40:43Z",
   "count": 48,
   "items": [
     {
@@ -29,13 +29,13 @@
     {
       "date": "2026-05-21",
       "type": "sent",
-      "player": "Yovanny Cruz",
+      "player": "Spencer Jones",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-05-21",
       "type": "sent",
-      "player": "Spencer Jones",
+      "player": "Yovanny Cruz",
       "description": "Sent to Minors"
     },
     {
@@ -208,15 +208,15 @@
     },
     {
       "date": "2026-04-25",
-      "type": "reinstated",
-      "player": "Ryan Weathers",
-      "description": "Reinstated from Paternity Leave List"
-    },
-    {
-      "date": "2026-04-25",
       "type": "placed",
       "player": "Angel Chivilli",
       "description": "Placed on 15-Day IL (Right shoulder discomfort)"
+    },
+    {
+      "date": "2026-04-25",
+      "type": "reinstated",
+      "player": "Ryan Weathers",
+      "description": "Reinstated from Paternity Leave List"
     },
     {
       "date": "2026-04-24",
