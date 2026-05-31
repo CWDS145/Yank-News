@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T09:32:36Z",
+  "updated": "2026-05-31T11:42:02Z",
   "count": 49,
   "items": [
     {
@@ -35,13 +35,13 @@
     {
       "date": "2026-05-21",
       "type": "sent",
-      "player": "Yovanny Cruz",
+      "player": "Spencer Jones",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-05-21",
       "type": "sent",
-      "player": "Spencer Jones",
+      "player": "Yovanny Cruz",
       "description": "Sent to Minors"
     },
     {
@@ -190,15 +190,15 @@
     },
     {
       "date": "2026-04-28",
-      "type": "placed",
-      "player": "Giancarlo Stanton",
-      "description": "Placed on 10-Day IL (Strained right calf)"
-    },
-    {
-      "date": "2026-04-28",
       "type": "called up",
       "player": "Max Schuemann",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-04-28",
+      "type": "placed",
+      "player": "Giancarlo Stanton",
+      "description": "Placed on 10-Day IL (Strained right calf)"
     },
     {
       "date": "2026-04-27",
@@ -214,15 +214,15 @@
     },
     {
       "date": "2026-04-25",
-      "type": "placed",
-      "player": "Angel Chivilli",
-      "description": "Placed on 15-Day IL (Right shoulder discomfort)"
-    },
-    {
-      "date": "2026-04-25",
       "type": "reinstated",
       "player": "Ryan Weathers",
       "description": "Reinstated from Paternity Leave List"
+    },
+    {
+      "date": "2026-04-25",
+      "type": "placed",
+      "player": "Angel Chivilli",
+      "description": "Placed on 15-Day IL (Right shoulder discomfort)"
     },
     {
       "date": "2026-04-24",
@@ -232,15 +232,15 @@
     },
     {
       "date": "2026-04-22",
-      "type": "placed",
-      "player": "Ryan Weathers",
-      "description": "Placed on Paternity Leave List"
-    },
-    {
-      "date": "2026-04-22",
       "type": "called up",
       "player": "Jacob Bird",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-04-22",
+      "type": "placed",
+      "player": "Ryan Weathers",
+      "description": "Placed on Paternity Leave List"
     },
     {
       "date": "2026-04-17",
@@ -274,15 +274,15 @@
     },
     {
       "date": "2026-04-13",
-      "type": "",
-      "player": "Cade Winquest",
-      "description": "Drafted Player Returned to Minors"
-    },
-    {
-      "date": "2026-04-13",
       "type": "sent",
       "player": "Jacob Bird",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-04-13",
+      "type": "",
+      "player": "Cade Winquest",
+      "description": "Drafted Player Returned to Minors"
     },
     {
       "date": "2026-04-10",
