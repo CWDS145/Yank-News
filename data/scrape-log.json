@@ -2,14 +2,6 @@
   "entries": [
     {
       "timestamp": "2026-05-30T15:51:23Z",
-      "source": "Baseball Savant: sprint_speed",
-      "url": "https://baseballsavant.mlb.com/sprint_speed_leaderboard?year=2026&team=147&min_year=2026&min_opp=10&min_pa=10&csv=true",
-      "status": 200,
-      "items": 15,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-05-30T15:51:23Z",
       "source": "MLB MiLB: affiliates",
       "url": "https://statsapi.mlb.com/api/v1/teams/affiliates?teamIds=147&season=2026",
       "status": 200,
@@ -3999,6 +3991,14 @@
       "status": 200,
       "items": 78,
       "note": "pitchers needing prior_level fallback"
+    },
+    {
+      "timestamp": "2026-05-31T11:39:38Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 27,
+      "note": "ok"
     }
   ]
 }
