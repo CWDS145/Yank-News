@@ -1,18 +1,18 @@
 {
-  "updated": "2026-05-31T01:34:27Z",
-  "count": 48,
+  "updated": "2026-05-31T06:22:12Z",
+  "count": 49,
   "items": [
+    {
+      "date": "2026-05-30",
+      "type": "placed",
+      "player": "Amed Rosario",
+      "description": "Placed on Paternity Leave List"
+    },
     {
       "date": "2026-05-23",
       "type": "signed",
       "player": "Peter Strzelecki",
       "description": "Signed to a Minor League Contract"
-    },
-    {
-      "date": "2026-05-22",
-      "type": "",
-      "player": "Jose Caballero",
-      "description": "Removed From 10-Day IL (Right middle finger fracture)"
     },
     {
       "date": "2026-05-22",
@@ -27,15 +27,21 @@
       "description": "Recalled From Minors Rehab Assignment"
     },
     {
-      "date": "2026-05-21",
-      "type": "sent",
-      "player": "Yovanny Cruz",
-      "description": "Sent to Minors"
+      "date": "2026-05-22",
+      "type": "",
+      "player": "Jose Caballero",
+      "description": "Removed From 10-Day IL (Right middle finger fracture)"
     },
     {
       "date": "2026-05-21",
       "type": "sent",
       "player": "Spencer Jones",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-05-21",
+      "type": "sent",
+      "player": "Yovanny Cruz",
       "description": "Sent to Minors"
     },
     {
@@ -52,20 +58,14 @@
     },
     {
       "date": "2026-05-16",
-      "type": "called up",
-      "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-05-16",
       "type": "placed",
       "player": "Max Fried",
       "description": "Placed on 15-Day IL (Left elbow bone bruise)"
     },
     {
-      "date": "2026-05-12",
+      "date": "2026-05-16",
       "type": "called up",
-      "player": "Anthony Volpe",
+      "player": "Elmer Rodriguez",
       "description": "Called Up from Minors"
     },
     {
@@ -75,10 +75,16 @@
       "description": "Placed on 10-Day IL (Right middle finger fracture)"
     },
     {
+      "date": "2026-05-12",
+      "type": "called up",
+      "player": "Anthony Volpe",
+      "description": "Called Up from Minors"
+    },
+    {
       "date": "2026-05-10",
-      "type": "recalled",
-      "player": "Carlos Rodon",
-      "description": "Recalled From Minors Rehab Assignment"
+      "type": "sent",
+      "player": "Kervin Castro",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-10",
@@ -88,9 +94,9 @@
     },
     {
       "date": "2026-05-10",
-      "type": "sent",
-      "player": "Kervin Castro",
-      "description": "Sent to Minors"
+      "type": "recalled",
+      "player": "Carlos Rodon",
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-05-08",
@@ -100,15 +106,15 @@
     },
     {
       "date": "2026-05-08",
-      "type": "placed",
-      "player": "Jasson Dominguez",
-      "description": "Placed on 10-Day IL (Sprained left shoulder AC joint)"
-    },
-    {
-      "date": "2026-05-08",
       "type": "called up",
       "player": "Kervin Castro",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-05-08",
+      "type": "placed",
+      "player": "Jasson Dominguez",
+      "description": "Placed on 10-Day IL (Sprained left shoulder AC joint)"
     },
     {
       "date": "2026-05-07",
@@ -148,21 +154,15 @@
     },
     {
       "date": "2026-05-03",
-      "type": "sent",
-      "player": "Anthony Volpe",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-05-03",
       "type": "recalled",
       "player": "Anthony Volpe",
       "description": "Recalled From Minors Rehab Assignment"
     },
     {
-      "date": "2026-05-01",
-      "type": "",
-      "player": "Randal Grichuk",
-      "description": "Refused Minor League Assignment - Free Agent"
+      "date": "2026-05-03",
+      "type": "sent",
+      "player": "Anthony Volpe",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-01",
@@ -171,10 +171,10 @@
       "description": "Declared Free Agency"
     },
     {
-      "date": "2026-04-29",
-      "type": "designated",
+      "date": "2026-05-01",
+      "type": "",
       "player": "Randal Grichuk",
-      "description": "Designated for Assignment"
+      "description": "Refused Minor League Assignment - Free Agent"
     },
     {
       "date": "2026-04-29",
@@ -183,16 +183,22 @@
       "description": "Called Up from Minors"
     },
     {
-      "date": "2026-04-28",
-      "type": "placed",
-      "player": "Giancarlo Stanton",
-      "description": "Placed on 10-Day IL (Strained right calf)"
+      "date": "2026-04-29",
+      "type": "designated",
+      "player": "Randal Grichuk",
+      "description": "Designated for Assignment"
     },
     {
       "date": "2026-04-28",
       "type": "called up",
       "player": "Max Schuemann",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-04-28",
+      "type": "placed",
+      "player": "Giancarlo Stanton",
+      "description": "Placed on 10-Day IL (Strained right calf)"
     },
     {
       "date": "2026-04-27",
@@ -256,14 +262,20 @@
     },
     {
       "date": "2026-04-14",
+      "type": "sent",
+      "player": "Yerry De Los Santos",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-04-14",
       "type": "called up",
       "player": "Yerry De Los Santos",
       "description": "Called Up from Minors"
     },
     {
-      "date": "2026-04-14",
+      "date": "2026-04-13",
       "type": "sent",
-      "player": "Yerry De Los Santos",
+      "player": "Jacob Bird",
       "description": "Sent to Minors"
     },
     {
@@ -271,12 +283,6 @@
       "type": "",
       "player": "Cade Winquest",
       "description": "Drafted Player Returned to Minors"
-    },
-    {
-      "date": "2026-04-13",
-      "type": "sent",
-      "player": "Jacob Bird",
-      "description": "Sent to Minors"
     },
     {
       "date": "2026-04-10",
