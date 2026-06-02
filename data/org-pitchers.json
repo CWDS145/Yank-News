@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T17:56:06Z",
+  "updated": "2026-06-02T21:30:21Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1939,7 +1939,7 @@
         "svo": 0,
         "ip": "45.0",
         "ip_outs": 135,
-        "h": 42,
+        "h": 43,
         "r": 25,
         "er": 22,
         "hr": 4,
@@ -1948,10 +1948,10 @@
         "so": 55,
         "era": "4.40",
         "era_num": 4.4,
-        "whip": "1.36",
-        "whip_num": 1.3555555555555556,
-        "avg": ".241",
-        "avg_num": 0.2413793103448276
+        "whip": "1.38",
+        "whip_num": 1.3777777777777778,
+        "avg": ".246",
+        "avg_num": 0.24571428571428572
       },
       "season_levels": [
         "AA"
@@ -2031,6 +2031,17 @@
       "season_levels": [
         "High-A"
       ]
+    },
+    {
+      "id": 686433,
+      "name": "Luis Velasquez",
+      "position": "P",
+      "level": "Low-A",
+      "level_since": "2026-06-02",
+      "prior_level": "AA",
+      "prior_level_since": "2026-03-17",
+      "season": null,
+      "season_levels": []
     },
     {
       "id": 806121,
