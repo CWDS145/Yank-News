@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T04:59:51Z",
+  "updated": "2026-06-02T09:17:39Z",
   "season": 2026,
   "players": [
     {
@@ -457,7 +457,7 @@
       },
       "sprint_speed": {
         "sprint_speed": 24.7,
-        "hp_to_1b": 4.88,
+        "hp_to_1b": 4.87,
         "bolts": null
       }
     },
@@ -570,7 +570,7 @@
       },
       "sprint_speed": {
         "sprint_speed": 26.7,
-        "hp_to_1b": 4.53,
+        "hp_to_1b": 4.52,
         "bolts": null
       }
     },
