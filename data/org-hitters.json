@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T21:26:40Z",
+  "updated": "2026-06-02T23:23:53Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-05-23",
@@ -233,20 +233,20 @@
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 196,
+        "ab": 197,
         "k": 52,
-        "avg": ".306",
-        "ops": "1.056",
-        "avg_num": 0.30612244897959184,
-        "ops_num": 1.0555431779698778
+        "avg": ".305",
+        "ops": "1.050",
+        "avg_num": 0.30456852791878175,
+        "ops_num": 1.0504745089384242
       },
       "last_10": {
-        "ab": 29,
+        "ab": 30,
         "k": 4,
-        "avg": ".414",
-        "ops": "1.278",
-        "avg_num": 0.41379310344827586,
-        "ops_num": 1.277951933124347
+        "avg": ".400",
+        "ops": "1.237",
+        "avg_num": 0.4,
+        "ops_num": 1.2372549019607844
       },
       "season_levels": [
         "MLB"
@@ -357,20 +357,20 @@
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 210,
+        "ab": 211,
         "k": 33,
-        "avg": ".271",
-        "ops": ".855",
-        "avg_num": 0.2714285714285714,
-        "ops_num": 0.8546765319673686
+        "avg": ".270",
+        "ops": ".851",
+        "avg_num": 0.27014218009478674,
+        "ops_num": 0.8509177762732265
       },
       "last_10": {
-        "ab": 27,
+        "ab": 28,
         "k": 6,
-        "avg": ".259",
-        "ops": ".836",
-        "avg_num": 0.25925925925925924,
-        "ops_num": 0.8363201911589009
+        "avg": ".250",
+        "ops": ".808",
+        "avg_num": 0.25,
+        "ops_num": 0.8080357142857143
       },
       "season_levels": [
         "MLB"
@@ -797,6 +797,37 @@
         "MLB"
       ],
       "last_10_levels": []
+    },
+    {
+      "id": 801307,
+      "name": "Gregory Bozzo",
+      "position": "C",
+      "level": "Low-A",
+      "level_since": "2026-04-03",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 12,
+        "k": 5,
+        "avg": ".250",
+        "ops": ".833",
+        "avg_num": 0.25,
+        "ops_num": 0.8333333333333334
+      },
+      "last_10": {
+        "ab": 4,
+        "k": 2,
+        "avg": ".000",
+        "ops": ".000",
+        "avg_num": 0.0,
+        "ops_num": 0.0
+      },
+      "season_levels": [
+        "Low-A"
+      ],
+      "last_10_levels": [
+        "Low-A"
+      ]
     },
     {
       "id": 694215,
@@ -1630,20 +1661,20 @@
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 111,
+        "ab": 112,
         "k": 24,
-        "avg": ".261",
-        "ops": ".850",
-        "avg_num": 0.26126126126126126,
-        "ops_num": 0.8498262041569128
+        "avg": ".268",
+        "ops": ".868",
+        "avg_num": 0.26785714285714285,
+        "ops_num": 0.8683035714285714
       },
       "last_10": {
-        "ab": 29,
+        "ab": 30,
         "k": 4,
-        "avg": ".276",
-        "ops": ".758",
-        "avg_num": 0.27586206896551724,
-        "ops_num": 0.7575431034482758
+        "avg": ".300",
+        "ops": ".830",
+        "avg_num": 0.3,
+        "ops_num": 0.8303030303030303
       },
       "season_levels": [
         "MLB"
