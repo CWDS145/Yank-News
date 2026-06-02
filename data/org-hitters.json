@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T13:04:23Z",
+  "updated": "2026-06-02T17:52:46Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-05-23",
@@ -714,37 +714,6 @@
       ]
     },
     {
-      "id": 808106,
-      "name": "Gabriel Lara",
-      "position": "CF",
-      "level": "Low-A",
-      "level_since": "2026-05-12",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 24,
-        "k": 7,
-        "avg": ".125",
-        "ops": ".443",
-        "avg_num": 0.125,
-        "ops_num": 0.44252873563218387
-      },
-      "last_10": {
-        "ab": 11,
-        "k": 2,
-        "avg": ".182",
-        "ops": ".364",
-        "avg_num": 0.18181818181818182,
-        "ops_num": 0.36363636363636365
-      },
-      "season_levels": [
-        "Low-A"
-      ],
-      "last_10_levels": [
-        "Low-A"
-      ]
-    },
-    {
       "id": 682003,
       "name": "Garrett Martin",
       "position": "RF",
@@ -1349,6 +1318,28 @@
       "last_10_levels": [
         "High-A"
       ]
+    },
+    {
+      "id": 800741,
+      "name": "Logan Maxwell",
+      "position": "OF",
+      "level": "Low-A",
+      "level_since": "2026-04-03",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 49,
+        "k": 8,
+        "avg": ".245",
+        "ops": ".733",
+        "avg_num": 0.24489795918367346,
+        "ops_num": 0.7325826882477129
+      },
+      "last_10": null,
+      "season_levels": [
+        "Low-A"
+      ],
+      "last_10_levels": []
     },
     {
       "id": 691411,
