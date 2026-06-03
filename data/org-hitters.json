@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T12:15:16Z",
+  "updated": "2026-06-03T17:20:45Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-05-24",
@@ -327,7 +327,7 @@
       "prior_level_since": null,
       "season": {
         "ab": 183,
-        "k": 59,
+        "k": 58,
         "avg": ".262",
         "ops": ".834",
         "avg_num": 0.26229508196721313,
