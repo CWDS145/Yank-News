@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T17:20:45Z",
+  "updated": "2026-06-03T20:44:11Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-05-24",
@@ -383,10 +383,10 @@
       "id": 702068,
       "name": "Cole Gabrielson",
       "position": "CF",
-      "level": "High-A",
-      "level_since": "2026-03-30",
-      "prior_level": null,
-      "prior_level_since": null,
+      "level": "AA",
+      "level_since": "2026-06-03",
+      "prior_level": "High-A",
+      "prior_level_since": "2026-03-30",
       "season": {
         "ab": 78,
         "k": 15,
@@ -880,37 +880,6 @@
       ],
       "last_10_levels": [
         "MLB"
-      ]
-    },
-    {
-      "id": 701778,
-      "name": "Jace Avina",
-      "position": "LF",
-      "level": "AA",
-      "level_since": null,
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 192,
-        "k": 67,
-        "avg": ".276",
-        "ops": ".941",
-        "avg_num": 0.2760416666666667,
-        "ops_num": 0.941131498470948
-      },
-      "last_10": {
-        "ab": 31,
-        "k": 9,
-        "avg": ".387",
-        "ops": "1.199",
-        "avg_num": 0.3870967741935484,
-        "ops_num": 1.1990783410138248
-      },
-      "season_levels": [
-        "AA"
-      ],
-      "last_10_levels": [
-        "AA"
       ]
     },
     {
