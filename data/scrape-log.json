@@ -2,38 +2,6 @@
   "entries": [
     {
       "timestamp": "2026-06-01T22:20:24Z",
-      "source": "MLB season pitching: MLB",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
-      "status": 200,
-      "items": 84,
-      "note": "ok=84/84"
-    },
-    {
-      "timestamp": "2026-06-01T22:20:24Z",
-      "source": "MLB season pitching: AAA",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
-      "status": 200,
-      "items": 84,
-      "note": "ok=84/84"
-    },
-    {
-      "timestamp": "2026-06-01T22:20:24Z",
-      "source": "MLB season pitching: AA",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
-      "status": 200,
-      "items": 84,
-      "note": "ok=84/84"
-    },
-    {
-      "timestamp": "2026-06-01T22:20:24Z",
-      "source": "MLB season pitching: High-A",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
-      "status": 200,
-      "items": 84,
-      "note": "ok=84/84"
-    },
-    {
-      "timestamp": "2026-06-01T22:20:24Z",
       "source": "MLB season pitching: Low-A",
       "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
       "status": 200,
@@ -3999,6 +3967,38 @@
       "status": 200,
       "items": 80,
       "note": "pitchers needing prior_level fallback"
+    },
+    {
+      "timestamp": "2026-06-03T14:25:54Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 403,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-06-03T14:25:55Z",
+      "source": "MLB.com",
+      "url": "https://www.mlb.com/depth-charts",
+      "status": 404,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-06-03T14:25:55Z",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/team/depth/_/name/nyy/new-york-yankees",
+      "status": 202,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-06-03T14:25:55Z",
+      "source": "DepthChart",
+      "url": "all-sources-failed",
+      "status": 0,
+      "items": 0,
+      "note": "all_failed_kept_existing"
     }
   ]
 }
