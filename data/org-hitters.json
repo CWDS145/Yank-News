@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T10:47:00Z",
+  "updated": "2026-06-04T13:52:15Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-05-25",
@@ -720,6 +720,37 @@
       ],
       "last_10_levels": [
         "AAA"
+      ]
+    },
+    {
+      "id": 808106,
+      "name": "Gabriel Lara",
+      "position": "CF",
+      "level": "Low-A",
+      "level_since": "2026-05-12",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 24,
+        "k": 7,
+        "avg": ".125",
+        "ops": ".443",
+        "avg_num": 0.125,
+        "ops_num": 0.44252873563218387
+      },
+      "last_10": {
+        "ab": 3,
+        "k": 0,
+        "avg": ".333",
+        "ops": ".667",
+        "avg_num": 0.3333333333333333,
+        "ops_num": 0.6666666666666666
+      },
+      "season_levels": [
+        "Low-A"
+      ],
+      "last_10_levels": [
+        "Low-A"
       ]
     },
     {
