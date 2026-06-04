@@ -1,30 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-06-02T22:23:53Z",
-      "source": "CBS Sports MLB",
-      "url": "https://www.cbssports.com/rss/headlines/mlb/",
-      "status": 200,
-      "items": 3,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-06-02T22:23:53Z",
-      "source": "Pinstripe Post (Sherman)",
-      "url": "https://feeds.megaphone.fm/NYPH3296340517",
-      "status": 200,
-      "items": 1,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-06-02T22:23:54Z",
-      "source": "YES Network",
-      "url": "https://www.yesnetwork.com/yankees",
-      "status": 200,
-      "items": 1,
-      "note": "ok"
-    },
-    {
       "timestamp": "2026-06-02T22:23:55Z",
       "source": "CBS Transactions",
       "url": "https://www.cbssports.com/mlb/teams/NYY/new-york-yankees/transactions/",
@@ -3998,6 +3974,30 @@
       "url": "https://www.cbssports.com/mlb/teams/NYY/new-york-yankees/transactions/",
       "status": 200,
       "items": 50,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-06-04T12:42:03Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 403,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-06-04T12:42:03Z",
+      "source": "MLB.com",
+      "url": "https://www.mlb.com/depth-charts",
+      "status": 404,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-06-04T12:42:03Z",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/team/depth/_/name/nyy/new-york-yankees",
+      "status": 200,
+      "items": 26,
       "note": "ok"
     }
   ]

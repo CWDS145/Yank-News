@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-02T13:58:19Z",
-  "source_used": "FanGraphs",
+  "updated": "2026-06-04T12:42:03Z",
+  "source_used": "ESPN",
   "positions": {
     "C": [
       {
@@ -10,97 +10,217 @@
       {
         "name": "J.C. Escarra",
         "rank": 2
+      },
+      {
+        "name": "Ben Rice",
+        "rank": 3
       }
     ],
     "1B": [
       {
-        "name": "Paul Goldschmidt",
+        "name": "Ben Rice",
         "rank": 1
+      },
+      {
+        "name": "Paul Goldschmidt",
+        "rank": 2
+      },
+      {
+        "name": "J.C. Escarra",
+        "rank": 3
+      },
+      {
+        "name": "Cody Bellinger",
+        "rank": 4
+      },
+      {
+        "name": "Austin Wells",
+        "rank": 5
       }
     ],
     "2B": [
       {
-        "name": "Jazz Chisholm",
+        "name": "Jazz Chisholm Jr.",
         "rank": 1
+      },
+      {
+        "name": "Amed Rosario",
+        "rank": 2
+      },
+      {
+        "name": "Jose Caballero",
+        "rank": 3
+      },
+      {
+        "name": "Max Schuemann",
+        "rank": 4
+      },
+      {
+        "name": "Ryan McMahon",
+        "rank": 5
       }
     ],
     "3B": [
       {
         "name": "Ryan McMahon",
         "rank": 1
+      },
+      {
+        "name": "Amed Rosario",
+        "rank": 2
+      },
+      {
+        "name": "Jose Caballero",
+        "rank": 3
+      },
+      {
+        "name": "Max Schuemann",
+        "rank": 4
+      },
+      {
+        "name": "Jazz Chisholm Jr.",
+        "rank": 5
       }
     ],
     "SS": [
       {
         "name": "Jose Caballero",
         "rank": 1
+      },
+      {
+        "name": "Anthony Volpe",
+        "rank": 2
+      },
+      {
+        "name": "Max Schuemann",
+        "rank": 3
+      },
+      {
+        "name": "Ryan McMahon",
+        "rank": 4
+      },
+      {
+        "name": "Amed Rosario",
+        "rank": 5
       }
     ],
     "LF": [
       {
         "name": "Cody Bellinger",
         "rank": 1
+      },
+      {
+        "name": "Jasson Dominguez",
+        "rank": 2
+      },
+      {
+        "name": "Giancarlo Stanton",
+        "rank": 3
+      },
+      {
+        "name": "Jose Caballero",
+        "rank": 4
+      },
+      {
+        "name": "Max Schuemann",
+        "rank": 5
       }
     ],
     "CF": [
       {
         "name": "Trent Grisham",
         "rank": 1
+      },
+      {
+        "name": "Cody Bellinger",
+        "rank": 2
+      },
+      {
+        "name": "Aaron Judge",
+        "rank": 3
+      },
+      {
+        "name": "Jasson Dominguez",
+        "rank": 4
+      },
+      {
+        "name": "Jazz Chisholm Jr.",
+        "rank": 5
       }
     ],
     "RF": [
       {
         "name": "Aaron Judge",
         "rank": 1
+      },
+      {
+        "name": "Cody Bellinger",
+        "rank": 2
+      },
+      {
+        "name": "Jasson Dominguez",
+        "rank": 3
+      },
+      {
+        "name": "Giancarlo Stanton",
+        "rank": 4
+      },
+      {
+        "name": "Amed Rosario",
+        "rank": 5
       }
     ],
     "DH": [
       {
-        "name": "Ben Rice",
+        "name": "Giancarlo Stanton",
         "rank": 1
       },
       {
-        "name": "Giancarlo Stanton",
+        "name": "Jasson Dominguez",
         "rank": 2
+      },
+      {
+        "name": "Ben Rice",
+        "rank": 3
+      },
+      {
+        "name": "Aaron Judge",
+        "rank": 4
+      },
+      {
+        "name": "Amed Rosario",
+        "rank": 5
       }
     ],
     "SP": [
       {
-        "name": "Gerrit Cole",
+        "name": "Max Fried",
         "rank": 1
       },
       {
-        "name": "Carlos Rodon",
+        "name": "Gerrit Cole",
         "rank": 2
       },
       {
-        "name": "Ryan Weathers",
+        "name": "Cam Schlittler",
         "rank": 3
       },
       {
-        "name": "Will Warren",
+        "name": "Carlos Rodon",
         "rank": 4
       },
       {
-        "name": "Cam Schlittler",
+        "name": "Ryan Weathers",
         "rank": 5
-      },
-      {
-        "name": "Max Fried",
-        "rank": 6
-      },
-      {
-        "name": "Clarke Schmidt",
-        "rank": 7
       }
     ],
     "RP": [
       {
-        "name": "David Bednar",
+        "name": "Camilo Doval",
         "rank": 1
       },
       {
-        "name": "Fernando E. Cruz",
+        "name": "Fernando Cruz",
         "rank": 2
       },
       {
@@ -112,54 +232,41 @@
         "rank": 4
       },
       {
-        "name": "Camilo Doval",
+        "name": "Ryan Yarbrough",
         "rank": 5
       },
       {
-        "name": "Jake Bird",
+        "name": "David Bednar",
         "rank": 6
-      },
-      {
-        "name": "Ryan Yarbrough",
-        "rank": 7
-      },
-      {
-        "name": "Paul Blackburn",
-        "rank": 8
-      },
-      {
-        "name": "Angel Chivilli",
-        "rank": 9
       }
     ]
   },
   "all_players": [
     "Aaron Judge",
-    "Angel Chivilli",
+    "Amed Rosario",
+    "Anthony Volpe",
     "Austin Wells",
     "Ben Rice",
     "Brent Headrick",
     "Cam Schlittler",
     "Camilo Doval",
     "Carlos Rodon",
-    "Clarke Schmidt",
     "Cody Bellinger",
     "David Bednar",
-    "Fernando E. Cruz",
+    "Fernando Cruz",
     "Gerrit Cole",
     "Giancarlo Stanton",
     "J.C. Escarra",
-    "Jake Bird",
-    "Jazz Chisholm",
+    "Jasson Dominguez",
+    "Jazz Chisholm Jr.",
     "Jose Caballero",
     "Max Fried",
-    "Paul Blackburn",
+    "Max Schuemann",
     "Paul Goldschmidt",
     "Ryan McMahon",
     "Ryan Weathers",
     "Ryan Yarbrough",
     "Tim Hill",
-    "Trent Grisham",
-    "Will Warren"
+    "Trent Grisham"
   ]
 }
