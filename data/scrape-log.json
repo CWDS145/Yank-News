@@ -1,22 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-06-03T00:11:44Z",
-      "source": "CBS Transactions",
-      "url": "https://www.cbssports.com/mlb/teams/NYY/new-york-yankees/transactions/",
-      "status": 200,
-      "items": 50,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-06-03T02:12:40Z",
-      "source": "MLB StatsAPI: team",
-      "url": "https://statsapi.mlb.com/api/v1/teams/147?hydrate=record(type=regularSeason),league,division",
-      "status": 200,
-      "items": 1,
-      "note": "ok"
-    },
-    {
       "timestamp": "2026-06-03T02:12:40Z",
       "source": "MLB StatsAPI: standings",
       "url": "https://statsapi.mlb.com/api/v1/standings?leagueId=103&season=2026&standingsTypes=regularSeason",
@@ -3999,6 +3983,22 @@
       "status": 200,
       "items": 50,
       "note": "ok"
+    },
+    {
+      "timestamp": "2026-06-04T16:55:01Z",
+      "source": "FanGraphs Yankees",
+      "url": "https://www.fangraphs.com/teams/yankees",
+      "status": 0,
+      "items": 0,
+      "note": "skipped_23h_gate"
+    },
+    {
+      "timestamp": "2026-06-04T16:55:01Z",
+      "source": "Baseball-Reference Yankees",
+      "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
+      "status": 0,
+      "items": 0,
+      "note": "skipped_23h_gate"
     }
   ]
 }
