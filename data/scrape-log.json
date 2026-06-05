@@ -2,14 +2,6 @@
   "entries": [
     {
       "timestamp": "2026-06-04T05:22:47Z",
-      "source": "ESPN MLB",
-      "url": "https://www.espn.com/espn/rss/mlb/news",
-      "status": 202,
-      "items": 0,
-      "note": "http_error"
-    },
-    {
-      "timestamp": "2026-06-04T05:22:47Z",
       "source": "CBS Sports MLB",
       "url": "https://www.cbssports.com/rss/headlines/mlb/",
       "status": 200,
@@ -3998,6 +3990,14 @@
       "url": "https://www.cbssports.com/mlb/teams/NYY/new-york-yankees/transactions/",
       "status": 200,
       "items": 50,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-06-05T12:33:31Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 27,
       "note": "ok"
     }
   ]
