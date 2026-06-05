@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T23:39:10Z",
+  "updated": "2026-06-05T01:56:27Z",
   "items": [
     {
       "id": 915153,
@@ -403,32 +403,6 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees optioned RHP Elmer Rodríguez to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 905954,
-      "date": "2026-05-05",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 543037,
-      "player": "Gerrit Cole",
-      "from_team_id": 147,
-      "to_team_id": 537,
-      "from": "New York Yankees",
-      "to": "High-A Hudson Valley Renegades",
-      "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Hudson Valley Renegades."
-    },
-    {
-      "id": 905900,
-      "date": "2026-05-05",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 607074,
-      "player": "Carlos Rodón",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees sent LHP Carlos Rodón on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
     }
   ]
 }
