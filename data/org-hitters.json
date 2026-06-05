@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T16:20:44Z",
+  "updated": "2026-06-05T18:30:43Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-05-26",
@@ -10,7 +10,7 @@
       "name": "Aaron Judge",
       "position": "RF",
       "level": "MLB",
-      "level_since": null,
+      "level_since": "2026-06-05",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -1854,10 +1854,10 @@
       "id": 682987,
       "name": "Spencer Jones",
       "position": "RF",
-      "level": "AAA",
-      "level_since": "2026-05-22",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-05-08",
+      "level": "MLB",
+      "level_since": "2026-06-05",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-05-22",
       "season": {
         "ab": 180,
         "k": 72,
