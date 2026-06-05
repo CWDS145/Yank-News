@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T20:38:31Z",
+  "updated": "2026-06-05T22:11:32Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1170,44 +1170,6 @@
       "season_levels": [
         "MLB",
         "AAA"
-      ]
-    },
-    {
-      "id": 801432,
-      "name": "Eric Reyzelman",
-      "position": "P",
-      "level": "AAA",
-      "level_since": "2026-05-19",
-      "prior_level": "AA",
-      "prior_level_since": "2026-03-23",
-      "season": {
-        "w": 1,
-        "l": 1,
-        "g": 17,
-        "gs": 0,
-        "cg": 0,
-        "sho": 0,
-        "sv": 0,
-        "svo": 0,
-        "ip": "22.1",
-        "ip_outs": 67,
-        "h": 17,
-        "r": 13,
-        "er": 11,
-        "hr": 2,
-        "hb": 1,
-        "bb": 11,
-        "so": 37,
-        "era": "4.43",
-        "era_num": 4.432835820895522,
-        "whip": "1.25",
-        "whip_num": 1.2537313432835822,
-        "avg": ".207",
-        "avg_num": 0.2073170731707317
-      },
-      "season_levels": [
-        "AAA",
-        "AA"
       ]
     },
     {
@@ -2740,8 +2702,8 @@
       "id": 702036,
       "name": "Tony Rossi",
       "position": "P",
-      "level": "High-A",
-      "level_since": null,
+      "level": "AA",
+      "level_since": "2026-06-05",
       "prior_level": null,
       "prior_level_since": null,
       "season": {

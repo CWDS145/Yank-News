@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T20:35:15Z",
+  "updated": "2026-06-05T22:08:14Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-05-26",
@@ -40,10 +40,10 @@
       "id": 670868,
       "name": "Abrahan Gutierrez",
       "position": "C",
-      "level": "AA",
-      "level_since": "2026-03-23",
-      "prior_level": null,
-      "prior_level_since": null,
+      "level": "AAA",
+      "level_since": "2026-06-05",
+      "prior_level": "AA",
+      "prior_level_since": "2026-03-23",
       "season": {
         "ab": 59,
         "k": 10,
@@ -1508,6 +1508,29 @@
       ]
     },
     {
+      "id": 682617,
+      "name": "Marco Luciano",
+      "position": "SS",
+      "level": "AAA",
+      "level_since": "2026-05-08",
+      "prior_level": "AA",
+      "prior_level_since": "2026-03-23",
+      "season": {
+        "ab": 142,
+        "k": 40,
+        "avg": ".303",
+        "ops": "1.004",
+        "avg_num": 0.3028169014084507,
+        "ops_num": 1.004242321398269
+      },
+      "last_10": null,
+      "season_levels": [
+        "AAA",
+        "AA"
+      ],
+      "last_10_levels": []
+    },
+    {
       "id": 680474,
       "name": "Max Schuemann",
       "position": "SS",
@@ -1692,37 +1715,6 @@
       ],
       "last_10_levels": [
         "MLB"
-      ]
-    },
-    {
-      "id": 668721,
-      "name": "Payton Henry",
-      "position": "C",
-      "level": "AAA",
-      "level_since": null,
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 115,
-        "k": 35,
-        "avg": ".226",
-        "ops": ".691",
-        "avg_num": 0.22608695652173913,
-        "ops_num": 0.6909749670619236
-      },
-      "last_10": {
-        "ab": 20,
-        "k": 5,
-        "avg": ".150",
-        "ops": ".340",
-        "avg_num": 0.15,
-        "ops_num": 0.3404761904761905
-      },
-      "season_levels": [
-        "AAA"
-      ],
-      "last_10_levels": [
-        "AAA"
       ]
     },
     {
