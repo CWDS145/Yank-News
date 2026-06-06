@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T22:47:05Z",
+  "updated": "2026-06-06T23:48:54Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-05-27",
@@ -200,7 +200,7 @@
       "name": "Austin Wells",
       "position": "C",
       "level": "MLB",
-      "level_since": null,
+      "level_since": "2026-06-06",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -900,9 +900,9 @@
       "name": "J.C. Escarra",
       "position": "C",
       "level": "MLB",
-      "level_since": "2026-06-05",
-      "prior_level": null,
-      "prior_level_since": null,
+      "level_since": "2026-06-06",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-06-05",
       "season": {
         "ab": 62,
         "k": 15,
