@@ -2,14 +2,6 @@
   "entries": [
     {
       "timestamp": "2026-06-05T10:40:52Z",
-      "source": "MLB season pitching: MLB",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
-      "status": 200,
-      "items": 85,
-      "note": "ok=85/85"
-    },
-    {
-      "timestamp": "2026-06-05T10:40:52Z",
       "source": "MLB season pitching: AAA",
       "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
       "status": 200,
@@ -3998,6 +3990,14 @@
       "url": "https://www.cbssports.com/mlb/teams/NYY/new-york-yankees/transactions/",
       "status": 200,
       "items": 54,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-06-06T11:22:34Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 27,
       "note": "ok"
     }
   ]
