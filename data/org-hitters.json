@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T20:02:01Z",
+  "updated": "2026-06-06T21:20:08Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-05-27",
@@ -2020,6 +2020,37 @@
       ],
       "last_10_levels": [
         "High-A"
+      ]
+    },
+    {
+      "id": 692585,
+      "name": "Yanquiel Fernández",
+      "position": "RF",
+      "level": "AAA",
+      "level_since": "2026-02-16",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-02-04",
+      "season": {
+        "ab": 181,
+        "k": 38,
+        "avg": ".265",
+        "ops": ".841",
+        "avg_num": 0.26519337016574585,
+        "ops_num": 0.8411884090652836
+      },
+      "last_10": {
+        "ab": 3,
+        "k": 1,
+        "avg": ".000",
+        "ops": ".250",
+        "avg_num": 0.0,
+        "ops_num": 0.25
+      },
+      "season_levels": [
+        "AAA"
+      ],
+      "last_10_levels": [
+        "AAA"
       ]
     }
   ]
