@@ -1,22 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-06-05T15:35:21Z",
-      "source": "NY Post Yankees",
-      "url": "https://nypost.com/tag/new-york-yankees/feed/",
-      "status": 200,
-      "items": 20,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-06-05T15:35:21Z",
-      "source": "MLB Trade Rumors NYY",
-      "url": "https://www.mlbtraderumors.com/category/new-york-yankees/feed",
-      "status": 200,
-      "items": 15,
-      "note": "ok"
-    },
-    {
       "timestamp": "2026-06-05T15:35:22Z",
       "source": "ESPN MLB",
       "url": "https://www.espn.com/espn/rss/mlb/news",
@@ -3999,6 +3983,22 @@
       "status": 200,
       "items": 54,
       "note": "ok"
+    },
+    {
+      "timestamp": "2026-06-06T15:17:29Z",
+      "source": "FanGraphs Yankees",
+      "url": "https://www.fangraphs.com/teams/yankees",
+      "status": 0,
+      "items": 0,
+      "note": "skipped_23h_gate"
+    },
+    {
+      "timestamp": "2026-06-06T15:17:29Z",
+      "source": "Baseball-Reference Yankees",
+      "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
+      "status": 0,
+      "items": 0,
+      "note": "skipped_23h_gate"
     }
   ]
 }
