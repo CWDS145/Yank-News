@@ -1,18 +1,12 @@
 {
-  "updated": "2026-06-06T05:34:58Z",
+  "updated": "2026-06-06T08:37:09Z",
   "count": 54,
   "items": [
     {
       "date": "2026-06-05",
-      "type": "placed",
-      "player": "Aaron Judge",
-      "description": "Placed on 10-Day IL (Right rib stress fracture)"
-    },
-    {
-      "date": "2026-06-05",
-      "type": "called up",
-      "player": "Spencer Jones",
-      "description": "Called Up from Minors"
+      "type": "sent",
+      "player": "Jasson Dominguez",
+      "description": "Sent to Minors For Rehabilitation"
     },
     {
       "date": "2026-06-05",
@@ -22,9 +16,15 @@
     },
     {
       "date": "2026-06-05",
-      "type": "sent",
-      "player": "Jasson Dominguez",
-      "description": "Sent to Minors For Rehabilitation"
+      "type": "called up",
+      "player": "Spencer Jones",
+      "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-06-05",
+      "type": "placed",
+      "player": "Aaron Judge",
+      "description": "Placed on 10-Day IL (Right rib stress fracture)"
     },
     {
       "date": "2026-06-02",
@@ -47,14 +47,14 @@
     {
       "date": "2026-05-22",
       "type": "",
-      "player": "Gerrit Cole",
-      "description": "Removed From 15-Day IL (Recovery from right elbow surgery)"
+      "player": "Jose Caballero",
+      "description": "Removed From 10-Day IL (Right middle finger fracture)"
     },
     {
       "date": "2026-05-22",
       "type": "",
-      "player": "Jose Caballero",
-      "description": "Removed From 10-Day IL (Right middle finger fracture)"
+      "player": "Gerrit Cole",
+      "description": "Removed From 15-Day IL (Recovery from right elbow surgery)"
     },
     {
       "date": "2026-05-22",
@@ -88,15 +88,15 @@
     },
     {
       "date": "2026-05-16",
-      "type": "placed",
-      "player": "Max Fried",
-      "description": "Placed on 15-Day IL (Left elbow bone bruise)"
-    },
-    {
-      "date": "2026-05-16",
       "type": "called up",
       "player": "Elmer Rodriguez",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-05-16",
+      "type": "placed",
+      "player": "Max Fried",
+      "description": "Placed on 15-Day IL (Left elbow bone bruise)"
     },
     {
       "date": "2026-05-12",
@@ -118,27 +118,27 @@
     },
     {
       "date": "2026-05-10",
-      "type": "recalled",
-      "player": "Carlos Rodon",
-      "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-05-10",
       "type": "",
       "player": "Carlos Rodon",
       "description": "Removed From 15-Day IL (Recovery from left elbow surgery)"
     },
     {
-      "date": "2026-05-08",
-      "type": "called up",
-      "player": "Kervin Castro",
-      "description": "Called Up from Minors"
+      "date": "2026-05-10",
+      "type": "recalled",
+      "player": "Carlos Rodon",
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-05-08",
       "type": "placed",
       "player": "Jasson Dominguez",
       "description": "Placed on 10-Day IL (Sprained left shoulder AC joint)"
+    },
+    {
+      "date": "2026-05-08",
+      "type": "called up",
+      "player": "Kervin Castro",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-05-08",
@@ -160,26 +160,20 @@
     },
     {
       "date": "2026-05-06",
-      "type": "sent",
-      "player": "Yerry De Los Santos",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-05-06",
       "type": "called up",
       "player": "Yerry De Los Santos",
       "description": "Called Up from Minors"
     },
     {
-      "date": "2026-05-05",
+      "date": "2026-05-06",
       "type": "sent",
-      "player": "Elmer Rodriguez",
+      "player": "Yerry De Los Santos",
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-05-03",
+      "date": "2026-05-05",
       "type": "sent",
-      "player": "Anthony Volpe",
+      "player": "Elmer Rodriguez",
       "description": "Sent to Minors"
     },
     {
@@ -195,10 +189,10 @@
       "description": "Recalled From Minors Rehab Assignment"
     },
     {
-      "date": "2026-05-01",
-      "type": "",
-      "player": "Randal Grichuk",
-      "description": "Refused Minor League Assignment - Free Agent"
+      "date": "2026-05-03",
+      "type": "sent",
+      "player": "Anthony Volpe",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-01",
@@ -207,10 +201,10 @@
       "description": "Declared Free Agency"
     },
     {
-      "date": "2026-04-29",
-      "type": "designated",
+      "date": "2026-05-01",
+      "type": "",
       "player": "Randal Grichuk",
-      "description": "Designated for Assignment"
+      "description": "Refused Minor League Assignment - Free Agent"
     },
     {
       "date": "2026-04-29",
@@ -219,16 +213,22 @@
       "description": "Called Up from Minors"
     },
     {
-      "date": "2026-04-28",
-      "type": "placed",
-      "player": "Giancarlo Stanton",
-      "description": "Placed on 10-Day IL (Strained right calf)"
+      "date": "2026-04-29",
+      "type": "designated",
+      "player": "Randal Grichuk",
+      "description": "Designated for Assignment"
     },
     {
       "date": "2026-04-28",
       "type": "called up",
       "player": "Max Schuemann",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-04-28",
+      "type": "placed",
+      "player": "Giancarlo Stanton",
+      "description": "Placed on 10-Day IL (Strained right calf)"
     },
     {
       "date": "2026-04-27",
@@ -244,15 +244,15 @@
     },
     {
       "date": "2026-04-25",
-      "type": "reinstated",
-      "player": "Ryan Weathers",
-      "description": "Reinstated from Paternity Leave List"
-    },
-    {
-      "date": "2026-04-25",
       "type": "placed",
       "player": "Angel Chivilli",
       "description": "Placed on 15-Day IL (Right shoulder discomfort)"
+    },
+    {
+      "date": "2026-04-25",
+      "type": "reinstated",
+      "player": "Ryan Weathers",
+      "description": "Reinstated from Paternity Leave List"
     },
     {
       "date": "2026-04-24",
@@ -287,8 +287,8 @@
     {
       "date": "2026-04-14",
       "type": "sent",
-      "player": "Yerry De Los Santos",
-      "description": "Sent to Minors"
+      "player": "Anthony Volpe",
+      "description": "Sent to Minors For Rehabilitation"
     },
     {
       "date": "2026-04-14",
@@ -299,8 +299,8 @@
     {
       "date": "2026-04-14",
       "type": "sent",
-      "player": "Anthony Volpe",
-      "description": "Sent to Minors For Rehabilitation"
+      "player": "Yerry De Los Santos",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-04-13",
