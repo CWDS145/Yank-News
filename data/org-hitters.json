@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T15:42:51Z",
+  "updated": "2026-06-06T16:48:40Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-05-27",
@@ -73,7 +73,7 @@
       "id": 645305,
       "name": "Ali Sánchez",
       "position": "C",
-      "level": "AAA",
+      "level": "MLB",
       "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
