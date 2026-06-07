@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T23:48:54Z",
+  "updated": "2026-06-07T04:58:28Z",
   "items": [
     {
       "id": 916418,
@@ -429,45 +429,6 @@
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
       "description": "New York Yankees recalled CF Spencer Jones from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 906797,
-      "date": "2026-05-07",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 694341,
-      "player": "Brendan Beck",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees activated RHP Brendan Beck."
-    },
-    {
-      "id": 906389,
-      "date": "2026-05-07",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 660787,
-      "player": "Yerry De los Santos",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees optioned RHP Yerry De los Santos to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 906406,
-      "date": "2026-05-07",
-      "type_code": "SE",
-      "type_desc": "Selected",
-      "player_id": 694341,
-      "player": "Brendan Beck",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees selected the contract of RHP Brendan Beck from Scranton/Wilkes-Barre RailRiders."
     }
   ]
 }
