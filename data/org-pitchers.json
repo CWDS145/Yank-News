@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T10:14:19Z",
+  "updated": "2026-06-08T14:27:46Z",
   "season": 2026,
   "pitchers": [
     {
@@ -866,7 +866,7 @@
       "id": 694633,
       "name": "Chase Hampton",
       "position": "P",
-      "level": "High-A",
+      "level": "MLB",
       "level_since": "2026-05-26",
       "prior_level": "Low-A",
       "prior_level_since": "2026-05-08",
