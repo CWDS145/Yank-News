@@ -2,14 +2,6 @@
   "entries": [
     {
       "timestamp": "2026-06-07T11:50:05Z",
-      "source": "Pinstripe Alley",
-      "url": "https://www.pinstripealley.com/rss/current.xml",
-      "status": 200,
-      "items": 10,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-06-07T11:50:05Z",
       "source": "NY Post Yankees",
       "url": "https://nypost.com/tag/new-york-yankees/feed/",
       "status": 200,
@@ -3998,6 +3990,14 @@
       "url": "https://www.cbssports.com/mlb/teams/NYY/new-york-yankees/transactions/",
       "status": 200,
       "items": 57,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-06-08T14:03:21Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 28,
       "note": "ok"
     }
   ]
