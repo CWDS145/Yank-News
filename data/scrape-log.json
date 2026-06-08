@@ -2,22 +2,6 @@
   "entries": [
     {
       "timestamp": "2026-06-07T13:59:19Z",
-      "source": "NY Post Yankees",
-      "url": "https://nypost.com/tag/new-york-yankees/feed/",
-      "status": 200,
-      "items": 20,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-06-07T13:59:19Z",
-      "source": "MLB Trade Rumors NYY",
-      "url": "https://www.mlbtraderumors.com/category/new-york-yankees/feed",
-      "status": 200,
-      "items": 15,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-06-07T13:59:19Z",
       "source": "ESPN MLB",
       "url": "https://www.espn.com/espn/rss/mlb/news",
       "status": 200,
@@ -3999,6 +3983,22 @@
       "status": 200,
       "items": 57,
       "note": "ok"
+    },
+    {
+      "timestamp": "2026-06-08T17:23:35Z",
+      "source": "FanGraphs Yankees",
+      "url": "https://www.fangraphs.com/teams/yankees",
+      "status": 403,
+      "items": 0,
+      "note": "http_403"
+    },
+    {
+      "timestamp": "2026-06-08T17:23:35Z",
+      "source": "Baseball-Reference Yankees",
+      "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
+      "status": 200,
+      "items": 40,
+      "note": "ok | tables: bat_id=players_standard_batting pit_id=players_standard_pitching batters=19 pitchers=21"
     }
   ]
 }
