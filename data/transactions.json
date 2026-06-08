@@ -1,18 +1,18 @@
 {
-  "updated": "2026-06-08T12:00:24Z",
+  "updated": "2026-06-08T16:35:13Z",
   "count": 57,
   "items": [
-    {
-      "date": "2026-06-06",
-      "type": "called up",
-      "player": "J.C. Escarra",
-      "description": "Called Up from Minors"
-    },
     {
       "date": "2026-06-06",
       "type": "placed",
       "player": "Austin Wells",
       "description": "Placed on 10-Day IL (Cervical headaches)"
+    },
+    {
+      "date": "2026-06-06",
+      "type": "called up",
+      "player": "J.C. Escarra",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-06",
