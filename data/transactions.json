@@ -1,13 +1,7 @@
 {
-  "updated": "2026-06-09T12:06:57Z",
+  "updated": "2026-06-09T15:39:34Z",
   "count": 57,
   "items": [
-    {
-      "date": "2026-06-06",
-      "type": "placed",
-      "player": "Austin Wells",
-      "description": "Placed on 10-Day IL (Cervical headaches)"
-    },
     {
       "date": "2026-06-06",
       "type": "called up",
@@ -19,6 +13,12 @@
       "type": "purchased",
       "player": "Ali Sanchez",
       "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-06-06",
+      "type": "placed",
+      "player": "Austin Wells",
+      "description": "Placed on 10-Day IL (Cervical headaches)"
     },
     {
       "date": "2026-06-05",
@@ -64,9 +64,9 @@
     },
     {
       "date": "2026-05-22",
-      "type": "recalled",
-      "player": "Gerrit Cole",
-      "description": "Recalled From Minors Rehab Assignment"
+      "type": "",
+      "player": "Jose Caballero",
+      "description": "Removed From 10-Day IL (Right middle finger fracture)"
     },
     {
       "date": "2026-05-22",
@@ -76,20 +76,20 @@
     },
     {
       "date": "2026-05-22",
-      "type": "",
-      "player": "Jose Caballero",
-      "description": "Removed From 10-Day IL (Right middle finger fracture)"
-    },
-    {
-      "date": "2026-05-21",
-      "type": "sent",
-      "player": "Yovanny Cruz",
-      "description": "Sent to Minors"
+      "type": "recalled",
+      "player": "Gerrit Cole",
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-05-21",
       "type": "sent",
       "player": "Spencer Jones",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-05-21",
+      "type": "sent",
+      "player": "Yovanny Cruz",
       "description": "Sent to Minors"
     },
     {
@@ -106,15 +106,15 @@
     },
     {
       "date": "2026-05-16",
-      "type": "called up",
-      "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-05-16",
       "type": "placed",
       "player": "Max Fried",
       "description": "Placed on 15-Day IL (Left elbow bone bruise)"
+    },
+    {
+      "date": "2026-05-16",
+      "type": "called up",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-05-12",
@@ -130,6 +130,12 @@
     },
     {
       "date": "2026-05-10",
+      "type": "",
+      "player": "Carlos Rodon",
+      "description": "Removed From 15-Day IL (Recovery from left elbow surgery)"
+    },
+    {
+      "date": "2026-05-10",
       "type": "recalled",
       "player": "Carlos Rodon",
       "description": "Recalled From Minors Rehab Assignment"
@@ -141,12 +147,6 @@
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-05-10",
-      "type": "",
-      "player": "Carlos Rodon",
-      "description": "Removed From 15-Day IL (Recovery from left elbow surgery)"
-    },
-    {
       "date": "2026-05-08",
       "type": "placed",
       "player": "Jasson Dominguez",
@@ -155,26 +155,26 @@
     {
       "date": "2026-05-08",
       "type": "called up",
-      "player": "Spencer Jones",
+      "player": "Kervin Castro",
       "description": "Called Up from Minors"
     },
     {
       "date": "2026-05-08",
       "type": "called up",
-      "player": "Kervin Castro",
+      "player": "Spencer Jones",
       "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-05-07",
-      "type": "purchased",
-      "player": "Brendan Beck",
-      "description": "Purchased From Minors"
     },
     {
       "date": "2026-05-07",
       "type": "sent",
       "player": "Brendan Beck",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-05-07",
+      "type": "purchased",
+      "player": "Brendan Beck",
+      "description": "Purchased From Minors"
     },
     {
       "date": "2026-05-06",
@@ -196,15 +196,15 @@
     },
     {
       "date": "2026-05-03",
-      "type": "",
-      "player": "Anthony Volpe",
-      "description": "Removed From 10-Day IL (Recovery from left labrum surgery)"
-    },
-    {
-      "date": "2026-05-03",
       "type": "recalled",
       "player": "Anthony Volpe",
       "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-05-03",
+      "type": "",
+      "player": "Anthony Volpe",
+      "description": "Removed From 10-Day IL (Recovery from left labrum surgery)"
     },
     {
       "date": "2026-05-03",
@@ -226,27 +226,27 @@
     },
     {
       "date": "2026-04-29",
-      "type": "called up",
-      "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-04-29",
       "type": "designated",
       "player": "Randal Grichuk",
       "description": "Designated for Assignment"
     },
     {
-      "date": "2026-04-28",
-      "type": "placed",
-      "player": "Giancarlo Stanton",
-      "description": "Placed on 10-Day IL (Strained right calf)"
+      "date": "2026-04-29",
+      "type": "called up",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-04-28",
       "type": "called up",
       "player": "Max Schuemann",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-04-28",
+      "type": "placed",
+      "player": "Giancarlo Stanton",
+      "description": "Placed on 10-Day IL (Strained right calf)"
     },
     {
       "date": "2026-04-27",
@@ -304,12 +304,6 @@
     },
     {
       "date": "2026-04-14",
-      "type": "called up",
-      "player": "Yerry De Los Santos",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-04-14",
       "type": "sent",
       "player": "Anthony Volpe",
       "description": "Sent to Minors For Rehabilitation"
@@ -321,10 +315,10 @@
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-04-13",
-      "type": "sent",
-      "player": "Jacob Bird",
-      "description": "Sent to Minors"
+      "date": "2026-04-14",
+      "type": "called up",
+      "player": "Yerry De Los Santos",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-04-13",
@@ -333,16 +327,22 @@
       "description": "Drafted Player Returned to Minors"
     },
     {
-      "date": "2026-04-10",
-      "type": "designated",
-      "player": "Cade Winquest",
-      "description": "Designated for Assignment"
+      "date": "2026-04-13",
+      "type": "sent",
+      "player": "Jacob Bird",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-04-10",
       "type": "called up",
       "player": "Luis Gil",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-04-10",
+      "type": "designated",
+      "player": "Cade Winquest",
+      "description": "Designated for Assignment"
     }
   ]
 }
