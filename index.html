@@ -145,6 +145,16 @@ footer a:hover{text-decoration:underline}
 .tx-group ul{list-style:none;padding:0;margin:0}
 .tx-group li{padding:3px 0;font-size:13.5px;line-height:1.45}
 .tx-type{color:var(--navy);font-weight:600}
+.tx-row{display:flex;align-items:center;gap:8px;flex-wrap:wrap;padding:5px 0;cursor:pointer;font-size:13.5px;line-height:1.45;border-bottom:1px solid #f0f0f0}
+.tx-row:last-of-type{border-bottom:none}
+.tx-row:hover{background:#fafafa}
+.tx-caret{color:var(--gray);font-size:10px;width:10px;display:inline-block;flex-shrink:0}
+.tx-row[aria-expanded=true] .tx-caret::before{content:"▾"}
+.tx-row[aria-expanded=false] .tx-caret::before{content:"▸"}
+.tx-pill{display:inline-block;border-radius:4px;padding:2px 8px;font-size:11px;font-weight:600;white-space:nowrap}
+.tx-arrow{color:var(--gray);font-size:12.5px}
+.tx-detail{margin:0 0 6px 18px;padding:6px 0 6px 12px;border-left:3px solid var(--navy);color:#6b7280;font-style:italic;font-size:12.5px;line-height:1.5}
+.tx-detail[hidden]{display:none}
 .empty{padding:14px 0;color:var(--gray);font-style:italic;text-align:center}
 .controls{display:flex;flex-wrap:wrap;gap:10px 12px;align-items:center;margin-bottom:12px;font-size:13px}
 .ctrl-label{display:flex;gap:6px;align-items:center;color:var(--gray);white-space:nowrap}
@@ -355,11 +365,12 @@ async function fetchJson(url){
 }
 
 async function fetchAll(){
-  const [h, t, c, p] = await Promise.all([
+  const [h, t, c, p, cbs] = await Promise.all([
     fetchJson("data/org-hitters.json"),
     fetchJson("data/org-transactions.json"),
     fetchJson("data/contracts.json").catch(() => ({})),
     fetchJson("data/org-pitchers.json").catch(() => ({})),
+    fetchJson("data/transactions.json").catch(() => ({})),
   ]);
   const contracts = (c && c.players) || c || {};
   D.hitters = ((h && h.hitters) || []).map(x => ({
@@ -370,7 +381,22 @@ async function fetchAll(){
     ...x,
     contract: contracts[String(x.id)] || contracts[x.id] || null,
   }));
-  D.tx = (t && t.items) || [];
+  // Lead with CBS feed (has `description`); merge from/to/type_desc from the
+  // org (MLB Stats API) feed by matching on player+date.
+  const orgItems = (t && t.items) || [];
+  const orgByKey = {};
+  for (const o of orgItems) orgByKey[(o.player||"") + "|" + (o.date||"")] = o;
+  const cbsItems = (cbs && cbs.items) || [];
+  D.tx = cbsItems.map(it => {
+    const o = orgByKey[(it.player||"") + "|" + (it.date||"")];
+    return {
+      ...it,
+      from: it.from != null ? it.from : (o ? o.from : null),
+      to: it.to != null ? it.to : (o ? o.to : null),
+      type_desc: it.type_desc || (o ? o.type_desc : ""),
+    };
+  });
+  if (!D.tx.length) D.tx = orgItems; // fallback if CBS feed empty
   const setStamp = (sel, d) => {
     const el = $(sel);
     if (!el) return;
@@ -386,6 +412,33 @@ async function fetchAll(){
   setStamp("#pitchers-updated", p);
 }
 
+function deriveTxTag(tx) {
+  const text = `${tx.type_code || ''} ${tx.type_desc || ''} ${tx.type || ''} ${tx.description || ''}`.toLowerCase();
+  if (/\b(60-day|10-day|15-day|injured list|il\b|placed on .* il|injury)\b/.test(text)) return 'Injury';
+  if (/\btrade(d)?\b|acquired|sent to .* in exchange/.test(text)) return 'Trade';
+  if (/\b(free agent|signed as|signed to .* contract|signed .* deal)\b/.test(text)) return 'Free Agent';
+  if (/\breleased\b|outrighted|designated for assignment|\bdfa\b/.test(text)) return 'Release';
+  if (/\b(recalled|selected|called up|promoted)\b/.test(text)) return 'Call-Up';
+  if (/\b(optioned|sent down|assigned to)\b/.test(text)) return 'Send-Down';
+  if (/\bsuspend(ed|ion)\b/.test(text)) return 'Suspension';
+  if (/\b(activated|reinstated|transferred|claimed off waivers|waived)\b/.test(text)) return 'Roster Move';
+  return 'Other';
+}
+
+const TX_TAG_COLOR = {
+  'Injury': '#dc2626', 'Trade': '#7c3aed', 'Free Agent': '#16a34a',
+  'Release': '#6b7280', 'Call-Up': '#0C2340', 'Send-Down': '#d97706',
+  'Suspension': '#991b1b', 'Roster Move': '#2563eb', 'Other': '#6b7280'
+};
+
+function txHexA(hex, a){ const n = parseInt(hex.slice(1), 16); return `rgba(${(n>>16)&255},${(n>>8)&255},${n&255},${a})`; }
+
+function txPill(tag){
+  const c = TX_TAG_COLOR[tag] || '#6b7280';
+  return '<span class="tx-pill" style="background:' + txHexA(c,0.12) + ';color:' + c
+    + ';border:1px solid ' + txHexA(c,0.4) + '">' + esc(tag) + '</span>';
+}
+
 function renderTransactions(){
   const cutoff = new Date(); cutoff.setDate(cutoff.getDate() - 7);
   const cutoffISO = cutoff.toISOString().slice(0, 10);
@@ -399,15 +452,33 @@ function renderTransactions(){
   const dates = Object.keys(byDate).sort().reverse();
   let html = "";
   for (const d of dates) {
-    html += '<div class="tx-group"><h3>' + esc(fmtDate(d)) + '</h3><ul>';
+    html += '<div class="tx-group"><h3>' + esc(fmtDate(d)) + '</h3>';
     for (const t of byDate[d]) {
-      const arrow = t.from ? esc(t.from) + " → " + esc(t.to||"—") : esc(t.to||"—");
-      html += '<li><span class="tx-type">' + esc(t.type_desc||"") + '</span>: '
-        + '<strong>' + esc(t.player||"") + '</strong> — ' + arrow + '</li>';
+      const tag = deriveTxTag(t);
+      const arrow = t.from
+        ? '<span class="tx-arrow">' + esc(t.from) + " → " + esc(t.to||"—") + '</span>'
+        : (t.to ? '<span class="tx-arrow">' + esc(t.to) + '</span>' : '');
+      const detail = esc(t.description || t.type_desc || "No further detail.");
+      html += '<div class="tx-row" role="button" tabindex="0" aria-expanded="false">'
+        + '<span class="tx-caret"></span>' + txPill(tag)
+        + '<strong>' + esc(t.player||"") + '</strong>' + arrow
+        + '</div><div class="tx-detail" hidden>' + detail + '</div>';
     }
-    html += '</ul></div>';
+    html += '</div>';
   }
   $("#tx-body").innerHTML = html;
+  $("#tx-body").querySelectorAll(".tx-row").forEach(row => {
+    const toggle = () => {
+      const open = row.getAttribute("aria-expanded") === "true";
+      row.setAttribute("aria-expanded", String(!open));
+      const dt = row.nextElementSibling;
+      if (dt && dt.classList.contains("tx-detail")) dt.hidden = open;
+    };
+    row.addEventListener("click", toggle);
+    row.addEventListener("keydown", e => {
+      if (e.key === "Enter" || e.key === " ") { e.preventDefault(); toggle(); }
+    });
+  });
 }
 
 function applyFilters(){

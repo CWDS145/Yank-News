@@ -74,6 +74,13 @@ table.data thead th button[data-sort=asc]::after{content:" ▲"}
 table.data thead th button[data-sort=desc]::after{content:" ▼"}
 table.data tbody tr:hover{background:#fafafa}
 .team-totals td{font-weight:700;background:#f3f4f6}
+tr.tx-row{cursor:pointer}
+tr.tx-row td:first-child::before{content:"▸ ";color:var(--muted);font-size:10px}
+tr.tx-row[aria-expanded=true] td:first-child::before{content:"▾ "}
+tr.tx-detail-row{display:none}
+tr.tx-detail-row.open{display:table-row}
+tr.tx-detail-row td{text-align:left;color:#6b7280;font-style:italic;border-left:3px solid var(--navy);padding-left:12px;font-size:12px;line-height:1.5;background:#fafafa}
+.tx-pill{display:inline-block;border-radius:4px;padding:2px 8px;font-size:11px;font-weight:600;white-space:nowrap}
 .subtabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
 .subtabs button{background:var(--card);border:1px solid var(--border);padding:6px 12px;border-radius:999px;font-size:12.5px;color:var(--text)}
 .subtabs button[aria-selected=true]{background:var(--navy);color:#fff;border-color:var(--navy)}
@@ -211,6 +218,33 @@ const S = {
 const $ = sel => document.querySelector(sel);
 const $$ = (sel, root=document) => Array.from(root.querySelectorAll(sel));
 function esc(s){ if (s==null) return ""; return String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+
+function deriveTxTag(tx) {
+  const text = `${tx.type_code || ''} ${tx.type_desc || ''} ${tx.type || ''} ${tx.description || ''}`.toLowerCase();
+  if (/\b(60-day|10-day|15-day|injured list|il\b|placed on .* il|injury)\b/.test(text)) return 'Injury';
+  if (/\btrade(d)?\b|acquired|sent to .* in exchange/.test(text)) return 'Trade';
+  if (/\b(free agent|signed as|signed to .* contract|signed .* deal)\b/.test(text)) return 'Free Agent';
+  if (/\breleased\b|outrighted|designated for assignment|\bdfa\b/.test(text)) return 'Release';
+  if (/\b(recalled|selected|called up|promoted)\b/.test(text)) return 'Call-Up';
+  if (/\b(optioned|sent down|assigned to)\b/.test(text)) return 'Send-Down';
+  if (/\bsuspend(ed|ion)\b/.test(text)) return 'Suspension';
+  if (/\b(activated|reinstated|transferred|claimed off waivers|waived)\b/.test(text)) return 'Roster Move';
+  return 'Other';
+}
+
+const TX_TAG_COLOR = {
+  'Injury': '#dc2626', 'Trade': '#7c3aed', 'Free Agent': '#16a34a',
+  'Release': '#6b7280', 'Call-Up': '#0C2340', 'Send-Down': '#d97706',
+  'Suspension': '#991b1b', 'Roster Move': '#2563eb', 'Other': '#6b7280'
+};
+
+function txHexA(hex, a){ const n = parseInt(hex.slice(1), 16); return `rgba(${(n>>16)&255},${(n>>8)&255},${n&255},${a})`; }
+
+function txPill(tag){
+  const c = TX_TAG_COLOR[tag] || '#6b7280';
+  return '<span class="tx-pill" style="background:' + txHexA(c,0.12) + ';color:' + c
+    + ';border:1px solid ' + txHexA(c,0.4) + '">' + esc(tag) + '</span>';
+}
 function fmt(v){ return (v==null||v==="") ? "—" : String(v); }
 function fmtNum(v){ if (v==null||v==="") return "—"; const n = +v; return Number.isFinite(n) ? n.toLocaleString() : String(v); }
 function relAbs(d){
@@ -466,14 +500,18 @@ function renderNews(){
     const items = tx.filter(t => t.date && new Date(t.date) >= cutoff30);
     if (items.length) {
       txSection = '<h2 id="tx-section" style="margin:24px 0 12px;font-size:18px;color:var(--navy)">Recent Transactions</h2>' +
+        '<p class="help-text">Click a row to see the full description.</p>' +
         '<div class="card scroll-x" style="padding:0">' +
-        '<table class="data"><thead><tr><th>Date</th><th>Type</th><th>Player</th><th style="text-align:left">Description</th></tr></thead><tbody>' +
-        items.map(t =>
-          '<tr><td>' + esc(t.date) + '</td>' +
-              '<td>' + esc(t.type) + '</td>' +
-              '<td>' + esc(t.player) + '</td>' +
-              '<td style="text-align:left">' + esc(t.description) + '</td></tr>'
-        ).join("") +
+        '<table class="data" id="tx-table"><thead><tr><th>Date</th><th>Reason</th><th>Player</th></tr></thead><tbody>' +
+        items.map((t, i) => {
+          const tag = deriveTxTag(t);
+          const detail = esc(t.description || t.type_desc || t.type || "No further detail.");
+          return '<tr class="tx-row" data-tx="' + i + '" role="button" tabindex="0" aria-expanded="false">' +
+              '<td>' + esc(t.date) + '</td>' +
+              '<td>' + txPill(tag) + '</td>' +
+              '<td>' + esc(t.player) + '</td></tr>' +
+            '<tr class="tx-detail-row" data-tx="' + i + '"><td colspan="3">' + detail + '</td></tr>';
+        }).join("") +
         '</tbody></table></div>';
     }
   }
@@ -493,6 +531,15 @@ function renderNews(){
   });
   const tg = $("#show-tx-toggle");
   if (tg) tg.addEventListener("change", e => { S.filters.showTx = e.target.checked; renderNews(); });
+  const txTable = $("#tx-table");
+  if (txTable) txTable.addEventListener("click", e => {
+    const row = e.target.closest("tr.tx-row");
+    if (!row) return;
+    const detail = txTable.querySelector('tr.tx-detail-row[data-tx="' + row.dataset.tx + '"]');
+    const open = row.getAttribute("aria-expanded") === "true";
+    row.setAttribute("aria-expanded", String(!open));
+    if (detail) detail.classList.toggle("open", !open);
+  });
 }
 
 // ---------- Stats tab
