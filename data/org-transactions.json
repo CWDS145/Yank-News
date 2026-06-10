@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T06:45:01Z",
+  "updated": "2026-06-10T10:47:02Z",
   "items": [
     {
       "id": 916418,
@@ -15,19 +15,6 @@
       "description": "New York Yankees placed C Austin Wells on the 10-day injured list. Cervical headaches."
     },
     {
-      "id": 916419,
-      "date": "2026-06-06",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 641555,
-      "player": "J.C. Escarra",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled C J.C. Escarra from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 916316,
       "date": "2026-06-06",
       "type_code": "SE",
@@ -41,17 +28,17 @@
       "description": "New York Yankees selected the contract of C Ali Sánchez from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 916061,
-      "date": "2026-06-05",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 592450,
-      "player": "Aaron Judge",
-      "from_team_id": null,
+      "id": 916419,
+      "date": "2026-06-06",
+      "type_code": "CU",
+      "type_desc": "Recalled",
+      "player_id": 641555,
+      "player": "J.C. Escarra",
+      "from_team_id": 531,
       "to_team_id": 147,
-      "from": null,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
-      "description": "New York Yankees placed RF Aaron Judge on the 10-day injured list retroactive to June 2, 2026. Right rib stress fracture."
+      "description": "New York Yankees recalled C J.C. Escarra from Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 916076,
@@ -65,6 +52,19 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees sent LF Jasson Domínguez on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 916061,
+      "date": "2026-06-05",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 592450,
+      "player": "Aaron Judge",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees placed RF Aaron Judge on the 10-day injured list retroactive to June 2, 2026. Right rib stress fracture."
     },
     {
       "id": 916243,
@@ -184,19 +184,6 @@
       "description": "New York Yankees activated SS José Caballero from the 10-day injured list."
     },
     {
-      "id": 910916,
-      "date": "2026-05-22",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 682987,
-      "player": "Spencer Jones",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees optioned RF Spencer Jones to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 910915,
       "date": "2026-05-22",
       "type_code": "OPT",
@@ -208,6 +195,19 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees optioned RHP Yovanny Cruz to Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 910916,
+      "date": "2026-05-22",
+      "type_code": "OPT",
+      "type_desc": "Optioned",
+      "player_id": 682987,
+      "player": "Spencer Jones",
+      "from_team_id": 147,
+      "to_team_id": 531,
+      "from": "New York Yankees",
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees optioned RF Spencer Jones to Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 909982,
@@ -236,7 +236,7 @@
       "description": "New York Yankees selected the contract of RHP Yovanny Cruz from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 910995,
+      "id": 909544,
       "date": "2026-05-16",
       "type_code": "ASG",
       "type_desc": "Assigned",
@@ -262,7 +262,7 @@
       "description": "New York Yankees placed LHP Max Fried on the 15-day injured list retroactive to May 14, 2026. Left elbow bone bruise."
     },
     {
-      "id": 909544,
+      "id": 910995,
       "date": "2026-05-16",
       "type_code": "ASG",
       "type_desc": "Assigned",
