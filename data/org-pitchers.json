@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T17:08:16Z",
+  "updated": "2026-06-11T19:51:18Z",
   "season": 2026,
   "pitchers": [
     {
@@ -193,10 +193,10 @@
       "id": 683409,
       "name": "Angel Chivilli",
       "position": "P",
-      "level": "MLB",
-      "level_since": "2026-04-15",
-      "prior_level": "AAA",
-      "prior_level_since": "2026-03-19",
+      "level": "AAA",
+      "level_since": "2026-06-10",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-04-15",
       "season": {
         "w": 0,
         "l": 0,
