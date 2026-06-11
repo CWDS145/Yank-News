@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T05:02:06Z",
+  "updated": "2026-06-11T09:24:15Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-06-01",
@@ -1959,7 +1959,7 @@
       "name": "Tyler Hardman",
       "position": "1B",
       "level": "AAA",
-      "level_since": null,
+      "level_since": "2026-05-23",
       "prior_level": null,
       "prior_level_since": null,
       "season": {

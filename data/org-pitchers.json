@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T05:06:46Z",
+  "updated": "2026-06-11T09:28:00Z",
   "season": 2026,
   "pitchers": [
     {
@@ -567,9 +567,9 @@
       "name": "Bryce Warrecker",
       "position": "P",
       "level": "High-A",
-      "level_since": null,
-      "prior_level": null,
-      "prior_level_since": null,
+      "level_since": "2026-05-19",
+      "prior_level": "Low-A",
+      "prior_level_since": "2026-04-29",
       "season": {
         "w": 0,
         "l": 0,
