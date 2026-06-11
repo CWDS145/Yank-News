@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T13:07:05Z",
+  "updated": "2026-06-11T17:04:42Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-06-01",
@@ -1922,6 +1922,19 @@
         "MLB",
         "AAA"
       ]
+    },
+    {
+      "id": 694281,
+      "name": "Tomas Frick",
+      "position": "C",
+      "level": "AA",
+      "level_since": "2026-04-02",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "last_10": null,
+      "season_levels": [],
+      "last_10_levels": []
     },
     {
       "id": 663757,
