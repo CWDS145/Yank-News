@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T23:56:32Z",
+  "updated": "2026-06-12T05:04:39Z",
   "items": [
     {
       "id": 917452,
@@ -325,32 +325,6 @@
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
       "description": "New York Yankees recalled RHP Elmer Rodríguez from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 907881,
-      "date": "2026-05-12",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 676609,
-      "player": "José Caballero",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees placed SS José Caballero on the 10-day injured list. Right middle finger fracture."
-    },
-    {
-      "id": 907880,
-      "date": "2026-05-12",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 683011,
-      "player": "Anthony Volpe",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled SS Anthony Volpe from Scranton/Wilkes-Barre RailRiders."
     }
   ]
 }
