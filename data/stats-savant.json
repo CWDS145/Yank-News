@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T09:11:13Z",
+  "updated": "2026-06-12T12:30:08Z",
   "season": 2026,
   "players": [
     {
@@ -53,7 +53,7 @@
       "statcast_batting": null,
       "sprint_speed": {
         "sprint_speed": 28.1,
-        "hp_to_1b": null,
+        "hp_to_1b": 4.38,
         "bolts": null
       }
     },
@@ -160,12 +160,12 @@
       "expected_pitching": {
         "pa": 103,
         "est_ba": 0.233,
-        "est_slg": 0.35,
+        "est_slg": 0.351,
         "est_woba": 0.264,
         "ba": 0.26,
         "slg": 0.427,
-        "woba": 0.305,
-        "est_woba_minus_woba": -0.041
+        "woba": 0.304,
+        "est_woba_minus_woba": -0.04
       },
       "statcast_batting": null,
       "sprint_speed": null
@@ -229,8 +229,8 @@
         "est_woba": 0.265,
         "ba": 0.248,
         "slg": 0.367,
-        "woba": 0.308,
-        "est_woba_minus_woba": -0.043
+        "woba": 0.307,
+        "est_woba_minus_woba": -0.042
       },
       "statcast_batting": null,
       "sprint_speed": null
@@ -304,8 +304,8 @@
         "est_woba": 0.313,
         "ba": 0.274,
         "slg": 0.438,
-        "woba": 0.349,
-        "est_woba_minus_woba": -0.036
+        "woba": 0.348,
+        "est_woba_minus_woba": -0.035
       },
       "statcast_batting": null,
       "sprint_speed": null
@@ -395,8 +395,8 @@
         "est_woba": 0.385,
         "ba": 0.211,
         "slg": 0.507,
-        "woba": 0.371,
-        "est_woba_minus_woba": 0.014
+        "woba": 0.37,
+        "est_woba_minus_woba": 0.015
       },
       "statcast_batting": null,
       "sprint_speed": null
@@ -457,8 +457,8 @@
         "est_woba": 0.378,
         "ba": 0.287,
         "slg": 0.524,
-        "woba": 0.389,
-        "est_woba_minus_woba": -0.011
+        "woba": 0.388,
+        "est_woba_minus_woba": -0.01
       },
       "expected_pitching": null,
       "statcast_batting": {
@@ -520,8 +520,8 @@
         "est_woba": 0.321,
         "ba": 0.231,
         "slg": 0.405,
-        "woba": 0.305,
-        "est_woba_minus_woba": 0.016
+        "woba": 0.304,
+        "est_woba_minus_woba": 0.017
       },
       "statcast_batting": null,
       "sprint_speed": null
@@ -570,8 +570,8 @@
         "est_woba": 0.359,
         "ba": 0.232,
         "slg": 0.409,
-        "woba": 0.336,
-        "est_woba_minus_woba": 0.023
+        "woba": 0.335,
+        "est_woba_minus_woba": 0.024
       },
       "expected_pitching": null,
       "statcast_batting": {
@@ -587,7 +587,7 @@
       },
       "sprint_speed": {
         "sprint_speed": 26.7,
-        "hp_to_1b": 4.53,
+        "hp_to_1b": 4.51,
         "bolts": null
       }
     },
