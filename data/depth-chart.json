@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T13:56:16Z",
+  "updated": "2026-06-12T12:51:35Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -130,16 +130,11 @@
       {
         "name": "Paul Blackburn",
         "rank": 8
-      },
-      {
-        "name": "Angel Chivilli",
-        "rank": 9
       }
     ]
   },
   "all_players": [
     "Ali Sanchez",
-    "Angel Chivilli",
     "Austin Wells",
     "Ben Rice",
     "Brent Headrick",
