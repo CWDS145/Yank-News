@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T13:15:25Z",
+  "updated": "2026-06-13T15:14:00Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-06-03",
@@ -1016,9 +1016,9 @@
       "name": "Jasson Domínguez",
       "position": "LF",
       "level": "MLB",
-      "level_since": "2026-06-05",
+      "level_since": "2026-06-13",
       "prior_level": "AAA",
-      "prior_level_since": "2026-03-20",
+      "prior_level_since": "2026-06-05",
       "season": {
         "ab": 140,
         "k": 24,
@@ -1960,7 +1960,7 @@
       "name": "Trent Grisham",
       "position": "CF",
       "level": "MLB",
-      "level_since": null,
+      "level_since": "2026-06-13",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
