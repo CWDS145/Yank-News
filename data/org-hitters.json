@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T21:40:32Z",
+  "updated": "2026-06-13T22:49:06Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-06-03",
@@ -591,37 +591,6 @@
       ],
       "last_10_levels": [
         "Low-A"
-      ]
-    },
-    {
-      "id": 702750,
-      "name": "Edinson Duran",
-      "position": "C",
-      "level": "AAA",
-      "level_since": "2026-04-02",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 5,
-        "k": 1,
-        "avg": ".200",
-        "ops": ".733",
-        "avg_num": 0.2,
-        "ops_num": 0.7333333333333334
-      },
-      "last_10": {
-        "ab": 2,
-        "k": 0,
-        "avg": ".000",
-        "ops": ".333",
-        "avg_num": 0.0,
-        "ops_num": 0.3333333333333333
-      },
-      "season_levels": [
-        "AAA"
-      ],
-      "last_10_levels": [
-        "AAA"
       ]
     },
     {
@@ -1241,20 +1210,20 @@
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 188,
-        "k": 40,
-        "avg": ".261",
-        "ops": ".711",
-        "avg_num": 0.26063829787234044,
-        "ops_num": 0.7106901920083031
+        "ab": 189,
+        "k": 41,
+        "avg": ".259",
+        "ops": ".707",
+        "avg_num": 0.25925925925925924,
+        "ops_num": 0.7070683721169158
       },
       "last_10": {
-        "ab": 25,
-        "k": 7,
-        "avg": ".280",
-        "ops": ".801",
-        "avg_num": 0.28,
-        "ops_num": 0.8014285714285714
+        "ab": 26,
+        "k": 8,
+        "avg": ".269",
+        "ops": ".772",
+        "avg_num": 0.2692307692307692,
+        "ops_num": 0.7718832891246685
       },
       "season_levels": [
         "MLB"
