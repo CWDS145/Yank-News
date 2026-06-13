@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T01:38:11Z",
+  "updated": "2026-06-13T06:19:52Z",
   "count": 57,
   "items": [
     {
@@ -52,6 +52,12 @@
     },
     {
       "date": "2026-06-05",
+      "type": "sent",
+      "player": "Jasson Dominguez",
+      "description": "Sent to Minors For Rehabilitation"
+    },
+    {
+      "date": "2026-06-05",
       "type": "placed",
       "player": "Aaron Judge",
       "description": "Placed on 10-Day IL (Right rib stress fracture)"
@@ -61,12 +67,6 @@
       "type": "sent",
       "player": "J.C. Escarra",
       "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-06-05",
-      "type": "sent",
-      "player": "Jasson Dominguez",
-      "description": "Sent to Minors For Rehabilitation"
     },
     {
       "date": "2026-06-02",
@@ -89,14 +89,14 @@
     {
       "date": "2026-05-22",
       "type": "",
-      "player": "Jose Caballero",
-      "description": "Removed From 10-Day IL (Right middle finger fracture)"
+      "player": "Gerrit Cole",
+      "description": "Removed From 15-Day IL (Recovery from right elbow surgery)"
     },
     {
       "date": "2026-05-22",
       "type": "",
-      "player": "Gerrit Cole",
-      "description": "Removed From 15-Day IL (Recovery from right elbow surgery)"
+      "player": "Jose Caballero",
+      "description": "Removed From 10-Day IL (Right middle finger fracture)"
     },
     {
       "date": "2026-05-22",
@@ -107,13 +107,13 @@
     {
       "date": "2026-05-21",
       "type": "sent",
-      "player": "Spencer Jones",
+      "player": "Yovanny Cruz",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-05-21",
       "type": "sent",
-      "player": "Yovanny Cruz",
+      "player": "Spencer Jones",
       "description": "Sent to Minors"
     },
     {
@@ -130,15 +130,15 @@
     },
     {
       "date": "2026-05-16",
-      "type": "called up",
-      "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-05-16",
       "type": "placed",
       "player": "Max Fried",
       "description": "Placed on 15-Day IL (Left elbow bone bruise)"
+    },
+    {
+      "date": "2026-05-16",
+      "type": "called up",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-05-12",
@@ -154,12 +154,6 @@
     },
     {
       "date": "2026-05-10",
-      "type": "sent",
-      "player": "Kervin Castro",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-05-10",
       "type": "",
       "player": "Carlos Rodon",
       "description": "Removed From 15-Day IL (Recovery from left elbow surgery)"
@@ -169,6 +163,12 @@
       "type": "recalled",
       "player": "Carlos Rodon",
       "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-05-10",
+      "type": "sent",
+      "player": "Kervin Castro",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-08",
@@ -262,15 +262,15 @@
     },
     {
       "date": "2026-04-28",
-      "type": "placed",
-      "player": "Giancarlo Stanton",
-      "description": "Placed on 10-Day IL (Strained right calf)"
-    },
-    {
-      "date": "2026-04-28",
       "type": "called up",
       "player": "Max Schuemann",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-04-28",
+      "type": "placed",
+      "player": "Giancarlo Stanton",
+      "description": "Placed on 10-Day IL (Strained right calf)"
     },
     {
       "date": "2026-04-27",
