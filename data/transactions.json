@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-13T22:37:14Z",
-  "count": 60,
+  "updated": "2026-06-14T00:10:19Z",
+  "count": 57,
   "items": [
     {
       "date": "2026-06-13",
@@ -52,15 +52,15 @@
     },
     {
       "date": "2026-06-06",
-      "type": "purchased",
-      "player": "Ali Sanchez",
-      "description": "Purchased From Minors"
-    },
-    {
-      "date": "2026-06-06",
       "type": "placed",
       "player": "Austin Wells",
       "description": "Placed on 10-Day IL (Cervical headaches)"
+    },
+    {
+      "date": "2026-06-06",
+      "type": "purchased",
+      "player": "Ali Sanchez",
+      "description": "Purchased From Minors"
     },
     {
       "date": "2026-06-05",
@@ -343,24 +343,6 @@
       "type": "called up",
       "player": "Angel Chivilli",
       "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-04-14",
-      "type": "called up",
-      "player": "Yerry De Los Santos",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-04-14",
-      "type": "sent",
-      "player": "Yerry De Los Santos",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-04-14",
-      "type": "sent",
-      "player": "Anthony Volpe",
-      "description": "Sent to Minors For Rehabilitation"
     }
   ]
 }
