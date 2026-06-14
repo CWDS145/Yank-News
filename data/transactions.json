@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T00:10:19Z",
+  "updated": "2026-06-14T05:16:21Z",
   "count": 57,
   "items": [
     {
@@ -22,6 +22,12 @@
     },
     {
       "date": "2026-06-11",
+      "type": "sent",
+      "player": "Angel Chivilli",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-06-11",
       "type": "recalled",
       "player": "Angel Chivilli",
       "description": "Recalled From Minors Rehab Assignment"
@@ -33,16 +39,16 @@
       "description": "Removed From 15-Day IL (Right shoulder discomfort)"
     },
     {
-      "date": "2026-06-11",
-      "type": "sent",
-      "player": "Angel Chivilli",
-      "description": "Sent to Minors"
-    },
-    {
       "date": "2026-06-10",
       "type": "sent",
       "player": "Angel Chivilli",
       "description": "Sent to Minors For Rehabilitation"
+    },
+    {
+      "date": "2026-06-06",
+      "type": "purchased",
+      "player": "Ali Sanchez",
+      "description": "Purchased From Minors"
     },
     {
       "date": "2026-06-06",
@@ -57,10 +63,16 @@
       "description": "Placed on 10-Day IL (Cervical headaches)"
     },
     {
-      "date": "2026-06-06",
-      "type": "purchased",
-      "player": "Ali Sanchez",
-      "description": "Purchased From Minors"
+      "date": "2026-06-05",
+      "type": "placed",
+      "player": "Aaron Judge",
+      "description": "Placed on 10-Day IL (Right rib stress fracture)"
+    },
+    {
+      "date": "2026-06-05",
+      "type": "sent",
+      "player": "J.C. Escarra",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-06-05",
@@ -73,18 +85,6 @@
       "type": "sent",
       "player": "Jasson Dominguez",
       "description": "Sent to Minors For Rehabilitation"
-    },
-    {
-      "date": "2026-06-05",
-      "type": "sent",
-      "player": "J.C. Escarra",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-06-05",
-      "type": "placed",
-      "player": "Aaron Judge",
-      "description": "Placed on 10-Day IL (Right rib stress fracture)"
     },
     {
       "date": "2026-06-02",
@@ -208,15 +208,15 @@
     },
     {
       "date": "2026-05-07",
-      "type": "sent",
-      "player": "Brendan Beck",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-05-07",
       "type": "purchased",
       "player": "Brendan Beck",
       "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-05-07",
+      "type": "sent",
+      "player": "Brendan Beck",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-06",
@@ -238,12 +238,6 @@
     },
     {
       "date": "2026-05-03",
-      "type": "sent",
-      "player": "Anthony Volpe",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-05-03",
       "type": "",
       "player": "Anthony Volpe",
       "description": "Removed From 10-Day IL (Recovery from left labrum surgery)"
@@ -255,10 +249,10 @@
       "description": "Recalled From Minors Rehab Assignment"
     },
     {
-      "date": "2026-05-01",
-      "type": "",
-      "player": "Randal Grichuk",
-      "description": "Refused Minor League Assignment - Free Agent"
+      "date": "2026-05-03",
+      "type": "sent",
+      "player": "Anthony Volpe",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-01",
@@ -267,16 +261,22 @@
       "description": "Declared Free Agency"
     },
     {
-      "date": "2026-04-29",
-      "type": "designated",
+      "date": "2026-05-01",
+      "type": "",
       "player": "Randal Grichuk",
-      "description": "Designated for Assignment"
+      "description": "Refused Minor League Assignment - Free Agent"
     },
     {
       "date": "2026-04-29",
       "type": "called up",
       "player": "Elmer Rodriguez",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-04-29",
+      "type": "designated",
+      "player": "Randal Grichuk",
+      "description": "Designated for Assignment"
     },
     {
       "date": "2026-04-28",
