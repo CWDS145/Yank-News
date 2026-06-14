@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T13:25:18Z",
+  "updated": "2026-06-14T15:35:03Z",
   "season": 2026,
   "pitchers": [
     {
@@ -80,10 +80,10 @@
       "id": 529017,
       "name": "Alexander Cornielle",
       "position": "P",
-      "level": "AA",
-      "level_since": "2026-06-11",
-      "prior_level": "Low-A",
-      "prior_level_since": "2026-06-04",
+      "level": "AAA",
+      "level_since": "2026-06-14",
+      "prior_level": "AA",
+      "prior_level_since": "2026-06-11",
       "season": {
         "w": 0,
         "l": 1,
@@ -2817,10 +2817,10 @@
       "id": 684608,
       "name": "Will Brian",
       "position": "P",
-      "level": "AAA",
-      "level_since": "2026-06-11",
-      "prior_level": null,
-      "prior_level_since": null,
+      "level": "AA",
+      "level_since": "2026-06-14",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-06-11",
       "season": {
         "w": 1,
         "l": 2,
