@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T11:51:52Z",
+  "updated": "2026-06-14T11:54:03Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -48,13 +48,13 @@
     ],
     "CF": [
       {
-        "name": "Trent Grisham",
+        "name": "Spencer G. Jones",
         "rank": 1
       }
     ],
     "RF": [
       {
-        "name": "Spencer G. Jones",
+        "name": "Jasson Dominguez",
         "rank": 1
       }
     ],
@@ -149,6 +149,7 @@
     "Giancarlo Stanton",
     "J.C. Escarra",
     "Jake Bird",
+    "Jasson Dominguez",
     "Jazz Chisholm",
     "Jose Caballero",
     "Max Fried",
@@ -159,7 +160,6 @@
     "Ryan Yarbrough",
     "Spencer G. Jones",
     "Tim Hill",
-    "Trent Grisham",
     "Will Warren"
   ]
 }
