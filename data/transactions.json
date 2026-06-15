@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T05:38:07Z",
+  "updated": "2026-06-15T12:21:13Z",
   "count": 56,
   "items": [
     {
@@ -46,9 +46,9 @@
     },
     {
       "date": "2026-06-06",
-      "type": "placed",
-      "player": "Austin Wells",
-      "description": "Placed on 10-Day IL (Cervical headaches)"
+      "type": "called up",
+      "player": "J.C. Escarra",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-06",
@@ -58,15 +58,9 @@
     },
     {
       "date": "2026-06-06",
-      "type": "called up",
-      "player": "J.C. Escarra",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-05",
-      "type": "called up",
-      "player": "Spencer Jones",
-      "description": "Called Up from Minors"
+      "type": "placed",
+      "player": "Austin Wells",
+      "description": "Placed on 10-Day IL (Cervical headaches)"
     },
     {
       "date": "2026-06-05",
@@ -76,15 +70,21 @@
     },
     {
       "date": "2026-06-05",
-      "type": "sent",
-      "player": "J.C. Escarra",
-      "description": "Sent to Minors"
+      "type": "called up",
+      "player": "Spencer Jones",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-05",
       "type": "sent",
       "player": "Jasson Dominguez",
       "description": "Sent to Minors For Rehabilitation"
+    },
+    {
+      "date": "2026-06-05",
+      "type": "sent",
+      "player": "J.C. Escarra",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-06-02",
@@ -125,13 +125,13 @@
     {
       "date": "2026-05-21",
       "type": "sent",
-      "player": "Yovanny Cruz",
+      "player": "Spencer Jones",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-05-21",
       "type": "sent",
-      "player": "Spencer Jones",
+      "player": "Yovanny Cruz",
       "description": "Sent to Minors"
     },
     {
