@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T13:29:42Z",
+  "updated": "2026-06-15T18:18:35Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-06-05",
@@ -1826,37 +1826,6 @@
       ],
       "last_10_levels": [
         "High-A"
-      ]
-    },
-    {
-      "id": 664913,
-      "name": "Seth Brown",
-      "position": "LF",
-      "level": "AAA",
-      "level_since": "2026-04-02",
-      "prior_level": "AA",
-      "prior_level_since": "2026-03-27",
-      "season": {
-        "ab": 183,
-        "k": 69,
-        "avg": ".235",
-        "ops": ".753",
-        "avg_num": 0.23497267759562843,
-        "ops_num": 0.7531525851197982
-      },
-      "last_10": {
-        "ab": 25,
-        "k": 12,
-        "avg": ".160",
-        "ops": ".544",
-        "avg_num": 0.16,
-        "ops_num": 0.54375
-      },
-      "season_levels": [
-        "AAA"
-      ],
-      "last_10_levels": [
-        "AAA"
       ]
     },
     {
