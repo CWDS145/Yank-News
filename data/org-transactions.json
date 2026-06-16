@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T23:26:26Z",
+  "updated": "2026-06-16T02:15:32Z",
   "items": [
     {
       "id": 917897,
@@ -325,58 +325,6 @@
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
       "description": "New York Yankees selected the contract of RHP Yovanny Cruz from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 909497,
-      "date": "2026-05-16",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 608331,
-      "player": "Max Fried",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees placed LHP Max Fried on the 15-day injured list retroactive to May 14, 2026. Left elbow bone bruise."
-    },
-    {
-      "id": 910995,
-      "date": "2026-05-16",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 543037,
-      "player": "Gerrit Cole",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 909544,
-      "date": "2026-05-16",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 543037,
-      "player": "Gerrit Cole",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees sent RHP Gerrit Cole on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 909498,
-      "date": "2026-05-16",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 695684,
-      "player": "Elmer Rodríguez",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Elmer Rodríguez from Scranton/Wilkes-Barre RailRiders."
     }
   ]
 }
