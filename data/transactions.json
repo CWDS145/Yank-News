@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T08:27:53Z",
+  "updated": "2026-06-16T13:14:34Z",
   "count": 56,
   "items": [
     {
@@ -52,15 +52,15 @@
     },
     {
       "date": "2026-06-06",
-      "type": "called up",
-      "player": "J.C. Escarra",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-06",
       "type": "purchased",
       "player": "Ali Sanchez",
       "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-06-06",
+      "type": "called up",
+      "player": "J.C. Escarra",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-05",
@@ -71,14 +71,14 @@
     {
       "date": "2026-06-05",
       "type": "sent",
-      "player": "J.C. Escarra",
-      "description": "Sent to Minors"
+      "player": "Jasson Dominguez",
+      "description": "Sent to Minors For Rehabilitation"
     },
     {
       "date": "2026-06-05",
       "type": "sent",
-      "player": "Jasson Dominguez",
-      "description": "Sent to Minors For Rehabilitation"
+      "player": "J.C. Escarra",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-06-05",
