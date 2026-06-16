@@ -1,19 +1,6 @@
 {
-  "updated": "2026-06-16T17:51:38Z",
+  "updated": "2026-06-16T21:21:32Z",
   "items": [
-    {
-      "id": 917898,
-      "date": "2026-06-13",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 663757,
-      "player": "Trent Grisham",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees placed CF Trent Grisham on the 10-day injured list. Right hamstring strain."
-    },
     {
       "id": 917897,
       "date": "2026-06-13",
@@ -26,6 +13,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees activated LF Jasson Domínguez from the 10-day injured list."
+    },
+    {
+      "id": 917898,
+      "date": "2026-06-13",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 663757,
+      "player": "Trent Grisham",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees placed CF Trent Grisham on the 10-day injured list. Right hamstring strain."
     },
     {
       "id": 917452,
@@ -119,19 +119,6 @@
       "description": "New York Yankees selected the contract of C Ali Sánchez from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 917896,
-      "date": "2026-06-05",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 691176,
-      "player": "Jasson Domínguez",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees sent LF Jasson Domínguez on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 916061,
       "date": "2026-06-05",
       "type_code": "SC",
@@ -146,6 +133,19 @@
     },
     {
       "id": 916076,
+      "date": "2026-06-05",
+      "type_code": "ASG",
+      "type_desc": "Assigned",
+      "player_id": 691176,
+      "player": "Jasson Domínguez",
+      "from_team_id": 147,
+      "to_team_id": 531,
+      "from": "New York Yankees",
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees sent LF Jasson Domínguez on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 917896,
       "date": "2026-06-05",
       "type_code": "ASG",
       "type_desc": "Assigned",

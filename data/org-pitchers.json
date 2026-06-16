@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T17:55:16Z",
+  "updated": "2026-06-16T21:25:18Z",
   "season": 2026,
   "pitchers": [
     {
@@ -2067,43 +2067,6 @@
       },
       "season_levels": [
         "High-A",
-        "Low-A"
-      ]
-    },
-    {
-      "id": 806121,
-      "name": "Mac Heuer",
-      "position": "P",
-      "level": "Low-A",
-      "level_since": "2026-04-28",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "w": 1,
-        "l": 0,
-        "g": 6,
-        "gs": 5,
-        "cg": 0,
-        "sho": 0,
-        "sv": 0,
-        "svo": 0,
-        "ip": "21.0",
-        "ip_outs": 63,
-        "h": 16,
-        "r": 9,
-        "er": 8,
-        "hr": 3,
-        "hb": 0,
-        "bb": 14,
-        "so": 27,
-        "era": "3.43",
-        "era_num": 3.4285714285714284,
-        "whip": "1.43",
-        "whip_num": 1.4285714285714286,
-        "avg": ".208",
-        "avg_num": 0.2077922077922078
-      },
-      "season_levels": [
         "Low-A"
       ]
     },
