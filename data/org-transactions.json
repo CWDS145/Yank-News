@@ -1,6 +1,32 @@
 {
-  "updated": "2026-06-17T12:00:37Z",
+  "updated": "2026-06-17T16:06:04Z",
   "items": [
+    {
+      "id": 919439,
+      "date": "2026-06-16",
+      "type_code": "SFA",
+      "type_desc": "Signed as Free Agent",
+      "player_id": 842835,
+      "player": "Breidy Adames",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees signed free agent RHP Breidy Adames to a minor league contract."
+    },
+    {
+      "id": 918940,
+      "date": "2026-06-16",
+      "type_code": "ASG",
+      "type_desc": "Assigned",
+      "player_id": 669224,
+      "player": "Austin Wells",
+      "from_team_id": 147,
+      "to_team_id": 531,
+      "from": "New York Yankees",
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees sent C Austin Wells on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
+    },
     {
       "id": 917897,
       "date": "2026-06-13",
@@ -54,19 +80,6 @@
       "description": "New York Yankees optioned RHP Angel Chivilli to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 918366,
-      "date": "2026-06-10",
-      "type_code": "SFA",
-      "type_desc": "Signed as Free Agent",
-      "player_id": 842651,
-      "player": "Brandy Luis",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees signed free agent RHP Brandy Luis to a minor league contract."
-    },
-    {
       "id": 917363,
       "date": "2026-06-10",
       "type_code": "ASG",
@@ -78,6 +91,19 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees sent RHP Angel Chivilli on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 918366,
+      "date": "2026-06-10",
+      "type_code": "SFA",
+      "type_desc": "Signed as Free Agent",
+      "player_id": 842651,
+      "player": "Brandy Luis",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees signed free agent RHP Brandy Luis to a minor league contract."
     },
     {
       "id": 916418,
@@ -119,19 +145,6 @@
       "description": "New York Yankees selected the contract of C Ali Sánchez from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 916061,
-      "date": "2026-06-05",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 592450,
-      "player": "Aaron Judge",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees placed RF Aaron Judge on the 10-day injured list retroactive to June 2, 2026. Right rib stress fracture."
-    },
-    {
       "id": 916076,
       "date": "2026-06-05",
       "type_code": "ASG",
@@ -156,6 +169,19 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees sent LF Jasson Domínguez on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 916061,
+      "date": "2026-06-05",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 592450,
+      "player": "Aaron Judge",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees placed RF Aaron Judge on the 10-day injured list retroactive to June 2, 2026. Right rib stress fracture."
     },
     {
       "id": 916062,
@@ -301,19 +327,6 @@
       "description": "New York Yankees optioned RF Spencer Jones to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 909983,
-      "date": "2026-05-18",
-      "type_code": "SE",
-      "type_desc": "Selected",
-      "player_id": 672442,
-      "player": "Yovanny Cruz",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees selected the contract of RHP Yovanny Cruz from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 909982,
       "date": "2026-05-18",
       "type_code": "OPT",
@@ -325,6 +338,19 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees optioned RHP Elmer Rodríguez to Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 909983,
+      "date": "2026-05-18",
+      "type_code": "SE",
+      "type_desc": "Selected",
+      "player_id": 672442,
+      "player": "Yovanny Cruz",
+      "from_team_id": 531,
+      "to_team_id": 147,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
+      "to": "New York Yankees",
+      "description": "New York Yankees selected the contract of RHP Yovanny Cruz from Scranton/Wilkes-Barre RailRiders."
     }
   ]
 }
