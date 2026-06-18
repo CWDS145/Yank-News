@@ -1,22 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-06-17T01:40:54Z",
-      "source": "Baseball Savant: sprint_speed",
-      "url": "https://baseballsavant.mlb.com/sprint_speed_leaderboard?year=2026&team=147&min_year=2026&min_opp=10&min_pa=10&csv=true",
-      "status": 200,
-      "items": 16,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-06-17T01:40:54Z",
-      "source": "MLB MiLB: affiliates",
-      "url": "https://statsapi.mlb.com/api/v1/teams/affiliates?teamIds=147&season=2026",
-      "status": 200,
-      "items": 4,
-      "note": "ok"
-    },
-    {
       "timestamp": "2026-06-17T01:40:55Z",
       "source": "MLB MiLB: SWB roster",
       "url": "https://statsapi.mlb.com/api/v1/teams/531/roster?rosterType=active&season=2026",
@@ -3999,6 +3983,22 @@
       "status": 200,
       "items": 57,
       "note": "ok"
+    },
+    {
+      "timestamp": "2026-06-18T16:57:05Z",
+      "source": "FanGraphs Yankees",
+      "url": "https://www.fangraphs.com/teams/yankees",
+      "status": 200,
+      "items": 60,
+      "note": "ok | html_tables: batter_rows=41 pitcher_rows=23"
+    },
+    {
+      "timestamp": "2026-06-18T16:57:05Z",
+      "source": "Baseball-Reference Yankees",
+      "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
+      "status": 200,
+      "items": 40,
+      "note": "ok | tables: bat_id=players_standard_batting pit_id=players_standard_pitching batters=19 pitchers=21"
     }
   ]
 }
