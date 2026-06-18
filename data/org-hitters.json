@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T11:03:58Z",
+  "updated": "2026-06-18T14:24:28Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-06-08",
@@ -248,6 +248,28 @@
       "last_10_levels": [
         "MLB"
       ]
+    },
+    {
+      "id": 806963,
+      "name": "Brando Mayea",
+      "position": "CF",
+      "level": "Low-A",
+      "level_since": "2026-04-03",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 110,
+        "k": 37,
+        "avg": ".209",
+        "ops": ".602",
+        "avg_num": 0.20909090909090908,
+        "ops_num": 0.6017738359201774
+      },
+      "last_10": null,
+      "season_levels": [
+        "Low-A"
+      ],
+      "last_10_levels": []
     },
     {
       "id": 701727,
