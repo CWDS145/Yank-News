@@ -1,14 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-06-16T23:05:54Z",
-      "source": "NY Post Yankees",
-      "url": "https://nypost.com/tag/new-york-yankees/feed/",
-      "status": 200,
-      "items": 20,
-      "note": "ok"
-    },
-    {
       "timestamp": "2026-06-16T23:05:55Z",
       "source": "MLB Trade Rumors NYY",
       "url": "https://www.mlbtraderumors.com/category/new-york-yankees/feed",
@@ -3999,6 +3991,14 @@
       "status": 200,
       "items": 83,
       "note": "pitchers needing prior_level fallback"
+    },
+    {
+      "timestamp": "2026-06-18T12:48:35Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 27,
+      "note": "ok"
     }
   ]
 }
