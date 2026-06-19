@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T10:12:07Z",
+  "updated": "2026-06-19T13:57:07Z",
   "season": 2026,
   "pitchers": [
     {
@@ -2291,43 +2291,6 @@
       },
       "season_levels": [
         "Low-A"
-      ]
-    },
-    {
-      "id": 657265,
-      "name": "Peter Strzelecki",
-      "position": "P",
-      "level": "AAA",
-      "level_since": "2026-05-23",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "w": 0,
-        "l": 1,
-        "g": 22,
-        "gs": 1,
-        "cg": 0,
-        "sho": 0,
-        "sv": 2,
-        "svo": 3,
-        "ip": "24.1",
-        "ip_outs": 73,
-        "h": 24,
-        "r": 15,
-        "er": 13,
-        "hr": 3,
-        "hb": 3,
-        "bb": 5,
-        "so": 29,
-        "era": "4.81",
-        "era_num": 4.808219178082192,
-        "whip": "1.19",
-        "whip_num": 1.1917808219178083,
-        "avg": ".258",
-        "avg_num": 0.25806451612903225
-      },
-      "season_levels": [
-        "AAA"
       ]
     },
     {
