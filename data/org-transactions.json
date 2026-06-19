@@ -1,19 +1,6 @@
 {
-  "updated": "2026-06-19T18:25:10Z",
+  "updated": "2026-06-19T20:24:01Z",
   "items": [
-    {
-      "id": 918940,
-      "date": "2026-06-16",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 669224,
-      "player": "Austin Wells",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees sent C Austin Wells on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
-    },
     {
       "id": 919439,
       "date": "2026-06-16",
@@ -26,6 +13,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees signed free agent RHP Breidy Adames to a minor league contract."
+    },
+    {
+      "id": 918940,
+      "date": "2026-06-16",
+      "type_code": "ASG",
+      "type_desc": "Assigned",
+      "player_id": 669224,
+      "player": "Austin Wells",
+      "from_team_id": 147,
+      "to_team_id": 531,
+      "from": "New York Yankees",
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees sent C Austin Wells on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 917897,
@@ -80,19 +80,6 @@
       "description": "New York Yankees optioned RHP Angel Chivilli to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 918366,
-      "date": "2026-06-10",
-      "type_code": "SFA",
-      "type_desc": "Signed as Free Agent",
-      "player_id": 842651,
-      "player": "Brandy Luis",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees signed free agent RHP Brandy Luis to a minor league contract."
-    },
-    {
       "id": 917363,
       "date": "2026-06-10",
       "type_code": "ASG",
@@ -104,6 +91,19 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees sent RHP Angel Chivilli on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 918366,
+      "date": "2026-06-10",
+      "type_code": "SFA",
+      "type_desc": "Signed as Free Agent",
+      "player_id": 842651,
+      "player": "Brandy Luis",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees signed free agent RHP Brandy Luis to a minor league contract."
     },
     {
       "id": 916418,
@@ -119,19 +119,6 @@
       "description": "New York Yankees placed C Austin Wells on the 10-day injured list. Cervical headaches."
     },
     {
-      "id": 916316,
-      "date": "2026-06-06",
-      "type_code": "SE",
-      "type_desc": "Selected",
-      "player_id": 645305,
-      "player": "Ali Sánchez",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees selected the contract of C Ali Sánchez from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 916419,
       "date": "2026-06-06",
       "type_code": "CU",
@@ -145,7 +132,20 @@
       "description": "New York Yankees recalled C J.C. Escarra from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 917896,
+      "id": 916316,
+      "date": "2026-06-06",
+      "type_code": "SE",
+      "type_desc": "Selected",
+      "player_id": 645305,
+      "player": "Ali Sánchez",
+      "from_team_id": 531,
+      "to_team_id": 147,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
+      "to": "New York Yankees",
+      "description": "New York Yankees selected the contract of C Ali Sánchez from Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 916076,
       "date": "2026-06-05",
       "type_code": "ASG",
       "type_desc": "Assigned",
@@ -158,7 +158,7 @@
       "description": "New York Yankees sent LF Jasson Domínguez on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 916076,
+      "id": 917896,
       "date": "2026-06-05",
       "type_code": "ASG",
       "type_desc": "Assigned",
@@ -184,19 +184,6 @@
       "description": "New York Yankees placed RF Aaron Judge on the 10-day injured list retroactive to June 2, 2026. Right rib stress fracture."
     },
     {
-      "id": 916243,
-      "date": "2026-06-05",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 641555,
-      "player": "J.C. Escarra",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees optioned C J.C. Escarra to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 916062,
       "date": "2026-06-05",
       "type_code": "CU",
@@ -208,6 +195,19 @@
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
       "description": "New York Yankees recalled RF Spencer Jones from Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 916243,
+      "date": "2026-06-05",
+      "type_code": "OPT",
+      "type_desc": "Optioned",
+      "player_id": 641555,
+      "player": "J.C. Escarra",
+      "from_team_id": 147,
+      "to_team_id": 531,
+      "from": "New York Yankees",
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees optioned C J.C. Escarra to Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 915153,
@@ -275,19 +275,6 @@
       "description": "New York Yankees signed free agent RHP Peter Strzelecki to a minor league contract."
     },
     {
-      "id": 910994,
-      "date": "2026-05-22",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 676609,
-      "player": "José Caballero",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees activated SS José Caballero from the 10-day injured list."
-    },
-    {
       "id": 910996,
       "date": "2026-05-22",
       "type_code": "SC",
@@ -299,6 +286,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees activated RHP Gerrit Cole from the 15-day injured list."
+    },
+    {
+      "id": 910994,
+      "date": "2026-05-22",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 676609,
+      "player": "José Caballero",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated SS José Caballero from the 10-day injured list."
     },
     {
       "id": 910915,
