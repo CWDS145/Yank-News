@@ -1,78 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-06-18T17:51:24Z",
-      "source": "MLB season pitching: MLB",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
-      "status": 200,
-      "items": 83,
-      "note": "ok=83/83"
-    },
-    {
-      "timestamp": "2026-06-18T17:51:24Z",
-      "source": "MLB season pitching: AAA",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
-      "status": 200,
-      "items": 83,
-      "note": "ok=83/83"
-    },
-    {
-      "timestamp": "2026-06-18T17:51:24Z",
-      "source": "MLB season pitching: AA",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
-      "status": 200,
-      "items": 83,
-      "note": "ok=83/83"
-    },
-    {
-      "timestamp": "2026-06-18T17:51:24Z",
-      "source": "MLB season pitching: High-A",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
-      "status": 200,
-      "items": 83,
-      "note": "ok=83/83"
-    },
-    {
-      "timestamp": "2026-06-18T17:51:24Z",
-      "source": "MLB season pitching: Low-A",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
-      "status": 200,
-      "items": 83,
-      "note": "ok=83/83"
-    },
-    {
-      "timestamp": "2026-06-18T17:51:24Z",
-      "source": "MLB Transactions org",
-      "url": "https://statsapi.mlb.com/api/v1/transactions?teamId=147&startDate=2026-05-19&endDate=2026-06-18",
-      "status": 200,
-      "items": 25,
-      "note": "window 2026-05-19..2026-06-18"
-    },
-    {
-      "timestamp": "2026-06-18T17:54:51Z",
-      "source": "MLB personId fallback (pitchers)",
-      "url": "<bulk>",
-      "status": 200,
-      "items": 83,
-      "note": "pitchers needing prior_level fallback"
-    },
-    {
-      "timestamp": "2026-06-18T19:31:26Z",
-      "source": "MLB.com Yankees",
-      "url": "https://www.mlb.com/yankees/feeds/news/rss.xml",
-      "status": 200,
-      "items": 25,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-06-18T19:31:26Z",
-      "source": "Pinstripe Alley",
-      "url": "https://www.pinstripealley.com/rss/current.xml",
-      "status": 200,
-      "items": 10,
-      "note": "ok"
-    },
-    {
       "timestamp": "2026-06-18T19:31:27Z",
       "source": "NY Post Yankees",
       "url": "https://nypost.com/tag/new-york-yankees/feed/",
@@ -3999,6 +3927,78 @@
       "status": 200,
       "items": 82,
       "note": "pitchers needing prior_level fallback"
+    },
+    {
+      "timestamp": "2026-06-19T23:36:43Z",
+      "source": "MLB.com Yankees",
+      "url": "https://www.mlb.com/yankees/feeds/news/rss.xml",
+      "status": 200,
+      "items": 25,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-06-19T23:36:43Z",
+      "source": "Pinstripe Alley",
+      "url": "https://www.pinstripealley.com/rss/current.xml",
+      "status": 200,
+      "items": 10,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-06-19T23:36:44Z",
+      "source": "NY Post Yankees",
+      "url": "https://nypost.com/tag/new-york-yankees/feed/",
+      "status": 200,
+      "items": 20,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-06-19T23:36:45Z",
+      "source": "MLB Trade Rumors NYY",
+      "url": "https://www.mlbtraderumors.com/category/new-york-yankees/feed",
+      "status": 200,
+      "items": 15,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-06-19T23:36:45Z",
+      "source": "ESPN MLB",
+      "url": "https://www.espn.com/espn/rss/mlb/news",
+      "status": 202,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-06-19T23:36:45Z",
+      "source": "CBS Sports MLB",
+      "url": "https://www.cbssports.com/rss/headlines/mlb/",
+      "status": 200,
+      "items": 4,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-06-19T23:36:45Z",
+      "source": "Pinstripe Post (Sherman)",
+      "url": "https://feeds.megaphone.fm/NYPH3296340517",
+      "status": 200,
+      "items": 1,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-06-19T23:36:46Z",
+      "source": "YES Network",
+      "url": "https://www.yesnetwork.com/yankees",
+      "status": 200,
+      "items": 2,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-06-19T23:36:48Z",
+      "source": "CBS Transactions",
+      "url": "https://www.cbssports.com/mlb/teams/NYY/new-york-yankees/transactions/",
+      "status": 200,
+      "items": 57,
+      "note": "ok"
     }
   ]
 }
