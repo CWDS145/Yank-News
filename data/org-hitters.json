@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T21:42:53Z",
+  "updated": "2026-06-20T22:51:55Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-06-10",
@@ -889,10 +889,10 @@
       "id": 641555,
       "name": "J.C. Escarra",
       "position": "C",
-      "level": "MLB",
-      "level_since": "2026-06-06",
-      "prior_level": "AAA",
-      "prior_level_since": "2026-06-05",
+      "level": "AAA",
+      "level_since": "2026-06-05",
+      "prior_level": null,
+      "prior_level_since": null,
       "season": {
         "ab": 85,
         "k": 18,
