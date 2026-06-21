@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T09:31:46Z",
+  "updated": "2026-06-21T14:34:57Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-06-11",
@@ -191,9 +191,9 @@
       "name": "Austin Wells",
       "position": "C",
       "level": "MLB",
-      "level_since": "2026-06-06",
-      "prior_level": null,
-      "prior_level_since": null,
+      "level_since": "2026-06-21",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-06-16",
       "season": {
         "ab": 157,
         "k": 49,
