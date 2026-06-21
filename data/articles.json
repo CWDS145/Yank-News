@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T11:59:08Z",
+  "updated": "2026-06-21T14:28:21Z",
   "count": 63,
   "items": [
     {
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-06-21T11:59:08Z",
+      "published": "2026-06-21T14:28:21Z",
       "image": null
     },
     {
@@ -17,7 +17,61 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/new-york-yankees-to-host-free-pregame-skin-cancer-screenings-for-guests-attending-the-teams-sun-safety-day-game-on-thursday-june-4-at-135-p-m-vs-cleveland/",
-      "published": "2026-06-21T11:59:08Z",
+      "published": "2026-06-21T14:28:21Z",
+      "image": null
+    },
+    {
+      "title": "Latest Yankees injuries and transactions",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "MLB.com",
+      "link": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
+      "published": "2026-06-21T14:15:00Z",
+      "image": null
+    },
+    {
+      "title": "Yankees Rivalry Roundup: Nationals fend off Rays at the Trop",
+      "summary": "Not much went right for the Yankees during their 10-2 loss to the Reds yesterday. The defense was shoddy, Will Warren got rattled and gave up a game-breaking tank, and they made mistakes at both the plate and on the bases. In short, if you knew nothing about the game aside from the fact that […]",
+      "source": "Pinstripe Alley",
+      "author": "Andrew Mearns",
+      "link": "https://www.pinstripealley.com/mlb-news/193505/yankees-rivals-scores-rays-blue-jays-mariners-guardians",
+      "published": "2026-06-21T14:00:00Z",
+      "image": null
+    },
+    {
+      "title": "Yanks activate backstop Wells; Escarra optioned",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Bryan Hoch",
+      "link": "https://www.mlb.com/yankees/news/austin-wells-injured-list-return",
+      "published": "2026-06-21T13:55:00Z",
+      "image": null
+    },
+    {
+      "title": "Yankees call up No. 2 prospect to start Sunday's game vs. Reds",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Bryan Hoch",
+      "link": "https://www.mlb.com/yankees/news/yankees-call-up-no-2-prospect-elmer-rodriguez-to-start-sunday",
+      "published": "2026-06-21T13:50:00Z",
+      "image": null
+    },
+    {
+      "title": "Yankees vs. Reds prediction: MLB Sunday odds, picks, bets",
+      "summary": "The weekend series between the Yankees and Reds continues in the Bronx on Sunday afternoon with both starting pitchers entering in strong form.",
+      "source": "NY Post Yankees",
+      "author": "Dylan Svoboda",
+      "link": "https://nypost.com/2026/06/21/betting/yankees-vs-reds-prediction-mlb-sunday-odds-picks-bets/",
+      "published": "2026-06-21T13:30:00Z",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2FGettyImages-2280943289.jpg?quality%3D90%26"
+    },
+    {
+      "title": "The right schedule at the right time for the Yankees",
+      "summary": "The New York Yankees, even with their current absences, are a formidable squad. It’s with that established that we can open ourselves to acknowledging some undeniable truths about who this team is, how it got here—and a particularly significant sequence of games that began during their road trip to end May with a couple of […]",
+      "source": "Pinstripe Alley",
+      "author": "Estevão Maximo",
+      "link": "https://www.pinstripealley.com/yankees-analysis-sabermetrics/193508/yankees-schedule-standings-al-east-red-sox-rays-judge-injury",
+      "published": "2026-06-21T12:30:00Z",
       "image": null
     },
     {
@@ -102,33 +156,6 @@
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2F20260605_YankeesRedSox051cs.jpg?w%3D1024"
     },
     {
-      "title": "Yankees call up No. 2 prospect to start Sunday's game vs. Reds",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch",
-      "link": "https://www.mlb.com/yankees/news/yankees-call-up-no-2-prospect-elmer-rodriguez-to-start-sunday",
-      "published": "2026-06-20T21:57:45Z",
-      "image": null
-    },
-    {
-      "title": "Latest Yankees injuries and transactions",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "MLB.com",
-      "link": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
-      "published": "2026-06-20T21:57:00Z",
-      "image": null
-    },
-    {
-      "title": "Wells set to return in Reds-Yanks Sunday finale as Escarra optioned",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch",
-      "link": "https://www.mlb.com/yankees/news/austin-wells-injured-list-return",
-      "published": "2026-06-20T21:53:00Z",
-      "image": null
-    },
-    {
       "title": "Yankees minor leaguer’s embarrassing gaffe costs team on walk-off inside-the-park homer",
       "summary": "With Jasson Dominguez and Spencer Jones now patrolling the outfield in the Bronx, the Yankees’ Triple-A outfielders might need some refreshing on the basics of baseball.",
       "source": "NY Post Yankees",
@@ -174,7 +201,7 @@
       "image": null
     },
     {
-      "title": "Describing each of New York sport’s 64 championships in five words or less",
+      "title": "Describing each of New York sports’ 64 championships in five words or less",
       "summary": "Sixty-four teams. Sixty-four New York champions now. Let’s see if we can describe all 64 in five words or less:",
       "source": "NY Post Yankees",
       "author": "Mike Vaccaro",
@@ -228,15 +255,6 @@
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fnew-york-yankees-gm-brian-121509080.jpg?quality%3D90%26"
     },
     {
-      "title": "Yankees Birthday of the Day: Kendrys Morales",
-      "summary": "Kendrys Morales, Yankees legend. Okay, that is a stretch for a player who appeared in only 19 games for the franchise, a number only slightly larger than the group that accompanied him when he escaped Cuba. However, the second part of that sentence is what makes his story legendary. Like many of his fellow countrymen […]",
-      "source": "Pinstripe Alley",
-      "author": "Jonathan Farrar",
-      "link": "https://www.pinstripealley.com/yankees-history-trivia/193339/yankees-history-birthday-june-20-kendrys-morales",
-      "published": "2026-06-20T15:00:00Z",
-      "image": null
-    },
-    {
       "title": "Cam Schlittler exposes line-crossing Red Sox fan after another dominant Yankees start: ‘Rent free’",
       "summary": "Cam Schlittler struck out 13 Reds hitters but still saved his best fastball for exposing an online troll.",
       "source": "NY Post Yankees",
@@ -244,15 +262,6 @@
       "link": "https://nypost.com/2026/06/20/sports/cam-schlittler-exposes-line-crossing-red-sox-fan-after-another-dominant-yankees-start/",
       "published": "2026-06-20T14:58:46Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2FSchlittler.png"
-    },
-    {
-      "title": "Yankees prospects: Oswaldo Cabrera’s six hits lead zany Scranton doubleheader split",
-      "summary": "Triple-A Scranton/Wilkes-Barre RailRiders: L, 8-9 (8) and W, 8-6 (7) at Columbus Clippers Game 1 C Austin Wells 0-4, BB, 3 K — no-contact day in this rehab game, as opposed to the two homers on Thursday2B Marco Luciano 0-4, BB, K3B Oswaldo Cabrera 4-5, HR, 2 RBI — great day for Waldo!RF Yanquiel Fernández […]",
-      "source": "Pinstripe Alley",
-      "author": "Andrew Mearns",
-      "link": "https://www.pinstripealley.com/yankees-prospects/193199/yankees-prospects-recap-scranton-somerset-hudson-valley-somerset-rookie-ball-fcl-dsl",
-      "published": "2026-06-20T14:00:00Z",
-      "image": null
     },
     {
       "title": "MLB Power Rankings, Award Tracker: Dodgers make move, but Ohtani slides for Cy Young",
@@ -406,15 +415,6 @@
       "link": "https://nypost.com/2026/06/18/sports/jazz-chisholm-jr-exits-after-fouling-ball-off-groin-in-brutal-yankees-scene/",
       "published": "2026-06-19T00:35:16Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2FJazz-Chisholm-Jr-1.jpg?w%3D1024"
-    },
-    {
-      "title": "Yankees’ other trade deadline needs make Tarik Skubal a long shot",
-      "summary": "The Yankees will make the phone call on two-time defending AL Cy Young Tarik Skubal. But that’s a big long shot for them.",
-      "source": "NY Post Yankees",
-      "author": "Jon Heyman",
-      "link": "https://nypost.com/2026/06/18/sports/yankees-other-trade-deadline-needs-make-tarik-skubal-a-long-shot/",
-      "published": "2026-06-19T00:14:25Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fstarting-pitcher-tarik-skubal-29-130843021.jpg?quality%3D90%26"
     },
     {
       "title": "The Draft is less than a month away. How will the top 3 -- and more! -- shake out?",
