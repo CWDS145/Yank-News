@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T22:55:41Z",
+  "updated": "2026-06-21T00:28:33Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1554,9 +1554,9 @@
       "name": "Jake Bird",
       "position": "P",
       "level": "AAA",
-      "level_since": "2026-04-14",
-      "prior_level": null,
-      "prior_level_since": null,
+      "level_since": "2026-06-21",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-04-22",
       "season": {
         "w": 1,
         "l": 1,
