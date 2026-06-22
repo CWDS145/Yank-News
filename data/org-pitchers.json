@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T22:56:05Z",
+  "updated": "2026-06-22T01:47:07Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1104,9 +1104,9 @@
       "name": "Elmer Rodríguez",
       "position": "P",
       "level": "AAA",
-      "level_since": "2026-06-21",
+      "level_since": "2026-06-22",
       "prior_level": "MLB",
-      "prior_level_since": "2026-05-16",
+      "prior_level_since": "2026-06-21",
       "season": {
         "w": 3,
         "l": 5,
