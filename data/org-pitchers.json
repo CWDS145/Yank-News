@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T17:55:36Z",
+  "updated": "2026-06-22T21:20:14Z",
   "season": 2026,
   "pitchers": [
     {
@@ -3006,10 +3006,10 @@
       "id": 660787,
       "name": "Yerry De los Santos",
       "position": "P",
-      "level": "AAA",
-      "level_since": "2026-05-07",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-05-06",
+      "level": "MLB",
+      "level_since": "2026-06-22",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-05-07",
       "season": {
         "w": 2,
         "l": 2,
