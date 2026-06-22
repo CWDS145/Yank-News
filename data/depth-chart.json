@@ -1,19 +1,15 @@
 {
-  "updated": "2026-06-21T12:08:47Z",
+  "updated": "2026-06-22T15:21:31Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
       {
-        "name": "J.C. Escarra",
+        "name": "Austin Wells",
         "rank": 1
       },
       {
         "name": "Ali Sanchez",
         "rank": 2
-      },
-      {
-        "name": "Austin Wells",
-        "rank": 3
       }
     ],
     "1B": [
@@ -90,12 +86,16 @@
         "rank": 5
       },
       {
-        "name": "Max Fried",
+        "name": "Elmer Rodriguez-Cruz",
         "rank": 6
       },
       {
-        "name": "Clarke Schmidt",
+        "name": "Max Fried",
         "rank": 7
+      },
+      {
+        "name": "Clarke Schmidt",
+        "rank": 8
       }
     ],
     "RP": [
@@ -104,32 +104,28 @@
         "rank": 1
       },
       {
-        "name": "Camilo Doval",
+        "name": "Fernando E. Cruz",
         "rank": 2
       },
       {
-        "name": "Fernando E. Cruz",
+        "name": "Brent Headrick",
         "rank": 3
       },
       {
-        "name": "Brent Headrick",
+        "name": "Tim Hill",
         "rank": 4
       },
       {
-        "name": "Tim Hill",
+        "name": "Camilo Doval",
         "rank": 5
       },
       {
-        "name": "Jake Bird",
+        "name": "Paul Blackburn",
         "rank": 6
       },
       {
         "name": "Ryan Yarbrough",
         "rank": 7
-      },
-      {
-        "name": "Paul Blackburn",
-        "rank": 8
       }
     ]
   },
@@ -144,11 +140,10 @@
     "Clarke Schmidt",
     "Cody Bellinger",
     "David Bednar",
+    "Elmer Rodriguez-Cruz",
     "Fernando E. Cruz",
     "Gerrit Cole",
     "Giancarlo Stanton",
-    "J.C. Escarra",
-    "Jake Bird",
     "Jasson Dominguez",
     "Jazz Chisholm",
     "Jose Caballero",

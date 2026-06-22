@@ -1,14 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-06-21T09:08:52Z",
-      "source": "NY Post Yankees",
-      "url": "https://nypost.com/tag/new-york-yankees/feed/",
-      "status": 200,
-      "items": 20,
-      "note": "ok"
-    },
-    {
       "timestamp": "2026-06-21T09:08:53Z",
       "source": "MLB Trade Rumors NYY",
       "url": "https://www.mlbtraderumors.com/category/new-york-yankees/feed",
@@ -3998,6 +3990,14 @@
       "url": "https://www.cbssports.com/mlb/teams/NYY/new-york-yankees/transactions/",
       "status": 200,
       "items": 61,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-06-22T15:21:31Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 26,
       "note": "ok"
     }
   ]
