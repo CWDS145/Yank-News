@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T06:10:05Z",
+  "updated": "2026-06-23T10:10:45Z",
   "count": 62,
   "items": [
     {
@@ -16,6 +16,12 @@
     },
     {
       "date": "2026-06-21",
+      "type": "",
+      "player": "Austin Wells",
+      "description": "Removed From 10-Day IL (Cervical headaches)"
+    },
+    {
+      "date": "2026-06-21",
       "type": "called up",
       "player": "Elmer Rodriguez",
       "description": "Called Up from Minors"
@@ -27,10 +33,10 @@
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-06-21",
-      "type": "",
-      "player": "Austin Wells",
-      "description": "Removed From 10-Day IL (Cervical headaches)"
+      "date": "2026-06-20",
+      "type": "sent",
+      "player": "J.C. Escarra",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-06-20",
@@ -39,22 +45,16 @@
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-06-20",
-      "type": "sent",
-      "player": "J.C. Escarra",
-      "description": "Sent to Minors"
+      "date": "2026-06-16",
+      "type": "released",
+      "player": "Seth Brown",
+      "description": "Released"
     },
     {
       "date": "2026-06-16",
       "type": "sent",
       "player": "Austin Wells",
       "description": "Sent to Minors For Rehabilitation"
-    },
-    {
-      "date": "2026-06-16",
-      "type": "released",
-      "player": "Seth Brown",
-      "description": "Released"
     },
     {
       "date": "2026-06-13",
@@ -106,15 +106,15 @@
     },
     {
       "date": "2026-06-06",
-      "type": "called up",
-      "player": "J.C. Escarra",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-06",
       "type": "purchased",
       "player": "Ali Sanchez",
       "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-06-06",
+      "type": "called up",
+      "player": "J.C. Escarra",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-05",
@@ -161,8 +161,8 @@
     {
       "date": "2026-05-22",
       "type": "",
-      "player": "Gerrit Cole",
-      "description": "Removed From 15-Day IL (Recovery from right elbow surgery)"
+      "player": "Jose Caballero",
+      "description": "Removed From 10-Day IL (Right middle finger fracture)"
     },
     {
       "date": "2026-05-22",
@@ -173,8 +173,8 @@
     {
       "date": "2026-05-22",
       "type": "",
-      "player": "Jose Caballero",
-      "description": "Removed From 10-Day IL (Right middle finger fracture)"
+      "player": "Gerrit Cole",
+      "description": "Removed From 15-Day IL (Recovery from right elbow surgery)"
     },
     {
       "date": "2026-05-21",
@@ -202,14 +202,20 @@
     },
     {
       "date": "2026-05-16",
+      "type": "called up",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-05-16",
       "type": "placed",
       "player": "Max Fried",
       "description": "Placed on 15-Day IL (Left elbow bone bruise)"
     },
     {
-      "date": "2026-05-16",
+      "date": "2026-05-12",
       "type": "called up",
-      "player": "Elmer Rodriguez",
+      "player": "Anthony Volpe",
       "description": "Called Up from Minors"
     },
     {
@@ -217,12 +223,6 @@
       "type": "placed",
       "player": "Jose Caballero",
       "description": "Placed on 10-Day IL (Right middle finger fracture)"
-    },
-    {
-      "date": "2026-05-12",
-      "type": "called up",
-      "player": "Anthony Volpe",
-      "description": "Called Up from Minors"
     },
     {
       "date": "2026-05-10",
@@ -250,15 +250,15 @@
     },
     {
       "date": "2026-05-08",
-      "type": "placed",
-      "player": "Jasson Dominguez",
-      "description": "Placed on 10-Day IL (Sprained left shoulder AC joint)"
-    },
-    {
-      "date": "2026-05-08",
       "type": "called up",
       "player": "Spencer Jones",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-05-08",
+      "type": "placed",
+      "player": "Jasson Dominguez",
+      "description": "Placed on 10-Day IL (Sprained left shoulder AC joint)"
     },
     {
       "date": "2026-05-07",
