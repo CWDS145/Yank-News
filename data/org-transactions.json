@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T04:48:56Z",
+  "updated": "2026-06-23T08:41:01Z",
   "items": [
     {
       "id": 921050,
@@ -41,6 +41,19 @@
       "description": "New York Yankees activated C Austin Wells from the 10-day injured list."
     },
     {
+      "id": 920720,
+      "date": "2026-06-21",
+      "type_code": "OPT",
+      "type_desc": "Optioned",
+      "player_id": 641555,
+      "player": "J.C. Escarra",
+      "from_team_id": 147,
+      "to_team_id": 531,
+      "from": "New York Yankees",
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees optioned C J.C. Escarra to Scranton/Wilkes-Barre RailRiders."
+    },
+    {
       "id": 920719,
       "date": "2026-06-21",
       "type_code": "OPT",
@@ -67,17 +80,17 @@
       "description": "New York Yankees recalled RHP Elmer Rodríguez from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 920720,
-      "date": "2026-06-21",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 641555,
-      "player": "J.C. Escarra",
+      "id": 918940,
+      "date": "2026-06-16",
+      "type_code": "ASG",
+      "type_desc": "Assigned",
+      "player_id": 669224,
+      "player": "Austin Wells",
       "from_team_id": 147,
       "to_team_id": 531,
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees optioned C J.C. Escarra to Scranton/Wilkes-Barre RailRiders."
+      "description": "New York Yankees sent C Austin Wells on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 919439,
@@ -93,17 +106,17 @@
       "description": "New York Yankees signed free agent RHP Breidy Adames to a minor league contract."
     },
     {
-      "id": 918940,
-      "date": "2026-06-16",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 669224,
-      "player": "Austin Wells",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees sent C Austin Wells on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
+      "id": 917898,
+      "date": "2026-06-13",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 663757,
+      "player": "Trent Grisham",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees placed CF Trent Grisham on the 10-day injured list. Right hamstring strain."
     },
     {
       "id": 917897,
@@ -117,19 +130,6 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees activated LF Jasson Domínguez from the 10-day injured list."
-    },
-    {
-      "id": 917898,
-      "date": "2026-06-13",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 663757,
-      "player": "Trent Grisham",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees placed CF Trent Grisham on the 10-day injured list. Right hamstring strain."
     },
     {
       "id": 917452,
@@ -158,19 +158,6 @@
       "description": "New York Yankees optioned RHP Angel Chivilli to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 917363,
-      "date": "2026-06-10",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 683409,
-      "player": "Angel Chivilli",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees sent RHP Angel Chivilli on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 918366,
       "date": "2026-06-10",
       "type_code": "SFA",
@@ -182,6 +169,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees signed free agent RHP Brandy Luis to a minor league contract."
+    },
+    {
+      "id": 917363,
+      "date": "2026-06-10",
+      "type_code": "ASG",
+      "type_desc": "Assigned",
+      "player_id": 683409,
+      "player": "Angel Chivilli",
+      "from_team_id": 147,
+      "to_team_id": 531,
+      "from": "New York Yankees",
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees sent RHP Angel Chivilli on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 916418,
@@ -223,6 +223,19 @@
       "description": "New York Yankees selected the contract of C Ali Sánchez from Scranton/Wilkes-Barre RailRiders."
     },
     {
+      "id": 917896,
+      "date": "2026-06-05",
+      "type_code": "ASG",
+      "type_desc": "Assigned",
+      "player_id": 691176,
+      "player": "Jasson Domínguez",
+      "from_team_id": 147,
+      "to_team_id": 531,
+      "from": "New York Yankees",
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees sent LF Jasson Domínguez on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
+    },
+    {
       "id": 916061,
       "date": "2026-06-05",
       "type_code": "SC",
@@ -237,19 +250,6 @@
     },
     {
       "id": 916076,
-      "date": "2026-06-05",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 691176,
-      "player": "Jasson Domínguez",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees sent LF Jasson Domínguez on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 917896,
       "date": "2026-06-05",
       "type_code": "ASG",
       "type_desc": "Assigned",
