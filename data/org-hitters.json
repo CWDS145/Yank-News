@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T14:10:07Z",
+  "updated": "2026-06-23T16:43:33Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-06-13",
@@ -64,7 +64,7 @@
       "name": "Ali Sánchez",
       "position": "C",
       "level": "MLB",
-      "level_since": null,
+      "level_since": "2026-06-23",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -894,10 +894,10 @@
       "id": 641555,
       "name": "J.C. Escarra",
       "position": "C",
-      "level": "AAA",
-      "level_since": "2026-06-21",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-06-06",
+      "level": "MLB",
+      "level_since": "2026-06-23",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-06-21",
       "season": {
         "ab": 85,
         "k": 18,
@@ -1143,8 +1143,8 @@
       "id": 694742,
       "name": "Josh Moylan",
       "position": "1B",
-      "level": "High-A",
-      "level_since": null,
+      "level": "AA",
+      "level_since": "2026-06-23",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
