@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T21:21:53Z",
+  "updated": "2026-06-23T22:13:32Z",
   "items": [
     {
       "id": 921531,
@@ -93,19 +93,6 @@
       "description": "New York Yankees recalled RHP Elmer Rodríguez from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 920719,
-      "date": "2026-06-21",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 656234,
-      "player": "Jake Bird",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees optioned RHP Jake Bird to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 920720,
       "date": "2026-06-21",
       "type_code": "OPT",
@@ -117,6 +104,19 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees optioned C J.C. Escarra to Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 920719,
+      "date": "2026-06-21",
+      "type_code": "OPT",
+      "type_desc": "Optioned",
+      "player_id": 656234,
+      "player": "Jake Bird",
+      "from_team_id": 147,
+      "to_team_id": 531,
+      "from": "New York Yankees",
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees optioned RHP Jake Bird to Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 919439,
@@ -197,19 +197,6 @@
       "description": "New York Yankees optioned RHP Angel Chivilli to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 917363,
-      "date": "2026-06-10",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 683409,
-      "player": "Angel Chivilli",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees sent RHP Angel Chivilli on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 918366,
       "date": "2026-06-10",
       "type_code": "SFA",
@@ -221,6 +208,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees signed free agent RHP Brandy Luis to a minor league contract."
+    },
+    {
+      "id": 917363,
+      "date": "2026-06-10",
+      "type_code": "ASG",
+      "type_desc": "Assigned",
+      "player_id": 683409,
+      "player": "Angel Chivilli",
+      "from_team_id": 147,
+      "to_team_id": 531,
+      "from": "New York Yankees",
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees sent RHP Angel Chivilli on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 916418,
@@ -262,7 +262,7 @@
       "description": "New York Yankees selected the contract of C Ali Sánchez from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 916076,
+      "id": 917896,
       "date": "2026-06-05",
       "type_code": "ASG",
       "type_desc": "Assigned",
@@ -288,7 +288,7 @@
       "description": "New York Yankees placed RF Aaron Judge on the 10-day injured list retroactive to June 2, 2026. Right rib stress fracture."
     },
     {
-      "id": 917896,
+      "id": 916076,
       "date": "2026-06-05",
       "type_code": "ASG",
       "type_desc": "Assigned",
