@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T12:29:48Z",
+  "updated": "2026-06-24T12:16:17Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -8,7 +8,7 @@
         "rank": 1
       },
       {
-        "name": "Ali Sanchez",
+        "name": "J.C. Escarra",
         "rank": 2
       }
     ],
@@ -130,7 +130,6 @@
     ]
   },
   "all_players": [
-    "Ali Sanchez",
     "Austin Wells",
     "Ben Rice",
     "Brent Headrick",
@@ -143,6 +142,7 @@
     "Fernando E. Cruz",
     "Gerrit Cole",
     "Giancarlo Stanton",
+    "J.C. Escarra",
     "Jasson Dominguez",
     "Jazz Chisholm",
     "Jose Caballero",
