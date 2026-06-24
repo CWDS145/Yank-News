@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T23:30:10Z",
+  "updated": "2026-06-24T23:57:25Z",
   "count": 66,
   "items": [
     {
@@ -88,6 +88,12 @@
     },
     {
       "date": "2026-06-13",
+      "type": "placed",
+      "player": "Trent Grisham",
+      "description": "Placed on 10-Day IL (Strained right hamstring)"
+    },
+    {
+      "date": "2026-06-13",
       "type": "recalled",
       "player": "Jasson Dominguez",
       "description": "Recalled From Minors Rehab Assignment"
@@ -97,12 +103,6 @@
       "type": "",
       "player": "Jasson Dominguez",
       "description": "Removed From 10-Day IL (Sprained left shoulder AC joint)"
-    },
-    {
-      "date": "2026-06-13",
-      "type": "placed",
-      "player": "Trent Grisham",
-      "description": "Placed on 10-Day IL (Strained right hamstring)"
     },
     {
       "date": "2026-06-11",
@@ -244,21 +244,21 @@
     },
     {
       "date": "2026-05-12",
-      "type": "called up",
-      "player": "Anthony Volpe",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-05-12",
       "type": "placed",
       "player": "Jose Caballero",
       "description": "Placed on 10-Day IL (Right middle finger fracture)"
     },
     {
+      "date": "2026-05-12",
+      "type": "called up",
+      "player": "Anthony Volpe",
+      "description": "Called Up from Minors"
+    },
+    {
       "date": "2026-05-10",
-      "type": "sent",
-      "player": "Kervin Castro",
-      "description": "Sent to Minors"
+      "type": "recalled",
+      "player": "Carlos Rodon",
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-05-10",
@@ -268,21 +268,21 @@
     },
     {
       "date": "2026-05-10",
-      "type": "recalled",
-      "player": "Carlos Rodon",
-      "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-05-08",
-      "type": "called up",
+      "type": "sent",
       "player": "Kervin Castro",
-      "description": "Called Up from Minors"
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-08",
       "type": "placed",
       "player": "Jasson Dominguez",
       "description": "Placed on 10-Day IL (Sprained left shoulder AC joint)"
+    },
+    {
+      "date": "2026-05-08",
+      "type": "called up",
+      "player": "Kervin Castro",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-05-08",
@@ -322,6 +322,12 @@
     },
     {
       "date": "2026-05-03",
+      "type": "",
+      "player": "Anthony Volpe",
+      "description": "Removed From 10-Day IL (Recovery from left labrum surgery)"
+    },
+    {
+      "date": "2026-05-03",
       "type": "recalled",
       "player": "Anthony Volpe",
       "description": "Recalled From Minors Rehab Assignment"
@@ -331,12 +337,6 @@
       "type": "sent",
       "player": "Anthony Volpe",
       "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-05-03",
-      "type": "",
-      "player": "Anthony Volpe",
-      "description": "Removed From 10-Day IL (Recovery from left labrum surgery)"
     },
     {
       "date": "2026-05-01",
@@ -352,14 +352,20 @@
     },
     {
       "date": "2026-04-29",
+      "type": "called up",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-04-29",
       "type": "designated",
       "player": "Randal Grichuk",
       "description": "Designated for Assignment"
     },
     {
-      "date": "2026-04-29",
+      "date": "2026-04-28",
       "type": "called up",
-      "player": "Elmer Rodriguez",
+      "player": "Max Schuemann",
       "description": "Called Up from Minors"
     },
     {
@@ -367,12 +373,6 @@
       "type": "placed",
       "player": "Giancarlo Stanton",
       "description": "Placed on 10-Day IL (Strained right calf)"
-    },
-    {
-      "date": "2026-04-28",
-      "type": "called up",
-      "player": "Max Schuemann",
-      "description": "Called Up from Minors"
     },
     {
       "date": "2026-04-27",
@@ -388,15 +388,15 @@
     },
     {
       "date": "2026-04-25",
-      "type": "reinstated",
-      "player": "Ryan Weathers",
-      "description": "Reinstated from Paternity Leave List"
-    },
-    {
-      "date": "2026-04-25",
       "type": "placed",
       "player": "Angel Chivilli",
       "description": "Placed on 15-Day IL (Right shoulder discomfort)"
+    },
+    {
+      "date": "2026-04-25",
+      "type": "reinstated",
+      "player": "Ryan Weathers",
+      "description": "Reinstated from Paternity Leave List"
     }
   ]
 }
