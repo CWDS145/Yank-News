@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T15:25:15Z",
+  "updated": "2026-06-24T16:18:40Z",
   "count": 64,
   "items": [
     {
@@ -244,6 +244,12 @@
     },
     {
       "date": "2026-05-10",
+      "type": "sent",
+      "player": "Kervin Castro",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-05-10",
       "type": "",
       "player": "Carlos Rodon",
       "description": "Removed From 15-Day IL (Recovery from left elbow surgery)"
@@ -253,12 +259,6 @@
       "type": "recalled",
       "player": "Carlos Rodon",
       "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-05-10",
-      "type": "sent",
-      "player": "Kervin Castro",
-      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-08",
@@ -292,15 +292,15 @@
     },
     {
       "date": "2026-05-06",
-      "type": "called up",
-      "player": "Yerry De Los Santos",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-05-06",
       "type": "sent",
       "player": "Yerry De Los Santos",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-05-06",
+      "type": "called up",
+      "player": "Yerry De Los Santos",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-05-05",
