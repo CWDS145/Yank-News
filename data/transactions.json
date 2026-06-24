@@ -1,7 +1,19 @@
 {
-  "updated": "2026-06-24T17:14:36Z",
-  "count": 64,
+  "updated": "2026-06-24T18:10:15Z",
+  "count": 66,
   "items": [
+    {
+      "date": "2026-06-24",
+      "type": "placed",
+      "player": "Ryan McMahon",
+      "description": "Placed on 10-Day IL (Throat/ear infection)"
+    },
+    {
+      "date": "2026-06-24",
+      "type": "called up",
+      "player": "Oswaldo Cabrera",
+      "description": "Called Up from Minors"
+    },
     {
       "date": "2026-06-23",
       "type": "called up",
@@ -22,18 +34,6 @@
     },
     {
       "date": "2026-06-21",
-      "type": "called up",
-      "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-21",
-      "type": "sent",
-      "player": "Elmer Rodriguez",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-06-21",
       "type": "recalled",
       "player": "Austin Wells",
       "description": "Recalled From Minors Rehab Assignment"
@@ -45,15 +45,27 @@
       "description": "Removed From 10-Day IL (Cervical headaches)"
     },
     {
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "type": "sent",
-      "player": "Jacob Bird",
+      "player": "Elmer Rodriguez",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-06-21",
+      "type": "called up",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-20",
       "type": "sent",
       "player": "J.C. Escarra",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-06-20",
+      "type": "sent",
+      "player": "Jacob Bird",
       "description": "Sent to Minors"
     },
     {
@@ -64,15 +76,15 @@
     },
     {
       "date": "2026-06-16",
-      "type": "released",
-      "player": "Seth Brown",
-      "description": "Released"
-    },
-    {
-      "date": "2026-06-16",
       "type": "sent",
       "player": "Austin Wells",
       "description": "Sent to Minors For Rehabilitation"
+    },
+    {
+      "date": "2026-06-16",
+      "type": "released",
+      "player": "Seth Brown",
+      "description": "Released"
     },
     {
       "date": "2026-06-13",
@@ -94,6 +106,12 @@
     },
     {
       "date": "2026-06-11",
+      "type": "sent",
+      "player": "Angel Chivilli",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-06-11",
       "type": "",
       "player": "Angel Chivilli",
       "description": "Removed From 15-Day IL (Right shoulder discomfort)"
@@ -103,12 +121,6 @@
       "type": "recalled",
       "player": "Angel Chivilli",
       "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-06-11",
-      "type": "sent",
-      "player": "Angel Chivilli",
-      "description": "Sent to Minors"
     },
     {
       "date": "2026-06-10",
@@ -124,15 +136,15 @@
     },
     {
       "date": "2026-06-06",
-      "type": "called up",
-      "player": "J.C. Escarra",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-06",
       "type": "purchased",
       "player": "Ali Sanchez",
       "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-06-06",
+      "type": "called up",
+      "player": "J.C. Escarra",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-05",
@@ -149,14 +161,14 @@
     {
       "date": "2026-06-05",
       "type": "sent",
-      "player": "J.C. Escarra",
-      "description": "Sent to Minors"
+      "player": "Jasson Dominguez",
+      "description": "Sent to Minors For Rehabilitation"
     },
     {
       "date": "2026-06-05",
       "type": "sent",
-      "player": "Jasson Dominguez",
-      "description": "Sent to Minors For Rehabilitation"
+      "player": "J.C. Escarra",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-06-02",
@@ -232,21 +244,15 @@
     },
     {
       "date": "2026-05-12",
-      "type": "called up",
-      "player": "Anthony Volpe",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-05-12",
       "type": "placed",
       "player": "Jose Caballero",
       "description": "Placed on 10-Day IL (Right middle finger fracture)"
     },
     {
-      "date": "2026-05-10",
-      "type": "",
-      "player": "Carlos Rodon",
-      "description": "Removed From 15-Day IL (Recovery from left elbow surgery)"
+      "date": "2026-05-12",
+      "type": "called up",
+      "player": "Anthony Volpe",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-05-10",
@@ -259,6 +265,12 @@
       "type": "recalled",
       "player": "Carlos Rodon",
       "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-05-10",
+      "type": "",
+      "player": "Carlos Rodon",
+      "description": "Removed From 15-Day IL (Recovery from left elbow surgery)"
     },
     {
       "date": "2026-05-08",
@@ -280,15 +292,15 @@
     },
     {
       "date": "2026-05-07",
-      "type": "sent",
-      "player": "Brendan Beck",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-05-07",
       "type": "purchased",
       "player": "Brendan Beck",
       "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-05-07",
+      "type": "sent",
+      "player": "Brendan Beck",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-06",
@@ -310,12 +322,6 @@
     },
     {
       "date": "2026-05-03",
-      "type": "",
-      "player": "Anthony Volpe",
-      "description": "Removed From 10-Day IL (Recovery from left labrum surgery)"
-    },
-    {
-      "date": "2026-05-03",
       "type": "sent",
       "player": "Anthony Volpe",
       "description": "Sent to Minors"
@@ -327,10 +333,10 @@
       "description": "Recalled From Minors Rehab Assignment"
     },
     {
-      "date": "2026-05-01",
+      "date": "2026-05-03",
       "type": "",
-      "player": "Randal Grichuk",
-      "description": "Refused Minor League Assignment - Free Agent"
+      "player": "Anthony Volpe",
+      "description": "Removed From 10-Day IL (Recovery from left labrum surgery)"
     },
     {
       "date": "2026-05-01",
@@ -339,10 +345,10 @@
       "description": "Declared Free Agency"
     },
     {
-      "date": "2026-04-29",
-      "type": "called up",
-      "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors"
+      "date": "2026-05-01",
+      "type": "",
+      "player": "Randal Grichuk",
+      "description": "Refused Minor League Assignment - Free Agent"
     },
     {
       "date": "2026-04-29",
@@ -351,9 +357,9 @@
       "description": "Designated for Assignment"
     },
     {
-      "date": "2026-04-28",
+      "date": "2026-04-29",
       "type": "called up",
-      "player": "Max Schuemann",
+      "player": "Elmer Rodriguez",
       "description": "Called Up from Minors"
     },
     {
@@ -361,6 +367,12 @@
       "type": "placed",
       "player": "Giancarlo Stanton",
       "description": "Placed on 10-Day IL (Strained right calf)"
+    },
+    {
+      "date": "2026-04-28",
+      "type": "called up",
+      "player": "Max Schuemann",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-04-27",
@@ -376,15 +388,15 @@
     },
     {
       "date": "2026-04-25",
-      "type": "placed",
-      "player": "Angel Chivilli",
-      "description": "Placed on 15-Day IL (Right shoulder discomfort)"
-    },
-    {
-      "date": "2026-04-25",
       "type": "reinstated",
       "player": "Ryan Weathers",
       "description": "Reinstated from Paternity Leave List"
+    },
+    {
+      "date": "2026-04-25",
+      "type": "placed",
+      "player": "Angel Chivilli",
+      "description": "Placed on 15-Day IL (Right shoulder discomfort)"
     }
   ]
 }
