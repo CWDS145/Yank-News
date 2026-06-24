@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T13:00:34Z",
+  "updated": "2026-06-24T14:19:12Z",
   "count": 64,
   "items": [
     {
@@ -64,15 +64,15 @@
     },
     {
       "date": "2026-06-16",
-      "type": "sent",
-      "player": "Austin Wells",
-      "description": "Sent to Minors For Rehabilitation"
-    },
-    {
-      "date": "2026-06-16",
       "type": "released",
       "player": "Seth Brown",
       "description": "Released"
+    },
+    {
+      "date": "2026-06-16",
+      "type": "sent",
+      "player": "Austin Wells",
+      "description": "Sent to Minors For Rehabilitation"
     },
     {
       "date": "2026-06-13",
@@ -100,15 +100,15 @@
     },
     {
       "date": "2026-06-11",
-      "type": "sent",
-      "player": "Angel Chivilli",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-06-11",
       "type": "recalled",
       "player": "Angel Chivilli",
       "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-06-11",
+      "type": "sent",
+      "player": "Angel Chivilli",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-06-10",
@@ -232,21 +232,15 @@
     },
     {
       "date": "2026-05-12",
-      "type": "called up",
-      "player": "Anthony Volpe",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-05-12",
       "type": "placed",
       "player": "Jose Caballero",
       "description": "Placed on 10-Day IL (Right middle finger fracture)"
     },
     {
-      "date": "2026-05-10",
-      "type": "sent",
-      "player": "Kervin Castro",
-      "description": "Sent to Minors"
+      "date": "2026-05-12",
+      "type": "called up",
+      "player": "Anthony Volpe",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-05-10",
@@ -259,6 +253,12 @@
       "type": "recalled",
       "player": "Carlos Rodon",
       "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-05-10",
+      "type": "sent",
+      "player": "Kervin Castro",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-08",
@@ -292,15 +292,15 @@
     },
     {
       "date": "2026-05-06",
-      "type": "called up",
-      "player": "Yerry De Los Santos",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-05-06",
       "type": "sent",
       "player": "Yerry De Los Santos",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-05-06",
+      "type": "called up",
+      "player": "Yerry De Los Santos",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-05-05",
@@ -316,15 +316,15 @@
     },
     {
       "date": "2026-05-03",
-      "type": "sent",
-      "player": "Anthony Volpe",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-05-03",
       "type": "recalled",
       "player": "Anthony Volpe",
       "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-05-03",
+      "type": "sent",
+      "player": "Anthony Volpe",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-01",
