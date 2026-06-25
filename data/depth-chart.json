@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T12:16:17Z",
+  "updated": "2026-06-25T10:57:57Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -26,13 +26,17 @@
     ],
     "3B": [
       {
-        "name": "Ryan McMahon",
+        "name": "Jose Caballero",
         "rank": 1
+      },
+      {
+        "name": "Ryan McMahon",
+        "rank": 2
       }
     ],
     "SS": [
       {
-        "name": "Jose Caballero",
+        "name": "Anthony Volpe",
         "rank": 1
       }
     ],
@@ -130,6 +134,7 @@
     ]
   },
   "all_players": [
+    "Anthony Volpe",
     "Austin Wells",
     "Ben Rice",
     "Brent Headrick",
