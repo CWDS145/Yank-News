@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T08:23:32Z",
+  "updated": "2026-06-25T09:52:51Z",
   "season": 2026,
   "players": [
     {
@@ -83,7 +83,7 @@
         "hardhit_pct": null
       },
       "sprint_speed": {
-        "sprint_speed": 25.7,
+        "sprint_speed": 25.6,
         "hp_to_1b": 4.66,
         "bolts": null
       }
@@ -114,7 +114,7 @@
         "hardhit_pct": null
       },
       "sprint_speed": {
-        "sprint_speed": 26.7,
+        "sprint_speed": 26.8,
         "hp_to_1b": 4.58,
         "bolts": null
       }
@@ -379,7 +379,7 @@
         "hardhit_pct": null
       },
       "sprint_speed": {
-        "sprint_speed": 28.2,
+        "sprint_speed": 28.3,
         "hp_to_1b": 4.27,
         "bolts": null
       }
@@ -457,7 +457,7 @@
       },
       "sprint_speed": {
         "sprint_speed": 25.1,
-        "hp_to_1b": 4.74,
+        "hp_to_1b": 4.75,
         "bolts": null
       }
     },
