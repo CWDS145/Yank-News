@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T05:27:15Z",
+  "updated": "2026-06-25T06:50:40Z",
   "count": 64,
   "items": [
     {
@@ -16,32 +16,20 @@
     },
     {
       "date": "2026-06-23",
-      "type": "called up",
-      "player": "J.C. Escarra",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-23",
       "type": "placed",
       "player": "Ali Sanchez",
       "description": "Placed on Paternity Leave List"
     },
     {
-      "date": "2026-06-22",
+      "date": "2026-06-23",
       "type": "called up",
-      "player": "Yerry De Los Santos",
+      "player": "J.C. Escarra",
       "description": "Called Up from Minors"
     },
     {
-      "date": "2026-06-21",
-      "type": "",
-      "player": "Austin Wells",
-      "description": "Removed From 10-Day IL (Cervical headaches)"
-    },
-    {
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "type": "called up",
-      "player": "Elmer Rodriguez",
+      "player": "Yerry De Los Santos",
       "description": "Called Up from Minors"
     },
     {
@@ -55,6 +43,18 @@
       "type": "recalled",
       "player": "Austin Wells",
       "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-06-21",
+      "type": "",
+      "player": "Austin Wells",
+      "description": "Removed From 10-Day IL (Cervical headaches)"
+    },
+    {
+      "date": "2026-06-21",
+      "type": "called up",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-20",
@@ -88,6 +88,12 @@
     },
     {
       "date": "2026-06-13",
+      "type": "",
+      "player": "Jasson Dominguez",
+      "description": "Removed From 10-Day IL (Sprained left shoulder AC joint)"
+    },
+    {
+      "date": "2026-06-13",
       "type": "recalled",
       "player": "Jasson Dominguez",
       "description": "Recalled From Minors Rehab Assignment"
@@ -99,16 +105,10 @@
       "description": "Placed on 10-Day IL (Strained right hamstring)"
     },
     {
-      "date": "2026-06-13",
-      "type": "",
-      "player": "Jasson Dominguez",
-      "description": "Removed From 10-Day IL (Sprained left shoulder AC joint)"
-    },
-    {
       "date": "2026-06-11",
-      "type": "sent",
+      "type": "recalled",
       "player": "Angel Chivilli",
-      "description": "Sent to Minors"
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-06-11",
@@ -118,21 +118,15 @@
     },
     {
       "date": "2026-06-11",
-      "type": "recalled",
+      "type": "sent",
       "player": "Angel Chivilli",
-      "description": "Recalled From Minors Rehab Assignment"
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-06-10",
       "type": "sent",
       "player": "Angel Chivilli",
       "description": "Sent to Minors For Rehabilitation"
-    },
-    {
-      "date": "2026-06-06",
-      "type": "called up",
-      "player": "J.C. Escarra",
-      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-06",
@@ -147,10 +141,10 @@
       "description": "Placed on 10-Day IL (Cervical headaches)"
     },
     {
-      "date": "2026-06-05",
-      "type": "sent",
+      "date": "2026-06-06",
+      "type": "called up",
       "player": "J.C. Escarra",
-      "description": "Sent to Minors"
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-05",
@@ -163,6 +157,12 @@
       "type": "placed",
       "player": "Aaron Judge",
       "description": "Placed on 10-Day IL (Right rib stress fracture)"
+    },
+    {
+      "date": "2026-06-05",
+      "type": "sent",
+      "player": "J.C. Escarra",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-06-05",
@@ -341,26 +341,26 @@
     {
       "date": "2026-05-01",
       "type": "",
-      "player": "Randal Grichuk",
-      "description": "Refused Minor League Assignment - Free Agent"
-    },
-    {
-      "date": "2026-05-01",
-      "type": "",
       "player": "Paul DeJong",
       "description": "Declared Free Agency"
     },
     {
-      "date": "2026-04-29",
-      "type": "called up",
-      "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors"
+      "date": "2026-05-01",
+      "type": "",
+      "player": "Randal Grichuk",
+      "description": "Refused Minor League Assignment - Free Agent"
     },
     {
       "date": "2026-04-29",
       "type": "designated",
       "player": "Randal Grichuk",
       "description": "Designated for Assignment"
+    },
+    {
+      "date": "2026-04-29",
+      "type": "called up",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-04-28",
