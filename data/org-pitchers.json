@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T19:31:28Z",
+  "updated": "2026-06-25T20:33:50Z",
   "season": 2026,
   "pitchers": [
     {
@@ -2366,43 +2366,6 @@
       },
       "season_levels": [
         "Low-A"
-      ]
-    },
-    {
-      "id": 606160,
-      "name": "Rafael Montero",
-      "position": "P",
-      "level": "AAA",
-      "level_since": "2026-04-01",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-02-13",
-      "season": {
-        "w": 0,
-        "l": 4,
-        "g": 18,
-        "gs": 1,
-        "cg": 0,
-        "sho": 0,
-        "sv": 2,
-        "svo": 5,
-        "ip": "17.2",
-        "ip_outs": 53,
-        "h": 18,
-        "r": 15,
-        "er": 11,
-        "hr": 2,
-        "hb": 0,
-        "bb": 9,
-        "so": 21,
-        "era": "5.60",
-        "era_num": 5.60377358490566,
-        "whip": "1.53",
-        "whip_num": 1.528301886792453,
-        "avg": ".261",
-        "avg_num": 0.2608695652173913
-      },
-      "season_levels": [
-        "AAA"
       ]
     },
     {
