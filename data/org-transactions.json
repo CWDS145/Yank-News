@@ -1,6 +1,19 @@
 {
-  "updated": "2026-06-26T13:59:35Z",
+  "updated": "2026-06-26T15:12:40Z",
   "items": [
+    {
+      "id": 922613,
+      "date": "2026-06-26",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 645305,
+      "player": "Ali Sánchez",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated C Ali Sánchez from the paternity list."
+    },
     {
       "id": 922399,
       "date": "2026-06-26",
@@ -93,19 +106,6 @@
       "description": "New York Yankees recalled C J.C. Escarra from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 921050,
-      "date": "2026-06-22",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 660787,
-      "player": "Yerry De los Santos",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Yerry De los Santos from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 920909,
       "date": "2026-06-22",
       "type_code": "OPT",
@@ -117,6 +117,19 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees optioned RHP Elmer Rodríguez to Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 921050,
+      "date": "2026-06-22",
+      "type_code": "CU",
+      "type_desc": "Recalled",
+      "player_id": 660787,
+      "player": "Yerry De los Santos",
+      "from_team_id": 531,
+      "to_team_id": 147,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
+      "to": "New York Yankees",
+      "description": "New York Yankees recalled RHP Yerry De los Santos from Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 920763,
@@ -314,7 +327,7 @@
       "description": "New York Yankees selected the contract of C Ali Sánchez from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 916076,
+      "id": 917896,
       "date": "2026-06-05",
       "type_code": "ASG",
       "type_desc": "Assigned",
@@ -327,7 +340,7 @@
       "description": "New York Yankees sent LF Jasson Domínguez on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 917896,
+      "id": 916076,
       "date": "2026-06-05",
       "type_code": "ASG",
       "type_desc": "Assigned",
@@ -353,19 +366,6 @@
       "description": "New York Yankees placed RF Aaron Judge on the 10-day injured list retroactive to June 2, 2026. Right rib stress fracture."
     },
     {
-      "id": 916243,
-      "date": "2026-06-05",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 641555,
-      "player": "J.C. Escarra",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees optioned C J.C. Escarra to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 916062,
       "date": "2026-06-05",
       "type_code": "CU",
@@ -377,6 +377,19 @@
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
       "description": "New York Yankees recalled RF Spencer Jones from Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 916243,
+      "date": "2026-06-05",
+      "type_code": "OPT",
+      "type_desc": "Optioned",
+      "player_id": 641555,
+      "player": "J.C. Escarra",
+      "from_team_id": 147,
+      "to_team_id": 531,
+      "from": "New York Yankees",
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees optioned C J.C. Escarra to Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 915153,
