@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T21:53:47Z",
+  "updated": "2026-06-26T22:30:40Z",
   "count": 65,
   "items": [
     {
@@ -46,18 +46,6 @@
     },
     {
       "date": "2026-06-21",
-      "type": "",
-      "player": "Austin Wells",
-      "description": "Removed From 10-Day IL (Cervical headaches)"
-    },
-    {
-      "date": "2026-06-21",
-      "type": "called up",
-      "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-21",
       "type": "sent",
       "player": "Elmer Rodriguez",
       "description": "Sent to Minors"
@@ -67,6 +55,18 @@
       "type": "recalled",
       "player": "Austin Wells",
       "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-06-21",
+      "type": "",
+      "player": "Austin Wells",
+      "description": "Removed From 10-Day IL (Cervical headaches)"
+    },
+    {
+      "date": "2026-06-21",
+      "type": "called up",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-20",
@@ -172,15 +172,15 @@
     },
     {
       "date": "2026-06-05",
-      "type": "called up",
-      "player": "Spencer Jones",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-05",
       "type": "placed",
       "player": "Aaron Judge",
       "description": "Placed on 10-Day IL (Right rib stress fracture)"
+    },
+    {
+      "date": "2026-06-05",
+      "type": "called up",
+      "player": "Spencer Jones",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-02",
