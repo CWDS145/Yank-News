@@ -2,14 +2,6 @@
   "entries": [
     {
       "timestamp": "2026-06-25T21:18:00Z",
-      "source": "MLB season+byDateRange: Low-A",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season,byDateRange&sportId={sid}",
-      "status": 200,
-      "items": 68,
-      "note": "ok=68/68 window=2026-06-15..2026-06-25"
-    },
-    {
-      "timestamp": "2026-06-25T21:18:00Z",
       "source": "MLB Transactions org",
       "url": "https://statsapi.mlb.com/api/v1/transactions?teamId=147&startDate=2026-05-26&endDate=2026-06-25",
       "status": 200,
@@ -3998,6 +3990,14 @@
       "url": "https://www.cbssports.com/mlb/teams/NYY/new-york-yankees/transactions/",
       "status": 200,
       "items": 64,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-06-26T11:01:51Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 27,
       "note": "ok"
     }
   ]
