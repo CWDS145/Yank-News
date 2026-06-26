@@ -1,22 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-06-26T01:20:56Z",
-      "source": "MLB Transactions org",
-      "url": "https://statsapi.mlb.com/api/v1/transactions?teamId=147&startDate=2026-05-27&endDate=2026-06-26",
-      "status": 200,
-      "items": 31,
-      "note": "window 2026-05-27..2026-06-26"
-    },
-    {
-      "timestamp": "2026-06-26T01:23:40Z",
-      "source": "MLB personId fallback",
-      "url": "<bulk>",
-      "status": 200,
-      "items": 65,
-      "note": "players needing prior_level fallback"
-    },
-    {
       "timestamp": "2026-06-26T01:24:22Z",
       "source": "MLB season pitching: MLB",
       "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
@@ -3999,6 +3983,22 @@
       "status": 200,
       "items": 64,
       "note": "ok"
+    },
+    {
+      "timestamp": "2026-06-26T14:58:54Z",
+      "source": "FanGraphs Yankees",
+      "url": "https://www.fangraphs.com/teams/yankees",
+      "status": 200,
+      "items": 61,
+      "note": "ok | html_tables: batter_rows=41 pitcher_rows=24"
+    },
+    {
+      "timestamp": "2026-06-26T14:58:54Z",
+      "source": "Baseball-Reference Yankees",
+      "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
+      "status": 200,
+      "items": 41,
+      "note": "ok | tables: bat_id=players_standard_batting pit_id=players_standard_pitching batters=19 pitchers=22"
     }
   ]
 }
