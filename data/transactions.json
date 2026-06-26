@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T16:18:01Z",
+  "updated": "2026-06-26T17:09:35Z",
   "count": 64,
   "items": [
     {
@@ -94,12 +94,6 @@
     },
     {
       "date": "2026-06-13",
-      "type": "recalled",
-      "player": "Jasson Dominguez",
-      "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-06-13",
       "type": "",
       "player": "Jasson Dominguez",
       "description": "Removed From 10-Day IL (Sprained left shoulder AC joint)"
@@ -109,6 +103,12 @@
       "type": "placed",
       "player": "Trent Grisham",
       "description": "Placed on 10-Day IL (Strained right hamstring)"
+    },
+    {
+      "date": "2026-06-13",
+      "type": "recalled",
+      "player": "Jasson Dominguez",
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-06-11",
@@ -226,15 +226,15 @@
     },
     {
       "date": "2026-05-18",
-      "type": "purchased",
-      "player": "Yovanny Cruz",
-      "description": "Purchased From Minors"
-    },
-    {
-      "date": "2026-05-18",
       "type": "sent",
       "player": "Elmer Rodriguez",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-05-18",
+      "type": "purchased",
+      "player": "Yovanny Cruz",
+      "description": "Purchased From Minors"
     },
     {
       "date": "2026-05-16",
@@ -287,20 +287,14 @@
     {
       "date": "2026-05-08",
       "type": "called up",
-      "player": "Spencer Jones",
+      "player": "Kervin Castro",
       "description": "Called Up from Minors"
     },
     {
       "date": "2026-05-08",
       "type": "called up",
-      "player": "Kervin Castro",
+      "player": "Spencer Jones",
       "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-05-07",
-      "type": "sent",
-      "player": "Brendan Beck",
-      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-07",
@@ -309,16 +303,22 @@
       "description": "Purchased From Minors"
     },
     {
-      "date": "2026-05-06",
-      "type": "called up",
-      "player": "Yerry De Los Santos",
-      "description": "Called Up from Minors"
+      "date": "2026-05-07",
+      "type": "sent",
+      "player": "Brendan Beck",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-06",
       "type": "sent",
       "player": "Yerry De Los Santos",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-05-06",
+      "type": "called up",
+      "player": "Yerry De Los Santos",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-05-05",
@@ -370,15 +370,15 @@
     },
     {
       "date": "2026-04-28",
-      "type": "placed",
-      "player": "Giancarlo Stanton",
-      "description": "Placed on 10-Day IL (Strained right calf)"
-    },
-    {
-      "date": "2026-04-28",
       "type": "called up",
       "player": "Max Schuemann",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-04-28",
+      "type": "placed",
+      "player": "Giancarlo Stanton",
+      "description": "Placed on 10-Day IL (Strained right calf)"
     },
     {
       "date": "2026-04-27",
