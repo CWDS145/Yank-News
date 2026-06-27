@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T03:14:06Z",
+  "updated": "2026-06-27T04:48:53Z",
   "count": 64,
   "items": [
     {
@@ -268,12 +268,6 @@
     },
     {
       "date": "2026-05-10",
-      "type": "recalled",
-      "player": "Carlos Rodon",
-      "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-05-10",
       "type": "sent",
       "player": "Kervin Castro",
       "description": "Sent to Minors"
@@ -283,6 +277,12 @@
       "type": "",
       "player": "Carlos Rodon",
       "description": "Removed From 15-Day IL (Recovery from left elbow surgery)"
+    },
+    {
+      "date": "2026-05-10",
+      "type": "recalled",
+      "player": "Carlos Rodon",
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-05-08",
