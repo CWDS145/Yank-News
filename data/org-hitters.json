@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T13:19:44Z",
+  "updated": "2026-06-27T14:20:05Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-06-17",
@@ -1011,7 +1011,7 @@
     {
       "id": 691176,
       "name": "Jasson Domínguez",
-      "position": "DH",
+      "position": "RF",
       "level": "MLB",
       "level_since": "2026-06-13",
       "prior_level": "AAA",
