@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T11:52:57Z",
+  "updated": "2026-06-27T12:47:40Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-06-17",
@@ -870,6 +870,19 @@
       "last_10_levels": [
         "Low-A"
       ]
+    },
+    {
+      "id": 811551,
+      "name": "Isael Arias",
+      "position": "OF",
+      "level": "Low-A",
+      "level_since": "2026-06-27",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "last_10": null,
+      "season_levels": [],
+      "last_10_levels": []
     },
     {
       "id": 641555,
