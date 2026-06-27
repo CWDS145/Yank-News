@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T16:29:00Z",
+  "updated": "2026-06-27T16:55:30Z",
   "count": 64,
   "items": [
     {
@@ -16,15 +16,15 @@
     },
     {
       "date": "2026-06-24",
-      "type": "placed",
-      "player": "Ryan McMahon",
-      "description": "Placed on 10-Day IL (Throat/ear infection)"
-    },
-    {
-      "date": "2026-06-24",
       "type": "called up",
       "player": "Oswaldo Cabrera",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-06-24",
+      "type": "placed",
+      "player": "Ryan McMahon",
+      "description": "Placed on 10-Day IL (Throat/ear infection)"
     },
     {
       "date": "2026-06-23",
@@ -203,6 +203,12 @@
     {
       "date": "2026-05-22",
       "type": "",
+      "player": "Jose Caballero",
+      "description": "Removed From 10-Day IL (Right middle finger fracture)"
+    },
+    {
+      "date": "2026-05-22",
+      "type": "",
       "player": "Gerrit Cole",
       "description": "Removed From 15-Day IL (Recovery from right elbow surgery)"
     },
@@ -211,12 +217,6 @@
       "type": "recalled",
       "player": "Gerrit Cole",
       "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-05-22",
-      "type": "",
-      "player": "Jose Caballero",
-      "description": "Removed From 10-Day IL (Right middle finger fracture)"
     },
     {
       "date": "2026-05-21",
