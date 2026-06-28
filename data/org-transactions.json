@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T08:26:26Z",
+  "updated": "2026-06-28T09:50:57Z",
   "items": [
     {
       "id": 922613,
@@ -67,19 +67,6 @@
       "description": "New York Yankees recalled 3B Oswaldo Cabrera from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 921332,
-      "date": "2026-06-23",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 645305,
-      "player": "Ali Sánchez",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees placed C Ali Sánchez on the paternity list."
-    },
-    {
       "id": 921531,
       "date": "2026-06-23",
       "type_code": "SFA",
@@ -91,6 +78,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees signed free agent Chien-Fan Lai to a minor league contract."
+    },
+    {
+      "id": 921332,
+      "date": "2026-06-23",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 645305,
+      "player": "Ali Sánchez",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees placed C Ali Sánchez on the paternity list."
     },
     {
       "id": 921331,
@@ -145,19 +145,6 @@
       "description": "New York Yankees activated C Austin Wells from the 10-day injured list."
     },
     {
-      "id": 920762,
-      "date": "2026-06-21",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 695684,
-      "player": "Elmer Rodríguez",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Elmer Rodríguez from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 920719,
       "date": "2026-06-21",
       "type_code": "OPT",
@@ -169,6 +156,19 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees optioned RHP Jake Bird to Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 920762,
+      "date": "2026-06-21",
+      "type_code": "CU",
+      "type_desc": "Recalled",
+      "player_id": 695684,
+      "player": "Elmer Rodríguez",
+      "from_team_id": 531,
+      "to_team_id": 147,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
+      "to": "New York Yankees",
+      "description": "New York Yankees recalled RHP Elmer Rodríguez from Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 920720,
@@ -327,19 +327,6 @@
       "description": "New York Yankees recalled C J.C. Escarra from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 917896,
-      "date": "2026-06-05",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 691176,
-      "player": "Jasson Domínguez",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees sent LF Jasson Domínguez on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 916076,
       "date": "2026-06-05",
       "type_code": "ASG",
@@ -364,6 +351,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees placed RF Aaron Judge on the 10-day injured list retroactive to June 2, 2026. Right rib stress fracture."
+    },
+    {
+      "id": 917896,
+      "date": "2026-06-05",
+      "type_code": "ASG",
+      "type_desc": "Assigned",
+      "player_id": 691176,
+      "player": "Jasson Domínguez",
+      "from_team_id": 147,
+      "to_team_id": 531,
+      "from": "New York Yankees",
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees sent LF Jasson Domínguez on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 916062,
