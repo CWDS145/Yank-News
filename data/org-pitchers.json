@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T15:50:13Z",
+  "updated": "2026-06-28T16:19:55Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1957,6 +1957,43 @@
       "season_levels": [
         "MLB",
         "AAA"
+      ]
+    },
+    {
+      "id": 805728,
+      "name": "Kevin Stevens",
+      "position": "P",
+      "level": "High-A",
+      "level_since": "2026-06-28",
+      "prior_level": "Low-A",
+      "prior_level_since": "2026-06-10",
+      "season": {
+        "w": 0,
+        "l": 0,
+        "g": 3,
+        "gs": 0,
+        "cg": 0,
+        "sho": 0,
+        "sv": 0,
+        "svo": 0,
+        "ip": "3.1",
+        "ip_outs": 10,
+        "h": 5,
+        "r": 3,
+        "er": 1,
+        "hr": 1,
+        "hb": 0,
+        "bb": 1,
+        "so": 4,
+        "era": "2.70",
+        "era_num": 2.7,
+        "whip": "1.80",
+        "whip_num": 1.8,
+        "avg": ".333",
+        "avg_num": 0.3333333333333333
+      },
+      "season_levels": [
+        "Low-A"
       ]
     },
     {
