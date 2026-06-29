@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T23:26:08Z",
+  "updated": "2026-06-29T23:51:27Z",
   "count": 62,
   "items": [
     {
@@ -365,14 +365,14 @@
     {
       "date": "2026-05-01",
       "type": "",
-      "player": "Paul DeJong",
-      "description": "Declared Free Agency"
+      "player": "Randal Grichuk",
+      "description": "Refused Minor League Assignment - Free Agent"
     },
     {
       "date": "2026-05-01",
       "type": "",
-      "player": "Randal Grichuk",
-      "description": "Refused Minor League Assignment - Free Agent"
+      "player": "Paul DeJong",
+      "description": "Declared Free Agency"
     }
   ]
 }
