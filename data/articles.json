@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-29T13:37:55Z",
-  "count": 63,
+  "updated": "2026-06-29T15:15:09Z",
+  "count": 61,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-06-29T13:37:55Z",
+      "published": "2026-06-29T15:15:09Z",
       "image": null
     },
     {
@@ -17,7 +17,25 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/new-york-yankees-to-host-free-pregame-skin-cancer-screenings-for-guests-attending-the-teams-sun-safety-day-game-on-thursday-june-4-at-135-p-m-vs-cleveland/",
-      "published": "2026-06-29T13:37:55Z",
+      "published": "2026-06-29T15:15:09Z",
+      "image": null
+    },
+    {
+      "title": "How Wells is working to find his rhythm at the plate",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Bryan Hoch",
+      "link": "https://www.mlb.com/yankees/news/austin-wells-working-to-improve-hitting-after-return-from-il",
+      "published": "2026-06-29T15:06:00Z",
+      "image": null
+    },
+    {
+      "title": "Yankees Rivalry Roundup: Rays seize first as Junior Caminero continues historic heater",
+      "summary": "Sigh. The Rays refuse to go away. It’s not surprising. But it is infuriating, especially given the putrid state of basically the entire American League except for the Yanks and Tampa Bay. The Rays’ recent hot streak is particularly unfortutnate as the Yankees can’t buy a win right now, finishing a truly terrible four-game sweep […]",
+      "source": "Pinstripe Alley",
+      "author": "Kevin Winterhalt",
+      "link": "https://www.pinstripealley.com/mlb-news/194807/yankees-rivals-scores-rays-first-place-junior-caminero-toronto-cleveland-seattle",
+      "published": "2026-06-29T14:00:00Z",
       "image": null
     },
     {
@@ -45,24 +63,6 @@
       "author": "Andrew Mearns",
       "link": "https://www.pinstripealley.com/pinstripe-alley-discussions/194726/yankees-mlb-pinstripe-alley-6-29-26",
       "published": "2026-06-29T10:00:00Z",
-      "image": null
-    },
-    {
-      "title": "Gray's no-hitter ends 8th, Red Sox complete sweep",
-      "summary": "Jarren Duran singled home the winning run to cap a three-run rally in the 10th inning after Boston blew a two-run lead in the ninth, and the Red Sox finished a four-game sweep of the rival New York Yankees with a 5-4 victory Sunday night at Fenway Park.",
-      "source": "ESPN MLB",
-      "author": null,
-      "link": "https://www.espn.com/mlb/story/_/id/49212701/red-sox-rally-10th-complete-four-game-sweep-yankees",
-      "published": "2026-06-29T09:14:45Z",
-      "image": null
-    },
-    {
-      "title": "NBC bumps Yankees-Red Sox, sticks with golf",
-      "summary": "NBC preempted the Yankees-Red Sox \"Sunday Night Baseball\" game in favor of the Travelers Championship, which ran late after rain suspended final-round play for nearly 90 minutes.",
-      "source": "ESPN MLB",
-      "author": null,
-      "link": "https://www.espn.com/golf/story/_/id/49212565/nbc-consults-pga-tour-mlb-turns-yankees-red-sox-late",
-      "published": "2026-06-29T09:14:45Z",
       "image": null
     },
     {
@@ -148,7 +148,7 @@
     },
     {
       "title": "Yankees’ Jazz Chisholm ejected for slamming helmet after arguing call in fiery scene",
-      "summary": "Yankees second baseman Jazz Chisholm, inserted in the leadoff spot, was tossed after striking out.",
+      "summary": "The Yankees' second baseman, inserted in the leadoff spot, was tossed after striking out.",
       "source": "NY Post Yankees",
       "author": "Dan Martin",
       "link": "https://nypost.com/2026/06/28/sports/yankees-jazz-chisholm-ejected-for-slamming-helmet-after-arguing-check-swing-call/",
@@ -244,15 +244,6 @@
       "link": "https://nypost.com/2026/06/28/betting/betmgm-bonus-code-nypnewsget-get-up-to-1k-in-no-sweat-tokens-for-yankees-vs-red-sox-3/",
       "published": "2026-06-28T16:00:00Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2FAP_Yankees_Tigers_Baseball_28_21-7d66a-0.jpg?quality%3D90%26"
-    },
-    {
-      "title": "Yankees Birthday of the Day: Al Downing",
-      "summary": "The mid-to-late 1960s are fairly regarded as a pretty brutal time in Yankees’ history. CBS infamously purchased the team in 1964, and the team almost immediately began to fall off a cliff. Between their poor ownership and the players of the 1950s and early 60s dynasties aging out, the team went from 1964 to 1976 […]",
-      "source": "Pinstripe Alley",
-      "author": "Matt Ferenchick",
-      "link": "https://www.pinstripealley.com/yankees-history-trivia/193885/yankees-history-al-downing-birthday-june-28-hank-aaron-homer",
-      "published": "2026-06-28T15:30:00Z",
-      "image": null
     },
     {
       "title": "Austin Wells insists he’s feeling more ‘comfortable’ at plate as woes continue in Yankees’ loss",
@@ -558,15 +549,6 @@
       "author": "Steve Kornacki",
       "link": "https://www.mlb.com/yankees/news/jazz-chisholm-jr-hits-go-ahead-homer-shakes-lollipop-jar",
       "published": "2026-06-24T04:17:00Z",
-      "image": null
-    },
-    {
-      "title": "Yankees land premier RHP prospect from Taiwan as part of '26 int'l class",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Jesse Borek",
-      "link": "https://www.mlb.com/yankees/news/yankees-chien-fan-lai-2026-international-signing",
-      "published": "2026-06-24T00:46:00Z",
       "image": null
     }
   ]
