@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T23:42:20Z",
+  "updated": "2026-06-29T00:12:22Z",
   "items": [
     {
       "id": 922613,
@@ -416,19 +416,6 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees placed 3B Amed Rosario on the paternity list."
-    },
-    {
-      "id": 913634,
-      "date": "2026-05-29",
-      "type_code": "SFA",
-      "type_desc": "Signed as Free Agent",
-      "player_id": 842321,
-      "player": "Jhon Beltre",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees signed free agent RHP Jhon Beltre to a minor league contract."
     }
   ]
 }
