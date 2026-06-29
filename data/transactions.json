@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T03:48:11Z",
+  "updated": "2026-06-29T05:41:50Z",
   "count": 60,
   "items": [
     {
@@ -172,15 +172,15 @@
     },
     {
       "date": "2026-06-05",
-      "type": "placed",
-      "player": "Aaron Judge",
-      "description": "Placed on 10-Day IL (Right rib stress fracture)"
-    },
-    {
-      "date": "2026-06-05",
       "type": "called up",
       "player": "Spencer Jones",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-06-05",
+      "type": "placed",
+      "player": "Aaron Judge",
+      "description": "Placed on 10-Day IL (Right rib stress fracture)"
     },
     {
       "date": "2026-06-02",
@@ -256,15 +256,15 @@
     },
     {
       "date": "2026-05-12",
-      "type": "called up",
-      "player": "Anthony Volpe",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-05-12",
       "type": "placed",
       "player": "Jose Caballero",
       "description": "Placed on 10-Day IL (Right middle finger fracture)"
+    },
+    {
+      "date": "2026-05-12",
+      "type": "called up",
+      "player": "Anthony Volpe",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-05-10",
@@ -274,15 +274,15 @@
     },
     {
       "date": "2026-05-10",
-      "type": "sent",
-      "player": "Kervin Castro",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-05-10",
       "type": "recalled",
       "player": "Carlos Rodon",
       "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-05-10",
+      "type": "sent",
+      "player": "Kervin Castro",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-08",
