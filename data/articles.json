@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T22:52:26Z",
+  "updated": "2026-06-29T23:26:06Z",
   "count": 63,
   "items": [
     {
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-06-29T22:52:26Z",
+      "published": "2026-06-29T23:26:06Z",
       "image": null
     },
     {
@@ -17,7 +17,25 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/new-york-yankees-to-host-free-pregame-skin-cancer-screenings-for-guests-attending-the-teams-sun-safety-day-game-on-thursday-june-4-at-135-p-m-vs-cleveland/",
-      "published": "2026-06-29T22:52:26Z",
+      "published": "2026-06-29T23:26:06Z",
+      "image": null
+    },
+    {
+      "title": "Latest Yankees injuries and transactions",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "MLB.com",
+      "link": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
+      "published": "2026-06-29T23:07:00Z",
+      "image": null
+    },
+    {
+      "title": "Fried set to throw 30-pitch live BP, with Stanton in batter's box",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Bill Ladson",
+      "link": "https://www.mlb.com/yankees/news/max-fried-giancarlo-stanton-progress-in-recovery",
+      "published": "2026-06-29T22:56:26Z",
       "image": null
     },
     {
@@ -66,21 +84,12 @@
       "image": null
     },
     {
-      "title": "Yankees At-Bat of the Week: Jasson Domínguez (6/24)",
-      "summary": "It’s official: the Yankees offense is in a slump. They have hit a new low this season, getting swept in four putrid games at Fenway by the last place Red Sox. The bats got no-hit through five innings in each of the final three games, not managing a hit until the eighth in the finale. […]",
-      "source": "Pinstripe Alley",
-      "author": "Peter Brody",
-      "link": "https://www.pinstripealley.com/yankees-analysis-sabermetrics/194832/yankees-jasson-dominguez-hitting-analysis-go-ahead-home-run-tarik-skubal-tigers",
-      "published": "2026-06-29T18:30:00Z",
-      "image": null
-    },
-    {
       "title": "Yankees' Fried to face hitters, including Stanton",
       "summary": "Max Fried is slated to face hitters for the first time since going on the injured list in mid-May in a live batting practice session, manager Aaron Boone said, and the plan is for Giancarlo Stanton, also on the IL, to face him.",
       "source": "ESPN MLB",
       "author": "Jorge Castillo",
       "link": "https://www.espn.com/mlb/story/_/id/49219761/yankees-fried-throw-live-bp-include-stanton",
-      "published": "2026-06-29T18:20:19Z",
+      "published": "2026-06-29T19:07:07Z",
       "image": null
     },
     {
@@ -89,7 +98,16 @@
       "source": "ESPN MLB",
       "author": null,
       "link": "https://www.espn.com/golf/story/_/id/49212565/nbc-consults-pga-tour-mlb-turns-yankees-red-sox-late",
-      "published": "2026-06-29T18:20:19Z",
+      "published": "2026-06-29T19:07:07Z",
+      "image": null
+    },
+    {
+      "title": "Yankees At-Bat of the Week: Jasson Domínguez (6/24)",
+      "summary": "It’s official: the Yankees offense is in a slump. They have hit a new low this season, getting swept in four putrid games at Fenway by the last place Red Sox. The bats got no-hit through five innings in each of the final three games, not managing a hit until the eighth in the finale. […]",
+      "source": "Pinstripe Alley",
+      "author": "Peter Brody",
+      "link": "https://www.pinstripealley.com/yankees-analysis-sabermetrics/194832/yankees-jasson-dominguez-hitting-analysis-go-ahead-home-run-tarik-skubal-tigers",
+      "published": "2026-06-29T18:30:00Z",
       "image": null
     },
     {
@@ -444,15 +462,6 @@
       "image": null
     },
     {
-      "title": "Latest Yankees injuries and transactions",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "MLB.com",
-      "link": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
-      "published": "2026-06-26T22:03:00Z",
-      "image": null
-    },
-    {
       "title": "What's behind Goldschmidt's unexpected rebound season?",
       "summary": "153 OPS+ is 10th-best in MLB among those with 200 PA",
       "source": "MLB.com Yankees",
@@ -558,15 +567,6 @@
       "author": "Thomas Harrigan, Steve Kornacki",
       "link": "https://www.mlb.com/yankees/news/ryan-mcmahon-to-injured-list-oswaldo-cabrera-returns",
       "published": "2026-06-24T23:04:00Z",
-      "image": null
-    },
-    {
-      "title": "Call him 'Lollipop Kid'! Jazz slugs go-ahead HR, gives candy jar camera time",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Steve Kornacki",
-      "link": "https://www.mlb.com/yankees/news/jazz-chisholm-jr-hits-go-ahead-homer-shakes-lollipop-jar",
-      "published": "2026-06-24T04:17:00Z",
       "image": null
     }
   ]
