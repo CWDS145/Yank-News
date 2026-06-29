@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T20:55:42Z",
+  "updated": "2026-06-29T21:48:30Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-06-19",
@@ -1442,37 +1442,6 @@
       ],
       "last_10_levels": [
         "High-A"
-      ]
-    },
-    {
-      "id": 806884,
-      "name": "Luis Escudero",
-      "position": "2B",
-      "level": "Low-A",
-      "level_since": "2026-05-23",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 64,
-        "k": 17,
-        "avg": ".297",
-        "ops": "1.161",
-        "avg_num": 0.296875,
-        "ops_num": 1.160763888888889
-      },
-      "last_10": {
-        "ab": 24,
-        "k": 7,
-        "avg": ".333",
-        "ops": "1.484",
-        "avg_num": 0.3333333333333333,
-        "ops_num": 1.484234234234234
-      },
-      "season_levels": [
-        "Low-A"
-      ],
-      "last_10_levels": [
-        "Low-A"
       ]
     },
     {
