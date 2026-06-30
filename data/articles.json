@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-30T03:47:40Z",
-  "count": 63,
+  "updated": "2026-06-30T05:29:22Z",
+  "count": 61,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-06-30T03:47:40Z",
+      "published": "2026-06-30T05:29:22Z",
       "image": null
     },
     {
@@ -17,7 +17,34 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/new-york-yankees-to-host-free-pregame-skin-cancer-screenings-for-guests-attending-the-teams-sun-safety-day-game-on-thursday-june-4-at-135-p-m-vs-cleveland/",
-      "published": "2026-06-30T03:47:40Z",
+      "published": "2026-06-30T05:29:22Z",
+      "image": null
+    },
+    {
+      "title": "Duel of the year? How about a 2-time AL Cy vs. this year's frontrunner in Bronx?",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Jason Beck and Bill Ladson",
+      "link": "https://www.mlb.com/yankees/news/cam-schlittler-tarik-skubal-to-duel-at-yankee-stadium",
+      "published": "2026-06-30T05:16:30Z",
+      "image": null
+    },
+    {
+      "title": "Chisholm in concussion protocol after ugly collision with Domínguez",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Bill Ladson",
+      "link": "https://www.mlb.com/yankees/news/jazz-chisholm-jr-exits-after-collision-in-outfield",
+      "published": "2026-06-30T04:08:00Z",
+      "image": null
+    },
+    {
+      "title": "Latest Yankees injuries and transactions",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "MLB.com",
+      "link": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
+      "published": "2026-06-30T03:44:00Z",
       "image": null
     },
     {
@@ -48,15 +75,6 @@
       "image": null
     },
     {
-      "title": "Chisholm in concussion protocol after ugly collision with Domínguez",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bill Ladson",
-      "link": "https://www.mlb.com/yankees/news/jazz-chisholm-jr-exits-after-collision-in-outfield",
-      "published": "2026-06-30T02:03:00Z",
-      "image": null
-    },
-    {
       "title": "Jazz Chisholm Jr. exits after scary collision with Jasson Dominguez in Yankees injury worry",
       "summary": "An eventful few days for Jazz Chisholm Jr. took another turn, this one painful.",
       "source": "NY Post Yankees",
@@ -73,33 +91,6 @@
       "link": "https://nypost.com/2026/06/29/sports/cam-schlittler-tarik-skubal-matchup-an-old-school-duel-of-aces/",
       "published": "2026-06-30T00:18:32Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fnew-york-yankees-cam-schlittler-132275185.jpg?w%3D1024"
-    },
-    {
-      "title": "Yankees' Fried to face hitters, including Stanton",
-      "summary": "Max Fried is slated to face hitters for the first time since going on the injured list in mid-May in a live batting practice session, manager Aaron Boone said, and the plan is for Giancarlo Stanton, also on the IL, to face him.",
-      "source": "ESPN MLB",
-      "author": "Jorge Castillo",
-      "link": "https://www.espn.com/mlb/story/_/id/49219761/yankees-fried-throw-live-bp-include-stanton",
-      "published": "2026-06-29T23:08:56Z",
-      "image": null
-    },
-    {
-      "title": "Chisholm exits after collision with Dominguez",
-      "summary": "Yankees second baseman Jazz Chisholm Jr. left Monday night's 7-3 loss to the Tigers following a violent collision with right fielder Jasson Domínguez and was placed in concussion protocol.",
-      "source": "ESPN MLB",
-      "author": null,
-      "link": "https://www.espn.com/mlb/story/_/id/49221099/chisholm-exits-yankees-game-collision-dominguez",
-      "published": "2026-06-29T23:08:55Z",
-      "image": null
-    },
-    {
-      "title": "Latest Yankees injuries and transactions",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "MLB.com",
-      "link": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
-      "published": "2026-06-29T23:07:00Z",
-      "image": null
     },
     {
       "title": "Two Yankees prospects make Team of the Week",
@@ -558,15 +549,6 @@
       "author": "Thomas Harrigan",
       "link": "https://www.mlb.com/yankees/news/yankees-trade-deadline-questions-2026",
       "published": "2026-06-25T15:48:58Z",
-      "image": null
-    },
-    {
-      "title": "How does Goldy (2 HRs) keep dominating Skubal? 'I have no idea'",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Steve Kornacki",
-      "link": "https://www.mlb.com/yankees/news/paul-goldschmidt-jasson-dominguez-homer-in-yankees-win-over-tigers",
-      "published": "2026-06-25T03:41:00Z",
       "image": null
     }
   ]
