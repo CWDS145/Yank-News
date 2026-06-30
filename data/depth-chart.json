@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T11:40:50Z",
+  "updated": "2026-06-30T11:03:08Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -100,15 +100,15 @@
     ],
     "RP": [
       {
-        "name": "David Bednar",
+        "name": "Fernando E. Cruz",
         "rank": 1
       },
       {
-        "name": "Fernando E. Cruz",
+        "name": "Brent Headrick",
         "rank": 2
       },
       {
-        "name": "Brent Headrick",
+        "name": "Camilo Doval",
         "rank": 3
       },
       {
@@ -116,15 +116,15 @@
         "rank": 4
       },
       {
-        "name": "Camilo Doval",
+        "name": "Paul Blackburn",
         "rank": 5
       },
       {
-        "name": "Paul Blackburn",
+        "name": "Yerry De Los Santos",
         "rank": 6
       },
       {
-        "name": "Yerry De Los Santos",
+        "name": "Jake Bird",
         "rank": 7
       },
       {
@@ -144,10 +144,10 @@
     "Carlos Rodon",
     "Clarke Schmidt",
     "Cody Bellinger",
-    "David Bednar",
     "Fernando E. Cruz",
     "Gerrit Cole",
     "Giancarlo Stanton",
+    "Jake Bird",
     "Jasson Dominguez",
     "Jazz Chisholm",
     "Jose Caballero",
