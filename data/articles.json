@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-30T16:19:16Z",
-  "count": 61,
+  "updated": "2026-06-30T17:12:48Z",
+  "count": 59,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-06-30T16:19:16Z",
+      "published": "2026-06-30T17:12:48Z",
+      "image": null
+    },
+    {
+      "title": "Yankees prospects: Week 14 minor league recap",
+      "summary": "Pitching. Pitching. Pitching. That’s been the strength of the Yankees’ farm system for the last few years, and this week was no different. With some key bats either currently on the shelf or joining the shelf late in the week, the focus was on the mountain of arms continuing impressive seasons or taking steps forward […]",
+      "source": "Pinstripe Alley",
+      "author": "Michael Zeno",
+      "link": "https://www.pinstripealley.com/yankees-prospects/194884/yankees-prospects-week-14-minor-league-recap",
+      "published": "2026-06-30T17:00:00Z",
       "image": null
     },
     {
@@ -66,22 +75,13 @@
       "image": null
     },
     {
-      "title": "Yankees' Fried to face hitters, including Stanton",
-      "summary": "Max Fried is slated to face hitters for the first time since going on the injured list in mid-May in a live batting practice session, manager Aaron Boone said, and the plan is for Giancarlo Stanton, also on the IL, to face him.",
-      "source": "ESPN MLB",
-      "author": "Jorge Castillo",
-      "link": "https://www.espn.com/mlb/story/_/id/49219761/yankees-fried-throw-live-bp-include-stanton",
-      "published": "2026-06-30T11:51:41Z",
-      "image": null
-    },
-    {
-      "title": "Chisholm exits after collision with Dominguez",
-      "summary": "Yankees second baseman Jazz Chisholm Jr. left Monday night's 7-3 loss to the Tigers following a violent collision with right fielder Jasson Domínguez and was placed in concussion protocol.",
-      "source": "ESPN MLB",
-      "author": null,
-      "link": "https://www.espn.com/mlb/story/_/id/49221099/chisholm-exits-yankees-game-collision-dominguez",
-      "published": "2026-06-30T11:51:40Z",
-      "image": null
+      "title": "Tarik Skubal is about to confront the Yankees with their trade deadline priorities",
+      "summary": "Do they really need another pitcher?",
+      "source": "NY Post Yankees",
+      "author": "Jake Nisse",
+      "link": "https://nypost.com/2026/06/30/sports/how-could-tarik-skubal-fit-in-yankees-trade-deadline-priorities/",
+      "published": "2026-06-30T11:56:06Z",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fdetroit-tigers-starting-pitcher-tarik-132144377.jpg?quality%3D90%26"
     },
     {
       "title": "Yankees prospects: Wilberson De Pena continues bullying Rookie ball",
@@ -234,15 +234,6 @@
       "author": "Jeremy Nielsen",
       "link": "https://www.pinstripealley.com/pinstripe-alley-discussions/194951/mlb-yankees-game-day-thread-tigers-starting-pitchers-lineups-how-to-watch-tv-channel-weathers-mize",
       "published": "2026-06-29T22:38:15Z",
-      "image": null
-    },
-    {
-      "title": "VOTE: Which Yankees starting pitcher is most concerning?",
-      "summary": "Welcome to SB Nation Reacts, a survey of fans across Major League Baseball. Throughout the year we ask questions of the most plugged-in Yankees fans and fans across the country. Sign up here to participate in the weekly emailed surveys. Through the first couple months of the 2026 MLB season, New York Yankees starting pitching […]",
-      "source": "Pinstripe Alley",
-      "author": "Kyle Thele",
-      "link": "https://www.pinstripealley.com/pinstripe-alley-discussions/194945/yankees-fan-survey-starting-pitching-biggest-problem-concern-cole-rodon-warren-weathers",
-      "published": "2026-06-29T21:26:32Z",
       "image": null
     },
     {
@@ -460,15 +451,6 @@
       "link": "https://nypost.com/2026/06/27/sports/yankees-bats-go-quietly-gerrit-cole-struggles-in-third-straight-loss-to-red-sox/",
       "published": "2026-06-27T19:54:30Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fnew-york-yankees-gerrit-cole-132489051.jpg?w%3D1024"
-    },
-    {
-      "title": "MLB Power Rankings, Award Tracker: Dodgers hold off NL Central leader for top spot",
-      "summary": "1) Yordan Alvarez, Astros (.318, 25 HRs, 56 RBIs, 1.055 OPS) By the time Judge returns from a stress fracture in his rib, he will have missed three-plus months. That means that for the first time since 2020, the AL MVP will be a player other than Judge or Ohtani. The favorite now is Alvarez,...",
-      "source": "NY Post Yankees",
-      "author": "Jack Harris",
-      "link": "https://nypost.com/2026/06/27/sports/mlb-power-rankings-award-tracker-al-mvp-candidates-interesting-at-midseason/",
-      "published": "2026-06-27T16:53:13Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2FAP_Dodgers_Twins_Baseball_59_62-13982-0.jpg?w%3D1024"
     },
     {
       "title": "Grisham expected back during homestand; McMahon soon to follow",
