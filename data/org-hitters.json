@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T18:24:15Z",
+  "updated": "2026-06-30T19:25:11Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-06-20",
@@ -1078,6 +1078,29 @@
       ]
     },
     {
+      "id": 701816,
+      "name": "John Cristino",
+      "position": "C",
+      "level": "AA",
+      "level_since": "2026-06-09",
+      "prior_level": "Low-A",
+      "prior_level_since": "2026-05-02",
+      "season": {
+        "ab": 32,
+        "k": 14,
+        "avg": ".156",
+        "ops": ".589",
+        "avg_num": 0.15625,
+        "ops_num": 0.5889423076923077
+      },
+      "last_10": null,
+      "season_levels": [
+        "AA",
+        "Low-A"
+      ],
+      "last_10_levels": []
+    },
+    {
       "id": 826142,
       "name": "JoJo Jackson",
       "position": "OF",
@@ -1575,37 +1598,6 @@
       },
       "season_levels": [
         "AAA",
-        "AA"
-      ],
-      "last_10_levels": [
-        "AA"
-      ]
-    },
-    {
-      "id": 657051,
-      "name": "Nicholas Torres",
-      "position": "OF",
-      "level": "AA",
-      "level_since": "2026-04-18",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 133,
-        "k": 39,
-        "avg": ".256",
-        "ops": ".666",
-        "avg_num": 0.2556390977443609,
-        "ops_num": 0.6663975374678306
-      },
-      "last_10": {
-        "ab": 30,
-        "k": 11,
-        "avg": ".200",
-        "ops": ".473",
-        "avg_num": 0.2,
-        "ops_num": 0.4727272727272727
-      },
-      "season_levels": [
         "AA"
       ],
       "last_10_levels": [
