@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T23:39:54Z",
+  "updated": "2026-06-30T00:11:34Z",
   "items": [
     {
       "id": 923411,
@@ -429,19 +429,6 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees activated 3B Amed Rosario from the paternity list."
-    },
-    {
-      "id": 913876,
-      "date": "2026-05-30",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 642708,
-      "player": "Amed Rosario",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees placed 3B Amed Rosario on the paternity list."
     }
   ]
 }
