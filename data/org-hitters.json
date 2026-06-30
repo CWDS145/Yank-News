@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T13:27:00Z",
+  "updated": "2026-06-30T14:40:09Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-06-20",
@@ -310,6 +310,19 @@
       "last_10_levels": [
         "High-A"
       ]
+    },
+    {
+      "id": 820991,
+      "name": "Christofer Reyes",
+      "position": "SS",
+      "level": "Low-A",
+      "level_since": "2026-06-30",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "last_10": null,
+      "season_levels": [],
+      "last_10_levels": []
     },
     {
       "id": 815089,
@@ -1847,7 +1860,7 @@
     {
       "id": 682987,
       "name": "Spencer Jones",
-      "position": "RF",
+      "position": "CF",
       "level": "MLB",
       "level_since": "2026-06-05",
       "prior_level": "AAA",
