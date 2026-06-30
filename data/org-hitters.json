@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T05:45:00Z",
+  "updated": "2026-06-30T07:06:20Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-06-20",
@@ -760,38 +760,6 @@
       ],
       "last_10_levels": [
         "Low-A"
-      ]
-    },
-    {
-      "id": 682003,
-      "name": "Garrett Martin",
-      "position": "RF",
-      "level": "AAA",
-      "level_since": "2026-06-20",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 293,
-        "k": 78,
-        "avg": ".270",
-        "ops": ".907",
-        "avg_num": 0.2696245733788396,
-        "ops_num": 0.9073891831906029
-      },
-      "last_10": {
-        "ab": 34,
-        "k": 11,
-        "avg": ".265",
-        "ops": ".874",
-        "avg_num": 0.2647058823529412,
-        "ops_num": 0.8739495798319328
-      },
-      "season_levels": [
-        "AAA",
-        "AA"
-      ],
-      "last_10_levels": [
-        "AAA"
       ]
     },
     {

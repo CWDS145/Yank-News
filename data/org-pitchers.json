@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T05:48:36Z",
+  "updated": "2026-06-30T07:09:53Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1964,9 +1964,9 @@
       "name": "Kevin Stevens",
       "position": "P",
       "level": "High-A",
-      "level_since": "2026-06-28",
-      "prior_level": "Low-A",
-      "prior_level_since": "2026-06-10",
+      "level_since": "2026-06-30",
+      "prior_level": "AA",
+      "prior_level_since": "2026-06-29",
       "season": {
         "w": 0,
         "l": 0,
@@ -3007,10 +3007,10 @@
       "id": 660787,
       "name": "Yerry De los Santos",
       "position": "P",
-      "level": "MLB",
-      "level_since": "2026-06-22",
-      "prior_level": "AAA",
-      "prior_level_since": "2026-05-07",
+      "level": "AAA",
+      "level_since": "2026-06-30",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-06-22",
       "season": {
         "w": 2,
         "l": 2,
