@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T10:53:32Z",
+  "updated": "2026-07-01T12:16:43Z",
   "season": 2026,
   "players": [
     {
@@ -103,14 +103,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 216,
-        "avg_ev": 91.6,
+        "attempts": 218,
+        "avg_ev": 91.7,
         "max_ev": 110.9,
-        "avg_la": 14.2,
-        "barrel_pct": 13.9,
-        "barrel_per_pa": 8.9,
-        "ev95plus": 99,
-        "ev95_pct": 45.8,
+        "avg_la": 14.4,
+        "barrel_pct": 14.2,
+        "barrel_per_pa": 9.1,
+        "ev95plus": 100,
+        "ev95_pct": 45.9,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -368,14 +368,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 183,
-        "avg_ev": 84.2,
+        "attempts": 185,
+        "avg_ev": 84,
         "max_ev": 108.5,
-        "avg_la": 11.4,
-        "barrel_pct": 3.3,
+        "avg_la": 11.6,
+        "barrel_pct": 3.2,
         "barrel_per_pa": 2.3,
         "ev95plus": 47,
-        "ev95_pct": 25.8,
+        "ev95_pct": 25.5,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -445,14 +445,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 162,
-        "avg_ev": 86.8,
+        "attempts": 165,
+        "avg_ev": 86.5,
         "max_ev": 109.8,
-        "avg_la": 14.1,
-        "barrel_pct": 11.7,
-        "barrel_per_pa": 8.3,
+        "avg_la": 14,
+        "barrel_pct": 11.5,
+        "barrel_per_pa": 8.2,
         "ev95plus": 63,
-        "ev95_pct": 38.9,
+        "ev95_pct": 38.2,
         "hardhit_pct": null
       },
       "sprint_speed": {
