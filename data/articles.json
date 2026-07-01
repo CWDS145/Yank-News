@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-01T02:23:35Z",
-  "count": 59,
+  "updated": "2026-07-01T03:48:04Z",
+  "count": 60,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,25 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-01T02:23:35Z",
+      "published": "2026-07-01T03:48:04Z",
+      "image": null
+    },
+    {
+      "title": "Schlittler stunned with career-worst start (6 ER, 4 HRs) opposite Skubal",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Bryan Hoch",
+      "link": "https://www.mlb.com/yankees/news/cam-schlittler-struggles-in-start-against-tarik-skubal",
+      "published": "2026-07-01T03:32:00Z",
+      "image": null
+    },
+    {
+      "title": "Yankees Injury Notes: Judge, Grisham, McMahon",
+      "summary": "The Yankees were blown out by the Tigers tonight, dropping their sixth consecutive game in the process. The ugliest stretch of their season has dropped New York 2.5 games back of a red hot Tampa Bay team in the AL East. It leaves the Yanks with a 12-14 record since Aaron Judge’s most recent appearance. The three-time […]",
+      "source": "MLB Trade Rumors NYY",
+      "author": "Anthony Franco",
+      "link": "https://www.mlbtraderumors.com/2026/06/yankees-injury-notes-judge-grisham-mcmahon.html",
+      "published": "2026-07-01T02:49:11Z",
       "image": null
     },
     {
@@ -19,15 +37,6 @@
       "link": "https://nypost.com/2026/06/30/sports/cam-schlittler-rocked-in-yankees-loss-to-tigers-as-skid-hits-six/",
       "published": "2026-07-01T02:14:39Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2FCam-Schlittler.jpg?w%3D1024"
-    },
-    {
-      "title": "Schlittler stunned with career-worst start (6 ER, 4 HRs) opposite Skubal",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch",
-      "link": "https://www.mlb.com/yankees/news/cam-schlittler-struggles-in-start-against-tarik-skubal",
-      "published": "2026-07-01T02:09:00Z",
-      "image": null
     },
     {
       "title": "Yankees doomed to sixth-straight loss by Cam Schlittler&#8217;s homer-happy start",
