@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T17:05:45Z",
+  "updated": "2026-07-02T18:06:49Z",
   "count": 59,
   "items": [
     {
@@ -8,7 +8,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-02T17:05:45Z",
+      "published": "2026-07-02T18:06:49Z",
+      "image": null
+    },
+    {
+      "title": "MLB End-of-June Check-in: NL East",
+      "summary": "Every day, Pinstripe Alley offers updates on what the Yankees’ top American League opponents are up to through the Rivalry Roundup. The AL East is well-trodden ground there, but with the season at it’s mathematical halfway point, we’re going to take a peek around MLB as a whole and check in with each of the other five […]",
+      "source": "Pinstripe Alley",
+      "author": "Michael Zeno",
+      "link": "https://www.pinstripealley.com/mlb-news/195209/mlb-end-of-june-check-in-nl-east-mets-phillies-marlins-nationals-phillies",
+      "published": "2026-07-02T17:00:00Z",
       "image": null
     },
     {
@@ -251,15 +260,6 @@
       "source": "Pinstripe Alley",
       "author": "John Griffin",
       "link": "https://www.pinstripealley.com/yankees-history-trivia/194885/yankees-history-birthday-jack-quinn-july-1-pitcher",
-      "published": "2026-07-01T15:30:00Z",
-      "image": null
-    },
-    {
-      "title": "MLB End-of-June Check-In: AL West",
-      "summary": "Every day, Pinstripe Alley offers updates on what the Yankees’ top American League opponents are up to through the Rivalry Roundup. The AL East is well-trodden ground there, but with the end of the month upon us, we’re going to take a peek around MLB as a whole and check in with each of the other five […]",
-      "source": "Pinstripe Alley",
-      "author": "Kento Mizuno",
-      "link": "https://www.pinstripealley.com/mlb-news/195161/mlb-division-review-june-al-west-rangers-mariners-astros-athletics-angels",
       "published": "2026-07-01T15:30:00Z",
       "image": null
     },
