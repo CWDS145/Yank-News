@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T21:43:42Z",
+  "updated": "2026-07-02T22:11:51Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-06-22",
@@ -618,6 +618,28 @@
       "last_10_levels": [
         "Low-A"
       ]
+    },
+    {
+      "id": 702750,
+      "name": "Edinson Duran",
+      "position": "C",
+      "level": "AAA",
+      "level_since": "2026-04-02",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 5,
+        "k": 1,
+        "avg": ".200",
+        "ops": ".733",
+        "avg_num": 0.2,
+        "ops_num": 0.7333333333333334
+      },
+      "last_10": null,
+      "season_levels": [
+        "AAA"
+      ],
+      "last_10_levels": []
     },
     {
       "id": 800246,
@@ -1677,37 +1699,6 @@
       ],
       "last_10_levels": [
         "MLB"
-      ]
-    },
-    {
-      "id": 668721,
-      "name": "Payton Henry",
-      "position": "C",
-      "level": "AAA",
-      "level_since": "2026-06-05",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 152,
-        "k": 44,
-        "avg": ".224",
-        "ops": ".647",
-        "avg_num": 0.2236842105263158,
-        "ops_num": 0.6468664435655613
-      },
-      "last_10": {
-        "ab": 22,
-        "k": 6,
-        "avg": ".227",
-        "ops": ".547",
-        "avg_num": 0.22727272727272727,
-        "ops_num": 0.5472727272727272
-      },
-      "season_levels": [
-        "AAA"
-      ],
-      "last_10_levels": [
-        "AAA"
       ]
     },
     {
