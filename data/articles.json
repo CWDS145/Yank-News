@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-02T04:50:17Z",
-  "count": 60,
+  "updated": "2026-07-02T06:19:40Z",
+  "count": 61,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-02T04:50:17Z",
+      "published": "2026-07-02T06:19:40Z",
+      "image": null
+    },
+    {
+      "title": "Schlittler among top 4 in SP Power Rankings",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Jared Greenspan",
+      "link": "https://www.mlb.com/yankees/news/mlb-seventh-starting-pitcher-power-rankings-2026",
+      "published": "2026-07-02T04:18:26Z",
       "image": null
     },
     {
@@ -46,6 +55,15 @@
       "link": "https://nypost.com/2026/07/01/sports/aaron-judge-has-simple-advice-for-sliding-yankees-lack-of-focus/",
       "published": "2026-07-01T23:57:49Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fnew-york-yankees-aaron-judge-132959261.jpg?w%3D1024"
+    },
+    {
+      "title": "Yanks drop 7th straight, longest skid in 3 years",
+      "summary": "The Yankees' losing streak reached seven games - its longest in three years - with a 6-2 loss to the Tigers on Wednesday",
+      "source": "ESPN MLB",
+      "author": null,
+      "link": "https://www.espn.com/mlb/story/_/id/49241772/yankees-drop-seventh-straight-their-longest-skid-2023",
+      "published": "2026-07-01T23:41:28Z",
+      "image": null
     },
     {
       "title": "Team-by-team breakdown of every player headed to Futures Game",
@@ -424,15 +442,6 @@
       "link": "https://nypost.com/2026/06/29/sports/cam-schlittler-tarik-skubal-matchup-an-old-school-duel-of-aces/",
       "published": "2026-06-30T00:18:32Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fnew-york-yankees-cam-schlittler-132275185.jpg?w%3D1024"
-    },
-    {
-      "title": "Two Yankees prospects make Team of the Week",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Ben Weinrib",
-      "link": "https://www.mlb.com/yankees/news/prospect-team-of-the-week-june-29-2026",
-      "published": "2026-06-29T23:06:00Z",
-      "image": null
     },
     {
       "title": "Fried set to throw 30-pitch live BP, with Stanton in batter's box",
