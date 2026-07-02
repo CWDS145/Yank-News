@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T22:52:10Z",
+  "updated": "2026-07-02T23:27:54Z",
   "count": 58,
   "items": [
     {
@@ -8,7 +8,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-02T22:52:10Z",
+      "published": "2026-07-02T23:27:54Z",
+      "image": null
+    },
+    {
+      "title": "The Draft Top 250 is out! For the 1st time all year, there's a new No. 1",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Jim Callis",
+      "link": "https://www.mlb.com/yankees/news/top-250-draft-prospects-for-2026",
+      "published": "2026-07-02T22:34:00Z",
       "image": null
     },
     {
@@ -442,15 +451,6 @@
       "link": "https://nypost.com/2026/06/29/sports/cam-schlittler-tarik-skubal-matchup-an-old-school-duel-of-aces/",
       "published": "2026-06-30T00:18:32Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F06%2Fnew-york-yankees-cam-schlittler-132275185.jpg?w%3D1024"
-    },
-    {
-      "title": "Two Yankees prospects make Team of the Week",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Ben Weinrib",
-      "link": "https://www.mlb.com/yankees/news/prospect-team-of-the-week-june-29-2026",
-      "published": "2026-06-29T23:06:00Z",
-      "image": null
     },
     {
       "title": "Fried set to throw 30-pitch live BP, with Stanton in batter's box",
