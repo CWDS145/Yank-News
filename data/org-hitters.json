@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T06:59:08Z",
+  "updated": "2026-07-02T08:24:01Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-06-22",
@@ -1240,7 +1240,7 @@
       "name": "José Caballero",
       "position": "SS",
       "level": "MLB",
-      "level_since": null,
+      "level_since": "2026-05-12",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
