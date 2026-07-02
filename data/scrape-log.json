@@ -1,14 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-07-01T21:57:17Z",
-      "source": "MLB personId fallback (pitchers)",
-      "url": "<bulk>",
-      "status": 200,
-      "items": 81,
-      "note": "pitchers needing prior_level fallback"
-    },
-    {
       "timestamp": "2026-07-01T22:02:27Z",
       "source": "MLB.com Yankees",
       "url": "https://www.mlb.com/yankees/feeds/news/rss.xml",
@@ -3998,6 +3990,14 @@
       "url": "https://www.cbssports.com/mlb/teams/NYY/new-york-yankees/transactions/",
       "status": 200,
       "items": 64,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-07-02T10:54:51Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 27,
       "note": "ok"
     }
   ]
