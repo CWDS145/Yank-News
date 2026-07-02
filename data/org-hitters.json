@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T21:12:21Z",
+  "updated": "2026-07-02T21:43:42Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-06-22",
@@ -1108,37 +1108,6 @@
       ],
       "last_10_levels": [
         "AA"
-      ]
-    },
-    {
-      "id": 826142,
-      "name": "JoJo Jackson",
-      "position": "OF",
-      "level": "Low-A",
-      "level_since": null,
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 188,
-        "k": 50,
-        "avg": ".277",
-        "ops": ".798",
-        "avg_num": 0.2765957446808511,
-        "ops_num": 0.7980589772303098
-      },
-      "last_10": {
-        "ab": 17,
-        "k": 3,
-        "avg": ".294",
-        "ops": ".863",
-        "avg_num": 0.29411764705882354,
-        "ops_num": 0.8627450980392157
-      },
-      "season_levels": [
-        "Low-A"
-      ],
-      "last_10_levels": [
-        "Low-A"
       ]
     },
     {
