@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T19:52:30Z",
+  "updated": "2026-07-03T20:41:59Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-06-23",
@@ -636,28 +636,6 @@
       "last_10_levels": [
         "Low-A"
       ]
-    },
-    {
-      "id": 702750,
-      "name": "Edinson Duran",
-      "position": "C",
-      "level": "AAA",
-      "level_since": "2026-04-02",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 5,
-        "k": 1,
-        "avg": ".200",
-        "ops": ".733",
-        "avg_num": 0.2,
-        "ops_num": 0.7333333333333334
-      },
-      "last_10": null,
-      "season_levels": [
-        "AAA"
-      ],
-      "last_10_levels": []
     },
     {
       "id": 800246,
@@ -1626,10 +1604,10 @@
       "id": 665828,
       "name": "Oswaldo Cabrera",
       "position": "3B",
-      "level": "AAA",
-      "level_since": "2026-07-03",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-06-24",
+      "level": "MLB",
+      "level_since": "2026-06-24",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-03-21",
       "season": {
         "ab": 271,
         "k": 65,
