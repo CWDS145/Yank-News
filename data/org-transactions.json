@@ -1,6 +1,58 @@
 {
-  "updated": "2026-07-03T17:50:30Z",
+  "updated": "2026-07-03T18:45:28Z",
   "items": [
+    {
+      "id": 924746,
+      "date": "2026-07-03",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 607074,
+      "player": "Carlos Rodón",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees placed LHP Carlos Rodón on the 15-day injured list retroactive to June 30, 2026. Left elbow inflammation."
+    },
+    {
+      "id": 924748,
+      "date": "2026-07-03",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 663757,
+      "player": "Trent Grisham",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated CF Trent Grisham from the 10-day injured list."
+    },
+    {
+      "id": 924747,
+      "date": "2026-07-03",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 641857,
+      "player": "Ryan McMahon",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated 3B Ryan McMahon from the 10-day injured list."
+    },
+    {
+      "id": 924749,
+      "date": "2026-07-03",
+      "type_code": "OPT",
+      "type_desc": "Optioned",
+      "player_id": 665828,
+      "player": "Oswaldo Cabrera",
+      "from_team_id": 147,
+      "to_team_id": 531,
+      "from": "New York Yankees",
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees optioned 3B Oswaldo Cabrera to Scranton/Wilkes-Barre RailRiders."
+    },
     {
       "id": 924478,
       "date": "2026-07-02",
@@ -249,19 +301,6 @@
       "description": "New York Yankees optioned RHP Jake Bird to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 920720,
-      "date": "2026-06-21",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 641555,
-      "player": "J.C. Escarra",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees optioned C J.C. Escarra to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 920762,
       "date": "2026-06-21",
       "type_code": "CU",
@@ -273,6 +312,19 @@
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
       "description": "New York Yankees recalled RHP Elmer Rodríguez from Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 920720,
+      "date": "2026-06-21",
+      "type_code": "OPT",
+      "type_desc": "Optioned",
+      "player_id": 641555,
+      "player": "J.C. Escarra",
+      "from_team_id": 147,
+      "to_team_id": 531,
+      "from": "New York Yankees",
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees optioned C J.C. Escarra to Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 919439,
@@ -301,19 +353,6 @@
       "description": "New York Yankees sent C Austin Wells on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 917898,
-      "date": "2026-06-13",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 663757,
-      "player": "Trent Grisham",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees placed CF Trent Grisham on the 10-day injured list. Right hamstring strain."
-    },
-    {
       "id": 917897,
       "date": "2026-06-13",
       "type_code": "SC",
@@ -325,6 +364,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees activated LF Jasson Domínguez from the 10-day injured list."
+    },
+    {
+      "id": 917898,
+      "date": "2026-06-13",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 663757,
+      "player": "Trent Grisham",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees placed CF Trent Grisham on the 10-day injured list. Right hamstring strain."
     },
     {
       "id": 917452,
@@ -418,7 +470,7 @@
       "description": "New York Yankees selected the contract of C Ali Sánchez from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 917896,
+      "id": 916076,
       "date": "2026-06-05",
       "type_code": "ASG",
       "type_desc": "Assigned",
@@ -431,7 +483,7 @@
       "description": "New York Yankees sent LF Jasson Domínguez on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 916076,
+      "id": 917896,
       "date": "2026-06-05",
       "type_code": "ASG",
       "type_desc": "Assigned",
