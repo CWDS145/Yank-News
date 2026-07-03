@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T13:10:37Z",
+  "updated": "2026-07-03T14:17:22Z",
   "count": 62,
   "items": [
     {
@@ -58,15 +58,15 @@
     },
     {
       "date": "2026-06-24",
-      "type": "called up",
-      "player": "Oswaldo Cabrera",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-24",
       "type": "placed",
       "player": "Ryan McMahon",
       "description": "Placed on 10-Day IL (Throat/ear infection)"
+    },
+    {
+      "date": "2026-06-24",
+      "type": "called up",
+      "player": "Oswaldo Cabrera",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-23",
