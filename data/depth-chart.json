@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T10:54:51Z",
+  "updated": "2026-07-03T10:54:41Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -100,31 +100,31 @@
     ],
     "RP": [
       {
-        "name": "Fernando E. Cruz",
+        "name": "David Bednar",
         "rank": 1
       },
       {
-        "name": "Brent Headrick",
+        "name": "Fernando E. Cruz",
         "rank": 2
       },
       {
-        "name": "Paul Blackburn",
+        "name": "Brent Headrick",
         "rank": 3
       },
       {
-        "name": "Tim Hill",
+        "name": "Paul Blackburn",
         "rank": 4
       },
       {
-        "name": "Camilo Doval",
+        "name": "Tim Hill",
         "rank": 5
       },
       {
-        "name": "Jake Bird",
+        "name": "Camilo Doval",
         "rank": 6
       },
       {
-        "name": "Yovanny Cruz",
+        "name": "Jake Bird",
         "rank": 7
       },
       {
@@ -144,6 +144,7 @@
     "Carlos Rodon",
     "Clarke Schmidt",
     "Cody Bellinger",
+    "David Bednar",
     "Fernando E. Cruz",
     "Gerrit Cole",
     "Giancarlo Stanton",
@@ -159,7 +160,6 @@
     "Ryan Yarbrough",
     "Spencer G. Jones",
     "Tim Hill",
-    "Will Warren",
-    "Yovanny Cruz"
+    "Will Warren"
   ]
 }
