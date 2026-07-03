@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T22:40:42Z",
+  "updated": "2026-07-03T23:11:31Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-06-23",
@@ -1097,38 +1097,6 @@
       ]
     },
     {
-      "id": 701816,
-      "name": "John Cristino",
-      "position": "C",
-      "level": "AA",
-      "level_since": "2026-06-09",
-      "prior_level": "Low-A",
-      "prior_level_since": "2026-05-02",
-      "season": {
-        "ab": 33,
-        "k": 15,
-        "avg": ".152",
-        "ops": ".573",
-        "avg_num": 0.15151515151515152,
-        "ops_num": 0.5727272727272728
-      },
-      "last_10": {
-        "ab": 1,
-        "k": 1,
-        "avg": ".000",
-        "ops": ".000",
-        "avg_num": 0.0,
-        "ops_num": 0.0
-      },
-      "season_levels": [
-        "AA",
-        "Low-A"
-      ],
-      "last_10_levels": [
-        "AA"
-      ]
-    },
-    {
       "id": 680716,
       "name": "Jonathan Ornelas",
       "position": "SS",
@@ -1594,6 +1562,37 @@
       },
       "season_levels": [
         "AAA",
+        "AA"
+      ],
+      "last_10_levels": [
+        "AA"
+      ]
+    },
+    {
+      "id": 657051,
+      "name": "Nicholas Torres",
+      "position": "OF",
+      "level": "AA",
+      "level_since": "2026-04-18",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 133,
+        "k": 39,
+        "avg": ".256",
+        "ops": ".666",
+        "avg_num": 0.2556390977443609,
+        "ops_num": 0.6663975374678306
+      },
+      "last_10": {
+        "ab": 21,
+        "k": 5,
+        "avg": ".190",
+        "ops": ".451",
+        "avg_num": 0.19047619047619047,
+        "ops_num": 0.45134575569358176
+      },
+      "season_levels": [
         "AA"
       ],
       "last_10_levels": [
