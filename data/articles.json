@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-03T22:25:39Z",
-  "count": 60,
+  "updated": "2026-07-03T22:50:46Z",
+  "count": 58,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,25 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-03T22:25:39Z",
+      "published": "2026-07-03T22:50:46Z",
+      "image": null
+    },
+    {
+      "title": "New York Yankees vs. Minnesota Twins: Gerrit Cole vs. Mike Paredes",
+      "summary": "Here’s a good test of whether or not the sky is falling on the New York Yankees: Can they beat the Twins in a series? If yes, they’ll probably be fine. That likely comes across as a bit mean-spirited, but you all know just how one-sided the head-to-head matchups have been. Since the turn of […]",
+      "source": "Pinstripe Alley",
+      "author": "Jeremy Nielsen",
+      "link": "https://www.pinstripealley.com/pinstripe-alley-discussions/195456/yankees-game-thread-twins-starting-pitchers-lineups-how-to-watch-tv-channel-gerrit-cole",
+      "published": "2026-07-03T22:35:00Z",
+      "image": null
+    },
+    {
+      "title": "Latest Yankees injuries and transactions",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "MLB.com",
+      "link": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
+      "published": "2026-07-03T22:17:00Z",
       "image": null
     },
     {
@@ -102,15 +120,6 @@
       "image": null
     },
     {
-      "title": "Yanks place Rodón on IL with elbow inflammation",
-      "summary": "The Yankees placed lefty Carlos Rodón on the 15-day IL on Friday with elbow inflammation.",
-      "source": "ESPN MLB",
-      "author": "Jorge Castillo",
-      "link": "https://www.espn.com/mlb/story/_/id/49260478/yankees-place-carlos-rodon-15-day-il-elbow-inflammation",
-      "published": "2026-07-03T16:41:36Z",
-      "image": null
-    },
-    {
       "title": "Yankees Birthday of the Day: Brian Cashman",
       "summary": "George Steinbrenner was many things. Above all, he was passionate. Passionate about his Yankees and, according to those who knew him as a Thoroughbred owner, equally passionate about horse racing. So it was no surprise that when he met a horse breeder and future Harness Racing Hall of Famer named John Cashman, the two hit […]",
       "source": "Pinstripe Alley",
@@ -153,24 +162,6 @@
       "author": "Matt Ferenchick",
       "link": "https://www.pinstripealley.com/mlb-news/195372/yankees-rivals-rays-al-east-standings-winning-streak-royals-guardians-white-sox-walk-off-mariners",
       "published": "2026-07-03T13:30:00Z",
-      "image": null
-    },
-    {
-      "title": "Bednar returns to close for Yankees",
-      "summary": "All of the important fantasy spin and actionable takeaways resulting from the latest baseball news.",
-      "source": "ESPN MLB",
-      "author": "ESPN Fantasy",
-      "link": "https://www.espn.com/fantasy/baseball/story/_/id/48297021/espn-fantasy-baseball-buzz-injuries-promotions-demotions-trades-prospects-lineup-changes-mlb-news-analysis-2026",
-      "published": "2026-07-03T11:32:51Z",
-      "image": null
-    },
-    {
-      "title": "Yankees prospects: ERC works quality start to secure win",
-      "summary": "Triple-A Scranton/Wilkes-Barre RailRiders: W, 7-3 vs. Norfolk Tides 3B Jonathan Ornelas 1-5, 1 HR, 1 RBI, 1 R, 1 KDH J.C. Escarra 0-4, 1 BB, 1 K2B Marco Luciano 2-4, 2 2B, 2 R, 1 BB, 1 KRF Yanquiel Fernández 1-4, 1 HR, 2 RBI, 1 R, 2 K1B Tyler Hardman 1-2, 1 2B, 1 […]",
-      "source": "Pinstripe Alley",
-      "author": "Madison Pavich",
-      "link": "https://www.pinstripealley.com/yankees-prospects/195423/yankees-prospects-elmer-rodriguez-miguel-palma-jack-cebert-core-jackson",
-      "published": "2026-07-03T11:00:38Z",
       "image": null
     },
     {
@@ -324,15 +315,6 @@
       "author": "Bryan Hoch",
       "link": "https://www.mlb.com/yankees/news/yankees-losing-streak-hits-seven-after-loss-to-tigers",
       "published": "2026-07-01T22:24:00Z",
-      "image": null
-    },
-    {
-      "title": "Latest Yankees injuries and transactions",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "MLB.com",
-      "link": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
-      "published": "2026-07-01T21:34:00Z",
       "image": null
     },
     {
