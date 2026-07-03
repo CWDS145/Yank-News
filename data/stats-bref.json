@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-02T14:49:16Z",
+  "updated": "2026-07-03T14:48:38Z",
   "source": "Baseball-Reference",
   "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
   "season": 2026,
   "scrape_attempt": {
     "status": "ok",
     "http_status": 200,
-    "duration_ms": 223,
+    "duration_ms": 198,
     "note": "tables: bat_id=players_standard_batting pit_id=players_standard_pitching batters=22 pitchers=22"
   },
   "team_record": {
@@ -36,7 +36,7 @@
     "OPS": ".740",
     "OPS+": "105",
     "TB": "1201",
-    "rWAR": "13.2"
+    "rWAR": "13.4"
   },
   "team_pitching": {
     "name": "Team Totals",
@@ -55,9 +55,9 @@
     "SO": "745",
     "HR": "80",
     "ERA+": "126",
-    "FIP": "3.67",
+    "FIP": "3.68",
     "WHIP": "1.189",
-    "rWAR": "12.7"
+    "rWAR": "12.4"
   },
   "batters": [
     {
@@ -196,7 +196,7 @@
       "OPS": ".785",
       "OPS+": "119",
       "TB": "133",
-      "rWAR": "3.6"
+      "rWAR": "3.7"
     },
     {
       "name": "Trent Grisham",
@@ -334,7 +334,7 @@
       "OPS": ".679",
       "OPS+": "91",
       "TB": "41",
-      "rWAR": "0.8"
+      "rWAR": "0.9"
     },
     {
       "name": "Jasson Domínguez",
@@ -629,7 +629,7 @@
       "ERA+": "104",
       "FIP": "4.13",
       "WHIP": "1.211",
-      "rWAR": "0.8"
+      "rWAR": "0.7"
     },
     {
       "name": "Max Fried",
@@ -669,7 +669,7 @@
       "SO": "52",
       "HR": "3",
       "ERA+": "128",
-      "FIP": "3.45",
+      "FIP": "3.46",
       "WHIP": "1.252",
       "rWAR": "0.8"
     },
@@ -692,7 +692,7 @@
       "ERA+": "104",
       "FIP": "4.60",
       "WHIP": "1.221",
-      "rWAR": "0.6"
+      "rWAR": "0.5"
     },
     {
       "name": "David Bednar",
@@ -734,7 +734,7 @@
       "ERA+": "278",
       "FIP": "2.82",
       "WHIP": "1.185",
-      "rWAR": "1.7"
+      "rWAR": "1.6"
     },
     {
       "name": "Fernando Cruz",
@@ -753,7 +753,7 @@
       "SO": "47",
       "HR": "2",
       "ERA+": "173",
-      "FIP": "3.05",
+      "FIP": "3.06",
       "WHIP": "1.227",
       "rWAR": "1.2"
     },
@@ -776,7 +776,7 @@
       "ERA+": "86",
       "FIP": "4.06",
       "WHIP": "1.255",
-      "rWAR": "-0.3"
+      "rWAR": "-0.4"
     },
     {
       "name": "Tim Hill",
@@ -795,7 +795,7 @@
       "SO": "15",
       "HR": "3",
       "ERA+": "106",
-      "FIP": "4.35",
+      "FIP": "4.36",
       "WHIP": "1.053",
       "rWAR": "0.2"
     },
@@ -816,7 +816,7 @@
       "SO": "28",
       "HR": "3",
       "ERA+": "177",
-      "FIP": "3.71",
+      "FIP": "3.72",
       "WHIP": "1.161",
       "rWAR": "0.9"
     },
@@ -837,7 +837,7 @@
       "SO": "25",
       "HR": "2",
       "ERA+": "100",
-      "FIP": "3.90",
+      "FIP": "3.91",
       "WHIP": "1.176",
       "rWAR": "0.2"
     },
@@ -858,7 +858,7 @@
       "SO": "29",
       "HR": "4",
       "ERA+": "96",
-      "FIP": "4.13",
+      "FIP": "4.14",
       "WHIP": "1.291",
       "rWAR": "0.1"
     },
@@ -879,7 +879,7 @@
       "SO": "9",
       "HR": "6",
       "ERA+": "71",
-      "FIP": "8.38",
+      "FIP": "8.39",
       "WHIP": "1.345",
       "rWAR": "-0.1"
     },
@@ -942,7 +942,7 @@
       "SO": "6",
       "HR": "0",
       "ERA+": null,
-      "FIP": "1.03",
+      "FIP": "1.04",
       "WHIP": "0.231",
       "rWAR": "0.2"
     },
