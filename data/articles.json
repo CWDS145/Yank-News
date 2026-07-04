@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T22:21:51Z",
+  "updated": "2026-07-04T22:49:18Z",
   "count": 62,
   "items": [
     {
@@ -8,17 +8,26 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-04T22:21:51Z",
+      "published": "2026-07-04T22:49:18Z",
       "image": null
     },
     {
-      "title": "Yankees undone early by Twins’ fireworks in ugly home loss",
-      "summary": "In a great irony on the 250th anniversary of the adoption of the Declaration of Independence, it was the Yankees who assumed the role of the British.",
-      "source": "NY Post Yankees",
-      "author": "Mark W. Sanchez",
-      "link": "https://nypost.com/2026/07/04/sports/yankees-undone-early-by-twins-home-runs-in-ugly-home-loss/",
-      "published": "2026-07-04T21:23:33Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F070426Yankees013RS.jpg?w%3D1024"
+      "title": "Latest Yankees injuries and transactions",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "MLB.com",
+      "link": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
+      "published": "2026-07-04T22:34:00Z",
+      "image": null
+    },
+    {
+      "title": "Rookie, Yankees' bullpen can't douse Twins' offensive fireworks",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Bill Ladson",
+      "link": "https://www.mlb.com/yankees/news/brendan-beck-struggles-in-spot-start-for-yankees",
+      "published": "2026-07-04T22:27:00Z",
+      "image": null
     },
     {
       "title": "Twins jump all over Yankees rookie Brendan Beck in July 4th fiasco",
@@ -27,15 +36,6 @@
       "author": "Joshua Diemert",
       "link": "https://www.pinstripealley.com/yankees-scores-standings/195677/yankees-game-score-recap-twins-bellinger-dominguez-beck-doval-buxton-relief-pitching-home-runs",
       "published": "2026-07-04T21:13:27Z",
-      "image": null
-    },
-    {
-      "title": "Rookie struggles in spot start as Yanks drop July 4 matinee",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bill Ladson",
-      "link": "https://www.mlb.com/yankees/news/brendan-beck-struggles-in-spot-start-for-yankees",
-      "published": "2026-07-04T21:12:07Z",
       "image": null
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "title": "MLB Power Rankings, Award Tracker: Who should buy, sell at trade deadline?",
-      "summary": "The California Post will power rank MLB’s 30 teams and check in on one intriguing awards race. Here is this week’s edition.",
+      "summary": "Each week, The California Post will power rank MLB’s 30 teams and check in on one intriguing awards race. Here is this week’s edition, identifying which teams should be buy or sell with the Aug. 3 trade deadline less than a month away (records through Saturday morning): 1) Dodgers (58-31) Buy … and sell? After...",
       "source": "NY Post Yankees",
       "author": "Jack Harris",
       "link": "https://nypost.com/2026/07/04/sports/mlb-power-rankings-award-tracker-should-dodgers-buy-or-sell-at-trade-deadline/",
@@ -90,15 +90,6 @@
       "author": "Joshua Diemert",
       "link": "https://www.pinstripealley.com/pinstripe-alley-discussions/195570/yankees-game-threads-lineups-july-4-twins-how-to-watch-tv-channel-beck-matthews-grisham",
       "published": "2026-07-04T17:05:00Z",
-      "image": null
-    },
-    {
-      "title": "Latest Yankees injuries and transactions",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "MLB.com",
-      "link": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
-      "published": "2026-07-04T17:03:00Z",
       "image": null
     },
     {
@@ -514,6 +505,15 @@
       "link": "https://nypost.com/2026/07/01/sports/illness-running-through-yankees-clubhouse-forces-lineup-changes/",
       "published": "2026-07-01T17:58:50Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fyankees-right-fielder-spencer-jones-132875100.jpg?w%3D1024"
+    },
+    {
+      "title": "Aaron Judge punts on injury update with Yankees return timeline uncertain",
+      "summary": "Aaron Judge is still weeks away from reimaging on his right rib, and until then, he will not even publicly share how he is feeling.",
+      "source": "NY Post Yankees",
+      "author": "Greg Joyce",
+      "link": "https://nypost.com/2026/07/01/sports/aaron-judge-punts-on-injury-update-with-yankees-return-timeline-uncertain/",
+      "published": "2026-07-01T17:32:32Z",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fdugout-new-york-yankees-played-132873078.jpg?w%3D1024"
     },
     {
       "title": "McMahon, Jones among Yanks dealing with stomach bug",
