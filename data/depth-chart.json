@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T10:54:41Z",
+  "updated": "2026-07-04T10:39:13Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -26,17 +26,13 @@
     ],
     "3B": [
       {
-        "name": "Jose Caballero",
-        "rank": 1
-      },
-      {
         "name": "Ryan McMahon",
-        "rank": 2
+        "rank": 1
       }
     ],
     "SS": [
       {
-        "name": "Anthony Volpe",
+        "name": "Jose Caballero",
         "rank": 1
       }
     ],
@@ -48,7 +44,7 @@
     ],
     "CF": [
       {
-        "name": "Spencer G. Jones",
+        "name": "Trent Grisham",
         "rank": 1
       }
     ],
@@ -74,23 +70,23 @@
         "rank": 1
       },
       {
-        "name": "Carlos Rodon",
+        "name": "Ryan Weathers",
         "rank": 2
       },
       {
-        "name": "Ryan Weathers",
+        "name": "Cam Schlittler",
         "rank": 3
       },
       {
-        "name": "Cam Schlittler",
+        "name": "Will Warren",
         "rank": 4
       },
       {
-        "name": "Will Warren",
+        "name": "Max Fried",
         "rank": 5
       },
       {
-        "name": "Max Fried",
+        "name": "Carlos Rodon",
         "rank": 6
       },
       {
@@ -135,7 +131,6 @@
   },
   "all_players": [
     "Ali Sanchez",
-    "Anthony Volpe",
     "Austin Wells",
     "Ben Rice",
     "Brent Headrick",
@@ -158,8 +153,8 @@
     "Ryan McMahon",
     "Ryan Weathers",
     "Ryan Yarbrough",
-    "Spencer G. Jones",
     "Tim Hill",
+    "Trent Grisham",
     "Will Warren"
   ]
 }
