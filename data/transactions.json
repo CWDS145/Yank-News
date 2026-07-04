@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T19:31:30Z",
+  "updated": "2026-07-04T20:23:46Z",
   "count": 69,
   "items": [
     {
@@ -34,15 +34,15 @@
     },
     {
       "date": "2026-07-03",
-      "type": "sent",
-      "player": "Spencer Jones",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-03",
       "type": "",
       "player": "Ryan McMahon",
       "description": "Removed From 10-Day IL (Throat/ear infection)"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "sent",
+      "player": "Spencer Jones",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-07-02",
@@ -70,9 +70,9 @@
     },
     {
       "date": "2026-06-29",
-      "type": "called up",
-      "player": "Jacob Bird",
-      "description": "Called Up from Minors"
+      "type": "placed",
+      "player": "David Bednar",
+      "description": "Placed on Paternity Leave List"
     },
     {
       "date": "2026-06-29",
@@ -82,9 +82,9 @@
     },
     {
       "date": "2026-06-29",
-      "type": "placed",
-      "player": "David Bednar",
-      "description": "Placed on Paternity Leave List"
+      "type": "called up",
+      "player": "Jacob Bird",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-26",
