@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-04T20:48:55Z",
-  "count": 62,
+  "updated": "2026-07-04T21:22:23Z",
+  "count": 60,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,25 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-04T20:48:55Z",
+      "published": "2026-07-04T21:22:23Z",
+      "image": null
+    },
+    {
+      "title": "Twins jump all over Yankees rookie Brendan Beck in July 4th fiasco",
+      "summary": "One of the things that wears on you in stretches like this is the recaps actually start to annoy you. Look, I get it, I’m a silly little baseball blogger, I’m not an ER nurse working a double shift or a teacher paying for their own Elmer’s glue while kids can no longer sound out […]",
+      "source": "Pinstripe Alley",
+      "author": "Joshua Diemert",
+      "link": "https://www.pinstripealley.com/yankees-scores-standings/195677/yankees-game-score-recap-twins-bellinger-dominguez-beck-doval-buxton-relief-pitching-home-runs",
+      "published": "2026-07-04T21:13:27Z",
+      "image": null
+    },
+    {
+      "title": "Rookie struggles in spot start as Yanks drop July 4 matinee",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Bill Ladson",
+      "link": "https://www.mlb.com/yankees/news/brendan-beck-struggles-in-spot-start-for-yankees",
+      "published": "2026-07-04T21:12:07Z",
       "image": null
     },
     {
@@ -63,24 +81,6 @@
       "author": "Bill Ladson",
       "link": "https://www.mlb.com/yankees/news/max-fried-set-to-throw-live-batting-practice",
       "published": "2026-07-04T17:02:15Z",
-      "image": null
-    },
-    {
-      "title": "Twins RHP Matthews exits game with foot injury",
-      "summary": "Minnesota Twins starting pitcher Zebby Matthews left Saturday's game against the New York Yankees because of a right foot laceration in the fifth inning.",
-      "source": "ESPN MLB",
-      "author": null,
-      "link": "https://www.espn.com/mlb/story/_/id/49270931/twins-zebby-matthews-leaves-game-right-foot-injury",
-      "published": "2026-07-04T16:33:05Z",
-      "image": null
-    },
-    {
-      "title": "Yanks place Rodón on IL with elbow inflammation",
-      "summary": "The Yankees have placed left-hander Carlos Rodón on the 15-day injured list because of elbow inflammation.",
-      "source": "ESPN MLB",
-      "author": "Jorge Castillo",
-      "link": "https://www.espn.com/mlb/story/_/id/49260478/yankees-place-carlos-rodon-15-day-il-elbow-inflammation",
-      "published": "2026-07-04T16:33:05Z",
       "image": null
     },
     {
@@ -244,15 +244,6 @@
       "link": "https://nypost.com/2026/07/03/sports/gerrit-cole-yankees-beat-twins-to-snap-seven-game-losing-skid/",
       "published": "2026-07-04T03:12:30Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F20260703NYYVMIN0321RS.jpg?w%3D1024"
-    },
-    {
-      "title": "Trent Grisham makes smashing return to Yankees lineup, losing streak ends",
-      "summary": "What a difference one offday makes. The Yankees got their heads handed to them by the Detroit Tigers in a three-game sweep, extending a losing streak which started in Boston to a full week of futility. But Thursday provided the Bombers a chance to finally hit that reset button. Additionally, some key returners from injury […]",
-      "source": "Pinstripe Alley",
-      "author": "Jeremy Nielsen",
-      "link": "https://www.pinstripealley.com/yankees-scores-standings/195532/yankees-game-score-recap-twins-trent-grisham-homer-return-rice-gerrit-cole-bednar",
-      "published": "2026-07-04T03:07:44Z",
-      "image": null
     },
     {
       "title": "Yankees' 6-foot-7 prospect follows up 12-K gem with 11 more punchouts",
@@ -549,15 +540,6 @@
       "author": "Bryan Hoch",
       "link": "https://www.mlb.com/yankees/news/aaron-judge-fractured-rib-reimaging-update",
       "published": "2026-06-30T21:16:00Z",
-      "image": null
-    },
-    {
-      "title": "Rice, Bellinger need ballot boosts to earn ASG starts",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Thomas Harrigan",
-      "link": "https://www.mlb.com/yankees/news/2026-mlb-all-star-game-ballot-phase-2-first-update",
-      "published": "2026-06-30T17:30:56Z",
       "image": null
     }
   ]
