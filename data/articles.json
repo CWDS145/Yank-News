@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-04T15:27:41Z",
-  "count": 61,
+  "updated": "2026-07-04T15:53:26Z",
+  "count": 60,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-04T15:27:41Z",
+      "published": "2026-07-04T15:53:26Z",
+      "image": null
+    },
+    {
+      "title": "The agony and ecstasy of the sports fan",
+      "summary": "I hope by the time you read this, the Yankees have snapped their seven-game losing streak. The Minnesota Twins are usually the salve for whatever ails this team, but New York has been dead, dull, and boring for the last week. That last indictment is the worst one for me: If you’re going to be […]",
+      "source": "Pinstripe Alley",
+      "author": "Joshua Diemert",
+      "link": "https://www.pinstripealley.com/yankees-analysis-sabermetrics/195502/yankees-editorial-losing-streak-judge-bellinger-rice-world-cup-canada-round-of-16-morocco",
+      "published": "2026-07-04T15:30:00Z",
       "image": null
     },
     {
@@ -111,15 +120,6 @@
       "image": null
     },
     {
-      "title": "Yanks place Rodón on IL with elbow inflammation",
-      "summary": "The Yankees placed lefty Carlos Rodón on the 15-day IL on Friday because of elbow inflammation.",
-      "source": "ESPN MLB",
-      "author": "Jorge Castillo",
-      "link": "https://www.espn.com/mlb/story/_/id/49260478/yankees-place-carlos-rodon-15-day-il-elbow-inflammation",
-      "published": "2026-07-04T08:17:19Z",
-      "image": null
-    },
-    {
       "title": "Gerrit Cole overrules Aaron Boone in gutsy, winning outing for Yankees",
       "summary": "Gerrit Cole knew the Yankees needed this skid-busting win, and he acted accordingly.",
       "source": "NY Post Yankees",
@@ -217,15 +217,6 @@
       "link": "https://nypost.com/2026/07/03/sports/joe-ryan-wants-to-win-with-twins-despite-yankees-possible-interest/",
       "published": "2026-07-04T00:24:41Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fminnesota-twins-pitcher-joe-ryan-132158306.jpg?quality%3D90%26"
-    },
-    {
-      "title": "New York Yankees vs. Minnesota Twins: Gerrit Cole vs. Mike Paredes",
-      "summary": "Here’s a good test of whether or not the sky is falling on the New York Yankees: Can they beat the Twins in a series? If yes, they’ll probably be fine. That likely comes across as a bit mean-spirited, but you all know just how one-sided the head-to-head matchups have been. Since the turn of […]",
-      "source": "Pinstripe Alley",
-      "author": "Jeremy Nielsen",
-      "link": "https://www.pinstripealley.com/pinstripe-alley-discussions/195456/yankees-game-thread-twins-starting-pitchers-lineups-how-to-watch-tv-channel-gerrit-cole",
-      "published": "2026-07-03T22:35:00Z",
-      "image": null
     },
     {
       "title": "Rodón (left elbow inflammation) to IL; Grisham, McMahon return to Yanks",
