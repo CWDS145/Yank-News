@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T23:43:34Z",
+  "updated": "2026-07-05T00:15:08Z",
   "season": 2026,
   "pitchers": [
     {
@@ -420,9 +420,9 @@
       "name": "Brendan Beck",
       "position": "P",
       "level": "AAA",
-      "level_since": "2026-07-04",
+      "level_since": "2026-07-05",
       "prior_level": "MLB",
-      "prior_level_since": "2026-05-07",
+      "prior_level_since": "2026-07-04",
       "season": {
         "w": 7,
         "l": 3,
