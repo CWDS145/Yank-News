@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T10:39:13Z",
+  "updated": "2026-07-05T10:44:16Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -70,28 +70,32 @@
         "rank": 1
       },
       {
-        "name": "Ryan Weathers",
+        "name": "Brendan Beck",
         "rank": 2
       },
       {
-        "name": "Cam Schlittler",
+        "name": "Ryan Weathers",
         "rank": 3
       },
       {
-        "name": "Will Warren",
+        "name": "Cam Schlittler",
         "rank": 4
       },
       {
-        "name": "Max Fried",
+        "name": "Will Warren",
         "rank": 5
       },
       {
-        "name": "Carlos Rodon",
+        "name": "Max Fried",
         "rank": 6
       },
       {
-        "name": "Clarke Schmidt",
+        "name": "Carlos Rodon",
         "rank": 7
+      },
+      {
+        "name": "Clarke Schmidt",
+        "rank": 8
       }
     ],
     "RP": [
@@ -133,6 +137,7 @@
     "Ali Sanchez",
     "Austin Wells",
     "Ben Rice",
+    "Brendan Beck",
     "Brent Headrick",
     "Cam Schlittler",
     "Camilo Doval",
