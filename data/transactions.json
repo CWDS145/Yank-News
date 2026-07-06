@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T08:35:16Z",
+  "updated": "2026-07-06T10:38:20Z",
   "count": 69,
   "items": [
     {
@@ -23,14 +23,8 @@
     {
       "date": "2026-07-03",
       "type": "sent",
-      "player": "Spencer Jones",
+      "player": "Oswaldo Cabrera",
       "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "",
-      "player": "Trent Grisham",
-      "description": "Removed From 10-Day IL (Strained right hamstring)"
     },
     {
       "date": "2026-07-03",
@@ -46,15 +40,21 @@
     },
     {
       "date": "2026-07-03",
+      "type": "sent",
+      "player": "Spencer Jones",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-03",
       "type": "placed",
       "player": "Carlos Rodon",
       "description": "Placed on 15-Day IL (Left elbow inflammation)"
     },
     {
       "date": "2026-07-03",
-      "type": "sent",
-      "player": "Oswaldo Cabrera",
-      "description": "Sent to Minors"
+      "type": "",
+      "player": "Trent Grisham",
+      "description": "Removed From 10-Day IL (Strained right hamstring)"
     },
     {
       "date": "2026-07-02",
@@ -118,15 +118,15 @@
     },
     {
       "date": "2026-06-24",
-      "type": "placed",
-      "player": "Ryan McMahon",
-      "description": "Placed on 10-Day IL (Throat/ear infection)"
-    },
-    {
-      "date": "2026-06-24",
       "type": "called up",
       "player": "Oswaldo Cabrera",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-06-24",
+      "type": "placed",
+      "player": "Ryan McMahon",
+      "description": "Placed on 10-Day IL (Throat/ear infection)"
     },
     {
       "date": "2026-06-23",
@@ -262,15 +262,15 @@
     },
     {
       "date": "2026-06-05",
-      "type": "called up",
-      "player": "Spencer Jones",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-05",
       "type": "sent",
       "player": "J.C. Escarra",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-06-05",
+      "type": "called up",
+      "player": "Spencer Jones",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-05",
@@ -388,12 +388,6 @@
     },
     {
       "date": "2026-05-08",
-      "type": "placed",
-      "player": "Jasson Dominguez",
-      "description": "Placed on 10-Day IL (Sprained left shoulder AC joint)"
-    },
-    {
-      "date": "2026-05-08",
       "type": "called up",
       "player": "Spencer Jones",
       "description": "Called Up from Minors"
@@ -403,6 +397,12 @@
       "type": "called up",
       "player": "Kervin Castro",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-05-08",
+      "type": "placed",
+      "player": "Jasson Dominguez",
+      "description": "Placed on 10-Day IL (Sprained left shoulder AC joint)"
     },
     {
       "date": "2026-05-07",
