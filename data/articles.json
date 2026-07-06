@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-06T13:47:42Z",
-  "count": 62,
+  "updated": "2026-07-06T15:08:27Z",
+  "count": 64,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,34 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-06T13:47:42Z",
+      "published": "2026-07-06T15:08:27Z",
+      "image": null
+    },
+    {
+      "title": "Rays, Yankees battle in four-game AL East showdown",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Jared Greenspan",
+      "link": "https://www.mlb.com/yankees/news/2026-al-east-showdown-between-rays-yankees",
+      "published": "2026-07-06T14:50:52Z",
+      "image": null
+    },
+    {
+      "title": "Meet the Yankees' ball girl nominated to be part of the All-Star Ball Crew",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Bryan Hoch",
+      "link": "https://www.mlb.com/yankees/news/yankees-ball-girl-megan-bell-nominated-for-all-star-ball-crew",
+      "published": "2026-07-06T14:09:07Z",
+      "image": null
+    },
+    {
+      "title": "Yankees Rivalry Roundup: Houston takes the series from Tampa",
+      "summary": "The Yankees have done an excellent job of sucking all the fun from baseball the past two weeks. It feels like an entire June Swoon’s worth of misery has been stuffed into the past 10 days. Unfortunately, I am extremely skeptical we are out of the woods. The situation could be more dire, however. Thankfully, […]",
+      "source": "Pinstripe Alley",
+      "author": "Kevin Winterhalt",
+      "link": "https://www.pinstripealley.com/mlb-news/195903/yankees-news-rivalry-roundup-rays-jays-mariners-guardians",
+      "published": "2026-07-06T14:00:00Z",
       "image": null
     },
     {
@@ -39,12 +66,39 @@
       "image": null
     },
     {
+      "title": "Jazz Chisholm Jr. may miss time for Yankees and ot...",
+      "summary": "All of the important fantasy spin and actionable takeaways resulting from the latest baseball news.",
+      "source": "ESPN MLB",
+      "author": "ESPN Fantasy",
+      "link": "https://www.espn.com/fantasy/baseball/story/_/id/48297021/espn-fantasy-baseball-buzz-injuries-promotions-demotions-trades-prospects-lineup-changes-mlb-news-analysis-2026",
+      "published": "2026-07-06T10:47:50Z",
+      "image": null
+    },
+    {
       "title": "Today on Pinstripe Alley &#8211; 7/6/26",
       "summary": "The Yankees have their biggest series of the year lined up starting tonight, and they could not be in a worse state entering it. Losers of eight of their last nine, New York has surrendered the AL East to the Rays who went on a big winning streak of their own at the same time […]",
       "source": "Pinstripe Alley",
       "author": "Madison Pavich",
       "link": "https://www.pinstripealley.com/pinstripe-alley-discussions/195939/today-on-pinstripe-alley-yankees-7-6-26",
       "published": "2026-07-06T10:00:00Z",
+      "image": null
+    },
+    {
+      "title": "Twins star Buxton leaves game with hip injury",
+      "summary": "Twins All-Star center fielder Byron Buxton left Sunday's game against the Yankees following the first inning after aggravating a hip injury.",
+      "source": "ESPN MLB",
+      "author": null,
+      "link": "https://www.espn.com/mlb/story/_/id/49278337/twins-all-star-byron-buxton-leaves-game-hip-injury",
+      "published": "2026-07-06T09:17:31Z",
+      "image": null
+    },
+    {
+      "title": "Chisholm (toe) exits Yankees' game in 5th inning",
+      "summary": "Jazz Chisholm Jr. exited the New York Yankees' 6-1 loss to the Minnesota Twins because of right big toe discomfort Sunday, another in a list of concerns riddling a club that has lost nine of 10 games and fallen four games behind first-place Tampa Bay.",
+      "source": "ESPN MLB",
+      "author": "Jorge Castillo",
+      "link": "https://www.espn.com/mlb/story/_/id/49279442/yankees-2b-jazz-chisholm-jr-exits-big-toe-discomfort",
+      "published": "2026-07-06T09:17:31Z",
       "image": null
     },
     {
@@ -225,15 +279,6 @@
       "author": "Jonathan Farrar",
       "link": "https://www.pinstripealley.com/yankees-history-trivia/195718/yankees-history-goose-gossage-birthday-july-5",
       "published": "2026-07-05T15:30:00Z",
-      "image": null
-    },
-    {
-      "title": "Yankees promote reliever Angel Chivilli, option Brendan Beck",
-      "summary": "The Yankees needed an emergency starter on Saturday in the wake of Carlos Rodón’s return to the IL—Brendan Beck was the man tapped to do it, and he struggled through 3.2 innings in an eventual 11-4 loss to the Twins. On Sunday morning, the Yankees made the expected move, optioning Beck back to Triple-A Scranton […]",
-      "source": "Pinstripe Alley",
-      "author": "Jeremy Nielsen",
-      "link": "https://www.pinstripealley.com/yankees-roster/195784/yankees-bullpen-roster-move-angel-chivilli-reliever-promoted-brendan-beck-optioned-minors",
-      "published": "2026-07-05T15:06:47Z",
       "image": null
     },
     {
@@ -522,33 +567,6 @@
       "author": "Bryan Hoch",
       "link": "https://www.mlb.com/yankees/news/aaron-judge-discusses-yankees-june-slide",
       "published": "2026-07-01T21:02:00Z",
-      "image": null
-    },
-    {
-      "title": "Aaron Judge shames slumping Yankees for 'lack of focus' as losing streak drags on: 'We just gotta dial it in'",
-      "summary": "The Yankees have dropped nine of their last 11 and finished June with a losing record for the month",
-      "source": "CBS Sports MLB",
-      "author": "Dayn Perry",
-      "link": "https://www.cbssports.com/mlb/news/aaron-judge-yankees-losing-streak-focus/",
-      "published": "2026-07-01T18:54:59Z",
-      "image": "https://sportshub.cbsistatic.com/i/2026/07/01/3bfc5680-ef0f-49f4-99fb-2d96a1ef6dd0/judge-getty.png"
-    },
-    {
-      "title": "McMahon, Jones among Yanks dealing with stomach bug",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch",
-      "link": "https://www.mlb.com/yankees/news/ryan-mcmahon-spencer-jones-yankees-illness",
-      "published": "2026-07-01T16:58:18Z",
-      "image": null
-    },
-    {
-      "title": "Schlittler stunned with career-worst start (6 ER, 4 HRs) opposite Skubal",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch",
-      "link": "https://www.mlb.com/yankees/news/cam-schlittler-struggles-in-start-against-tarik-skubal",
-      "published": "2026-07-01T03:48:00Z",
       "image": null
     },
     {
