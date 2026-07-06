@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T10:44:16Z",
+  "updated": "2026-07-06T11:32:18Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -70,32 +70,28 @@
         "rank": 1
       },
       {
-        "name": "Brendan Beck",
+        "name": "Ryan Weathers",
         "rank": 2
       },
       {
-        "name": "Ryan Weathers",
+        "name": "Cam Schlittler",
         "rank": 3
       },
       {
-        "name": "Cam Schlittler",
+        "name": "Will Warren",
         "rank": 4
       },
       {
-        "name": "Will Warren",
+        "name": "Max Fried",
         "rank": 5
       },
       {
-        "name": "Max Fried",
+        "name": "Carlos Rodon",
         "rank": 6
       },
       {
-        "name": "Carlos Rodon",
-        "rank": 7
-      },
-      {
         "name": "Clarke Schmidt",
-        "rank": 8
+        "rank": 7
       }
     ],
     "RP": [
@@ -120,24 +116,28 @@
         "rank": 5
       },
       {
-        "name": "Camilo Doval",
+        "name": "Jake Bird",
         "rank": 6
       },
       {
-        "name": "Jake Bird",
+        "name": "Camilo Doval",
         "rank": 7
       },
       {
-        "name": "Ryan Yarbrough",
+        "name": "Angel Chivilli",
         "rank": 8
+      },
+      {
+        "name": "Ryan Yarbrough",
+        "rank": 9
       }
     ]
   },
   "all_players": [
     "Ali Sanchez",
+    "Angel Chivilli",
     "Austin Wells",
     "Ben Rice",
-    "Brendan Beck",
     "Brent Headrick",
     "Cam Schlittler",
     "Camilo Doval",
