@@ -1,20 +1,11 @@
 {
-  "updated": "2026-07-06T01:05:25Z",
+  "updated": "2026-07-06T01:55:45Z",
   "season": 2026,
   "players": [
     {
       "id": 592450,
       "name": "Aaron Judge",
-      "expected_batting": {
-        "pa": 261,
-        "est_ba": 0.27,
-        "est_slg": 0.6,
-        "est_woba": 0.415,
-        "ba": 0.248,
-        "slg": 0.533,
-        "woba": 0.385,
-        "est_woba_minus_woba": 0.03
-      },
+      "expected_batting": null,
       "expected_pitching": null,
       "statcast_batting": {
         "attempts": 143,
@@ -72,16 +63,7 @@
     {
       "id": 669224,
       "name": "Austin Wells",
-      "expected_batting": {
-        "pa": 198,
-        "est_ba": 0.203,
-        "est_slg": 0.334,
-        "est_woba": 0.279,
-        "ba": 0.15,
-        "slg": 0.231,
-        "woba": 0.222,
-        "est_woba_minus_woba": 0.057
-      },
+      "expected_batting": null,
       "expected_pitching": null,
       "statcast_batting": {
         "attempts": 120,
@@ -103,16 +85,7 @@
     {
       "id": 700250,
       "name": "Ben Rice",
-      "expected_batting": {
-        "pa": 356,
-        "est_ba": 0.263,
-        "est_slg": 0.496,
-        "est_woba": 0.369,
-        "ba": 0.267,
-        "slg": 0.564,
-        "woba": 0.392,
-        "est_woba_minus_woba": -0.023
-      },
+      "expected_batting": null,
       "expected_pitching": null,
       "statcast_batting": {
         "attempts": 226,
@@ -202,16 +175,7 @@
     {
       "id": 641355,
       "name": "Cody Bellinger",
-      "expected_batting": {
-        "pa": 370,
-        "est_ba": 0.278,
-        "est_slg": 0.432,
-        "est_woba": 0.359,
-        "ba": 0.251,
-        "slg": 0.429,
-        "woba": 0.342,
-        "est_woba_minus_woba": 0.017
-      },
+      "expected_batting": null,
       "expected_pitching": null,
       "statcast_batting": {
         "attempts": 268,
@@ -337,16 +301,7 @@
     {
       "id": 665862,
       "name": "Jazz Chisholm Jr.",
-      "expected_batting": {
-        "pa": 334,
-        "est_ba": 0.208,
-        "est_slg": 0.362,
-        "est_woba": 0.292,
-        "ba": 0.223,
-        "slg": 0.395,
-        "woba": 0.309,
-        "est_woba_minus_woba": -0.017
-      },
+      "expected_batting": null,
       "expected_pitching": null,
       "statcast_batting": {
         "attempts": 201,
@@ -368,16 +323,7 @@
     {
       "id": 676609,
       "name": "José Caballero",
-      "expected_batting": {
-        "pa": 271,
-        "est_ba": 0.229,
-        "est_slg": 0.328,
-        "est_woba": 0.276,
-        "ba": 0.247,
-        "slg": 0.385,
-        "woba": 0.304,
-        "est_woba_minus_woba": -0.028
-      },
+      "expected_batting": null,
       "expected_pitching": null,
       "statcast_batting": {
         "attempts": 191,
@@ -445,16 +391,7 @@
     {
       "id": 502671,
       "name": "Paul Goldschmidt",
-      "expected_batting": {
-        "pa": 239,
-        "est_ba": 0.246,
-        "est_slg": 0.448,
-        "est_woba": 0.328,
-        "ba": 0.271,
-        "slg": 0.514,
-        "woba": 0.363,
-        "est_woba_minus_woba": -0.035
-      },
+      "expected_batting": null,
       "expected_pitching": null,
       "statcast_batting": {
         "attempts": 170,
@@ -476,16 +413,7 @@
     {
       "id": 641857,
       "name": "Ryan McMahon",
-      "expected_batting": {
-        "pa": 209,
-        "est_ba": 0.236,
-        "est_slg": 0.407,
-        "est_woba": 0.309,
-        "ba": 0.209,
-        "slg": 0.361,
-        "woba": 0.282,
-        "est_woba_minus_woba": 0.027
-      },
+      "expected_batting": null,
       "expected_pitching": null,
       "statcast_batting": {
         "attempts": 128,
@@ -570,16 +498,7 @@
     {
       "id": 663757,
       "name": "Trent Grisham",
-      "expected_batting": {
-        "pa": 271,
-        "est_ba": 0.256,
-        "est_slg": 0.453,
-        "est_woba": 0.357,
-        "ba": 0.236,
-        "slg": 0.419,
-        "woba": 0.337,
-        "est_woba_minus_woba": 0.02
-      },
+      "expected_batting": null,
       "expected_pitching": null,
       "statcast_batting": {
         "attempts": 188,
