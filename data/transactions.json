@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T12:19:50Z",
+  "updated": "2026-07-06T13:47:44Z",
   "count": 69,
   "items": [
     {
@@ -22,15 +22,15 @@
     },
     {
       "date": "2026-07-03",
-      "type": "",
-      "player": "Ryan McMahon",
-      "description": "Removed From 10-Day IL (Throat/ear infection)"
-    },
-    {
-      "date": "2026-07-03",
       "type": "sent",
       "player": "Oswaldo Cabrera",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "",
+      "player": "Ryan McMahon",
+      "description": "Removed From 10-Day IL (Throat/ear infection)"
     },
     {
       "date": "2026-07-03",
@@ -88,15 +88,15 @@
     },
     {
       "date": "2026-06-29",
-      "type": "called up",
-      "player": "Jacob Bird",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-29",
       "type": "sent",
       "player": "Yerry De Los Santos",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "called up",
+      "player": "Jacob Bird",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-29",
@@ -118,15 +118,15 @@
     },
     {
       "date": "2026-06-24",
-      "type": "called up",
-      "player": "Oswaldo Cabrera",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-24",
       "type": "placed",
       "player": "Ryan McMahon",
       "description": "Placed on 10-Day IL (Throat/ear infection)"
+    },
+    {
+      "date": "2026-06-24",
+      "type": "called up",
+      "player": "Oswaldo Cabrera",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-23",
@@ -334,15 +334,15 @@
     },
     {
       "date": "2026-05-18",
-      "type": "sent",
-      "player": "Elmer Rodriguez",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-05-18",
       "type": "purchased",
       "player": "Yovanny Cruz",
       "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-05-18",
+      "type": "sent",
+      "player": "Elmer Rodriguez",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-16",
@@ -406,15 +406,15 @@
     },
     {
       "date": "2026-05-07",
-      "type": "sent",
-      "player": "Brendan Beck",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-05-07",
       "type": "purchased",
       "player": "Brendan Beck",
       "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-05-07",
+      "type": "sent",
+      "player": "Brendan Beck",
+      "description": "Sent to Minors"
     }
   ]
 }
