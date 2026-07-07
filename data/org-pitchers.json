@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T02:02:49Z",
+  "updated": "2026-07-07T03:31:01Z",
   "season": 2026,
   "pitchers": [
     {
@@ -986,43 +986,6 @@
       },
       "season_levels": [
         "MLB"
-      ]
-    },
-    {
-      "id": 669395,
-      "name": "Dylan Coleman",
-      "position": "P",
-      "level": "AAA",
-      "level_since": "2026-03-27",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-01-17",
-      "season": {
-        "w": 1,
-        "l": 1,
-        "g": 19,
-        "gs": 0,
-        "cg": 0,
-        "sho": 0,
-        "sv": 2,
-        "svo": 3,
-        "ip": "21.0",
-        "ip_outs": 63,
-        "h": 12,
-        "r": 7,
-        "er": 6,
-        "hr": 2,
-        "hb": 1,
-        "bb": 20,
-        "so": 26,
-        "era": "2.57",
-        "era_num": 2.5714285714285716,
-        "whip": "1.52",
-        "whip_num": 1.5238095238095237,
-        "avg": ".167",
-        "avg_num": 0.16666666666666666
-      },
-      "season_levels": [
-        "AAA"
       ]
     },
     {
