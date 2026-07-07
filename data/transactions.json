@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T17:41:34Z",
+  "updated": "2026-07-07T18:45:25Z",
   "count": 67,
   "items": [
     {
@@ -40,6 +40,12 @@
     },
     {
       "date": "2026-07-03",
+      "type": "sent",
+      "player": "Spencer Jones",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-03",
       "type": "",
       "player": "Trent Grisham",
       "description": "Removed From 10-Day IL (Strained right hamstring)"
@@ -49,12 +55,6 @@
       "type": "recalled",
       "player": "Trent Grisham",
       "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "sent",
-      "player": "Spencer Jones",
-      "description": "Sent to Minors"
     },
     {
       "date": "2026-07-02",
