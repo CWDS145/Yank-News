@@ -1,78 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-07-07T01:55:49Z",
-      "source": "MLB MiLB: TAM team stats",
-      "url": "https://statsapi.mlb.com/api/v1/teams/stats?season=2026&stats=season&group=hitting&teamId=587&sportId=14",
-      "status": 200,
-      "items": 2,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-07-07T01:55:52Z",
-      "source": "MLB MiLB: TAM player stats",
-      "url": "<bulk: 29 players>",
-      "status": 200,
-      "items": 29,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-07-07T01:56:24Z",
-      "source": "MLB season+byDateRange: MLB",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season,byDateRange&sportId={sid}",
-      "status": 200,
-      "items": 64,
-      "note": "ok=64/64 window=2026-06-27..2026-07-07"
-    },
-    {
-      "timestamp": "2026-07-07T01:56:24Z",
-      "source": "MLB season+byDateRange: AAA",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season,byDateRange&sportId={sid}",
-      "status": 200,
-      "items": 64,
-      "note": "ok=64/64 window=2026-06-27..2026-07-07"
-    },
-    {
-      "timestamp": "2026-07-07T01:56:24Z",
-      "source": "MLB season+byDateRange: AA",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season,byDateRange&sportId={sid}",
-      "status": 200,
-      "items": 64,
-      "note": "ok=64/64 window=2026-06-27..2026-07-07"
-    },
-    {
-      "timestamp": "2026-07-07T01:56:24Z",
-      "source": "MLB season+byDateRange: High-A",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season,byDateRange&sportId={sid}",
-      "status": 200,
-      "items": 64,
-      "note": "ok=64/64 window=2026-06-27..2026-07-07"
-    },
-    {
-      "timestamp": "2026-07-07T01:56:24Z",
-      "source": "MLB season+byDateRange: Low-A",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season,byDateRange&sportId={sid}",
-      "status": 200,
-      "items": 64,
-      "note": "ok=64/64 window=2026-06-27..2026-07-07"
-    },
-    {
-      "timestamp": "2026-07-07T01:56:24Z",
-      "source": "MLB Transactions org",
-      "url": "https://statsapi.mlb.com/api/v1/transactions?teamId=147&startDate=2026-06-07&endDate=2026-07-07",
-      "status": 200,
-      "items": 37,
-      "note": "window 2026-06-07..2026-07-07"
-    },
-    {
-      "timestamp": "2026-07-07T01:58:56Z",
-      "source": "MLB personId fallback",
-      "url": "<bulk>",
-      "status": 200,
-      "items": 60,
-      "note": "players needing prior_level fallback"
-    },
-    {
       "timestamp": "2026-07-07T01:59:38Z",
       "source": "MLB season pitching: MLB",
       "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
@@ -3999,6 +3927,78 @@
       "status": 200,
       "items": 44,
       "note": "ok | tables: bat_id=players_standard_batting pit_id=players_standard_pitching batters=22 pitchers=22"
+    },
+    {
+      "timestamp": "2026-07-07T15:30:43Z",
+      "source": "MLB.com Yankees",
+      "url": "https://www.mlb.com/yankees/feeds/news/rss.xml",
+      "status": 200,
+      "items": 25,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-07-07T15:30:43Z",
+      "source": "Pinstripe Alley",
+      "url": "https://www.pinstripealley.com/rss/current.xml",
+      "status": 200,
+      "items": 10,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-07-07T15:30:43Z",
+      "source": "NY Post Yankees",
+      "url": "https://nypost.com/tag/new-york-yankees/feed/",
+      "status": 200,
+      "items": 20,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-07-07T15:30:44Z",
+      "source": "MLB Trade Rumors NYY",
+      "url": "https://www.mlbtraderumors.com/category/new-york-yankees/feed",
+      "status": 200,
+      "items": 15,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-07-07T15:30:44Z",
+      "source": "ESPN MLB",
+      "url": "https://www.espn.com/espn/rss/mlb/news",
+      "status": 200,
+      "items": 1,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-07-07T15:30:44Z",
+      "source": "CBS Sports MLB",
+      "url": "https://www.cbssports.com/rss/headlines/mlb/",
+      "status": 200,
+      "items": 4,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-07-07T15:30:44Z",
+      "source": "Pinstripe Post (Sherman)",
+      "url": "https://feeds.megaphone.fm/NYPH3296340517",
+      "status": 200,
+      "items": 1,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-07-07T15:30:45Z",
+      "source": "YES Network",
+      "url": "https://www.yesnetwork.com/yankees",
+      "status": 200,
+      "items": 1,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-07-07T15:30:47Z",
+      "source": "CBS Transactions",
+      "url": "https://www.cbssports.com/mlb/teams/NYY/new-york-yankees/transactions/",
+      "status": 200,
+      "items": 67,
+      "note": "ok"
     }
   ]
 }
