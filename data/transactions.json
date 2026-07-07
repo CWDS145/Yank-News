@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T18:45:25Z",
+  "updated": "2026-07-07T19:35:39Z",
   "count": 67,
   "items": [
     {
@@ -28,15 +28,15 @@
     },
     {
       "date": "2026-07-03",
-      "type": "",
-      "player": "Ryan McMahon",
-      "description": "Removed From 10-Day IL (Throat/ear infection)"
-    },
-    {
-      "date": "2026-07-03",
       "type": "placed",
       "player": "Carlos Rodon",
       "description": "Placed on 15-Day IL (Left elbow inflammation)"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "",
+      "player": "Ryan McMahon",
+      "description": "Removed From 10-Day IL (Throat/ear infection)"
     },
     {
       "date": "2026-07-03",
@@ -88,15 +88,15 @@
     },
     {
       "date": "2026-06-29",
-      "type": "called up",
-      "player": "Jacob Bird",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-29",
       "type": "sent",
       "player": "Yerry De Los Santos",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "called up",
+      "player": "Jacob Bird",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-29",
@@ -118,15 +118,15 @@
     },
     {
       "date": "2026-06-24",
-      "type": "placed",
-      "player": "Ryan McMahon",
-      "description": "Placed on 10-Day IL (Throat/ear infection)"
-    },
-    {
-      "date": "2026-06-24",
       "type": "called up",
       "player": "Oswaldo Cabrera",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-06-24",
+      "type": "placed",
+      "player": "Ryan McMahon",
+      "description": "Placed on 10-Day IL (Throat/ear infection)"
     },
     {
       "date": "2026-06-23",
@@ -244,12 +244,6 @@
     },
     {
       "date": "2026-06-06",
-      "type": "purchased",
-      "player": "Ali Sanchez",
-      "description": "Purchased From Minors"
-    },
-    {
-      "date": "2026-06-06",
       "type": "called up",
       "player": "J.C. Escarra",
       "description": "Called Up from Minors"
@@ -261,10 +255,22 @@
       "description": "Placed on 10-Day IL (Cervical headaches)"
     },
     {
+      "date": "2026-06-06",
+      "type": "purchased",
+      "player": "Ali Sanchez",
+      "description": "Purchased From Minors"
+    },
+    {
       "date": "2026-06-05",
       "type": "sent",
       "player": "J.C. Escarra",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-06-05",
+      "type": "called up",
+      "player": "Spencer Jones",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-05",
@@ -277,12 +283,6 @@
       "type": "placed",
       "player": "Aaron Judge",
       "description": "Placed on 10-Day IL (Right rib stress fracture)"
-    },
-    {
-      "date": "2026-06-05",
-      "type": "called up",
-      "player": "Spencer Jones",
-      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-02",
@@ -334,27 +334,27 @@
     },
     {
       "date": "2026-05-18",
-      "type": "sent",
-      "player": "Elmer Rodriguez",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-05-18",
       "type": "purchased",
       "player": "Yovanny Cruz",
       "description": "Purchased From Minors"
     },
     {
-      "date": "2026-05-16",
-      "type": "called up",
+      "date": "2026-05-18",
+      "type": "sent",
       "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors"
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-16",
       "type": "placed",
       "player": "Max Fried",
       "description": "Placed on 15-Day IL (Left elbow bone bruise)"
+    },
+    {
+      "date": "2026-05-16",
+      "type": "called up",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-05-12",
@@ -376,15 +376,15 @@
     },
     {
       "date": "2026-05-10",
-      "type": "",
-      "player": "Carlos Rodon",
-      "description": "Removed From 15-Day IL (Recovery from left elbow surgery)"
-    },
-    {
-      "date": "2026-05-10",
       "type": "sent",
       "player": "Kervin Castro",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-05-10",
+      "type": "",
+      "player": "Carlos Rodon",
+      "description": "Removed From 15-Day IL (Recovery from left elbow surgery)"
     },
     {
       "date": "2026-05-08",
@@ -394,15 +394,15 @@
     },
     {
       "date": "2026-05-08",
-      "type": "called up",
-      "player": "Kervin Castro",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-05-08",
       "type": "placed",
       "player": "Jasson Dominguez",
       "description": "Placed on 10-Day IL (Sprained left shoulder AC joint)"
+    },
+    {
+      "date": "2026-05-08",
+      "type": "called up",
+      "player": "Kervin Castro",
+      "description": "Called Up from Minors"
     }
   ]
 }
