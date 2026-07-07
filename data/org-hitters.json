@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T15:43:48Z",
+  "updated": "2026-07-07T16:40:37Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-06-27",
@@ -1317,37 +1317,6 @@
       ]
     },
     {
-      "id": 800741,
-      "name": "Logan Maxwell",
-      "position": "OF",
-      "level": "Low-A",
-      "level_since": "2026-04-03",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 100,
-        "k": 24,
-        "avg": ".270",
-        "ops": ".839",
-        "avg_num": 0.27,
-        "ops_num": 0.8390322580645162
-      },
-      "last_10": {
-        "ab": 12,
-        "k": 5,
-        "avg": ".333",
-        "ops": "1.012",
-        "avg_num": 0.3333333333333333,
-        "ops_num": 1.0119047619047619
-      },
-      "season_levels": [
-        "Low-A"
-      ],
-      "last_10_levels": [
-        "Low-A"
-      ]
-    },
-    {
       "id": 691411,
       "name": "Luis Durango",
       "position": "LF",
@@ -1760,10 +1729,10 @@
       "id": 801726,
       "name": "Santiago Gomez",
       "position": "SS",
-      "level": "AA",
-      "level_since": "2026-06-25",
-      "prior_level": "High-A",
-      "prior_level_since": "2026-05-30",
+      "level": "High-A",
+      "level_since": "2026-07-07",
+      "prior_level": "AA",
+      "prior_level_since": "2026-06-25",
       "season": {
         "ab": 72,
         "k": 16,
@@ -1907,6 +1876,28 @@
       "last_10_levels": [
         "AAA"
       ]
+    },
+    {
+      "id": 701206,
+      "name": "Willy Montero",
+      "position": "CF",
+      "level": "Low-A",
+      "level_since": "2026-06-27",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 242,
+        "k": 72,
+        "avg": ".264",
+        "ops": ".802",
+        "avg_num": 0.2644628099173554,
+        "ops_num": 0.8017433793810702
+      },
+      "last_10": null,
+      "season_levels": [
+        "Low-A"
+      ],
+      "last_10_levels": []
     },
     {
       "id": 815147,
