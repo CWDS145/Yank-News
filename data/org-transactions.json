@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T17:57:09Z",
+  "updated": "2026-07-09T18:56:15Z",
   "items": [
     {
       "id": 925062,
@@ -28,19 +28,6 @@
       "description": "New York Yankees recalled RHP Angel Chivilli from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 924936,
-      "date": "2026-07-04",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 694341,
-      "player": "Brendan Beck",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Brendan Beck from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 924932,
       "date": "2026-07-04",
       "type_code": "OPT",
@@ -54,17 +41,17 @@
       "description": "New York Yankees optioned CF Spencer Jones to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 924747,
-      "date": "2026-07-03",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 641857,
-      "player": "Ryan McMahon",
-      "from_team_id": null,
+      "id": 924936,
+      "date": "2026-07-04",
+      "type_code": "CU",
+      "type_desc": "Recalled",
+      "player_id": 694341,
+      "player": "Brendan Beck",
+      "from_team_id": 531,
       "to_team_id": 147,
-      "from": null,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
-      "description": "New York Yankees activated 3B Ryan McMahon from the 10-day injured list."
+      "description": "New York Yankees recalled RHP Brendan Beck from Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 924746,
@@ -91,6 +78,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees activated CF Trent Grisham from the 10-day injured list."
+    },
+    {
+      "id": 924747,
+      "date": "2026-07-03",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 641857,
+      "player": "Ryan McMahon",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated 3B Ryan McMahon from the 10-day injured list."
     },
     {
       "id": 924749,
@@ -262,19 +262,6 @@
       "description": "New York Yankees recalled 3B Oswaldo Cabrera from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 921332,
-      "date": "2026-06-23",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 645305,
-      "player": "Ali Sánchez",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees placed C Ali Sánchez on the paternity list."
-    },
-    {
       "id": 921531,
       "date": "2026-06-23",
       "type_code": "SFA",
@@ -286,6 +273,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees signed free agent Chien-Fan Lai to a minor league contract."
+    },
+    {
+      "id": 921332,
+      "date": "2026-06-23",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 645305,
+      "player": "Ali Sánchez",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees placed C Ali Sánchez on the paternity list."
     },
     {
       "id": 921331,
@@ -301,19 +301,6 @@
       "description": "New York Yankees recalled C J.C. Escarra from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 920909,
-      "date": "2026-06-22",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 695684,
-      "player": "Elmer Rodríguez",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees optioned RHP Elmer Rodríguez to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 921050,
       "date": "2026-06-22",
       "type_code": "CU",
@@ -325,6 +312,19 @@
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
       "description": "New York Yankees recalled RHP Yerry De los Santos from Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 920909,
+      "date": "2026-06-22",
+      "type_code": "OPT",
+      "type_desc": "Optioned",
+      "player_id": 695684,
+      "player": "Elmer Rodríguez",
+      "from_team_id": 147,
+      "to_team_id": 531,
+      "from": "New York Yankees",
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees optioned RHP Elmer Rodríguez to Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 920763,
@@ -379,19 +379,6 @@
       "description": "New York Yankees optioned C J.C. Escarra to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 919439,
-      "date": "2026-06-16",
-      "type_code": "SFA",
-      "type_desc": "Signed as Free Agent",
-      "player_id": 842835,
-      "player": "Breidy Adames",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees signed free agent RHP Breidy Adames to a minor league contract."
-    },
-    {
       "id": 918940,
       "date": "2026-06-16",
       "type_code": "ASG",
@@ -403,6 +390,19 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees sent C Austin Wells on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 919439,
+      "date": "2026-06-16",
+      "type_code": "SFA",
+      "type_desc": "Signed as Free Agent",
+      "player_id": 842835,
+      "player": "Breidy Adames",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees signed free agent RHP Breidy Adames to a minor league contract."
     },
     {
       "id": 917898,
