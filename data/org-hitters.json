@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T13:44:05Z",
+  "updated": "2026-07-09T14:44:21Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-06-29",
@@ -1500,37 +1500,6 @@
       },
       "season_levels": [
         "AAA",
-        "AA"
-      ],
-      "last_10_levels": [
-        "AA"
-      ]
-    },
-    {
-      "id": 657051,
-      "name": "Nicholas Torres",
-      "position": "OF",
-      "level": "AA",
-      "level_since": "2026-04-18",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 146,
-        "k": 41,
-        "avg": ".247",
-        "ops": ".636",
-        "avg_num": 0.2465753424657534,
-        "ops_num": 0.6360561474716726
-      },
-      "last_10": {
-        "ab": 13,
-        "k": 2,
-        "avg": ".154",
-        "ops": ".308",
-        "avg_num": 0.15384615384615385,
-        "ops_num": 0.3076923076923077
-      },
-      "season_levels": [
         "AA"
       ],
       "last_10_levels": [
