@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T12:49:40Z",
+  "updated": "2026-07-09T13:47:44Z",
   "season": 2026,
   "pitchers": [
     {
@@ -2418,6 +2418,17 @@
       "season_levels": [
         "MLB"
       ]
+    },
+    {
+      "id": 800239,
+      "name": "Sabier Marte",
+      "position": "P",
+      "level": "Low-A",
+      "level_since": "2026-07-09",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "season_levels": []
     },
     {
       "id": 800344,
