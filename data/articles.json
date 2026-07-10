@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10T17:09:33Z",
-  "count": 61,
+  "updated": "2026-07-10T18:05:18Z",
+  "count": 63,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-10T17:09:33Z",
+      "published": "2026-07-10T18:05:18Z",
+      "image": null
+    },
+    {
+      "title": "The story of Schlittler's journey from 7th-round pick to All-Star ace",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Bryan Hoch",
+      "link": "https://www.mlb.com/yankees/news/how-cam-schlittler-became-a-yankees-all-star",
+      "published": "2026-07-10T17:22:18Z",
       "image": null
     },
     {
@@ -99,6 +108,24 @@
       "author": "John Griffin",
       "link": "https://www.pinstripealley.com/yankees-news/196529/yankees-news-aaron-judge-giancarlo-stanton-george-lombard-jr-injuries",
       "published": "2026-07-10T09:00:00Z",
+      "image": null
+    },
+    {
+      "title": "Volpe denies 'BS' report that he refused SS move",
+      "summary": "Yankees shortstop Anthony Volpe strongly denied a report that he refused to play second base earlier this season, saying he was caught \"off guard\" by the since-retracted report, which he called \"B.S.\"",
+      "source": "ESPN MLB",
+      "author": null,
+      "link": "https://www.espn.com/mlb/story/_/id/49314299/anthony-volpe-denies-bs-report-refused-play-2b",
+      "published": "2026-07-10T08:07:54Z",
+      "image": null
+    },
+    {
+      "title": "Judge to have rib imaged as Yanks stay cautious",
+      "summary": "Aaron Judge will have his injured rib tested during the All-Star break, and the Yankees are hopeful the results show the three-time AL MVP is healing.",
+      "source": "ESPN MLB",
+      "author": null,
+      "link": "https://www.espn.com/mlb/story/_/id/49317023/yankees-aaron-judge-rib-reimaged-all-star-break",
+      "published": "2026-07-10T08:07:54Z",
       "image": null
     },
     {
@@ -495,15 +522,6 @@
       "author": "",
       "link": "https://www.mlb.com/yankees/news/mlb-tv-july-2026-sale",
       "published": "2026-07-06T16:13:16Z",
-      "image": null
-    },
-    {
-      "title": "Yanks, Rays open massive 4-game set with playoff implications",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Jared Greenspan",
-      "link": "https://www.mlb.com/yankees/news/2026-al-east-showdown-between-rays-yankees",
-      "published": "2026-07-06T15:31:00Z",
       "image": null
     },
     {
