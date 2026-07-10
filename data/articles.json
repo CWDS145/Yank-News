@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-10T04:48:35Z",
-  "count": 64,
+  "updated": "2026-07-10T06:21:42Z",
+  "count": 62,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-10T04:48:35Z",
+      "published": "2026-07-10T06:21:41Z",
       "image": null
     },
     {
@@ -39,24 +39,6 @@
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2FAP_Yankees_Rays_Baseball_116_9-a9883-0.jpg?quality%3D90%26"
     },
     {
-      "title": "Volpe denies 'BS' report that he refused SS move",
-      "summary": "Yankees shortstop Anthony Volpe strongly denied a report that he refused to play second base earlier this season, saying he was caught \"off guard\" by the since-retracted report, which he called \"B.S.\"",
-      "source": "ESPN MLB",
-      "author": null,
-      "link": "https://www.espn.com/mlb/story/_/id/49314299/anthony-volpe-denies-bs-report-refused-play-2b",
-      "published": "2026-07-09T23:55:29Z",
-      "image": null
-    },
-    {
-      "title": "Judge to have rib imaged as Yanks stay cautious",
-      "summary": "Aaron Judge will have his injured rib tested during the All-Star break, and the Yankees are hopeful the results show the three-time AL MVP is healing.",
-      "source": "ESPN MLB",
-      "author": null,
-      "link": "https://www.espn.com/mlb/story/_/id/49317023/yankees-aaron-judge-rib-reimaged-all-star-break",
-      "published": "2026-07-09T23:55:29Z",
-      "image": null
-    },
-    {
       "title": "Yankees’ George Lombard Jr. nearing rehab games with Bronx chance looming",
       "summary": "Multiple sprained fingers have cost George Lombard Jr. time at Triple-A, but he is on the precipice of rehab games.",
       "source": "NY Post Yankees",
@@ -82,6 +64,15 @@
       "link": "https://nypost.com/2026/07/09/sports/yankees-bats-finally-break-out-against-drew-rasmussen-in-win-over-rays/",
       "published": "2026-07-09T20:32:15Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fnew-york-yankees-designated-hitter-133899964.jpg?w%3D683"
+    },
+    {
+      "title": "Yankees resurrect offense behind Ben Rice’s two homers, split series with Rays",
+      "summary": "Even in the most difficult of times, this Yankees team has had Ben Rice to count on, and here, needing a win, it saw its first baseman completely take over a game with two homers to lead a blowout 12-4 win over the Rays. Neither one of Rice’s homers represented the go-ahead hit or even […]",
+      "source": "Pinstripe Alley",
+      "author": "Estevão Maximo",
+      "link": "https://www.pinstripealley.com/yankees-scores-standings/196469/yankees-game-score-recap-rays-ben-rice-homers-series-split-ryan-mcmahon-at-bat",
+      "published": "2026-07-09T20:12:27Z",
+      "image": null
     },
     {
       "title": "Mets’ Luis Torrens could be a fill for glaring Yankees need",
@@ -126,6 +117,15 @@
       "author": "Bryan Hoch",
       "link": "https://www.mlb.com/yankees/news/aaron-judge-injury-reimaging-brian-cashman-yankees",
       "published": "2026-07-09T17:17:00Z",
+      "image": null
+    },
+    {
+      "title": "New York Yankees @ Tampa Bay Rays: Paul Blackburn vs. Drew Rasmussen",
+      "summary": "As far as the afternoon games in early July go, they don’t get much bigger than this one, with the Yankees desperate to avoid a third-straight defeat at the hands of the Tampa Bay Rays. If they were to lose today, the Yankees would see the gap to the division lead widen to six games, […]",
+      "source": "Pinstripe Alley",
+      "author": "Estevão Maximo",
+      "link": "https://www.pinstripealley.com/pinstripe-alley-discussions/196428/yankees-game-thread-probable-pitchers-starting-lineups-tv-channel-how-to-watch-paul-blackburn-drew-rasmussen",
+      "published": "2026-07-09T16:40:00Z",
       "image": null
     },
     {
@@ -282,15 +282,6 @@
       "image": null
     },
     {
-      "title": "New York Yankees @ Tampa Bay Rays: Gerrit Cole vs. Shane McClanahan",
-      "summary": "After such a promising start to this pivotal four-game series against the Rays, the Yankees ceded that ground back thanks to a disappointing start from Will Warren in which he allowed three home runs in four innings. It means that the Bombers can no longer finish this series tied for the division lead – something […]",
-      "source": "Pinstripe Alley",
-      "author": "Peter Brody",
-      "link": "https://www.pinstripealley.com/pinstripe-alley-discussions/196300/yankees-game-thread-rays-how-to-watch-streaming-lineups-gerrit-cole-shane-mcclanahan",
-      "published": "2026-07-08T22:10:00Z",
-      "image": null
-    },
-    {
       "title": "Fiery Anthony Volpe hits back at rumors of Yankees position switch drama: ‘It’s just kind of B.S.’",
       "summary": "Anthony Volpe is striking down any notion that he is unwilling to play a different position.",
       "source": "NY Post Yankees",
@@ -298,15 +289,6 @@
       "link": "https://nypost.com/2026/07/08/sports/anthony-volpe-hits-back-at-rumors-of-yankees-position-switch-drama/",
       "published": "2026-07-08T21:00:38Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F20260705NYYVMIN4011RS.jpg?w%3D1024"
-    },
-    {
-      "title": "Baseball is in the genes for RailRiders’ Cole Gabrielson",
-      "summary": "This wasn’t exactly how Cole Gabrielson expected his Triple-A debut to go. In his first game with the Scranton/Wilkes-Barre RailRiders on June 19th, the outfielder was called to the mound with two outs in the bottom of the seventh inning in the second game of a doubleheader at Columbus. The last time Gabrielson had pitched […]",
-      "source": "Pinstripe Alley",
-      "author": "Scott Walsh",
-      "link": "https://www.pinstripealley.com/yankees-prospects/196224/yankees-cole-gabrielson-aaa-scranton-railiriders-genes",
-      "published": "2026-07-08T19:00:00Z",
-      "image": null
     },
     {
       "title": "Fanatics Sportsbook promo code NYPOST26: Get up to $1k matched for Yankees vs. Rays",
