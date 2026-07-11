@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T21:48:18Z",
+  "updated": "2026-07-11T22:19:36Z",
   "count": 61,
   "items": [
     {
@@ -29,8 +29,20 @@
     {
       "date": "2026-07-03",
       "type": "sent",
-      "player": "Spencer Jones",
+      "player": "Oswaldo Cabrera",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "",
+      "player": "Ryan McMahon",
+      "description": "Removed From 10-Day IL (Throat/ear infection)"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "",
+      "player": "Trent Grisham",
+      "description": "Removed From 10-Day IL (Strained right hamstring)"
     },
     {
       "date": "2026-07-03",
@@ -41,20 +53,8 @@
     {
       "date": "2026-07-03",
       "type": "sent",
-      "player": "Oswaldo Cabrera",
+      "player": "Spencer Jones",
       "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "",
-      "player": "Trent Grisham",
-      "description": "Removed From 10-Day IL (Strained right hamstring)"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "",
-      "player": "Ryan McMahon",
-      "description": "Removed From 10-Day IL (Throat/ear infection)"
     },
     {
       "date": "2026-07-02",
@@ -202,15 +202,15 @@
     },
     {
       "date": "2026-06-13",
-      "type": "placed",
-      "player": "Trent Grisham",
-      "description": "Placed on 10-Day IL (Strained right hamstring)"
-    },
-    {
-      "date": "2026-06-13",
       "type": "",
       "player": "Jasson Dominguez",
       "description": "Removed From 10-Day IL (Sprained left shoulder AC joint)"
+    },
+    {
+      "date": "2026-06-13",
+      "type": "placed",
+      "player": "Trent Grisham",
+      "description": "Placed on 10-Day IL (Strained right hamstring)"
     },
     {
       "date": "2026-06-13",
@@ -220,9 +220,9 @@
     },
     {
       "date": "2026-06-11",
-      "type": "",
+      "type": "recalled",
       "player": "Angel Chivilli",
-      "description": "Removed From 15-Day IL (Right shoulder discomfort)"
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-06-11",
@@ -232,9 +232,9 @@
     },
     {
       "date": "2026-06-11",
-      "type": "recalled",
+      "type": "",
       "player": "Angel Chivilli",
-      "description": "Recalled From Minors Rehab Assignment"
+      "description": "Removed From 15-Day IL (Right shoulder discomfort)"
     },
     {
       "date": "2026-06-10",
@@ -262,9 +262,9 @@
     },
     {
       "date": "2026-06-05",
-      "type": "sent",
-      "player": "Jasson Dominguez",
-      "description": "Sent to Minors For Rehabilitation"
+      "type": "called up",
+      "player": "Spencer Jones",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-05",
@@ -274,15 +274,15 @@
     },
     {
       "date": "2026-06-05",
-      "type": "placed",
-      "player": "Aaron Judge",
-      "description": "Placed on 10-Day IL (Right rib stress fracture)"
+      "type": "sent",
+      "player": "Jasson Dominguez",
+      "description": "Sent to Minors For Rehabilitation"
     },
     {
       "date": "2026-06-05",
-      "type": "called up",
-      "player": "Spencer Jones",
-      "description": "Called Up from Minors"
+      "type": "placed",
+      "player": "Aaron Judge",
+      "description": "Placed on 10-Day IL (Right rib stress fracture)"
     },
     {
       "date": "2026-06-02",
