@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T16:48:56Z",
+  "updated": "2026-07-11T17:23:29Z",
   "count": 58,
   "items": [
     {
@@ -8,7 +8,25 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-11T16:48:56Z",
+      "published": "2026-07-11T17:23:29Z",
+      "image": null
+    },
+    {
+      "title": "LIVE Draft Tracker: Follow every pick",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "",
+      "link": "https://www.mlb.com/draft/tracker",
+      "published": "2026-07-11T16:55:00Z",
+      "image": null
+    },
+    {
+      "title": "MLB Draft Day 1 picks, analysis (LIVE on NBC/Peacock)",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Jonathan Mayo",
+      "link": "https://www.mlb.com/yankees/news/2026-mlb-draft-day-1-complete-coverage",
+      "published": "2026-07-11T16:31:00Z",
       "image": null
     },
     {
@@ -118,24 +136,6 @@
       "link": "https://nypost.com/2026/07/11/sports/jasson-dominguez-has-big-night-in-yankees-victory/",
       "published": "2026-07-11T08:33:44Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2FJasson-Dominguez-1.jpg?w%3D1024"
-    },
-    {
-      "title": "Follow Day 1 of the Draft right here, starting at 1 p.m. ET",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "MLB.com staff",
-      "link": "https://www.mlb.com/yankees/news/2026-mlb-draft-day-1-complete-coverage",
-      "published": "2026-07-11T06:46:31Z",
-      "image": null
-    },
-    {
-      "title": "2026 Draft Tracker: Follow every pick",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "",
-      "link": "https://www.mlb.com/draft/tracker",
-      "published": "2026-07-11T06:25:07Z",
-      "image": null
     },
     {
       "title": "Night after pregame speech, Jazz lets bat do the talking in 9th-inning comeback win",
