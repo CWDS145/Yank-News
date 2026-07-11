@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T01:37:45Z",
+  "updated": "2026-07-11T03:07:59Z",
   "count": 59,
   "items": [
     {
@@ -8,7 +8,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-11T01:37:45Z",
+      "published": "2026-07-11T03:07:59Z",
+      "image": null
+    },
+    {
+      "title": "2026 Draft starts tomorrow! Here's what you need to know",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "MLB.com",
+      "link": "https://www.mlb.com/yankees/news/2026-mlb-draft-overview-and-schedule",
+      "published": "2026-07-11T02:42:00Z",
       "image": null
     },
     {
@@ -19,15 +28,6 @@
       "link": "https://www.mlb.com/moments/experiences/home-run-derby-pick-em?affiliateID=hrdpickem_mlb_digital_2026",
       "published": "2026-07-11T00:48:22Z",
       "image": null
-    },
-    {
-      "title": "Yankees’ Cam Schlittler starting All-Star Game would be fitting reward for his dominance",
-      "summary": "With one outing left before the All-Star break, Cam Schlittler has put himself in a strong position to start for the American League.",
-      "source": "NY Post Yankees",
-      "author": "Greg Joyce",
-      "link": "https://nypost.com/2026/07/10/sports/yankees-cam-schlittler-starting-all-star-game-would-be-fitting-reward/",
-      "published": "2026-07-11T00:13:46Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fcincinnati-reds-vs-new-york-131599456.jpg?quality%3D90%26"
     },
     {
       "title": "Yankees, Nationals in rain delay on Friday night",
@@ -453,13 +453,13 @@
       "image": null
     },
     {
-      "title": "Chisholm back in Yankees' lineup a day after early exit",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bill Ladson",
-      "link": "https://www.mlb.com/yankees/news/jazz-chisholm-jr-exits-game-against-twins-with-injury",
-      "published": "2026-07-07T04:13:00Z",
-      "image": null
+      "title": "Giancarlo Stanton’s return timeline still remains murky for Yankees",
+      "summary": "Two-plus months after the Yankees waited a few days to see if he could avoid an injured list stint altogether, Giancarlo Stanton remains without any real timeline to return to the active roster.",
+      "source": "NY Post Yankees",
+      "author": "Greg Joyce",
+      "link": "https://nypost.com/2026/07/07/sports/giancarlo-stantons-return-timeline-still-remains-murkey-for-yankees/",
+      "published": "2026-07-07T05:14:42Z",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fnew-york-yankees-giancarlo-stanton-132959247.jpg?w%3D1024"
     },
     {
       "title": "Does facing ex-club fire up Caballero? Second two-HR game answers 'YES'",
