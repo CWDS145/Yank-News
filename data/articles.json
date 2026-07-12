@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-12T22:48:21Z",
-  "count": 56,
+  "updated": "2026-07-12T23:20:47Z",
+  "count": 57,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-12T22:48:21Z",
+      "published": "2026-07-12T23:20:47Z",
+      "image": null
+    },
+    {
+      "title": "Here are the Yankees' 2026 Draft picks",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Bryan Hoch",
+      "link": "https://www.mlb.com/yankees/news/yankees-2026-draft-picks",
+      "published": "2026-07-12T23:08:00Z",
       "image": null
     },
     {
@@ -17,7 +26,16 @@
       "source": "Pinstripe Alley",
       "author": "Andrew Mearns",
       "link": "https://www.pinstripealley.com/yankees-mlb-draft/196844/mlb-draft-2026-yankees-signings-tracker-top-pick-signs-first-round-hunter-dietz-social-media",
-      "published": "2026-07-12T22:38:26Z",
+      "published": "2026-07-12T23:04:29Z",
+      "image": null
+    },
+    {
+      "title": "New day, new clutch hero: Rice propels Yanks to third straight late comeback",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Byron Kerr",
+      "link": "https://www.mlb.com/yankees/news/ben-rice-hits-go-ahead-triple-as-yankees-rally-again",
+      "published": "2026-07-12T23:00:00Z",
       "image": null
     },
     {
@@ -66,30 +84,21 @@
       "image": null
     },
     {
-      "title": "Ben Rice’s clutch triple propels Yankees to another late comeback in sweep over Nationals",
-      "summary": "What Ben Rice did in the top of the eighth inning Sunday afternoon will not do him much good Monday night in the Home Run Derby.",
-      "source": "NY Post Yankees",
-      "author": "Greg Joyce",
-      "link": "https://nypost.com/2026/07/12/sports/ben-rice-triple-propels-yankees-to-another-late-comeback-in-sweep/",
-      "published": "2026-07-12T20:57:17Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fnew-york-yankees-first-baseman-134206170_136ff6.jpg?w%3D1024"
-    },
-    {
-      "title": "New day, new clutch hero: Rice propels Yanks to third straight late comeback",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Byron Kerr",
-      "link": "https://www.mlb.com/yankees/news/ben-rice-hits-go-ahead-triple-as-yankees-rally-again",
-      "published": "2026-07-12T20:48:16Z",
-      "image": null
-    },
-    {
       "title": "Yankees seal sweep of Nationals on third-straight late comeback",
       "summary": "When your offense is struggling to score runs, you better be razor sharp at all of the little things around the diamond, principally defense. The Yankees were on course for a flawless performance on defense until a nonchalant error from Jazz Chisholm Jr. appeared to have thrown the game away in the seventh. However, if […]",
       "source": "Pinstripe Alley",
       "author": "Peter Brody",
       "link": "https://www.pinstripealley.com/yankees-scores-standings/196934/yankees-sweep-nationals-game-score-recap-nationals-sweep-ben-rice-triple-first-half-finale",
       "published": "2026-07-12T20:44:03Z",
+      "image": null
+    },
+    {
+      "title": "Yanks' sweep included 3 rallies from 8th inning-on...",
+      "summary": "Ben Rice's two-run triple in the eighth inning Sunday afternoon helped the Yankees to a 5-3 victory over the Washington Nationals, allowing New York to complete a three-game sweep in which it rallied to win each contest in the eighth inning or later.",
+      "source": "ESPN MLB",
+      "author": null,
+      "link": "https://www.espn.com/mlb/story/_/id/49346263/new-york-yankees-complete-historic-sweep-washington",
+      "published": "2026-07-12T19:06:42Z",
       "image": null
     },
     {
@@ -156,30 +165,12 @@
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fcam-schlittler-31-new-york-134114051.jpg?w%3D1024"
     },
     {
-      "title": "LIVE: Who are best available players for Draft Day 2? (MLB.com, MLB.TV)",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Sam Dykstra",
-      "link": "https://www.mlb.com/yankees/news/2026-mlb-draft-day-2-overview-schedule",
-      "published": "2026-07-12T16:05:00Z",
-      "image": null
-    },
-    {
-      "title": "LIVE Yankees Draft Tracker: Follow every pick",
+      "title": "Yankees Draft Tracker: Follow every pick",
       "summary": "",
       "source": "MLB.com Yankees",
       "author": "",
       "link": "https://www.mlb.com/draft/tracker/2026/all/team/yankees",
       "published": "2026-07-12T14:54:00Z",
-      "image": null
-    },
-    {
-      "title": "LIVE: Yankees' Draft Day 1 picks are in. Day 2 is underway",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch",
-      "link": "https://www.mlb.com/yankees/news/yankees-2026-draft-picks",
-      "published": "2026-07-12T14:46:00Z",
       "image": null
     },
     {
@@ -408,6 +399,15 @@
       "image": null
     },
     {
+      "title": "Here is a look at each club's best Draft pick from the past 10 years",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Sam Dykstra, Jim Callis and Jonathan Mayo",
+      "link": "https://www.mlb.com/yankees/news/best-mlb-draft-picks-of-the-past-10-years",
+      "published": "2026-07-10T01:12:00Z",
+      "image": null
+    },
+    {
       "title": "The all-important at-bat that de-stressed the Yankees — and could be pivotal for rest of the year",
       "summary": "This one at-bat enabled a catatonic offense to ignite.",
       "source": "NY Post Yankees",
@@ -442,6 +442,15 @@
       "link": "https://nypost.com/2026/07/09/sports/yankees-bats-finally-break-out-against-drew-rasmussen-in-win-over-rays/",
       "published": "2026-07-09T20:32:15Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fnew-york-yankees-designated-hitter-133899964.jpg?w%3D683"
+    },
+    {
+      "title": "Mets’ Luis Torrens could be a fill for glaring Yankees need",
+      "summary": "Mets backup catcher Luis Torrens would be a nice fit for the Yankees, who seek catching help. Ryan Jeffers, a big hitter (.949 OPS) about to return from a hamate injury, makes sense, but the Twins are contending in an ultra-weak AL. Torrens, a former Yankee farmhand who’s very strong defensively, makes a fair $4.75M...",
+      "source": "NY Post Yankees",
+      "author": "Jon Heyman",
+      "link": "https://nypost.com/2026/07/09/sports/mets-luis-torrens-could-be-a-fill-for-glaring-yankees-need/",
+      "published": "2026-07-09T19:39:43Z",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fphiladelphia-phillies-center-fielder-derek-132422825.jpg?quality%3D90%26"
     },
     {
       "title": "Yanks GM offers vote of confidence: 'I think Boone does a great job'",
