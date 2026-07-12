@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T11:40:12Z",
+  "updated": "2026-07-12T12:05:33Z",
   "season": 2026,
   "players": [
     {
@@ -84,14 +84,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 131,
+        "attempts": 133,
         "avg_ev": 89.1,
         "max_ev": 110.5,
-        "avg_la": 19.4,
-        "barrel_pct": 6.9,
-        "barrel_per_pa": 4.2,
-        "ev95plus": 57,
-        "ev95_pct": 43.5,
+        "avg_la": 19.9,
+        "barrel_pct": 6.8,
+        "barrel_per_pa": 4.1,
+        "ev95plus": 58,
+        "ev95_pct": 43.6,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -115,14 +115,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 244,
-        "avg_ev": 92,
+        "attempts": 246,
+        "avg_ev": 92.1,
         "max_ev": 110.9,
-        "avg_la": 14.3,
-        "barrel_pct": 15.2,
-        "barrel_per_pa": 9.7,
-        "ev95plus": 115,
-        "ev95_pct": 47.1,
+        "avg_la": 14.2,
+        "barrel_pct": 15,
+        "barrel_per_pa": 9.6,
+        "ev95plus": 116,
+        "ev95_pct": 47.2,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -214,14 +214,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 285,
-        "avg_ev": 88.9,
+        "attempts": 289,
+        "avg_ev": 89,
         "max_ev": 109.3,
         "avg_la": 17.9,
-        "barrel_pct": 6.7,
+        "barrel_pct": 6.6,
         "barrel_per_pa": 4.8,
-        "ev95plus": 105,
-        "ev95_pct": 37,
+        "ev95plus": 106,
+        "ev95_pct": 36.8,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -349,14 +349,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 212,
-        "avg_ev": 90.7,
+        "attempts": 213,
+        "avg_ev": 90.6,
         "max_ev": 112.4,
         "avg_la": 16.1,
-        "barrel_pct": 9,
-        "barrel_per_pa": 5.4,
+        "barrel_pct": 8.9,
+        "barrel_per_pa": 5.3,
         "ev95plus": 86,
-        "ev95_pct": 40.6,
+        "ev95_pct": 40.4,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -380,14 +380,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 204,
-        "avg_ev": 83.9,
+        "attempts": 205,
+        "avg_ev": 83.8,
         "max_ev": 108.5,
-        "avg_la": 11.9,
+        "avg_la": 11.8,
         "barrel_pct": 3.9,
         "barrel_per_pa": 2.7,
         "ev95plus": 50,
-        "ev95_pct": 24.6,
+        "ev95_pct": 24.5,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -457,14 +457,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 176,
-        "avg_ev": 86.3,
+        "attempts": 179,
+        "avg_ev": 86.4,
         "max_ev": 109.8,
         "avg_la": 13.9,
-        "barrel_pct": 11.4,
-        "barrel_per_pa": 7.8,
-        "ev95plus": 67,
-        "ev95_pct": 38.1,
+        "barrel_pct": 11.7,
+        "barrel_per_pa": 8.1,
+        "ev95plus": 69,
+        "ev95_pct": 38.5,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -488,14 +488,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 132,
-        "avg_ev": 90.7,
+        "attempts": 135,
+        "avg_ev": 90.9,
         "max_ev": 110.5,
-        "avg_la": 11.8,
-        "barrel_pct": 10.6,
-        "barrel_per_pa": 6.4,
-        "ev95plus": 65,
-        "ev95_pct": 49.6,
+        "avg_la": 12.2,
+        "barrel_pct": 11.1,
+        "barrel_per_pa": 6.7,
+        "ev95plus": 67,
+        "ev95_pct": 50,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -582,14 +582,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 205,
-        "avg_ev": 90.7,
+        "attempts": 208,
+        "avg_ev": 90.9,
         "max_ev": 111.6,
         "avg_la": 17.3,
-        "barrel_pct": 10.7,
-        "barrel_per_pa": 7.5,
-        "ev95plus": 95,
-        "ev95_pct": 46.3,
+        "barrel_pct": 11.1,
+        "barrel_per_pa": 7.7,
+        "ev95plus": 98,
+        "ev95_pct": 47.1,
         "hardhit_pct": null
       },
       "sprint_speed": {
