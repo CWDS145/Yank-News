@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T16:22:39Z",
+  "updated": "2026-07-12T16:49:17Z",
   "count": 57,
   "items": [
     {
@@ -8,7 +8,25 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-12T16:22:39Z",
+      "published": "2026-07-12T16:49:17Z",
+      "image": null
+    },
+    {
+      "title": "The All-Star Futures Game is underway! (LIVE on NBC/Peacock)",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "MLB.com staff",
+      "link": "https://www.mlb.com/yankees/news/2026-mlb-all-star-futures-game",
+      "published": "2026-07-12T16:39:00Z",
+      "image": null
+    },
+    {
+      "title": "Yankees ace Cam Schlittler opts out of All-Star Game",
+      "summary": "For the last month or so, Yankees ace Cam Schlittler has been the runaway favorite to start the All-Star Game for the American League: his 2.05 ERA is second in all of baseball, behind only Milwaukee’s Jacob Misiorowski, and his 3.5 fWAR and 137 strikeouts trail only Toronto’s Dylan Cease — who publicly backed Schlittler’s […]",
+      "source": "Pinstripe Alley",
+      "author": "John Griffin",
+      "link": "https://www.pinstripealley.com/yankees-news/196941/yankees-cam-schlittler-start-all-star-game-mlb-opt-out-starting-cody-bellinger-ben-rice",
+      "published": "2026-07-12T16:24:39Z",
       "image": null
     },
     {
@@ -21,30 +39,12 @@
       "image": null
     },
     {
-      "title": "Yankees ace Cam Schlittler won’t pitch in MLB All-Star Game: ‘A little apprehensive’",
-      "summary": "Cam Schlittler, who put himself in position to start the All-Star Game for the American League, has decided he won’t pitch in it at all.",
-      "source": "NY Post Yankees",
-      "author": "Greg Joyce",
-      "link": "https://nypost.com/2026/07/12/sports/yankees-ace-cam-schlittler-wont-pitch-in-mlb-all-star-game/",
-      "published": "2026-07-12T16:15:08Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fcam-schlittler-31-new-york-134114051.jpg?w%3D1024"
-    },
-    {
       "title": "Schlittler will not pitch in ASG with focus on preparation for second half",
       "summary": "",
       "source": "MLB.com Yankees",
       "author": "",
       "link": "https://www.mlb.com/yankees/news/cam-schlittler-will-not-pitch-in-2026-all-star-game",
       "published": "2026-07-12T16:13:18Z",
-      "image": null
-    },
-    {
-      "title": "The All-Star Futures Game is underway! (LIVE on NBC/Peacock)",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "MLB.com staff",
-      "link": "https://www.mlb.com/yankees/news/2026-mlb-all-star-futures-game",
-      "published": "2026-07-12T16:13:00Z",
       "image": null
     },
     {
@@ -190,15 +190,6 @@
       "link": "https://nypost.com/2026/07/11/sports/austin-wells-showing-signs-of-life-at-plate-for-yankees/",
       "published": "2026-07-12T01:39:41Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fnew-york-yankees-catcher-austin-134054671.jpg?w%3D1024"
-    },
-    {
-      "title": "Yankees Draft: Paul Gutierrez-Contreras II selected with 2026 fourth-round pick",
-      "summary": "The Yankees had one pick remaining on Day 1 of the MLB Draft, which was set to adjourn after the fourth round and related compensation selections. They had already added a pair of lefty pitchers in top pick Hunter Dietz and Sean Duncan, as well as a backstop in Brendan Brock. So once the order […]",
-      "source": "Pinstripe Alley",
-      "author": "Andrew Mearns",
-      "link": "https://www.pinstripealley.com/yankees-mlb-draft/196800/yankees-mlb-draft-2026-paul-contreras-fourth-round-pick-pitcher-cal-fullerton-starter",
-      "published": "2026-07-12T00:27:17Z",
-      "image": null
     },
     {
       "title": "Schlittler grinds through 6 2/3, setting up more late-game Yankees magic",
@@ -451,6 +442,15 @@
       "link": "https://www.mlb.com/yankees/news/aaron-judge-injury-reimaging-brian-cashman-yankees",
       "published": "2026-07-09T17:17:00Z",
       "image": null
+    },
+    {
+      "title": "Aaron Judge set for next step in lengthy Yankees injury recovery",
+      "summary": "The Yankees do not expect the injury to be fully healed, but if there is enough improvement, the back-to-back AL MVP could start adding more activity to his workload.",
+      "source": "NY Post Yankees",
+      "author": "Greg Joyce",
+      "link": "https://nypost.com/2026/07/09/sports/aaron-judge-set-for-next-step-in-lengthy-yankees-injury-recovery/",
+      "published": "2026-07-09T16:24:43Z",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fnew-york-yankees-assistant-hitting-133813297.jpg?w%3D1024"
     },
     {
       "title": "Boone, Ausmus ejected after challenge on DP ruled too late by umps",
