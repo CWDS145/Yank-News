@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T10:43:43Z",
+  "updated": "2026-07-13T11:46:22Z",
   "season": 2026,
   "players": [
     {
@@ -65,7 +65,7 @@
       "statcast_batting": null,
       "sprint_speed": {
         "sprint_speed": 28.5,
-        "hp_to_1b": 4.34,
+        "hp_to_1b": 4.33,
         "bolts": null
       }
     },
@@ -73,13 +73,13 @@
       "id": 669224,
       "name": "Austin Wells",
       "expected_batting": {
-        "pa": 218,
-        "est_ba": 0.204,
-        "est_slg": 0.351,
-        "est_woba": 0.283,
-        "ba": 0.151,
-        "slg": 0.255,
-        "woba": 0.227,
+        "pa": 220,
+        "est_ba": 0.207,
+        "est_slg": 0.355,
+        "est_woba": 0.285,
+        "ba": 0.155,
+        "slg": 0.258,
+        "woba": 0.229,
         "est_woba_minus_woba": 0.056
       },
       "expected_pitching": null,
@@ -104,12 +104,12 @@
       "id": 700250,
       "name": "Ben Rice",
       "expected_batting": {
-        "pa": 386,
+        "pa": 390,
         "est_ba": 0.272,
-        "est_slg": 0.517,
+        "est_slg": 0.519,
         "est_woba": 0.381,
         "ba": 0.279,
-        "slg": 0.598,
+        "slg": 0.599,
         "woba": 0.408,
         "est_woba_minus_woba": -0.027
       },
@@ -126,7 +126,7 @@
         "hardhit_pct": null
       },
       "sprint_speed": {
-        "sprint_speed": 26.6,
+        "sprint_speed": 26.7,
         "hp_to_1b": 4.58,
         "bolts": null
       }
@@ -203,14 +203,14 @@
       "id": 641355,
       "name": "Cody Bellinger",
       "expected_batting": {
-        "pa": 399,
-        "est_ba": 0.275,
-        "est_slg": 0.421,
-        "est_woba": 0.349,
-        "ba": 0.25,
-        "slg": 0.416,
-        "woba": 0.333,
-        "est_woba_minus_woba": 0.016
+        "pa": 403,
+        "est_ba": 0.277,
+        "est_slg": 0.424,
+        "est_woba": 0.352,
+        "ba": 0.254,
+        "slg": 0.421,
+        "woba": 0.337,
+        "est_woba_minus_woba": 0.015
       },
       "expected_pitching": null,
       "statcast_batting": {
@@ -331,20 +331,20 @@
       "sprint_speed": {
         "sprint_speed": 28.4,
         "hp_to_1b": 4.26,
-        "bolts": 6
+        "bolts": 7
       }
     },
     {
       "id": 665862,
       "name": "Jazz Chisholm Jr.",
       "expected_batting": {
-        "pa": 356,
-        "est_ba": 0.206,
-        "est_slg": 0.36,
-        "est_woba": 0.289,
-        "ba": 0.219,
-        "slg": 0.39,
-        "woba": 0.303,
+        "pa": 360,
+        "est_ba": 0.211,
+        "est_slg": 0.364,
+        "est_woba": 0.292,
+        "ba": 0.223,
+        "slg": 0.395,
+        "woba": 0.306,
         "est_woba_minus_woba": -0.014
       },
       "expected_pitching": null,
@@ -369,14 +369,14 @@
       "id": 676609,
       "name": "José Caballero",
       "expected_batting": {
-        "pa": 294,
+        "pa": 298,
         "est_ba": 0.225,
-        "est_slg": 0.329,
-        "est_woba": 0.272,
-        "ba": 0.249,
-        "slg": 0.398,
-        "woba": 0.307,
-        "est_woba_minus_woba": -0.035
+        "est_slg": 0.328,
+        "est_woba": 0.27,
+        "ba": 0.25,
+        "slg": 0.397,
+        "woba": 0.306,
+        "est_woba_minus_woba": -0.036
       },
       "expected_pitching": null,
       "statcast_batting": {
@@ -407,8 +407,8 @@
         "est_woba": 0.253,
         "ba": 0.199,
         "slg": 0.255,
-        "woba": 0.24,
-        "est_woba_minus_woba": 0.013
+        "woba": 0.241,
+        "est_woba_minus_woba": 0.012
       },
       "statcast_batting": null,
       "sprint_speed": null
@@ -430,14 +430,14 @@
       "name": "Paul Blackburn",
       "expected_batting": null,
       "expected_pitching": {
-        "pa": 187,
-        "est_ba": 0.236,
-        "est_slg": 0.36,
-        "est_woba": 0.294,
-        "ba": 0.222,
-        "slg": 0.316,
-        "woba": 0.273,
-        "est_woba_minus_woba": 0.021
+        "pa": 193,
+        "est_ba": 0.233,
+        "est_slg": 0.362,
+        "est_woba": 0.291,
+        "ba": 0.215,
+        "slg": 0.305,
+        "woba": 0.265,
+        "est_woba_minus_woba": 0.026
       },
       "statcast_batting": null,
       "sprint_speed": null
@@ -446,14 +446,14 @@
       "id": 502671,
       "name": "Paul Goldschmidt",
       "expected_batting": {
-        "pa": 260,
+        "pa": 262,
         "est_ba": 0.234,
-        "est_slg": 0.428,
-        "est_woba": 0.313,
-        "ba": 0.259,
-        "slg": 0.494,
+        "est_slg": 0.432,
+        "est_woba": 0.316,
+        "ba": 0.258,
+        "slg": 0.492,
         "woba": 0.348,
-        "est_woba_minus_woba": -0.035
+        "est_woba_minus_woba": -0.032
       },
       "expected_pitching": null,
       "statcast_batting": {
@@ -469,7 +469,7 @@
       },
       "sprint_speed": {
         "sprint_speed": 25.5,
-        "hp_to_1b": 4.73,
+        "hp_to_1b": 4.72,
         "bolts": null
       }
     },
@@ -477,14 +477,14 @@
       "id": 641857,
       "name": "Ryan McMahon",
       "expected_batting": {
-        "pa": 223,
-        "est_ba": 0.24,
-        "est_slg": 0.415,
-        "est_woba": 0.313,
-        "ba": 0.216,
-        "slg": 0.382,
-        "woba": 0.291,
-        "est_woba_minus_woba": 0.022
+        "pa": 225,
+        "est_ba": 0.237,
+        "est_slg": 0.411,
+        "est_woba": 0.31,
+        "ba": 0.214,
+        "slg": 0.379,
+        "woba": 0.289,
+        "est_woba_minus_woba": 0.021
       },
       "expected_pitching": null,
       "statcast_batting": {
@@ -526,13 +526,13 @@
       "name": "Ryan Yarbrough",
       "expected_batting": null,
       "expected_pitching": {
-        "pa": 157,
-        "est_ba": 0.212,
-        "est_slg": 0.306,
-        "est_woba": 0.275,
-        "ba": 0.21,
-        "slg": 0.341,
-        "woba": 0.287,
+        "pa": 159,
+        "est_ba": 0.211,
+        "est_slg": 0.304,
+        "est_woba": 0.276,
+        "ba": 0.209,
+        "slg": 0.338,
+        "woba": 0.288,
         "est_woba_minus_woba": -0.012
       },
       "statcast_batting": null,
@@ -555,14 +555,14 @@
       "name": "Tim Hill",
       "expected_batting": null,
       "expected_pitching": {
-        "pa": 145,
-        "est_ba": 0.263,
-        "est_slg": 0.432,
-        "est_woba": 0.326,
-        "ba": 0.242,
-        "slg": 0.402,
-        "woba": 0.305,
-        "est_woba_minus_woba": 0.021
+        "pa": 148,
+        "est_ba": 0.264,
+        "est_slg": 0.447,
+        "est_woba": 0.331,
+        "ba": 0.244,
+        "slg": 0.422,
+        "woba": 0.313,
+        "est_woba_minus_woba": 0.018
       },
       "statcast_batting": null,
       "sprint_speed": null
@@ -571,14 +571,14 @@
       "id": 663757,
       "name": "Trent Grisham",
       "expected_batting": {
-        "pa": 299,
-        "est_ba": 0.26,
-        "est_slg": 0.458,
-        "est_woba": 0.357,
-        "ba": 0.238,
-        "slg": 0.426,
-        "woba": 0.336,
-        "est_woba_minus_woba": 0.021
+        "pa": 303,
+        "est_ba": 0.259,
+        "est_slg": 0.457,
+        "est_woba": 0.356,
+        "ba": 0.236,
+        "slg": 0.421,
+        "woba": 0.333,
+        "est_woba_minus_woba": 0.023
       },
       "expected_pitching": null,
       "statcast_batting": {
@@ -593,7 +593,7 @@
         "hardhit_pct": null
       },
       "sprint_speed": {
-        "sprint_speed": 26.7,
+        "sprint_speed": 26.6,
         "hp_to_1b": 4.51,
         "bolts": null
       }
@@ -603,14 +603,14 @@
       "name": "Will Warren",
       "expected_batting": null,
       "expected_pitching": {
-        "pa": 410,
-        "est_ba": 0.256,
-        "est_slg": 0.407,
-        "est_woba": 0.319,
-        "ba": 0.263,
-        "slg": 0.434,
-        "woba": 0.327,
-        "est_woba_minus_woba": -0.008
+        "pa": 429,
+        "est_ba": 0.26,
+        "est_slg": 0.415,
+        "est_woba": 0.325,
+        "ba": 0.262,
+        "slg": 0.439,
+        "woba": 0.331,
+        "est_woba_minus_woba": -0.006
       },
       "statcast_batting": null,
       "sprint_speed": null
