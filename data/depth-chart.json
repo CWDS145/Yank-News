@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T10:31:08Z",
+  "updated": "2026-07-13T11:02:33Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -14,8 +14,12 @@
     ],
     "1B": [
       {
-        "name": "Paul Goldschmidt",
+        "name": "Ben Rice",
         "rank": 1
+      },
+      {
+        "name": "Paul Goldschmidt",
+        "rank": 2
       }
     ],
     "2B": [
@@ -50,13 +54,13 @@
     ],
     "RF": [
       {
-        "name": "Jasson Dominguez",
+        "name": "Max Schuemann",
         "rank": 1
       }
     ],
     "DH": [
       {
-        "name": "Ben Rice",
+        "name": "Jasson Dominguez",
         "rank": 1
       },
       {
@@ -153,6 +157,7 @@
     "Jazz Chisholm",
     "Jose Caballero",
     "Max Fried",
+    "Max Schuemann",
     "Paul Blackburn",
     "Paul Goldschmidt",
     "Ryan McMahon",
