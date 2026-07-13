@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-13T18:09:48Z",
-  "count": 59,
+  "updated": "2026-07-13T18:59:54Z",
+  "count": 58,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-13T18:09:48Z",
+      "published": "2026-07-13T18:59:54Z",
+      "image": null
+    },
+    {
+      "title": "Home Run Derby FAQ: Format changes, history & more (8 p.m. ET on Netflix)",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "MLB.com",
+      "link": "https://www.mlb.com/yankees/news/when-is-mlb-home-run-derby-2026-bracket-channel-time-and-more",
+      "published": "2026-07-13T18:31:00Z",
       "image": null
     },
     {
@@ -144,15 +153,6 @@
       "author": "Bryan Hoch",
       "link": "https://www.mlb.com/yankees/news/yankees-2026-draft-picks",
       "published": "2026-07-13T04:14:00Z",
-      "image": null
-    },
-    {
-      "title": "Home Run Derby FAQ: Format changes, history & more (8 p.m. ET on Netflix)",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "MLB.com",
-      "link": "https://www.mlb.com/yankees/news/when-is-mlb-home-run-derby-2026-bracket-channel-time-and-more",
-      "published": "2026-07-13T04:09:00Z",
       "image": null
     },
     {
@@ -522,15 +522,6 @@
       "author": "Bryan Hoch",
       "link": "https://www.mlb.com/yankees/news/ben-rice-joins-2026-home-run-derby",
       "published": "2026-07-07T21:53:00Z",
-      "image": null
-    },
-    {
-      "title": "Al Holland Passes Away",
-      "summary": "The Phillies announced that former big league pitcher Al Holland has passed away. He was 73 years old. Holland was born in Roanoke, Virginia in 1952. After graduating high school, Holland attended North Carolina A&T State University, a historically black university in Greensboro, North Carolina. He played baseball and also football for the Aggies. His […]",
-      "source": "MLB Trade Rumors NYY",
-      "author": "Darragh McDonald",
-      "link": "https://www.mlbtraderumors.com/2026/07/al-holland-passes-away.html",
-      "published": "2026-07-06T18:43:32Z",
       "image": null
     }
   ]
