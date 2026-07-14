@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T23:36:19Z",
+  "updated": "2026-07-14T00:06:49Z",
   "items": [
     {
       "id": 925202,
@@ -403,32 +403,6 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees sent C Austin Wells on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 917897,
-      "date": "2026-06-13",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 691176,
-      "player": "Jasson Domínguez",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees activated LF Jasson Domínguez from the 10-day injured list."
-    },
-    {
-      "id": 917898,
-      "date": "2026-06-13",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 663757,
-      "player": "Trent Grisham",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees placed CF Trent Grisham on the 10-day injured list. Right hamstring strain."
     }
   ]
 }
