@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T11:12:44Z",
+  "updated": "2026-07-14T11:47:25Z",
   "season": 2026,
   "players": [
     {
@@ -96,7 +96,7 @@
       },
       "sprint_speed": {
         "sprint_speed": 25.7,
-        "hp_to_1b": 4.65,
+        "hp_to_1b": 4.66,
         "bolts": null
       }
     },
@@ -188,7 +188,7 @@
       "expected_batting": null,
       "expected_pitching": {
         "pa": 194,
-        "est_ba": 0.213,
+        "est_ba": 0.212,
         "est_slg": 0.324,
         "est_woba": 0.297,
         "ba": 0.195,
@@ -270,13 +270,13 @@
       "expected_batting": null,
       "expected_pitching": {
         "pa": 207,
-        "est_ba": 0.239,
-        "est_slg": 0.375,
-        "est_woba": 0.289,
+        "est_ba": 0.24,
+        "est_slg": 0.379,
+        "est_woba": 0.291,
         "ba": 0.249,
         "slg": 0.446,
         "woba": 0.319,
-        "est_woba_minus_woba": -0.03
+        "est_woba_minus_woba": -0.028
       },
       "statcast_batting": null,
       "sprint_speed": null
@@ -330,7 +330,7 @@
       "statcast_batting": null,
       "sprint_speed": {
         "sprint_speed": 28.4,
-        "hp_to_1b": 4.26,
+        "hp_to_1b": 4.25,
         "bolts": 7
       }
     },
@@ -370,13 +370,13 @@
       "name": "José Caballero",
       "expected_batting": {
         "pa": 298,
-        "est_ba": 0.225,
-        "est_slg": 0.328,
-        "est_woba": 0.27,
+        "est_ba": 0.226,
+        "est_slg": 0.329,
+        "est_woba": 0.271,
         "ba": 0.25,
         "slg": 0.397,
         "woba": 0.306,
-        "est_woba_minus_woba": -0.036
+        "est_woba_minus_woba": -0.035
       },
       "expected_pitching": null,
       "statcast_batting": {
