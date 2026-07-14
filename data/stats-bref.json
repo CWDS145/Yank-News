@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-13T15:02:34Z",
+  "updated": "2026-07-14T14:37:24Z",
   "source": "Baseball-Reference",
   "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
   "season": 2026,
   "scrape_attempt": {
     "status": "ok",
     "http_status": 200,
-    "duration_ms": 332,
+    "duration_ms": 206,
     "note": "tables: bat_id=players_standard_batting pit_id=players_standard_pitching batters=22 pitchers=22"
   },
   "team_record": {
@@ -57,7 +57,7 @@
     "ERA+": "125",
     "FIP": "3.77",
     "WHIP": "1.189",
-    "rWAR": "13.3"
+    "rWAR": "13.4"
   },
   "batters": [
     {
@@ -127,7 +127,7 @@
       "OPS": ".698",
       "OPS+": "94",
       "TB": "126",
-      "rWAR": "0.9"
+      "rWAR": "0.8"
     },
     {
       "name": "José Caballero",
@@ -173,7 +173,7 @@
       "OPS": ".655",
       "OPS+": "82",
       "TB": "78",
-      "rWAR": "0.2"
+      "rWAR": "0.3"
     },
     {
       "name": "Cody Bellinger",
@@ -196,7 +196,7 @@
       "OPS": ".766",
       "OPS+": "114",
       "TB": "146",
-      "rWAR": "3.7"
+      "rWAR": "3.6"
     },
     {
       "name": "Trent Grisham",
@@ -242,7 +242,7 @@
       "OPS": ".907",
       "OPS+": "151",
       "TB": "114",
-      "rWAR": "2.0"
+      "rWAR": "2.1"
     },
     {
       "name": "Ben Rice",
@@ -608,7 +608,7 @@
       "ERA+": "104",
       "FIP": "4.10",
       "WHIP": "1.363",
-      "rWAR": "0.3"
+      "rWAR": "0.4"
     },
     {
       "name": "Ryan Weathers",
@@ -881,7 +881,7 @@
       "ERA+": "70",
       "FIP": "8.38",
       "WHIP": "1.345",
-      "rWAR": "-0.2"
+      "rWAR": "-0.1"
     },
     {
       "name": "Elmer Rodríguez",
