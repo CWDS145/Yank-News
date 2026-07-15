@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T13:34:48Z",
+  "updated": "2026-07-15T14:37:41Z",
   "count": 59,
   "items": [
     {
@@ -22,18 +22,6 @@
     },
     {
       "date": "2026-07-03",
-      "type": "placed",
-      "player": "Carlos Rodon",
-      "description": "Placed on 15-Day IL (Left elbow inflammation)"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "",
-      "player": "Ryan McMahon",
-      "description": "Removed From 10-Day IL (Throat/ear infection)"
-    },
-    {
-      "date": "2026-07-03",
       "type": "sent",
       "player": "Oswaldo Cabrera",
       "description": "Sent to Minors"
@@ -43,6 +31,18 @@
       "type": "sent",
       "player": "Spencer Jones",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "",
+      "player": "Ryan McMahon",
+      "description": "Removed From 10-Day IL (Throat/ear infection)"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "placed",
+      "player": "Carlos Rodon",
+      "description": "Placed on 15-Day IL (Left elbow inflammation)"
     },
     {
       "date": "2026-07-03",
@@ -94,15 +94,15 @@
     },
     {
       "date": "2026-06-29",
-      "type": "called up",
-      "player": "Jacob Bird",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-29",
       "type": "sent",
       "player": "Yerry De Los Santos",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "called up",
+      "player": "Jacob Bird",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-26",
@@ -202,12 +202,6 @@
     },
     {
       "date": "2026-06-13",
-      "type": "recalled",
-      "player": "Jasson Dominguez",
-      "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-06-13",
       "type": "",
       "player": "Jasson Dominguez",
       "description": "Removed From 10-Day IL (Sprained left shoulder AC joint)"
@@ -219,16 +213,22 @@
       "description": "Placed on 10-Day IL (Strained right hamstring)"
     },
     {
-      "date": "2026-06-11",
-      "type": "sent",
-      "player": "Angel Chivilli",
-      "description": "Sent to Minors"
+      "date": "2026-06-13",
+      "type": "recalled",
+      "player": "Jasson Dominguez",
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-06-11",
       "type": "recalled",
       "player": "Angel Chivilli",
       "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-06-11",
+      "type": "sent",
+      "player": "Angel Chivilli",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-06-11",
@@ -262,9 +262,9 @@
     },
     {
       "date": "2026-06-05",
-      "type": "sent",
-      "player": "Jasson Dominguez",
-      "description": "Sent to Minors For Rehabilitation"
+      "type": "placed",
+      "player": "Aaron Judge",
+      "description": "Placed on 10-Day IL (Right rib stress fracture)"
     },
     {
       "date": "2026-06-05",
@@ -274,15 +274,15 @@
     },
     {
       "date": "2026-06-05",
-      "type": "placed",
-      "player": "Aaron Judge",
-      "description": "Placed on 10-Day IL (Right rib stress fracture)"
+      "type": "sent",
+      "player": "J.C. Escarra",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-06-05",
       "type": "sent",
-      "player": "J.C. Escarra",
-      "description": "Sent to Minors"
+      "player": "Jasson Dominguez",
+      "description": "Sent to Minors For Rehabilitation"
     },
     {
       "date": "2026-06-02",
@@ -334,15 +334,15 @@
     },
     {
       "date": "2026-05-18",
-      "type": "sent",
-      "player": "Elmer Rodriguez",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-05-18",
       "type": "purchased",
       "player": "Yovanny Cruz",
       "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-05-18",
+      "type": "sent",
+      "player": "Elmer Rodriguez",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-05-16",
