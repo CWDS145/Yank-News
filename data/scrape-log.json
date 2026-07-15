@@ -2,22 +2,6 @@
   "entries": [
     {
       "timestamp": "2026-07-15T05:37:50Z",
-      "source": "MLB MiLB: HV player stats",
-      "url": "<bulk: 30 players>",
-      "status": 200,
-      "items": 29,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-07-15T05:37:50Z",
-      "source": "MLB MiLB: TAM roster",
-      "url": "https://statsapi.mlb.com/api/v1/teams/587/roster?rosterType=active&season=2026",
-      "status": 200,
-      "items": 29,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-07-15T05:37:50Z",
       "source": "MLB MiLB: TAM team stats",
       "url": "https://statsapi.mlb.com/api/v1/teams/stats?season=2026&stats=season&group=hitting&teamId=587&sportId=14",
       "status": 200,
@@ -3999,6 +3983,22 @@
       "status": 200,
       "items": 76,
       "note": "pitchers needing prior_level fallback"
+    },
+    {
+      "timestamp": "2026-07-15T14:37:03Z",
+      "source": "FanGraphs Yankees",
+      "url": "https://www.fangraphs.com/teams/yankees",
+      "status": 200,
+      "items": 62,
+      "note": "ok | html_tables: batter_rows=42 pitcher_rows=24"
+    },
+    {
+      "timestamp": "2026-07-15T14:37:04Z",
+      "source": "Baseball-Reference Yankees",
+      "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
+      "status": 200,
+      "items": 44,
+      "note": "ok | tables: bat_id=players_standard_batting pit_id=players_standard_pitching batters=22 pitchers=22"
     }
   ]
 }
