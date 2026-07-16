@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-15T14:37:03Z",
+  "updated": "2026-07-16T14:43:08Z",
   "source": "FanGraphs",
   "url": "https://www.fangraphs.com/teams/yankees",
   "season": 2026,
   "scrape_attempt": {
     "status": "ok",
     "http_status": 200,
-    "duration_ms": 269,
+    "duration_ms": 1777,
     "note": "html_tables: batter_rows=42 pitcher_rows=24"
   },
   "team_batting": {
@@ -30,7 +30,7 @@
     "wRC+": "107",
     "BsR": "6.3",
     "Off": "36.3",
-    "Def": "-8.2",
+    "Def": "-7.7",
     "WAR": "15.9"
   },
   "team_pitching": {
@@ -73,8 +73,8 @@
       "wRC+": "166",
       "BsR": "-0.6",
       "Off": "29.5",
-      "Def": "-11.5",
-      "WAR": "3.2"
+      "Def": "-11.0",
+      "WAR": "3.3"
     },
     {
       "name": "Cody Bellinger",
@@ -411,30 +411,6 @@
       "Off": "-0.2",
       "Def": "-2.5",
       "WAR": "0.1"
-    },
-    {
-      "name": "Amed Rosario",
-      "G": "56",
-      "PA": "165",
-      "AB": null,
-      "H": null,
-      "HR": "9",
-      "R": null,
-      "RBI": null,
-      "SB": "1",
-      "BB%": "6.7%",
-      "K%": "24.2%",
-      "ISO": ".219",
-      "BABIP": ".257",
-      "AVG": ".238",
-      "OBP": ".285",
-      "SLG": ".457",
-      "wOBA": ".317",
-      "wRC+": "102",
-      "BsR": "-0.2",
-      "Off": "0.3",
-      "Def": "-6.2",
-      "WAR": "0.0"
     },
     {
       "name": "Fernando Cruz",
@@ -938,6 +914,30 @@
       "BsR": "0.0",
       "Off": "0.0",
       "Def": "0.0",
+      "WAR": "0.0"
+    },
+    {
+      "name": "Amed Rosario",
+      "G": "56",
+      "PA": "165",
+      "AB": null,
+      "H": null,
+      "HR": "9",
+      "R": null,
+      "RBI": null,
+      "SB": "1",
+      "BB%": "6.7%",
+      "K%": "24.2%",
+      "ISO": ".219",
+      "BABIP": ".257",
+      "AVG": ".238",
+      "OBP": ".285",
+      "SLG": ".457",
+      "wOBA": ".317",
+      "wRC+": "102",
+      "BsR": "-0.2",
+      "Off": "0.3",
+      "Def": "-6.2",
       "WAR": "0.0"
     },
     {
