@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T19:56:31Z",
+  "updated": "2026-07-16T20:23:39Z",
   "count": 57,
   "items": [
     {
@@ -10,27 +10,33 @@
     },
     {
       "date": "2026-07-04",
-      "type": "called up",
+      "type": "sent",
       "player": "Brendan Beck",
-      "description": "Called Up from Minors"
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-07-04",
-      "type": "sent",
+      "type": "called up",
       "player": "Brendan Beck",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "sent",
-      "player": "Spencer Jones",
-      "description": "Sent to Minors"
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-07-03",
       "type": "",
       "player": "Ryan McMahon",
       "description": "Removed From 10-Day IL (Throat/ear infection)"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "placed",
+      "player": "Carlos Rodon",
+      "description": "Placed on 15-Day IL (Left elbow inflammation)"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "sent",
+      "player": "Oswaldo Cabrera",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-07-03",
@@ -47,20 +53,8 @@
     {
       "date": "2026-07-03",
       "type": "sent",
-      "player": "Oswaldo Cabrera",
+      "player": "Spencer Jones",
       "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "placed",
-      "player": "Carlos Rodon",
-      "description": "Placed on 15-Day IL (Left elbow inflammation)"
-    },
-    {
-      "date": "2026-07-02",
-      "type": "released",
-      "player": "Payton Henry",
-      "description": "Released"
     },
     {
       "date": "2026-07-02",
@@ -69,16 +63,22 @@
       "description": "Reinstated from Paternity Leave List"
     },
     {
-      "date": "2026-07-01",
-      "type": "sent",
-      "player": "Trent Grisham",
-      "description": "Sent to Minors For Rehabilitation"
+      "date": "2026-07-02",
+      "type": "released",
+      "player": "Payton Henry",
+      "description": "Released"
     },
     {
       "date": "2026-07-01",
       "type": "sent",
       "player": "Yovanny Cruz",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-01",
+      "type": "sent",
+      "player": "Trent Grisham",
+      "description": "Sent to Minors For Rehabilitation"
     },
     {
       "date": "2026-06-30",
@@ -118,15 +118,15 @@
     },
     {
       "date": "2026-06-24",
-      "type": "called up",
-      "player": "Oswaldo Cabrera",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-24",
       "type": "placed",
       "player": "Ryan McMahon",
       "description": "Placed on 10-Day IL (Throat/ear infection)"
+    },
+    {
+      "date": "2026-06-24",
+      "type": "called up",
+      "player": "Oswaldo Cabrera",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-23",
@@ -202,6 +202,12 @@
     },
     {
       "date": "2026-06-13",
+      "type": "",
+      "player": "Jasson Dominguez",
+      "description": "Removed From 10-Day IL (Sprained left shoulder AC joint)"
+    },
+    {
+      "date": "2026-06-13",
       "type": "placed",
       "player": "Trent Grisham",
       "description": "Placed on 10-Day IL (Strained right hamstring)"
@@ -211,12 +217,6 @@
       "type": "recalled",
       "player": "Jasson Dominguez",
       "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-06-13",
-      "type": "",
-      "player": "Jasson Dominguez",
-      "description": "Removed From 10-Day IL (Sprained left shoulder AC joint)"
     },
     {
       "date": "2026-06-11",
@@ -250,27 +250,21 @@
     },
     {
       "date": "2026-06-06",
-      "type": "placed",
-      "player": "Austin Wells",
-      "description": "Placed on 10-Day IL (Cervical headaches)"
-    },
-    {
-      "date": "2026-06-06",
       "type": "purchased",
       "player": "Ali Sanchez",
       "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-06-06",
+      "type": "placed",
+      "player": "Austin Wells",
+      "description": "Placed on 10-Day IL (Cervical headaches)"
     },
     {
       "date": "2026-06-05",
       "type": "called up",
       "player": "Spencer Jones",
       "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-05",
-      "type": "sent",
-      "player": "Jasson Dominguez",
-      "description": "Sent to Minors For Rehabilitation"
     },
     {
       "date": "2026-06-05",
@@ -283,6 +277,12 @@
       "type": "sent",
       "player": "J.C. Escarra",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-06-05",
+      "type": "sent",
+      "player": "Jasson Dominguez",
+      "description": "Sent to Minors For Rehabilitation"
     },
     {
       "date": "2026-06-02",
@@ -323,13 +323,13 @@
     {
       "date": "2026-05-21",
       "type": "sent",
-      "player": "Spencer Jones",
+      "player": "Yovanny Cruz",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-05-21",
       "type": "sent",
-      "player": "Yovanny Cruz",
+      "player": "Spencer Jones",
       "description": "Sent to Minors"
     },
     {
