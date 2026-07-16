@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T12:18:50Z",
+  "updated": "2026-07-16T12:57:24Z",
   "season": 2026,
   "pitchers": [
     {
@@ -2825,7 +2825,7 @@
       "name": "Wyatt Parliament",
       "position": "P",
       "level": "Low-A",
-      "level_since": null,
+      "level_since": "2026-04-03",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
