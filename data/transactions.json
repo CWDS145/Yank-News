@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T15:34:48Z",
+  "updated": "2026-07-16T16:32:46Z",
   "count": 57,
   "items": [
     {
@@ -10,14 +10,20 @@
     },
     {
       "date": "2026-07-04",
+      "type": "sent",
+      "player": "Brendan Beck",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-04",
       "type": "called up",
       "player": "Brendan Beck",
       "description": "Called Up from Minors"
     },
     {
-      "date": "2026-07-04",
+      "date": "2026-07-03",
       "type": "sent",
-      "player": "Brendan Beck",
+      "player": "Spencer Jones",
       "description": "Sent to Minors"
     },
     {
@@ -34,18 +40,6 @@
     },
     {
       "date": "2026-07-03",
-      "type": "sent",
-      "player": "Oswaldo Cabrera",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "sent",
-      "player": "Spencer Jones",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-03",
       "type": "placed",
       "player": "Carlos Rodon",
       "description": "Placed on 15-Day IL (Left elbow inflammation)"
@@ -55,6 +49,12 @@
       "type": "",
       "player": "Trent Grisham",
       "description": "Removed From 10-Day IL (Strained right hamstring)"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "sent",
+      "player": "Oswaldo Cabrera",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-07-02",
@@ -94,15 +94,15 @@
     },
     {
       "date": "2026-06-29",
-      "type": "called up",
-      "player": "Jacob Bird",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-29",
       "type": "sent",
       "player": "Yerry De Los Santos",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "called up",
+      "player": "Jacob Bird",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-26",
@@ -202,12 +202,6 @@
     },
     {
       "date": "2026-06-13",
-      "type": "placed",
-      "player": "Trent Grisham",
-      "description": "Placed on 10-Day IL (Strained right hamstring)"
-    },
-    {
-      "date": "2026-06-13",
       "type": "recalled",
       "player": "Jasson Dominguez",
       "description": "Recalled From Minors Rehab Assignment"
@@ -219,16 +213,22 @@
       "description": "Removed From 10-Day IL (Sprained left shoulder AC joint)"
     },
     {
-      "date": "2026-06-11",
-      "type": "",
-      "player": "Angel Chivilli",
-      "description": "Removed From 15-Day IL (Right shoulder discomfort)"
+      "date": "2026-06-13",
+      "type": "placed",
+      "player": "Trent Grisham",
+      "description": "Placed on 10-Day IL (Strained right hamstring)"
     },
     {
       "date": "2026-06-11",
       "type": "recalled",
       "player": "Angel Chivilli",
       "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-06-11",
+      "type": "",
+      "player": "Angel Chivilli",
+      "description": "Removed From 15-Day IL (Right shoulder discomfort)"
     },
     {
       "date": "2026-06-11",
@@ -262,15 +262,15 @@
     },
     {
       "date": "2026-06-05",
-      "type": "called up",
-      "player": "Spencer Jones",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-05",
       "type": "sent",
       "player": "Jasson Dominguez",
       "description": "Sent to Minors For Rehabilitation"
+    },
+    {
+      "date": "2026-06-05",
+      "type": "called up",
+      "player": "Spencer Jones",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-05",
@@ -334,15 +334,15 @@
     },
     {
       "date": "2026-05-18",
-      "type": "purchased",
-      "player": "Yovanny Cruz",
-      "description": "Purchased From Minors"
-    },
-    {
-      "date": "2026-05-18",
       "type": "sent",
       "player": "Elmer Rodriguez",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-05-18",
+      "type": "purchased",
+      "player": "Yovanny Cruz",
+      "description": "Purchased From Minors"
     }
   ]
 }
