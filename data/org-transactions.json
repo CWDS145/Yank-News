@@ -1,18 +1,18 @@
 {
-  "updated": "2026-07-16T13:56:39Z",
+  "updated": "2026-07-16T14:58:38Z",
   "items": [
     {
-      "id": 925202,
-      "date": "2026-07-05",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 683409,
-      "player": "Angel Chivilli",
-      "from_team_id": 531,
+      "id": 927771,
+      "date": "2026-07-13",
+      "type_code": "SGN",
+      "type_desc": "Signed",
+      "player_id": 833409,
+      "player": "David Leslie",
+      "from_team_id": null,
       "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
+      "from": null,
       "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Angel Chivilli from Scranton/Wilkes-Barre RailRiders."
+      "description": "New York Yankees signed RHP David Leslie."
     },
     {
       "id": 925062,
@@ -26,6 +26,19 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees optioned RHP Brendan Beck to Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 925202,
+      "date": "2026-07-05",
+      "type_code": "CU",
+      "type_desc": "Recalled",
+      "player_id": 683409,
+      "player": "Angel Chivilli",
+      "from_team_id": 531,
+      "to_team_id": 147,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
+      "to": "New York Yankees",
+      "description": "New York Yankees recalled RHP Angel Chivilli from Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 924932,
@@ -54,6 +67,19 @@
       "description": "New York Yankees recalled RHP Brendan Beck from Scranton/Wilkes-Barre RailRiders."
     },
     {
+      "id": 924748,
+      "date": "2026-07-03",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 663757,
+      "player": "Trent Grisham",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated CF Trent Grisham from the 10-day injured list."
+    },
+    {
       "id": 924747,
       "date": "2026-07-03",
       "type_code": "SC",
@@ -78,19 +104,6 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees placed LHP Carlos Rodón on the 15-day injured list retroactive to June 30, 2026. Left elbow inflammation."
-    },
-    {
-      "id": 924748,
-      "date": "2026-07-03",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 663757,
-      "player": "Trent Grisham",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees activated CF Trent Grisham from the 10-day injured list."
     },
     {
       "id": 924749,
@@ -301,19 +314,6 @@
       "description": "New York Yankees recalled C J.C. Escarra from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 921050,
-      "date": "2026-06-22",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 660787,
-      "player": "Yerry De los Santos",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Yerry De los Santos from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 920909,
       "date": "2026-06-22",
       "type_code": "OPT",
@@ -325,6 +325,19 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees optioned RHP Elmer Rodríguez to Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 921050,
+      "date": "2026-06-22",
+      "type_code": "CU",
+      "type_desc": "Recalled",
+      "player_id": 660787,
+      "player": "Yerry De los Santos",
+      "from_team_id": 531,
+      "to_team_id": 147,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
+      "to": "New York Yankees",
+      "description": "New York Yankees recalled RHP Yerry De los Santos from Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 920763,
