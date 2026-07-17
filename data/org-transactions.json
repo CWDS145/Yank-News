@@ -1,18 +1,57 @@
 {
-  "updated": "2026-07-17T13:16:37Z",
+  "updated": "2026-07-17T13:59:53Z",
   "items": [
     {
-      "id": 927784,
-      "date": "2026-07-13",
+      "id": 928044,
+      "date": "2026-07-14",
       "type_code": "SGN",
       "type_desc": "Signed",
-      "player_id": 806059,
-      "player": "Hunter Dietz",
+      "player_id": 831025,
+      "player": "Dean Toigo",
       "from_team_id": null,
       "to_team_id": 147,
       "from": null,
       "to": "New York Yankees",
-      "description": "New York Yankees signed LHP Hunter Dietz."
+      "description": "New York Yankees signed OF Dean Toigo."
+    },
+    {
+      "id": 928040,
+      "date": "2026-07-14",
+      "type_code": "SGN",
+      "type_desc": "Signed",
+      "player_id": 842070,
+      "player": "Jason Krieger",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees signed RHP Jason Krieger."
+    },
+    {
+      "id": 928042,
+      "date": "2026-07-14",
+      "type_code": "SFA",
+      "type_desc": "Signed as Free Agent",
+      "player_id": 809569,
+      "player": "Maika Niu",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees signed free agent OF Maika Niu to a minor league contract."
+    },
+    {
+      "id": 928046,
+      "date": "2026-07-14",
+      "type_code": "SFA",
+      "type_desc": "Signed as Free Agent",
+      "player_id": 844122,
+      "player": "Jorsixt Jimenez",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees signed free agent OF Jorsixt Jimenez to a minor league contract."
     },
     {
       "id": 927771,
@@ -26,6 +65,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees signed RHP David Leslie."
+    },
+    {
+      "id": 927784,
+      "date": "2026-07-13",
+      "type_code": "SGN",
+      "type_desc": "Signed",
+      "player_id": 806059,
+      "player": "Hunter Dietz",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees signed LHP Hunter Dietz."
     },
     {
       "id": 925202,
@@ -171,19 +223,6 @@
       "description": "New York Yankees sent CF Trent Grisham on a rehab assignment to Somerset Patriots."
     },
     {
-      "id": 923510,
-      "date": "2026-06-30",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 660787,
-      "player": "Yerry De los Santos",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees optioned RHP Yerry De los Santos to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 923522,
       "date": "2026-06-30",
       "type_code": "CU",
@@ -195,6 +234,19 @@
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
       "description": "New York Yankees recalled RHP Yovanny Cruz from Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 923510,
+      "date": "2026-06-30",
+      "type_code": "OPT",
+      "type_desc": "Optioned",
+      "player_id": 660787,
+      "player": "Yerry De los Santos",
+      "from_team_id": 147,
+      "to_team_id": 531,
+      "from": "New York Yankees",
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees optioned RHP Yerry De los Santos to Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 923411,
@@ -288,19 +340,6 @@
       "description": "New York Yankees recalled 3B Oswaldo Cabrera from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 921531,
-      "date": "2026-06-23",
-      "type_code": "SFA",
-      "type_desc": "Signed as Free Agent",
-      "player_id": 843397,
-      "player": "Chien-Fan Lai",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees signed free agent Chien-Fan Lai to a minor league contract."
-    },
-    {
       "id": 921332,
       "date": "2026-06-23",
       "type_code": "SC",
@@ -312,6 +351,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees placed C Ali Sánchez on the paternity list."
+    },
+    {
+      "id": 921531,
+      "date": "2026-06-23",
+      "type_code": "SFA",
+      "type_desc": "Signed as Free Agent",
+      "player_id": 843397,
+      "player": "Chien-Fan Lai",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees signed free agent Chien-Fan Lai to a minor league contract."
     },
     {
       "id": 921331,
@@ -366,19 +418,6 @@
       "description": "New York Yankees activated C Austin Wells from the 10-day injured list."
     },
     {
-      "id": 920762,
-      "date": "2026-06-21",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 695684,
-      "player": "Elmer Rodríguez",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Elmer Rodríguez from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 920720,
       "date": "2026-06-21",
       "type_code": "OPT",
@@ -390,6 +429,19 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees optioned C J.C. Escarra to Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 920762,
+      "date": "2026-06-21",
+      "type_code": "CU",
+      "type_desc": "Recalled",
+      "player_id": 695684,
+      "player": "Elmer Rodríguez",
+      "from_team_id": 531,
+      "to_team_id": 147,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
+      "to": "New York Yankees",
+      "description": "New York Yankees recalled RHP Elmer Rodríguez from Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 920719,
