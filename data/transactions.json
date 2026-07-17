@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T12:31:53Z",
+  "updated": "2026-07-17T13:34:56Z",
   "count": 57,
   "items": [
     {
@@ -46,15 +46,15 @@
     },
     {
       "date": "2026-07-03",
-      "type": "placed",
-      "player": "Carlos Rodon",
-      "description": "Placed on 15-Day IL (Left elbow inflammation)"
-    },
-    {
-      "date": "2026-07-03",
       "type": "sent",
       "player": "Oswaldo Cabrera",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "placed",
+      "player": "Carlos Rodon",
+      "description": "Placed on 15-Day IL (Left elbow inflammation)"
     },
     {
       "date": "2026-07-02",
