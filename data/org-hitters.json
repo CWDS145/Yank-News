@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T19:11:55Z",
+  "updated": "2026-07-17T19:42:59Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-07-07",
@@ -794,6 +794,29 @@
       ]
     },
     {
+      "id": 806146,
+      "name": "George Lombard Jr.",
+      "position": "SS",
+      "level": "AAA",
+      "level_since": "2026-04-29",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 233,
+        "k": 61,
+        "avg": ".258",
+        "ops": ".833",
+        "avg_num": 0.2575107296137339,
+        "ops_num": 0.8331115132120053
+      },
+      "last_10": null,
+      "season_levels": [
+        "AAA",
+        "AA"
+      ],
+      "last_10_levels": []
+    },
+    {
       "id": 519317,
       "name": "Giancarlo Stanton",
       "position": "DH",
@@ -1109,37 +1132,6 @@
         "Low-A"
       ],
       "last_10_levels": []
-    },
-    {
-      "id": 680716,
-      "name": "Jonathan Ornelas",
-      "position": "SS",
-      "level": "AAA",
-      "level_since": null,
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 254,
-        "k": 63,
-        "avg": ".299",
-        "ops": ".842",
-        "avg_num": 0.2992125984251969,
-        "ops_num": 0.8423221290887026
-      },
-      "last_10": {
-        "ab": 21,
-        "k": 9,
-        "avg": ".238",
-        "ops": ".762",
-        "avg_num": 0.23809523809523808,
-        "ops_num": 0.7619047619047619
-      },
-      "season_levels": [
-        "AAA"
-      ],
-      "last_10_levels": [
-        "AAA"
-      ]
     },
     {
       "id": 694742,
