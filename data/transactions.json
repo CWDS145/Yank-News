@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T22:48:03Z",
+  "updated": "2026-07-17T23:19:36Z",
   "count": 57,
   "items": [
     {
@@ -28,18 +28,6 @@
     },
     {
       "date": "2026-07-03",
-      "type": "placed",
-      "player": "Carlos Rodon",
-      "description": "Placed on 15-Day IL (Left elbow inflammation)"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "sent",
-      "player": "Spencer Jones",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-03",
       "type": "",
       "player": "Trent Grisham",
       "description": "Removed From 10-Day IL (Strained right hamstring)"
@@ -55,6 +43,18 @@
       "type": "sent",
       "player": "Oswaldo Cabrera",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "sent",
+      "player": "Spencer Jones",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "placed",
+      "player": "Carlos Rodon",
+      "description": "Placed on 15-Day IL (Left elbow inflammation)"
     },
     {
       "date": "2026-07-02",
@@ -173,13 +173,13 @@
     {
       "date": "2026-06-20",
       "type": "sent",
-      "player": "Jacob Bird",
+      "player": "J.C. Escarra",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-06-20",
       "type": "sent",
-      "player": "J.C. Escarra",
+      "player": "Jacob Bird",
       "description": "Sent to Minors"
     },
     {
@@ -220,9 +220,9 @@
     },
     {
       "date": "2026-06-11",
-      "type": "recalled",
+      "type": "sent",
       "player": "Angel Chivilli",
-      "description": "Recalled From Minors Rehab Assignment"
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-06-11",
@@ -232,9 +232,9 @@
     },
     {
       "date": "2026-06-11",
-      "type": "sent",
+      "type": "recalled",
       "player": "Angel Chivilli",
-      "description": "Sent to Minors"
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-06-10",
@@ -268,15 +268,15 @@
     },
     {
       "date": "2026-06-05",
-      "type": "called up",
-      "player": "Spencer Jones",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-05",
       "type": "sent",
       "player": "J.C. Escarra",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-06-05",
+      "type": "called up",
+      "player": "Spencer Jones",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-05",
