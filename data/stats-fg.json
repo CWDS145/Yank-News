@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-16T14:43:08Z",
+  "updated": "2026-07-17T14:35:30Z",
   "source": "FanGraphs",
   "url": "https://www.fangraphs.com/teams/yankees",
   "season": 2026,
   "scrape_attempt": {
     "status": "ok",
     "http_status": 200,
-    "duration_ms": 1777,
+    "duration_ms": 420,
     "note": "html_tables: batter_rows=42 pitcher_rows=24"
   },
   "team_batting": {
@@ -41,12 +41,12 @@
     "K_per_9": null,
     "BB_per_9": null,
     "HR_per_9": "1.03",
-    "BABIP": ".273",
+    "BABIP": ".274",
     "LOB%": "74.3%",
     "GB%": "44.8%",
     "HR_FB": "10.9%",
     "vFA": null,
-    "ERA": "3.37",
+    "ERA": "3.39",
     "FIP": "3.77",
     "xFIP": "3.89",
     "WAR": "12.5"
@@ -1119,7 +1119,7 @@
       "vFA": null,
       "ERA": "2.70",
       "FIP": "2.55",
-      "xFIP": "2.94",
+      "xFIP": "2.93",
       "WAR": "1.0"
     },
     {
@@ -1136,7 +1136,7 @@
       "HR_FB": "6.8%",
       "vFA": null,
       "ERA": "3.30",
-      "FIP": "3.45",
+      "FIP": "3.44",
       "xFIP": "4.06",
       "WAR": "1.0"
     },
@@ -1173,7 +1173,7 @@
       "vFA": null,
       "ERA": "4.04",
       "FIP": "4.04",
-      "xFIP": "4.08",
+      "xFIP": "4.07",
       "WAR": "0.7"
     },
     {
@@ -1190,7 +1190,7 @@
       "HR_FB": "9.5%",
       "vFA": null,
       "ERA": "2.22",
-      "FIP": "3.64",
+      "FIP": "3.63",
       "xFIP": "3.89",
       "WAR": "0.4"
     },
@@ -1244,7 +1244,7 @@
       "HR_FB": "6.0%",
       "vFA": null,
       "ERA": "4.14",
-      "FIP": "4.24",
+      "FIP": "4.23",
       "xFIP": "5.25",
       "WAR": "0.1"
     },
@@ -1328,12 +1328,12 @@
       "K_per_9": null,
       "BB_per_9": null,
       "HR_per_9": "1.53",
-      "BABIP": ".291",
-      "LOB%": "54.2%",
+      "BABIP": ".301",
+      "LOB%": "55.3%",
       "GB%": "57.0%",
       "HR_FB": "20.7%",
       "vFA": null,
-      "ERA": "4.58",
+      "ERA": "5.09",
       "FIP": "4.43",
       "xFIP": "3.48",
       "WAR": "0.0"
