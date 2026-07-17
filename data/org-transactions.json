@@ -1,19 +1,6 @@
 {
-  "updated": "2026-07-17T09:03:26Z",
+  "updated": "2026-07-17T09:57:30Z",
   "items": [
-    {
-      "id": 927784,
-      "date": "2026-07-13",
-      "type_code": "SGN",
-      "type_desc": "Signed",
-      "player_id": 806059,
-      "player": "Hunter Dietz",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees signed LHP Hunter Dietz."
-    },
     {
       "id": 927771,
       "date": "2026-07-13",
@@ -28,17 +15,17 @@
       "description": "New York Yankees signed RHP David Leslie."
     },
     {
-      "id": 925202,
-      "date": "2026-07-05",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 683409,
-      "player": "Angel Chivilli",
-      "from_team_id": 531,
+      "id": 927784,
+      "date": "2026-07-13",
+      "type_code": "SGN",
+      "type_desc": "Signed",
+      "player_id": 806059,
+      "player": "Hunter Dietz",
+      "from_team_id": null,
       "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
+      "from": null,
       "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Angel Chivilli from Scranton/Wilkes-Barre RailRiders."
+      "description": "New York Yankees signed LHP Hunter Dietz."
     },
     {
       "id": 925062,
@@ -54,17 +41,17 @@
       "description": "New York Yankees optioned RHP Brendan Beck to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 924936,
-      "date": "2026-07-04",
+      "id": 925202,
+      "date": "2026-07-05",
       "type_code": "CU",
       "type_desc": "Recalled",
-      "player_id": 694341,
-      "player": "Brendan Beck",
+      "player_id": 683409,
+      "player": "Angel Chivilli",
       "from_team_id": 531,
       "to_team_id": 147,
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Brendan Beck from Scranton/Wilkes-Barre RailRiders."
+      "description": "New York Yankees recalled RHP Angel Chivilli from Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 924932,
@@ -78,6 +65,32 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees optioned CF Spencer Jones to Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 924936,
+      "date": "2026-07-04",
+      "type_code": "CU",
+      "type_desc": "Recalled",
+      "player_id": 694341,
+      "player": "Brendan Beck",
+      "from_team_id": 531,
+      "to_team_id": 147,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
+      "to": "New York Yankees",
+      "description": "New York Yankees recalled RHP Brendan Beck from Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 924747,
+      "date": "2026-07-03",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 641857,
+      "player": "Ryan McMahon",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated 3B Ryan McMahon from the 10-day injured list."
     },
     {
       "id": 924746,
@@ -104,19 +117,6 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees activated CF Trent Grisham from the 10-day injured list."
-    },
-    {
-      "id": 924747,
-      "date": "2026-07-03",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 641857,
-      "player": "Ryan McMahon",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees activated 3B Ryan McMahon from the 10-day injured list."
     },
     {
       "id": 924749,
@@ -327,19 +327,6 @@
       "description": "New York Yankees recalled C J.C. Escarra from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 921050,
-      "date": "2026-06-22",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 660787,
-      "player": "Yerry De los Santos",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Yerry De los Santos from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 920909,
       "date": "2026-06-22",
       "type_code": "OPT",
@@ -353,6 +340,19 @@
       "description": "New York Yankees optioned RHP Elmer Rodríguez to Scranton/Wilkes-Barre RailRiders."
     },
     {
+      "id": 921050,
+      "date": "2026-06-22",
+      "type_code": "CU",
+      "type_desc": "Recalled",
+      "player_id": 660787,
+      "player": "Yerry De los Santos",
+      "from_team_id": 531,
+      "to_team_id": 147,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
+      "to": "New York Yankees",
+      "description": "New York Yankees recalled RHP Yerry De los Santos from Scranton/Wilkes-Barre RailRiders."
+    },
+    {
       "id": 920763,
       "date": "2026-06-21",
       "type_code": "SC",
@@ -364,6 +364,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees activated C Austin Wells from the 10-day injured list."
+    },
+    {
+      "id": 920719,
+      "date": "2026-06-21",
+      "type_code": "OPT",
+      "type_desc": "Optioned",
+      "player_id": 656234,
+      "player": "Jake Bird",
+      "from_team_id": 147,
+      "to_team_id": 531,
+      "from": "New York Yankees",
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees optioned RHP Jake Bird to Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 920762,
@@ -390,19 +403,6 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees optioned C J.C. Escarra to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 920719,
-      "date": "2026-06-21",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 656234,
-      "player": "Jake Bird",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees optioned RHP Jake Bird to Scranton/Wilkes-Barre RailRiders."
     }
   ]
 }
