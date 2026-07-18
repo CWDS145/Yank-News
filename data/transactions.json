@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T20:47:44Z",
+  "updated": "2026-07-18T21:19:37Z",
   "count": 59,
   "items": [
     {
@@ -52,15 +52,9 @@
     },
     {
       "date": "2026-07-03",
-      "type": "placed",
-      "player": "Carlos Rodon",
-      "description": "Placed on 15-Day IL (Left elbow inflammation)"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "",
+      "type": "recalled",
       "player": "Trent Grisham",
-      "description": "Removed From 10-Day IL (Strained right hamstring)"
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-07-03",
@@ -70,15 +64,21 @@
     },
     {
       "date": "2026-07-03",
-      "type": "recalled",
+      "type": "",
       "player": "Trent Grisham",
-      "description": "Recalled From Minors Rehab Assignment"
+      "description": "Removed From 10-Day IL (Strained right hamstring)"
     },
     {
       "date": "2026-07-03",
       "type": "sent",
       "player": "Oswaldo Cabrera",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "placed",
+      "player": "Carlos Rodon",
+      "description": "Placed on 15-Day IL (Left elbow inflammation)"
     },
     {
       "date": "2026-07-02",
@@ -95,14 +95,14 @@
     {
       "date": "2026-07-01",
       "type": "sent",
-      "player": "Trent Grisham",
-      "description": "Sent to Minors For Rehabilitation"
+      "player": "Yovanny Cruz",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-07-01",
       "type": "sent",
-      "player": "Yovanny Cruz",
-      "description": "Sent to Minors"
+      "player": "Trent Grisham",
+      "description": "Sent to Minors For Rehabilitation"
     },
     {
       "date": "2026-06-30",
