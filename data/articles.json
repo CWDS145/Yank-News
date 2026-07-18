@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T00:38:43Z",
+  "updated": "2026-07-18T01:36:49Z",
   "count": 61,
   "items": [
     {
@@ -8,7 +8,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-18T00:38:43Z",
+      "published": "2026-07-18T01:36:49Z",
+      "image": null
+    },
+    {
+      "title": "Cole talks way into staying in -- then yields HR to end otherwise strong start",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Bryan Hoch",
+      "link": "https://www.mlb.com/yankees/news/gerrit-cole-allows-2-runs-in-6-plus-innings-for-yankees-against-dodgers",
+      "published": "2026-07-18T01:30:00Z",
       "image": null
     },
     {
@@ -540,15 +549,6 @@
       "author": "Bryan Hoch",
       "link": "https://www.mlb.com/yankees/news/ben-rice-out-after-first-round-of-2026-home-run-derby",
       "published": "2026-07-14T04:37:00Z",
-      "image": null
-    },
-    {
-      "title": "How 2 Boston-area stars became first-time All-Stars for Yankees",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch",
-      "link": "https://www.mlb.com/yankees/news/ben-rice-cam-schlittler-speak-on-being-first-time-all-stars",
-      "published": "2026-07-14T00:05:17Z",
       "image": null
     }
   ]
