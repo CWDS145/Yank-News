@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T16:12:20Z",
+  "updated": "2026-07-18T16:41:14Z",
   "season": 2026,
   "pitchers": [
     {
@@ -270,7 +270,7 @@
       "name": "Bradley Hanner",
       "position": "P",
       "level": "AAA",
-      "level_since": null,
+      "level_since": "2026-07-18",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
