@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T18:49:26Z",
+  "updated": "2026-07-18T19:26:59Z",
   "count": 59,
   "items": [
     {
@@ -64,9 +64,9 @@
     },
     {
       "date": "2026-07-03",
-      "type": "sent",
-      "player": "Spencer Jones",
-      "description": "Sent to Minors"
+      "type": "",
+      "player": "Ryan McMahon",
+      "description": "Removed From 10-Day IL (Throat/ear infection)"
     },
     {
       "date": "2026-07-03",
@@ -76,9 +76,9 @@
     },
     {
       "date": "2026-07-03",
-      "type": "",
-      "player": "Ryan McMahon",
-      "description": "Removed From 10-Day IL (Throat/ear infection)"
+      "type": "sent",
+      "player": "Spencer Jones",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-07-02",
@@ -154,15 +154,15 @@
     },
     {
       "date": "2026-06-23",
-      "type": "placed",
-      "player": "Ali Sanchez",
-      "description": "Placed on Paternity Leave List"
-    },
-    {
-      "date": "2026-06-23",
       "type": "called up",
       "player": "J.C. Escarra",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-06-23",
+      "type": "placed",
+      "player": "Ali Sanchez",
+      "description": "Placed on Paternity Leave List"
     },
     {
       "date": "2026-06-22",
