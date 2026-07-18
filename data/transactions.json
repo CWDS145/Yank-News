@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T19:26:59Z",
+  "updated": "2026-07-18T19:54:45Z",
   "count": 59,
   "items": [
     {
@@ -47,7 +47,7 @@
     {
       "date": "2026-07-03",
       "type": "sent",
-      "player": "Oswaldo Cabrera",
+      "player": "Spencer Jones",
       "description": "Sent to Minors"
     },
     {
@@ -77,20 +77,20 @@
     {
       "date": "2026-07-03",
       "type": "sent",
-      "player": "Spencer Jones",
+      "player": "Oswaldo Cabrera",
       "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-02",
-      "type": "released",
-      "player": "Payton Henry",
-      "description": "Released"
     },
     {
       "date": "2026-07-02",
       "type": "reinstated",
       "player": "David Bednar",
       "description": "Reinstated from Paternity Leave List"
+    },
+    {
+      "date": "2026-07-02",
+      "type": "released",
+      "player": "Payton Henry",
+      "description": "Released"
     },
     {
       "date": "2026-07-01",
