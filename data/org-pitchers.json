@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T18:41:06Z",
+  "updated": "2026-07-18T19:15:45Z",
   "season": 2026,
   "pitchers": [
     {
@@ -37,6 +37,45 @@
       },
       "season_levels": [
         "High-A"
+      ]
+    },
+    {
+      "id": 529017,
+      "name": "Alexander Cornielle",
+      "position": "P",
+      "level": "AAA",
+      "level_since": "2026-06-14",
+      "prior_level": "AA",
+      "prior_level_since": "2026-06-11",
+      "season": {
+        "w": 1,
+        "l": 2,
+        "g": 7,
+        "gs": 7,
+        "cg": 0,
+        "sho": 0,
+        "sv": 0,
+        "svo": 0,
+        "ip": "27.1",
+        "ip_outs": 82,
+        "h": 20,
+        "r": 9,
+        "er": 9,
+        "hr": 3,
+        "hb": 0,
+        "bb": 15,
+        "so": 29,
+        "era": "2.96",
+        "era_num": 2.9634146341463414,
+        "whip": "1.28",
+        "whip_num": 1.2804878048780488,
+        "avg": ".206",
+        "avg_num": 0.20618556701030927
+      },
+      "season_levels": [
+        "AAA",
+        "AA",
+        "Low-A"
       ]
     },
     {
