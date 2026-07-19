@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T21:48:27Z",
+  "updated": "2026-07-19T22:20:44Z",
   "count": 64,
   "items": [
     {
@@ -8,7 +8,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-19T21:48:27Z",
+      "published": "2026-07-19T22:20:44Z",
+      "image": null
+    },
+    {
+      "title": "Schlittler K's 8 Dodgers, but takes the loss in duel with Yamamoto",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Bryan Hoch",
+      "link": "https://www.mlb.com/yankees/news/cam-schlittler-faces-dodgers",
+      "published": "2026-07-19T22:03:00Z",
       "image": null
     },
     {
@@ -39,15 +48,6 @@
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fl-ohtani-scores-rbi-single-134887787.jpg?w%3D1024"
     },
     {
-      "title": "Schlittler K's 8 Dodgers, but takes the loss in duel with Yamamoto",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch",
-      "link": "https://www.mlb.com/yankees/news/cam-schlittler-faces-dodgers",
-      "published": "2026-07-19T20:06:00Z",
-      "image": null
-    },
-    {
       "title": "Yankees Social Media Spotlight: All-Star Celebrations",
       "summary": "It’s Sunday once more, and you know what that means — it’s time for our weekly social media roundup! This past week, we reached the halfway point of the regular season, the 2026 All-Star Break, and well, do we have a lot in store. Between the amateur draft, the Home Run Derby, and the Midsummer Classic […]",
       "source": "Pinstripe Alley",
@@ -67,7 +67,7 @@
     },
     {
       "title": "Shohei Ohtani’s big day, Yoshinobu Yamamoto’s complete game lift Dodgers past Yankees",
-      "summary": "NEW YORK — Shohei Ohtani’s ailing left knee is set to keep him off the mound for the foreseeable future. But in the early game of a Sunday doubleheader against the Yankees, the two-way star offered the latest sign that his ongoing injury isn’t doing much to hamper his bat. The Dodgers’ Shohei Ohtani went...",
+      "summary": "NEW YORK — Shohei Ohtani’s ailing left knee is set to keep him off the mound for the foreseeable future. But in the early game of a Sunday doubleheader against the Yankees, the two-way star offered the latest sign that his ongoing injury isn’t hampering his bat. The Dodgers’ Shohei Ohtani went 2-for-5 with two...",
       "source": "NY Post Yankees",
       "author": "Jack Harris",
       "link": "https://nypost.com/2026/07/19/sports/dodgers-beat-yankees-behind-yoshinobu-yamamotos-complete-game/",
