@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T09:53:12Z",
+  "updated": "2026-07-19T10:44:37Z",
   "season": 2026,
   "players": [
     {
@@ -127,7 +127,7 @@
       },
       "sprint_speed": {
         "sprint_speed": 26.7,
-        "hp_to_1b": 4.58,
+        "hp_to_1b": 4.57,
         "bolts": null
       }
     },
@@ -609,8 +609,8 @@
         "est_woba": 0.325,
         "ba": 0.262,
         "slg": 0.439,
-        "woba": 0.331,
-        "est_woba_minus_woba": -0.006
+        "woba": 0.33,
+        "est_woba_minus_woba": -0.005
       },
       "statcast_batting": null,
       "sprint_speed": null
