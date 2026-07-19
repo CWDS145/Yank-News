@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T19:46:48Z",
+  "updated": "2026-07-19T20:15:42Z",
   "season": 2026,
   "pitchers": [
     {
@@ -612,7 +612,7 @@
       "prior_level_since": null,
       "season": {
         "w": 9,
-        "l": 5,
+        "l": 6,
         "g": 21,
         "gs": 21,
         "cg": 0,
