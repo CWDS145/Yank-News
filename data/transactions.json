@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T16:22:14Z",
+  "updated": "2026-07-19T16:49:06Z",
   "count": 59,
   "items": [
     {
@@ -34,26 +34,14 @@
     },
     {
       "date": "2026-07-04",
-      "type": "sent",
-      "player": "Brendan Beck",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-04",
       "type": "called up",
       "player": "Brendan Beck",
       "description": "Called Up from Minors"
     },
     {
-      "date": "2026-07-03",
-      "type": "",
-      "player": "Trent Grisham",
-      "description": "Removed From 10-Day IL (Strained right hamstring)"
-    },
-    {
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "type": "sent",
-      "player": "Oswaldo Cabrera",
+      "player": "Brendan Beck",
       "description": "Sent to Minors"
     },
     {
@@ -64,9 +52,9 @@
     },
     {
       "date": "2026-07-03",
-      "type": "sent",
-      "player": "Spencer Jones",
-      "description": "Sent to Minors"
+      "type": "",
+      "player": "Trent Grisham",
+      "description": "Removed From 10-Day IL (Strained right hamstring)"
     },
     {
       "date": "2026-07-03",
@@ -81,16 +69,28 @@
       "description": "Removed From 10-Day IL (Throat/ear infection)"
     },
     {
-      "date": "2026-07-02",
-      "type": "released",
-      "player": "Payton Henry",
-      "description": "Released"
+      "date": "2026-07-03",
+      "type": "sent",
+      "player": "Oswaldo Cabrera",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "sent",
+      "player": "Spencer Jones",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-07-02",
       "type": "reinstated",
       "player": "David Bednar",
       "description": "Reinstated from Paternity Leave List"
+    },
+    {
+      "date": "2026-07-02",
+      "type": "released",
+      "player": "Payton Henry",
+      "description": "Released"
     },
     {
       "date": "2026-07-01",
@@ -118,15 +118,15 @@
     },
     {
       "date": "2026-06-29",
-      "type": "sent",
-      "player": "Yerry De Los Santos",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-06-29",
       "type": "called up",
       "player": "Jacob Bird",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "sent",
+      "player": "Yerry De Los Santos",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-06-26",
@@ -154,15 +154,15 @@
     },
     {
       "date": "2026-06-23",
-      "type": "placed",
-      "player": "Ali Sanchez",
-      "description": "Placed on Paternity Leave List"
-    },
-    {
-      "date": "2026-06-23",
       "type": "called up",
       "player": "J.C. Escarra",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-06-23",
+      "type": "placed",
+      "player": "Ali Sanchez",
+      "description": "Placed on Paternity Leave List"
     },
     {
       "date": "2026-06-22",
