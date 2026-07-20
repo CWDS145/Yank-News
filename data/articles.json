@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-20T03:09:38Z",
-  "count": 64,
+  "updated": "2026-07-20T04:45:10Z",
+  "count": 65,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,12 +8,48 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-20T03:09:38Z",
+      "published": "2026-07-20T04:45:10Z",
+      "image": null
+    },
+    {
+      "title": "Yankees relievers quiet Dodgers lineup to salvage doubleheader split after Aaron Boone’s Game 1 sacrifice",
+      "summary": "The worst of the Yankees bullpen turned a close deficit into a blowout in the first game of a doubleheader. But the best of it won them the nightcap.",
+      "source": "NY Post Yankees",
+      "author": "Greg Joyce",
+      "link": "https://nypost.com/2026/07/20/sports/yankees-relievers-quiet-dodgers-to-salvage-doubleheader-split/",
+      "published": "2026-07-20T04:36:02Z",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fyankees-pitcher-ryan-yarbrough-33-134959511.jpg?w%3D1024"
+    },
+    {
+      "title": "Yankees inching closer toward ugly 2025 Mets comparison without Aaron Judge",
+      "summary": "The Yankees have the second-best record in the AL and are closer to first than at any time in the last three weeks. Yet, it all just feels awful.",
+      "source": "NY Post Yankees",
+      "author": "Joel Sherman",
+      "link": "https://nypost.com/2026/07/20/sports/yankees-inching-closer-toward-ugly-2025-mets-comparison/",
+      "published": "2026-07-20T04:01:05Z",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fyankees-aaron-judge-looks-dugout-134920010.jpg?w%3D1024"
+    },
+    {
+      "title": "AL East Notes: Bassitt, Rodon, Scherzer, Santander",
+      "summary": "Chris Bassitt was placed on the Orioles‘ 10-day injured list on June 5 due to back soreness that had bothered the right-hander all season.  The answer was a minor surgery last month that saw a bone spur removed from Bassitt’s lumbar spine area, and Bassitt told the Baltimore Sun’s Jacob Calvin Meyer that he believes […]",
+      "source": "MLB Trade Rumors NYY",
+      "author": "Mark Polishuk",
+      "link": "https://www.mlbtraderumors.com/2026/07/al-east-notes-bassitt-rodon-scherzer-santander.html",
+      "published": "2026-07-20T03:38:27Z",
+      "image": null
+    },
+    {
+      "title": "Chisholm delivers winning blast; is this the one that gets him going?",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Bryan Hoch",
+      "link": "https://www.mlb.com/yankees/news/jazz-chisholm-jr-hits-go-ahead-homer-for-yankees-vs-dodgers",
+      "published": "2026-07-20T03:26:00Z",
       "image": null
     },
     {
       "title": "Jazz Chisholm Jr.’s late homer saves Yankees as they beat Dodgers to avoid doubleheader sweep",
-      "summary": "Jazz Chisholm Jr.’s season has been one of the bigger reasons the Yankees’ lineup has faltered without Aaron Judge, but he saved them again Sunday.",
+      "summary": "His season has been one of the bigger reasons the Yankees’ lineup has faltered without Aaron Judge, but he saved them again Sunday.",
       "source": "NY Post Yankees",
       "author": "Greg Joyce",
       "link": "https://nypost.com/2026/07/19/sports/jazz-chisholm-jr-s-late-homer-saves-yankees-as-they-beat-dodgers-to-avoid-doubleheader-sweep/",
@@ -36,15 +72,6 @@
       "author": "Peter Brody",
       "link": "https://www.pinstripealley.com/yankees-scores-standings/198228/yankees-game-score-recap-dodgers-jazz-chisholm-homer-bullpen-game-doubleheader",
       "published": "2026-07-20T02:26:18Z",
-      "image": null
-    },
-    {
-      "title": "Boone calls out for a hero; Chisholm delivers for Yanks in nightcap",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch",
-      "link": "https://www.mlb.com/yankees/news/jazz-chisholm-jr-hits-go-ahead-homer-for-yankees-vs-dodgers",
-      "published": "2026-07-20T02:22:00Z",
       "image": null
     },
     {
@@ -228,15 +255,6 @@
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Freacts-makes-fielding-error-sixth-133406569.jpg?w%3D1024"
     },
     {
-      "title": "A dream matchup in Bronx: Yamamoto to face Schlittler in G1 of twin bill",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch and Sonja Chen",
-      "link": "https://www.mlb.com/yankees/news/yoshinobu-yamamoto-cam-schlittler-to-face-off-sunday",
-      "published": "2026-07-19T00:57:46Z",
-      "image": null
-    },
-    {
       "title": "Yankees have no Francisco Lindor interest but could match up in different Mets trade",
       "summary": "The Yankees are showing zero interest in available Mets star Francisco Lindor.",
       "source": "NY Post Yankees",
@@ -244,15 +262,6 @@
       "link": "https://nypost.com/2026/07/18/sports/yankees-have-no-francisco-lindor-interest-but-could-match-up-with-mets-for-trade/",
       "published": "2026-07-18T23:29:21Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F20260712NYMVBOS_0979RS.jpg?quality%3D90%26"
-    },
-    {
-      "title": "Dodgers-Yankees Saturday game postponed; split DH Sunday",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch",
-      "link": "https://www.mlb.com/yankees/news/dodgers-yankees-saturday-july-18-2026-postponed-due-to-weather",
-      "published": "2026-07-18T23:16:00Z",
-      "image": null
     },
     {
       "title": "Judge's re-imaging shows healing, but not enough for baseball activities",
@@ -352,24 +361,6 @@
       "link": "https://www.mlb.com/yankees/news/yankees-trade-deadline-plans-hinge-on-aaron-judge",
       "published": "2026-07-18T14:06:00Z",
       "image": null
-    },
-    {
-      "title": "Brian Cashman’s extensive trade deadline history provides bread crumbs for Yankees’ potential strategy",
-      "summary": "Brian Cashman has completed more than 100 trade deadline deals since becoming the Yankees general manager in 1998.",
-      "source": "NY Post Yankees",
-      "author": "Joel Sherman",
-      "link": "https://nypost.com/2026/07/18/sports/brian-cashmans-extensive-trade-deadline-history-provides-bread-crumbs-for-yankees-potential-strategy/",
-      "published": "2026-07-18T13:55:15Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fnew-york-yankee-gm-brian-127127744_45c91c.jpg?quality%3D90%26"
-    },
-    {
-      "title": "Max Fried takes huge step in injury recovery with Triple-A rehab start",
-      "summary": "Of all the key Yankees currently on the injured list, Max Fried has a chance to be the first one back.",
-      "source": "NY Post Yankees",
-      "author": "Greg Joyce",
-      "link": "https://nypost.com/2026/07/18/sports/yankees-max-fried-takes-step-in-injury-recovery-with-triple-a-rehab-start/",
-      "published": "2026-07-18T05:34:16Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F20260705NYYVMIN2270RS.jpg?w%3D1024"
     },
     {
       "title": "Cole talks Boone out of hook -- then yields go-ahead HR to spoil strong start",
@@ -480,6 +471,15 @@
       "image": null
     },
     {
+      "title": "Top selection Dietz among 2026 Draft's biggest steals",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Jim Callis and Jonathan Mayo",
+      "link": "https://www.mlb.com/yankees/news/best-picks-in-the-2026-mlb-draft-pipeline-podcast",
+      "published": "2026-07-16T17:55:00Z",
+      "image": null
+    },
+    {
       "title": "Schlittler fourth in latest Starting Pitcher Power Rankings",
       "summary": "",
       "source": "MLB.com Yankees",
@@ -496,15 +496,6 @@
       "link": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-predictions-standings-projections/",
       "published": "2026-07-16T12:59:36Z",
       "image": "https://sportshub.cbsistatic.com/i/2026/07/15/ec58b4b8-c1cd-49a5-a6ea-35797cdad89f/phillies-braves-getty.png"
-    },
-    {
-      "title": "Dodgers, Yankees open second half in potential postseason preview",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Sonja Chen and Bryan Hoch",
-      "link": "https://www.mlb.com/yankees/news/dodgers-at-yankees-opens-second-half-in-new-york",
-      "published": "2026-07-16T03:02:04Z",
-      "image": null
     },
     {
       "title": "Abbott honored at ESPYs with Jimmy V Award for Perseverance",
@@ -550,6 +541,24 @@
       "link": "https://www.cbssports.com/betting/news/mlb-futures-sportsbook-rooting-against-dodgers-yankees-world-series-shohei-ohtani-and-bobby-witt-jr-as-mvps/",
       "published": "2026-07-15T13:18:11Z",
       "image": "https://sportshub.cbsistatic.com/i/2026/07/15/4bf7e870-98f7-4772-a3e7-d60184213c4c/usatsi-26346427-1.jpg"
+    },
+    {
+      "title": "Podcast: Bellinger, Rice tag-team National League",
+      "summary": "AL continues All-Star domination | Morning Lineup",
+      "source": "MLB.com Yankees",
+      "author": "",
+      "link": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-07/15/bbcb8b33-678626d0-298ac618-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
+      "published": "2026-07-15T05:50:58Z",
+      "image": null
+    },
+    {
+      "title": "Bellinger, Rice knock in first-inning runs in 2026 All-Star Game",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "MLB.com",
+      "link": "https://www.mlb.com/yankees/news/2026-mlb-all-star-game-team-by-team-breakdown",
+      "published": "2026-07-15T05:38:43Z",
+      "image": null
     },
     {
       "title": "Belli, still one of 'those little kids with big dreams,' earns All-Star MVP",
