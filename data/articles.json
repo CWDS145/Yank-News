@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T21:28:04Z",
+  "updated": "2026-07-20T21:54:09Z",
   "count": 65,
   "items": [
     {
@@ -8,7 +8,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-20T21:28:04Z",
+      "published": "2026-07-20T21:54:09Z",
+      "image": null
+    },
+    {
+      "title": "Latest Yankees injuries and transactions",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "MLB.com",
+      "link": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
+      "published": "2026-07-20T21:34:00Z",
       "image": null
     },
     {
@@ -225,15 +234,6 @@
       "author": "Bryan Hoch",
       "link": "https://www.mlb.com/yankees/news/cam-schlittler-faces-dodgers",
       "published": "2026-07-19T22:03:00Z",
-      "image": null
-    },
-    {
-      "title": "Latest Yankees injuries and transactions",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "MLB.com",
-      "link": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
-      "published": "2026-07-19T20:53:00Z",
       "image": null
     },
     {
