@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T19:55:49Z",
+  "updated": "2026-07-20T20:46:43Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-07-10",
@@ -10,7 +10,7 @@
       "name": "Aaron Judge",
       "position": "RF",
       "level": "MLB",
-      "level_since": "2026-06-05",
+      "level_since": "2026-07-18",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
