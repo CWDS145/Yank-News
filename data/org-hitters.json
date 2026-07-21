@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T22:11:02Z",
+  "updated": "2026-07-21T22:36:50Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-07-11",
@@ -1151,29 +1151,6 @@
       ]
     },
     {
-      "id": 701816,
-      "name": "John Cristino",
-      "position": "C",
-      "level": "AA",
-      "level_since": "2026-06-09",
-      "prior_level": "Low-A",
-      "prior_level_since": "2026-05-02",
-      "season": {
-        "ab": 33,
-        "k": 15,
-        "avg": ".152",
-        "ops": ".573",
-        "avg_num": 0.15151515151515152,
-        "ops_num": 0.5727272727272728
-      },
-      "last_10": null,
-      "season_levels": [
-        "AA",
-        "Low-A"
-      ],
-      "last_10_levels": []
-    },
-    {
       "id": 694742,
       "name": "Josh Moylan",
       "position": "1B",
@@ -1942,37 +1919,6 @@
       ],
       "last_10_levels": [
         "Low-A"
-      ]
-    },
-    {
-      "id": 815147,
-      "name": "Wilson Rodriguez",
-      "position": "CF",
-      "level": "High-A",
-      "level_since": "2026-03-30",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 293,
-        "k": 72,
-        "avg": ".259",
-        "ops": ".805",
-        "avg_num": 0.2593856655290102,
-        "ops_num": 0.8054512439750159
-      },
-      "last_10": {
-        "ab": 14,
-        "k": 3,
-        "avg": ".214",
-        "ops": ".746",
-        "avg_num": 0.21428571428571427,
-        "ops_num": 0.746031746031746
-      },
-      "season_levels": [
-        "High-A"
-      ],
-      "last_10_levels": [
-        "High-A"
       ]
     },
     {
