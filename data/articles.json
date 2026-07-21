@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-21T15:36:22Z",
-  "count": 65,
+  "updated": "2026-07-21T16:33:34Z",
+  "count": 64,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-21T15:36:22Z",
+      "published": "2026-07-21T16:33:34Z",
+      "image": null
+    },
+    {
+      "title": "Fried to toss one more rehab start then rejoin Yanks' rotation",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "",
+      "link": "https://www.mlb.com/yankees/news/max-fried-plans-to-rejoin-yankees-rotation-in-chicago",
+      "published": "2026-07-21T15:51:10Z",
       "image": null
     },
     {
@@ -561,30 +570,12 @@
       "image": null
     },
     {
-      "title": "2026 MLB playoff predictions: Experts project how standings will look at end of the regular season",
-      "summary": "Can the Yankees catch the Rays? Will the Braves hold off the Phillies? As the second half begins, we're predicting the rest of the regular season",
-      "source": "CBS Sports MLB",
-      "author": "Kate Feldman",
-      "link": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-predictions-standings-projections/",
-      "published": "2026-07-16T12:59:36Z",
-      "image": "https://sportshub.cbsistatic.com/i/2026/07/15/ec58b4b8-c1cd-49a5-a6ea-35797cdad89f/phillies-braves-getty.png"
-    },
-    {
       "title": "Yanks eyeing upgrades at catcher, bullpen ahead of Deadline",
       "summary": "",
       "source": "MLB.com Yankees",
       "author": "Bryan Hoch",
       "link": "https://www.mlb.com/yankees/news/yankees-outlook-for-second-half-trade-deadline-plans",
       "published": "2026-07-15T16:21:00Z",
-      "image": null
-    },
-    {
-      "title": "Belli, still one of 'those little kids with big dreams,' earns All-Star MVP",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch",
-      "link": "https://www.mlb.com/yankees/news/cody-bellinger-ben-rice-run-scoring-hits-in-all-star-game",
-      "published": "2026-07-15T04:53:00Z",
       "image": null
     }
   ]
