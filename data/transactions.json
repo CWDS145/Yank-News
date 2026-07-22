@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T01:38:17Z",
+  "updated": "2026-07-22T03:08:30Z",
   "count": 58,
   "items": [
     {
@@ -10,21 +10,27 @@
     },
     {
       "date": "2026-07-19",
-      "type": "recalled",
-      "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors (recalled as 27th roster player)"
-    },
-    {
-      "date": "2026-07-19",
       "type": "called up",
       "player": "Kervin Castro",
       "description": "Called Up from Minors"
     },
     {
       "date": "2026-07-19",
+      "type": "recalled",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors (recalled as 27th roster player)"
+    },
+    {
+      "date": "2026-07-19",
       "type": "",
       "player": "Elmer Rodriguez",
       "description": "Return of 27th man"
+    },
+    {
+      "date": "2026-07-18",
+      "type": "transferred",
+      "player": "Aaron Judge",
+      "description": "Transferred to 60-Day IL (Right rib stress fracture)"
     },
     {
       "date": "2026-07-18",
@@ -37,12 +43,6 @@
       "type": "purchased",
       "player": "Bradley Hanner",
       "description": "NTR - Purchased From Minors"
-    },
-    {
-      "date": "2026-07-18",
-      "type": "transferred",
-      "player": "Aaron Judge",
-      "description": "Transferred to 60-Day IL (Right rib stress fracture)"
     },
     {
       "date": "2026-07-17",
@@ -58,15 +58,39 @@
     },
     {
       "date": "2026-07-04",
+      "type": "called up",
+      "player": "Brendan Beck",
+      "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-07-04",
       "type": "sent",
       "player": "Brendan Beck",
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-07-04",
-      "type": "called up",
-      "player": "Brendan Beck",
-      "description": "Called Up from Minors"
+      "date": "2026-07-03",
+      "type": "sent",
+      "player": "Oswaldo Cabrera",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "",
+      "player": "Ryan McMahon",
+      "description": "Removed From 10-Day IL (Throat/ear infection)"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "recalled",
+      "player": "Trent Grisham",
+      "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "sent",
+      "player": "Spencer Jones",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-07-03",
@@ -79,30 +103,6 @@
       "type": "",
       "player": "Trent Grisham",
       "description": "Removed From 10-Day IL (Strained right hamstring)"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "sent",
-      "player": "Spencer Jones",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "recalled",
-      "player": "Trent Grisham",
-      "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "",
-      "player": "Ryan McMahon",
-      "description": "Removed From 10-Day IL (Throat/ear infection)"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "sent",
-      "player": "Oswaldo Cabrera",
-      "description": "Sent to Minors"
     },
     {
       "date": "2026-07-02",
