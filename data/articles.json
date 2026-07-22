@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T19:34:18Z",
+  "updated": "2026-07-22T20:32:46Z",
   "count": 66,
   "items": [
     {
@@ -8,7 +8,25 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-22T19:34:18Z",
+      "published": "2026-07-22T20:32:46Z",
+      "image": null
+    },
+    {
+      "title": "Cole finds vintage form with 11 K's, but allows 2 costly HRs",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Matthew Ritchie",
+      "link": "https://www.mlb.com/yankees/news/gerrit-cole-strikes-out-11-pirates-over-seven-innings",
+      "published": "2026-07-22T20:27:00Z",
+      "image": null
+    },
+    {
+      "title": "Another incident involving Caballero, pitch timer gets Yanks' hitting coach tossed",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Matthew Ritchie",
+      "link": "https://www.mlb.com/yankees/news/james-rowson-ejected-after-jose-caballero-pitch-timer-violation",
+      "published": "2026-07-22T20:08:29Z",
       "image": null
     },
     {
@@ -576,24 +594,6 @@
       "author": "Bryan Hoch",
       "link": "https://www.mlb.com/yankees/news/hunter-dietz-no-35-overall-draft-pick-agrees-to-deal-with-yankees",
       "published": "2026-07-16T19:44:00Z",
-      "image": null
-    },
-    {
-      "title": "MLB releases 2027 regular-season schedule",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Brian Murphy",
-      "link": "https://www.mlb.com/yankees/news/mlb-2027-schedule-released",
-      "published": "2026-07-16T19:32:43Z",
-      "image": null
-    },
-    {
-      "title": "Schlittler fourth in latest Starting Pitcher Power Rankings",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Andrew Simon",
-      "link": "https://www.mlb.com/yankees/news/mlb-eighth-starting-pitcher-power-rankings-2026",
-      "published": "2026-07-16T17:45:00Z",
       "image": null
     }
   ]
