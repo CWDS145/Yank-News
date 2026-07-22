@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T21:17:08Z",
+  "updated": "2026-07-22T21:45:53Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1816,10 +1816,10 @@
       "id": 665645,
       "name": "Kervin Castro",
       "position": "P",
-      "level": "MLB",
-      "level_since": "2026-07-19",
-      "prior_level": "AAA",
-      "prior_level_since": "2026-05-10",
+      "level": "AAA",
+      "level_since": "2026-07-22",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-07-19",
       "season": {
         "w": 2,
         "l": 0,
@@ -2082,9 +2082,9 @@
       "name": "Max Fried",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-07-17",
-      "prior_level": null,
-      "prior_level_since": null,
+      "level_since": "2026-07-22",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-07-17",
       "season": {
         "w": 4,
         "l": 3,
