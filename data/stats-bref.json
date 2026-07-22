@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-21T14:44:04Z",
+  "updated": "2026-07-22T14:43:06Z",
   "source": "Baseball-Reference",
   "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
   "season": 2026,
   "scrape_attempt": {
     "status": "ok",
     "http_status": 200,
-    "duration_ms": 210,
+    "duration_ms": 247,
     "note": "tables: bat_id=players_standard_batting pit_id=players_standard_pitching batters=22 pitchers=22"
   },
   "team_record": {
