@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T10:55:54Z",
+  "updated": "2026-07-23T11:52:50Z",
   "season": 2026,
   "players": [
     {
@@ -84,14 +84,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 142,
-        "avg_ev": 88.8,
+        "attempts": 143,
+        "avg_ev": 88.7,
         "max_ev": 110.5,
         "avg_la": 19.5,
         "barrel_pct": 6.3,
         "barrel_per_pa": 3.9,
         "ev95plus": 62,
-        "ev95_pct": 43.7,
+        "ev95_pct": 43.4,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -115,14 +115,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 260,
+        "attempts": 265,
         "avg_ev": 92.3,
         "max_ev": 110.9,
         "avg_la": 14.1,
-        "barrel_pct": 15.4,
+        "barrel_pct": 15.5,
         "barrel_per_pa": 9.9,
-        "ev95plus": 126,
-        "ev95_pct": 48.5,
+        "ev95plus": 128,
+        "ev95_pct": 48.3,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -214,14 +214,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 300,
+        "attempts": 303,
         "avg_ev": 89.1,
         "max_ev": 109.3,
         "avg_la": 17.7,
         "barrel_pct": 6.3,
         "barrel_per_pa": 4.5,
-        "ev95plus": 110,
-        "ev95_pct": 36.8,
+        "ev95plus": 112,
+        "ev95_pct": 37.1,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -349,13 +349,13 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 225,
-        "avg_ev": 90.9,
+        "attempts": 232,
+        "avg_ev": 90.8,
         "max_ev": 112.4,
         "avg_la": 16.8,
-        "barrel_pct": 9.8,
-        "barrel_per_pa": 5.9,
-        "ev95plus": 94,
+        "barrel_pct": 9.5,
+        "barrel_per_pa": 5.7,
+        "ev95plus": 97,
         "ev95_pct": 41.8,
         "hardhit_pct": null
       },
@@ -380,14 +380,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 219,
-        "avg_ev": 83.8,
+        "attempts": 221,
+        "avg_ev": 83.9,
         "max_ev": 108.5,
         "avg_la": 12.3,
-        "barrel_pct": 3.7,
-        "barrel_per_pa": 2.6,
-        "ev95plus": 55,
-        "ev95_pct": 25.2,
+        "barrel_pct": 3.6,
+        "barrel_per_pa": 2.5,
+        "ev95plus": 56,
+        "ev95_pct": 25.5,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -457,14 +457,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 186,
+        "attempts": 189,
         "avg_ev": 86.5,
         "max_ev": 109.8,
         "avg_la": 14.1,
-        "barrel_pct": 11.3,
-        "barrel_per_pa": 7.7,
+        "barrel_pct": 11.1,
+        "barrel_per_pa": 7.6,
         "ev95plus": 71,
-        "ev95_pct": 38.2,
+        "ev95_pct": 37.6,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -488,14 +488,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 145,
-        "avg_ev": 91,
+        "attempts": 149,
+        "avg_ev": 91.1,
         "max_ev": 110.5,
-        "avg_la": 12.2,
-        "barrel_pct": 11,
-        "barrel_per_pa": 6.8,
-        "ev95plus": 73,
-        "ev95_pct": 50.7,
+        "avg_la": 12,
+        "barrel_pct": 10.7,
+        "barrel_per_pa": 6.6,
+        "ev95plus": 76,
+        "ev95_pct": 51.4,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -582,14 +582,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 224,
-        "avg_ev": 91.3,
+        "attempts": 230,
+        "avg_ev": 91.2,
         "max_ev": 111.6,
-        "avg_la": 17.7,
-        "barrel_pct": 11.2,
-        "barrel_per_pa": 7.8,
+        "avg_la": 18.2,
+        "barrel_pct": 10.9,
+        "barrel_per_pa": 7.6,
         "ev95plus": 107,
-        "ev95_pct": 47.8,
+        "ev95_pct": 46.5,
         "hardhit_pct": null
       },
       "sprint_speed": {
