@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T23:50:10Z",
+  "updated": "2026-07-23T00:42:55Z",
   "count": 66,
   "items": [
     {
@@ -8,7 +8,25 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-22T23:50:10Z",
+      "published": "2026-07-23T00:42:55Z",
+      "image": null
+    },
+    {
+      "title": "Cole finds vintage form with 11 K's, but Yanks' bats silenced in extras",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Matthew Ritchie",
+      "link": "https://www.mlb.com/yankees/news/gerrit-cole-strikes-out-11-pirates-over-seven-innings",
+      "published": "2026-07-23T00:03:00Z",
+      "image": null
+    },
+    {
+      "title": "Yankees have willingness, prospects to make moves at the Trade Deadline",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Jim Callis, Jonathan Mayo and Rob Terranova",
+      "link": "https://www.mlb.com/yankees/news/teams-with-prospects-to-trade-at-trade-deadline-2026",
+      "published": "2026-07-22T23:00:23Z",
       "image": null
     },
     {
@@ -64,15 +82,6 @@
       "link": "https://nypost.com/2026/07/22/sports/yankees-offense-frustrates-again-in-10-inning-loss-to-pirates/",
       "published": "2026-07-22T20:38:09Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Freacts-strikes-swinging-fourth-inning-135204538.jpg?w%3D1024"
-    },
-    {
-      "title": "Cole finds vintage form with 11 K's, but allows 2 costly HRs",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Matthew Ritchie",
-      "link": "https://www.mlb.com/yankees/news/gerrit-cole-strikes-out-11-pirates-over-seven-innings",
-      "published": "2026-07-22T20:27:00Z",
-      "image": null
     },
     {
       "title": "One of Hollywood's biggest stars signs on to portray Gehrig",
@@ -585,15 +594,6 @@
       "author": "Bryan Hoch",
       "link": "https://www.mlb.com/yankees/news/hunter-dietz-no-35-overall-draft-pick-agrees-to-deal-with-yankees",
       "published": "2026-07-16T19:44:00Z",
-      "image": null
-    },
-    {
-      "title": "MLB releases 2027 regular-season schedule",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Brian Murphy",
-      "link": "https://www.mlb.com/yankees/news/mlb-2027-schedule-released",
-      "published": "2026-07-16T19:32:43Z",
       "image": null
     }
   ]
