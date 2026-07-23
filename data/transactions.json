@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T13:02:16Z",
+  "updated": "2026-07-23T14:16:57Z",
   "count": 62,
   "items": [
     {
@@ -118,15 +118,15 @@
     },
     {
       "date": "2026-07-03",
-      "type": "placed",
-      "player": "Carlos Rodon",
-      "description": "Placed on 15-Day IL (Left elbow inflammation)"
-    },
-    {
-      "date": "2026-07-03",
       "type": "",
       "player": "Ryan McMahon",
       "description": "Removed From 10-Day IL (Throat/ear infection)"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "placed",
+      "player": "Carlos Rodon",
+      "description": "Placed on 15-Day IL (Left elbow inflammation)"
     },
     {
       "date": "2026-07-03",
@@ -196,15 +196,15 @@
     },
     {
       "date": "2026-06-24",
-      "type": "placed",
-      "player": "Ryan McMahon",
-      "description": "Placed on 10-Day IL (Throat/ear infection)"
-    },
-    {
-      "date": "2026-06-24",
       "type": "called up",
       "player": "Oswaldo Cabrera",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-06-24",
+      "type": "placed",
+      "player": "Ryan McMahon",
+      "description": "Placed on 10-Day IL (Throat/ear infection)"
     },
     {
       "date": "2026-06-23",
@@ -226,6 +226,12 @@
     },
     {
       "date": "2026-06-21",
+      "type": "recalled",
+      "player": "Austin Wells",
+      "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-06-21",
       "type": "sent",
       "player": "Elmer Rodriguez",
       "description": "Sent to Minors"
@@ -238,12 +244,6 @@
     },
     {
       "date": "2026-06-21",
-      "type": "recalled",
-      "player": "Austin Wells",
-      "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-06-21",
       "type": "called up",
       "player": "Elmer Rodriguez",
       "description": "Called Up from Minors"
@@ -251,13 +251,13 @@
     {
       "date": "2026-06-20",
       "type": "sent",
-      "player": "Jacob Bird",
+      "player": "J.C. Escarra",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-06-20",
       "type": "sent",
-      "player": "J.C. Escarra",
+      "player": "Jacob Bird",
       "description": "Sent to Minors"
     },
     {
