@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T03:26:08Z",
+  "updated": "2026-07-23T04:56:34Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-07-13",
@@ -1749,10 +1749,10 @@
       "id": 682987,
       "name": "Spencer Jones",
       "position": "CF",
-      "level": "MLB",
-      "level_since": "2026-07-22",
-      "prior_level": "AAA",
-      "prior_level_since": "2026-07-04",
+      "level": "AAA",
+      "level_since": "2026-07-23",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-07-22",
       "season": {
         "ab": 261,
         "k": 102,
