@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T10:43:50Z",
+  "updated": "2026-07-23T10:44:46Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -66,23 +66,23 @@
     ],
     "SP": [
       {
-        "name": "Gerrit Cole",
+        "name": "Cam Schlittler",
         "rank": 1
       },
       {
-        "name": "Cam Schlittler",
+        "name": "Ryan Weathers",
         "rank": 2
       },
       {
-        "name": "Ryan Weathers",
+        "name": "Gerrit Cole",
         "rank": 3
       },
       {
-        "name": "Will Warren",
+        "name": "Max Fried",
         "rank": 4
       },
       {
-        "name": "Max Fried",
+        "name": "Will Warren",
         "rank": 5
       },
       {
@@ -124,12 +124,8 @@
         "rank": 7
       },
       {
-        "name": "Kervin Castro",
-        "rank": 8
-      },
-      {
         "name": "Ryan Yarbrough",
-        "rank": 9
+        "rank": 8
       }
     ]
   },
@@ -151,7 +147,6 @@
     "Jasson Dominguez",
     "Jazz Chisholm",
     "Jose Caballero",
-    "Kervin Castro",
     "Max Fried",
     "Paul Blackburn",
     "Paul Goldschmidt",
