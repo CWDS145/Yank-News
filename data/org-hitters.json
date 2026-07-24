@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T17:17:17Z",
+  "updated": "2026-07-24T17:54:55Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-07-14",
@@ -521,6 +521,19 @@
       "last_10_levels": [
         "Low-A"
       ]
+    },
+    {
+      "id": 828076,
+      "name": "Dax Kilby",
+      "position": "SS",
+      "level": "Low-A",
+      "level_since": "2026-04-03",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "last_10": null,
+      "season_levels": [],
+      "last_10_levels": []
     },
     {
       "id": 800299,
