@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T21:18:03Z",
+  "updated": "2026-07-24T21:45:36Z",
   "season": 2026,
   "pitchers": [
     {
@@ -37,6 +37,43 @@
       },
       "season_levels": [
         "High-A"
+      ]
+    },
+    {
+      "id": 680572,
+      "name": "Adam Kloffenstein",
+      "position": "P",
+      "level": "AAA",
+      "level_since": "2026-03-31",
+      "prior_level": "AA",
+      "prior_level_since": "2026-03-27",
+      "season": {
+        "w": 2,
+        "l": 6,
+        "g": 16,
+        "gs": 16,
+        "cg": 0,
+        "sho": 0,
+        "sv": 0,
+        "svo": 0,
+        "ip": "71.1",
+        "ip_outs": 214,
+        "h": 62,
+        "r": 47,
+        "er": 39,
+        "hr": 13,
+        "hb": 9,
+        "bb": 39,
+        "so": 64,
+        "era": "4.92",
+        "era_num": 4.920560747663552,
+        "whip": "1.42",
+        "whip_num": 1.4158878504672898,
+        "avg": ".231",
+        "avg_num": 0.23134328358208955
+      },
+      "season_levels": [
+        "AAA"
       ]
     },
     {
@@ -488,43 +525,6 @@
       },
       "season_levels": [
         "MLB"
-      ]
-    },
-    {
-      "id": 809137,
-      "name": "Brian Hendry",
-      "position": "P",
-      "level": "AAA",
-      "level_since": "2026-07-21",
-      "prior_level": "Low-A",
-      "prior_level_since": "2026-06-27",
-      "season": {
-        "w": 0,
-        "l": 0,
-        "g": 3,
-        "gs": 0,
-        "cg": 0,
-        "sho": 0,
-        "sv": 1,
-        "svo": 1,
-        "ip": "5.1",
-        "ip_outs": 16,
-        "h": 2,
-        "r": 0,
-        "er": 0,
-        "hr": 0,
-        "hb": 0,
-        "bb": 1,
-        "so": 3,
-        "era": "0.00",
-        "era_num": 0.0,
-        "whip": "0.56",
-        "whip_num": 0.5625,
-        "avg": ".111",
-        "avg_num": 0.1111111111111111
-      },
-      "season_levels": [
-        "Low-A"
       ]
     },
     {
