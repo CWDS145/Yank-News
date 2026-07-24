@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T10:00:05Z",
+  "updated": "2026-07-24T10:55:00Z",
   "season": 2026,
   "players": [
     {
@@ -127,7 +127,7 @@
       },
       "sprint_speed": {
         "sprint_speed": 26.7,
-        "hp_to_1b": 4.57,
+        "hp_to_1b": 4.56,
         "bolts": null
       }
     },
@@ -330,7 +330,7 @@
       "statcast_batting": null,
       "sprint_speed": {
         "sprint_speed": 28.5,
-        "hp_to_1b": 4.26,
+        "hp_to_1b": 4.25,
         "bolts": 7
       }
     },
@@ -361,7 +361,7 @@
       },
       "sprint_speed": {
         "sprint_speed": 28.4,
-        "hp_to_1b": 4.23,
+        "hp_to_1b": 4.24,
         "bolts": 6
       }
     },
@@ -557,12 +557,12 @@
       "expected_pitching": {
         "pa": 158,
         "est_ba": 0.258,
-        "est_slg": 0.431,
-        "est_woba": 0.323,
+        "est_slg": 0.432,
+        "est_woba": 0.324,
         "ba": 0.245,
         "slg": 0.413,
         "woba": 0.31,
-        "est_woba_minus_woba": 0.013
+        "est_woba_minus_woba": 0.014
       },
       "statcast_batting": null,
       "sprint_speed": null
@@ -594,7 +594,7 @@
       },
       "sprint_speed": {
         "sprint_speed": 26.7,
-        "hp_to_1b": 4.52,
+        "hp_to_1b": 4.53,
         "bolts": null
       }
     },
