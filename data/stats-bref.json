@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-23T14:47:57Z",
+  "updated": "2026-07-24T14:37:02Z",
   "source": "Baseball-Reference",
   "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
   "season": 2026,
   "scrape_attempt": {
     "status": "ok",
     "http_status": 200,
-    "duration_ms": 292,
+    "duration_ms": 288,
     "note": "tables: bat_id=players_standard_batting pit_id=players_standard_pitching batters=22 pitchers=22"
   },
   "team_record": {
@@ -36,7 +36,7 @@
     "OPS": ".735",
     "OPS+": "104",
     "TB": "1417",
-    "rWAR": "14.9"
+    "rWAR": "15.0"
   },
   "team_pitching": {
     "name": "Team Totals",
@@ -57,7 +57,7 @@
     "ERA+": "125",
     "FIP": "3.73",
     "WHIP": "1.185",
-    "rWAR": "14.9"
+    "rWAR": "14.8"
   },
   "batters": [
     {
@@ -150,7 +150,7 @@
       "OPS": ".682",
       "OPS+": "89",
       "TB": "111",
-      "rWAR": "1.4"
+      "rWAR": "1.3"
     },
     {
       "name": "Ryan McMahon",
@@ -173,7 +173,7 @@
       "OPS": ".652",
       "OPS+": "81",
       "TB": "85",
-      "rWAR": "0.2"
+      "rWAR": "0.1"
     },
     {
       "name": "Cody Bellinger",
@@ -194,9 +194,9 @@
       "OBP": ".347",
       "SLG": ".417",
       "OPS": ".764",
-      "OPS+": "113",
+      "OPS+": "114",
       "TB": "153",
-      "rWAR": "3.7"
+      "rWAR": "3.8"
     },
     {
       "name": "Trent Grisham",
@@ -265,7 +265,7 @@
       "OPS": ".956",
       "OPS+": "163",
       "TB": "213",
-      "rWAR": "2.7"
+      "rWAR": "2.8"
     },
     {
       "name": "Amed Rosario",
@@ -355,7 +355,7 @@
       "OBP": ".302",
       "SLG": ".422",
       "OPS": ".724",
-      "OPS+": "100",
+      "OPS+": "101",
       "TB": "38",
       "rWAR": "0.2"
     },
@@ -401,7 +401,7 @@
       "OBP": ".314",
       "SLG": ".355",
       "OPS": ".669",
-      "OPS+": "87",
+      "OPS+": "88",
       "TB": "27",
       "rWAR": "0.0"
     },
@@ -449,7 +449,7 @@
       "OPS": ".558",
       "OPS+": "57",
       "TB": "11",
-      "rWAR": "-0.1"
+      "rWAR": "0.0"
     },
     {
       "name": "Randal Grichuk",
@@ -731,7 +731,7 @@
       "BB": "17",
       "SO": "62",
       "HR": "2",
-      "ERA+": "302",
+      "ERA+": "301",
       "FIP": "2.19",
       "WHIP": "1.071",
       "rWAR": "2.1"
@@ -752,7 +752,7 @@
       "BB": "26",
       "SO": "55",
       "HR": "3",
-      "ERA+": "169",
+      "ERA+": "168",
       "FIP": "3.41",
       "WHIP": "1.326",
       "rWAR": "1.3"
@@ -815,7 +815,7 @@
       "BB": "18",
       "SO": "41",
       "HR": "4",
-      "ERA+": "212",
+      "ERA+": "211",
       "FIP": "3.61",
       "WHIP": "1.056",
       "rWAR": "1.6"
@@ -920,7 +920,7 @@
       "BB": "4",
       "SO": "12",
       "HR": "1",
-      "ERA+": "546",
+      "ERA+": "545",
       "FIP": "3.46",
       "WHIP": "0.794",
       "rWAR": "0.4"
@@ -941,8 +941,8 @@
       "BB": "4",
       "SO": "7",
       "HR": "1",
-      "ERA+": "422",
-      "FIP": "4.37",
+      "ERA+": "421",
+      "FIP": "4.38",
       "WHIP": "1.385",
       "rWAR": "0.0"
     },
@@ -1004,7 +1004,7 @@
       "BB": "0",
       "SO": "4",
       "HR": "0",
-      "ERA+": "142",
+      "ERA+": "141",
       "FIP": "0.11",
       "WHIP": "0.750",
       "rWAR": "0.1"
