@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T23:39:58Z",
+  "updated": "2026-07-25T00:11:54Z",
   "items": [
     {
       "id": 930211,
@@ -754,32 +754,6 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees signed free agent RHP Braulio Jaquez to a minor league contract."
-    },
-    {
-      "id": 921912,
-      "date": "2026-06-24",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 641857,
-      "player": "Ryan McMahon",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees placed 3B Ryan McMahon on the 10-day injured list retroactive to June 22, 2026. Throat infection."
-    },
-    {
-      "id": 921914,
-      "date": "2026-06-24",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 665828,
-      "player": "Oswaldo Cabrera",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled 3B Oswaldo Cabrera from Scranton/Wilkes-Barre RailRiders."
     }
   ]
 }
