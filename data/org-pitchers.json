@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T18:42:42Z",
+  "updated": "2026-07-25T19:16:10Z",
   "season": 2026,
   "pitchers": [
     {
@@ -2484,43 +2484,6 @@
       "season_levels": [
         "AA",
         "High-A"
-      ]
-    },
-    {
-      "id": 695765,
-      "name": "Thatcher Hurd",
-      "position": "P",
-      "level": "Low-A",
-      "level_since": "2026-05-26",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "w": 1,
-        "l": 4,
-        "g": 8,
-        "gs": 8,
-        "cg": 0,
-        "sho": 0,
-        "sv": 0,
-        "svo": 0,
-        "ip": "31.2",
-        "ip_outs": 95,
-        "h": 19,
-        "r": 20,
-        "er": 17,
-        "hr": 5,
-        "hb": 2,
-        "bb": 20,
-        "so": 41,
-        "era": "4.83",
-        "era_num": 4.831578947368421,
-        "whip": "1.23",
-        "whip_num": 1.231578947368421,
-        "avg": ".165",
-        "avg_num": 0.16521739130434782
-      },
-      "season_levels": [
-        "Low-A"
       ]
     },
     {
