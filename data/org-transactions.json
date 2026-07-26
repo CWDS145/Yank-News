@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T23:39:13Z",
+  "updated": "2026-07-26T00:10:24Z",
   "items": [
     {
       "id": 930211,
@@ -741,19 +741,6 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees optioned C J.C. Escarra to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 922435,
-      "date": "2026-06-25",
-      "type_code": "SFA",
-      "type_desc": "Signed as Free Agent",
-      "player_id": 843590,
-      "player": "Braulio Jaquez",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees signed free agent RHP Braulio Jaquez to a minor league contract."
     }
   ]
 }
