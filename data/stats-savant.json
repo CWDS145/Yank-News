@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T13:38:46Z",
+  "updated": "2026-07-27T14:38:29Z",
   "season": 2026,
   "players": [
     {
@@ -115,14 +115,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 268,
+        "attempts": 272,
         "avg_ev": 92.3,
         "max_ev": 110.9,
-        "avg_la": 14,
-        "barrel_pct": 15.7,
-        "barrel_per_pa": 9.9,
-        "ev95plus": 129,
-        "ev95_pct": 48.1,
+        "avg_la": 14.1,
+        "barrel_pct": 15.8,
+        "barrel_per_pa": 10,
+        "ev95plus": 131,
+        "ev95_pct": 48.2,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -380,14 +380,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 224,
+        "attempts": 226,
         "avg_ev": 83.8,
         "max_ev": 108.5,
-        "avg_la": 12.5,
-        "barrel_pct": 3.6,
+        "avg_la": 12.2,
+        "barrel_pct": 3.5,
         "barrel_per_pa": 2.5,
         "ev95plus": 56,
-        "ev95_pct": 25.1,
+        "ev95_pct": 24.9,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -457,14 +457,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 195,
-        "avg_ev": 86.6,
+        "attempts": 197,
+        "avg_ev": 86.5,
         "max_ev": 109.8,
-        "avg_la": 14.2,
-        "barrel_pct": 11.3,
-        "barrel_per_pa": 7.7,
+        "avg_la": 14.1,
+        "barrel_pct": 11.2,
+        "barrel_per_pa": 7.6,
         "ev95plus": 74,
-        "ev95_pct": 37.9,
+        "ev95_pct": 37.6,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -582,14 +582,14 @@
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 237,
-        "avg_ev": 91,
+        "attempts": 240,
+        "avg_ev": 90.8,
         "max_ev": 111.6,
-        "avg_la": 17.6,
-        "barrel_pct": 10.5,
+        "avg_la": 17.3,
+        "barrel_pct": 10.4,
         "barrel_per_pa": 7.4,
         "ev95plus": 108,
-        "ev95_pct": 45.6,
+        "ev95_pct": 45,
         "hardhit_pct": null
       },
       "sprint_speed": {
