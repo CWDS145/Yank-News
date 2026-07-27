@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T14:22:37Z",
+  "updated": "2026-07-27T15:28:44Z",
   "count": 65,
   "items": [
     {
@@ -70,6 +70,12 @@
     },
     {
       "date": "2026-07-18",
+      "type": "transferred",
+      "player": "Aaron Judge",
+      "description": "Transferred to 60-Day IL (Right rib stress fracture)"
+    },
+    {
+      "date": "2026-07-18",
       "type": "purchased",
       "player": "Bradley Hanner",
       "description": "NTR - Purchased From Minors"
@@ -79,12 +85,6 @@
       "type": "sent",
       "player": "Bradley Hanner",
       "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-18",
-      "type": "transferred",
-      "player": "Aaron Judge",
-      "description": "Transferred to 60-Day IL (Right rib stress fracture)"
     },
     {
       "date": "2026-07-17",
