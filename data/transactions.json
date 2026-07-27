@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T13:27:53Z",
+  "updated": "2026-07-27T14:22:37Z",
   "count": 65,
   "items": [
     {
@@ -118,6 +118,18 @@
     },
     {
       "date": "2026-07-03",
+      "type": "recalled",
+      "player": "Trent Grisham",
+      "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "sent",
+      "player": "Oswaldo Cabrera",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-03",
       "type": "",
       "player": "Ryan McMahon",
       "description": "Removed From 10-Day IL (Throat/ear infection)"
@@ -127,12 +139,6 @@
       "type": "",
       "player": "Trent Grisham",
       "description": "Removed From 10-Day IL (Strained right hamstring)"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "recalled",
-      "player": "Trent Grisham",
-      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-07-03",
@@ -147,10 +153,10 @@
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-07-03",
-      "type": "sent",
-      "player": "Oswaldo Cabrera",
-      "description": "Sent to Minors"
+      "date": "2026-07-02",
+      "type": "released",
+      "player": "Payton Henry",
+      "description": "Released"
     },
     {
       "date": "2026-07-02",
@@ -159,22 +165,16 @@
       "description": "Reinstated from Paternity Leave List"
     },
     {
-      "date": "2026-07-02",
-      "type": "released",
-      "player": "Payton Henry",
-      "description": "Released"
+      "date": "2026-07-01",
+      "type": "sent",
+      "player": "Yovanny Cruz",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-07-01",
       "type": "sent",
       "player": "Trent Grisham",
       "description": "Sent to Minors For Rehabilitation"
-    },
-    {
-      "date": "2026-07-01",
-      "type": "sent",
-      "player": "Yovanny Cruz",
-      "description": "Sent to Minors"
     },
     {
       "date": "2026-06-30",
@@ -226,15 +226,15 @@
     },
     {
       "date": "2026-06-23",
-      "type": "placed",
-      "player": "Ali Sanchez",
-      "description": "Placed on Paternity Leave List"
-    },
-    {
-      "date": "2026-06-23",
       "type": "called up",
       "player": "J.C. Escarra",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-06-23",
+      "type": "placed",
+      "player": "Ali Sanchez",
+      "description": "Placed on Paternity Leave List"
     },
     {
       "date": "2026-06-22",
@@ -250,12 +250,6 @@
     },
     {
       "date": "2026-06-21",
-      "type": "sent",
-      "player": "Elmer Rodriguez",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-06-21",
       "type": "",
       "player": "Austin Wells",
       "description": "Removed From 10-Day IL (Cervical headaches)"
@@ -267,15 +261,21 @@
       "description": "Recalled From Minors Rehab Assignment"
     },
     {
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "type": "sent",
-      "player": "J.C. Escarra",
+      "player": "Elmer Rodriguez",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-06-20",
       "type": "sent",
       "player": "Jacob Bird",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-06-20",
+      "type": "sent",
+      "player": "J.C. Escarra",
       "description": "Sent to Minors"
     },
     {
@@ -298,6 +298,12 @@
     },
     {
       "date": "2026-06-13",
+      "type": "placed",
+      "player": "Trent Grisham",
+      "description": "Placed on 10-Day IL (Strained right hamstring)"
+    },
+    {
+      "date": "2026-06-13",
       "type": "recalled",
       "player": "Jasson Dominguez",
       "description": "Recalled From Minors Rehab Assignment"
@@ -307,12 +313,6 @@
       "type": "",
       "player": "Jasson Dominguez",
       "description": "Removed From 10-Day IL (Sprained left shoulder AC joint)"
-    },
-    {
-      "date": "2026-06-13",
-      "type": "placed",
-      "player": "Trent Grisham",
-      "description": "Placed on 10-Day IL (Strained right hamstring)"
     },
     {
       "date": "2026-06-11",
