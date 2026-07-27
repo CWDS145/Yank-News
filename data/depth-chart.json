@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T10:32:53Z",
+  "updated": "2026-07-27T11:04:04Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -38,7 +38,7 @@
     ],
     "LF": [
       {
-        "name": "Cody Bellinger",
+        "name": "Spencer G. Jones",
         "rank": 1
       }
     ],
@@ -66,11 +66,11 @@
     ],
     "SP": [
       {
-        "name": "Gerrit Cole",
+        "name": "Max Fried",
         "rank": 1
       },
       {
-        "name": "Max Fried",
+        "name": "Gerrit Cole",
         "rank": 2
       },
       {
@@ -139,7 +139,6 @@
     "Camilo Doval",
     "Carlos Rodon",
     "Clarke Schmidt",
-    "Cody Bellinger",
     "David Bednar",
     "Fernando E. Cruz",
     "Gerrit Cole",
@@ -153,6 +152,7 @@
     "Ryan McMahon",
     "Ryan Weathers",
     "Ryan Yarbrough",
+    "Spencer G. Jones",
     "Tim Hill",
     "Trent Grisham",
     "Will Warren"
