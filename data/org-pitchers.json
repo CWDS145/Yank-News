@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T18:53:36Z",
+  "updated": "2026-07-28T19:57:21Z",
   "season": 2026,
   "pitchers": [
     {
@@ -953,6 +953,17 @@
       ]
     },
     {
+      "id": 805128,
+      "name": "Edinzo Marquez",
+      "position": "P",
+      "level": "Low-A",
+      "level_since": "2026-04-01",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "season_levels": []
+    },
+    {
       "id": 695684,
       "name": "Elmer Rodríguez",
       "position": "P",
@@ -1472,6 +1483,43 @@
         "whip_num": 1.4470588235294117,
         "avg": ".257",
         "avg_num": 0.25663716814159293
+      },
+      "season_levels": [
+        "High-A"
+      ]
+    },
+    {
+      "id": 690977,
+      "name": "Jackson Fristoe",
+      "position": "P",
+      "level": "High-A",
+      "level_since": "2026-03-30",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "w": 2,
+        "l": 2,
+        "g": 14,
+        "gs": 0,
+        "cg": 0,
+        "sho": 0,
+        "sv": 0,
+        "svo": 0,
+        "ip": "13.2",
+        "ip_outs": 41,
+        "h": 9,
+        "r": 14,
+        "er": 10,
+        "hr": 1,
+        "hb": 0,
+        "bb": 13,
+        "so": 13,
+        "era": "6.59",
+        "era_num": 6.585365853658536,
+        "whip": "1.61",
+        "whip_num": 1.6097560975609757,
+        "avg": ".184",
+        "avg_num": 0.1836734693877551
       },
       "season_levels": [
         "High-A"
@@ -2229,10 +2277,10 @@
       "id": 812431,
       "name": "Rory Fox",
       "position": "P",
-      "level": "High-A",
-      "level_since": "2026-03-30",
-      "prior_level": null,
-      "prior_level_since": null,
+      "level": "AA",
+      "level_since": "2026-07-28",
+      "prior_level": "High-A",
+      "prior_level_since": "2026-03-30",
       "season": {
         "w": 6,
         "l": 4,
@@ -2560,6 +2608,17 @@
         "AA",
         "High-A"
       ]
+    },
+    {
+      "id": 669740,
+      "name": "Travis MacGregor",
+      "position": "P",
+      "level": "Low-A",
+      "level_since": "2026-07-28",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-03-26",
+      "season": null,
+      "season_levels": []
     },
     {
       "id": 815587,

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T18:49:34Z",
+  "updated": "2026-07-28T19:52:39Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-07-18",
@@ -837,10 +837,10 @@
       "id": 808106,
       "name": "Gabriel Lara",
       "position": "CF",
-      "level": "Low-A",
-      "level_since": "2026-05-12",
-      "prior_level": null,
-      "prior_level_since": null,
+      "level": "High-A",
+      "level_since": "2026-07-28",
+      "prior_level": "Low-A",
+      "prior_level_since": "2026-05-12",
       "season": {
         "ab": 73,
         "k": 22,
@@ -1109,10 +1109,10 @@
       "id": 804944,
       "name": "Jackson Lovich",
       "position": "SS",
-      "level": "Low-A",
-      "level_since": "2026-04-03",
-      "prior_level": null,
-      "prior_level_since": null,
+      "level": "High-A",
+      "level_since": "2026-07-28",
+      "prior_level": "Low-A",
+      "prior_level_since": "2026-04-03",
       "season": {
         "ab": 320,
         "k": 101,
@@ -1392,10 +1392,10 @@
       "id": 691411,
       "name": "Luis Durango",
       "position": "LF",
-      "level": "High-A",
-      "level_since": "2026-06-04",
-      "prior_level": "Low-A",
-      "prior_level_since": "2026-04-26",
+      "level": "AA",
+      "level_since": "2026-07-28",
+      "prior_level": "High-A",
+      "prior_level_since": "2026-06-04",
       "season": {
         "ab": 191,
         "k": 25,
@@ -1959,13 +1959,26 @@
       ]
     },
     {
+      "id": 821648,
+      "name": "Wilberson De Pena",
+      "position": "OF",
+      "level": "Low-A",
+      "level_since": "2026-07-28",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "last_10": null,
+      "season_levels": [],
+      "last_10_levels": []
+    },
+    {
       "id": 701206,
       "name": "Willy Montero",
       "position": "CF",
-      "level": "Low-A",
-      "level_since": "2026-06-27",
-      "prior_level": null,
-      "prior_level_since": null,
+      "level": "High-A",
+      "level_since": "2026-07-28",
+      "prior_level": "Low-A",
+      "prior_level_since": "2026-06-27",
       "season": {
         "ab": 288,
         "k": 83,
@@ -2019,6 +2032,19 @@
       "last_10_levels": [
         "AAA"
       ]
+    },
+    {
+      "id": 829769,
+      "name": "Yostin Pena",
+      "position": "OF",
+      "level": "Low-A",
+      "level_since": "2026-07-28",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "last_10": null,
+      "season_levels": [],
+      "last_10_levels": []
     }
   ]
 }
