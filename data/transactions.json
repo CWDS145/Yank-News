@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T21:55:43Z",
+  "updated": "2026-07-28T22:25:13Z",
   "count": 66,
   "items": [
     {
@@ -82,15 +82,15 @@
     },
     {
       "date": "2026-07-18",
-      "type": "purchased",
-      "player": "Bradley Hanner",
-      "description": "NTR - Purchased From Minors"
-    },
-    {
-      "date": "2026-07-18",
       "type": "sent",
       "player": "Bradley Hanner",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-18",
+      "type": "purchased",
+      "player": "Bradley Hanner",
+      "description": "NTR - Purchased From Minors"
     },
     {
       "date": "2026-07-17",
@@ -124,8 +124,20 @@
     },
     {
       "date": "2026-07-03",
+      "type": "recalled",
+      "player": "Trent Grisham",
+      "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-07-03",
       "type": "sent",
       "player": "Spencer Jones",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "sent",
+      "player": "Oswaldo Cabrera",
       "description": "Sent to Minors"
     },
     {
@@ -136,27 +148,15 @@
     },
     {
       "date": "2026-07-03",
-      "type": "",
-      "player": "Trent Grisham",
-      "description": "Removed From 10-Day IL (Strained right hamstring)"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "recalled",
-      "player": "Trent Grisham",
-      "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "sent",
-      "player": "Oswaldo Cabrera",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-03",
       "type": "placed",
       "player": "Carlos Rodon",
       "description": "Placed on 15-Day IL (Left elbow inflammation)"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "",
+      "player": "Trent Grisham",
+      "description": "Removed From 10-Day IL (Strained right hamstring)"
     },
     {
       "date": "2026-07-02",
@@ -220,15 +220,15 @@
     },
     {
       "date": "2026-06-24",
-      "type": "called up",
-      "player": "Oswaldo Cabrera",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-24",
       "type": "placed",
       "player": "Ryan McMahon",
       "description": "Placed on 10-Day IL (Throat/ear infection)"
+    },
+    {
+      "date": "2026-06-24",
+      "type": "called up",
+      "player": "Oswaldo Cabrera",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-23",
