@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T03:08:04Z",
+  "updated": "2026-07-28T04:34:50Z",
   "count": 65,
   "items": [
     {
@@ -46,12 +46,6 @@
     },
     {
       "date": "2026-07-19",
-      "type": "recalled",
-      "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors (recalled as 27th roster player)"
-    },
-    {
-      "date": "2026-07-19",
       "type": "",
       "player": "Elmer Rodriguez",
       "description": "Return of 27th man"
@@ -69,10 +63,10 @@
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-07-18",
-      "type": "transferred",
-      "player": "Aaron Judge",
-      "description": "Transferred to 60-Day IL (Right rib stress fracture)"
+      "date": "2026-07-19",
+      "type": "recalled",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors (recalled as 27th roster player)"
     },
     {
       "date": "2026-07-18",
@@ -85,6 +79,12 @@
       "type": "sent",
       "player": "Bradley Hanner",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-18",
+      "type": "transferred",
+      "player": "Aaron Judge",
+      "description": "Transferred to 60-Day IL (Right rib stress fracture)"
     },
     {
       "date": "2026-07-17",
@@ -106,14 +106,26 @@
     },
     {
       "date": "2026-07-04",
+      "type": "sent",
+      "player": "Brendan Beck",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-04",
       "type": "called up",
       "player": "Brendan Beck",
       "description": "Called Up from Minors"
     },
     {
-      "date": "2026-07-04",
+      "date": "2026-07-03",
+      "type": "placed",
+      "player": "Carlos Rodon",
+      "description": "Placed on 15-Day IL (Left elbow inflammation)"
+    },
+    {
+      "date": "2026-07-03",
       "type": "sent",
-      "player": "Brendan Beck",
+      "player": "Oswaldo Cabrera",
       "description": "Sent to Minors"
     },
     {
@@ -141,18 +153,6 @@
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-07-03",
-      "type": "placed",
-      "player": "Carlos Rodon",
-      "description": "Placed on 15-Day IL (Left elbow inflammation)"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "sent",
-      "player": "Oswaldo Cabrera",
-      "description": "Sent to Minors"
-    },
-    {
       "date": "2026-07-02",
       "type": "reinstated",
       "player": "David Bednar",
@@ -167,19 +167,25 @@
     {
       "date": "2026-07-01",
       "type": "sent",
-      "player": "Yovanny Cruz",
-      "description": "Sent to Minors"
+      "player": "Trent Grisham",
+      "description": "Sent to Minors For Rehabilitation"
     },
     {
       "date": "2026-07-01",
       "type": "sent",
-      "player": "Trent Grisham",
-      "description": "Sent to Minors For Rehabilitation"
+      "player": "Yovanny Cruz",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-06-30",
       "type": "called up",
       "player": "Yovanny Cruz",
+      "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "called up",
+      "player": "Jacob Bird",
       "description": "Called Up from Minors"
     },
     {
@@ -193,12 +199,6 @@
       "type": "sent",
       "player": "Yerry De Los Santos",
       "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-06-29",
-      "type": "called up",
-      "player": "Jacob Bird",
-      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-26",
@@ -214,21 +214,15 @@
     },
     {
       "date": "2026-06-24",
-      "type": "called up",
-      "player": "Oswaldo Cabrera",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-24",
       "type": "placed",
       "player": "Ryan McMahon",
       "description": "Placed on 10-Day IL (Throat/ear infection)"
     },
     {
-      "date": "2026-06-23",
-      "type": "placed",
-      "player": "Ali Sanchez",
-      "description": "Placed on Paternity Leave List"
+      "date": "2026-06-24",
+      "type": "called up",
+      "player": "Oswaldo Cabrera",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-23",
@@ -237,10 +231,22 @@
       "description": "Called Up from Minors"
     },
     {
+      "date": "2026-06-23",
+      "type": "placed",
+      "player": "Ali Sanchez",
+      "description": "Placed on Paternity Leave List"
+    },
+    {
       "date": "2026-06-22",
       "type": "called up",
       "player": "Yerry De Los Santos",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-06-21",
+      "type": "",
+      "player": "Austin Wells",
+      "description": "Removed From 10-Day IL (Cervical headaches)"
     },
     {
       "date": "2026-06-21",
@@ -256,12 +262,6 @@
     },
     {
       "date": "2026-06-21",
-      "type": "",
-      "player": "Austin Wells",
-      "description": "Removed From 10-Day IL (Cervical headaches)"
-    },
-    {
-      "date": "2026-06-21",
       "type": "sent",
       "player": "Elmer Rodriguez",
       "description": "Sent to Minors"
@@ -269,13 +269,13 @@
     {
       "date": "2026-06-20",
       "type": "sent",
-      "player": "J.C. Escarra",
+      "player": "Jacob Bird",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-06-20",
       "type": "sent",
-      "player": "Jacob Bird",
+      "player": "J.C. Escarra",
       "description": "Sent to Minors"
     },
     {
@@ -298,6 +298,12 @@
     },
     {
       "date": "2026-06-13",
+      "type": "placed",
+      "player": "Trent Grisham",
+      "description": "Placed on 10-Day IL (Strained right hamstring)"
+    },
+    {
+      "date": "2026-06-13",
       "type": "recalled",
       "player": "Jasson Dominguez",
       "description": "Recalled From Minors Rehab Assignment"
@@ -307,18 +313,6 @@
       "type": "",
       "player": "Jasson Dominguez",
       "description": "Removed From 10-Day IL (Sprained left shoulder AC joint)"
-    },
-    {
-      "date": "2026-06-13",
-      "type": "placed",
-      "player": "Trent Grisham",
-      "description": "Placed on 10-Day IL (Strained right hamstring)"
-    },
-    {
-      "date": "2026-06-11",
-      "type": "sent",
-      "player": "Angel Chivilli",
-      "description": "Sent to Minors"
     },
     {
       "date": "2026-06-11",
@@ -333,16 +327,16 @@
       "description": "Removed From 15-Day IL (Right shoulder discomfort)"
     },
     {
+      "date": "2026-06-11",
+      "type": "sent",
+      "player": "Angel Chivilli",
+      "description": "Sent to Minors"
+    },
+    {
       "date": "2026-06-10",
       "type": "sent",
       "player": "Angel Chivilli",
       "description": "Sent to Minors For Rehabilitation"
-    },
-    {
-      "date": "2026-06-06",
-      "type": "called up",
-      "player": "J.C. Escarra",
-      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-06",
@@ -357,10 +351,10 @@
       "description": "Placed on 10-Day IL (Cervical headaches)"
     },
     {
-      "date": "2026-06-05",
-      "type": "sent",
-      "player": "Jasson Dominguez",
-      "description": "Sent to Minors For Rehabilitation"
+      "date": "2026-06-06",
+      "type": "called up",
+      "player": "J.C. Escarra",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-05",
@@ -379,6 +373,12 @@
       "type": "called up",
       "player": "Spencer Jones",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-06-05",
+      "type": "sent",
+      "player": "Jasson Dominguez",
+      "description": "Sent to Minors For Rehabilitation"
     },
     {
       "date": "2026-06-02",
