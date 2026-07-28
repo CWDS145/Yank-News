@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T21:29:25Z",
+  "updated": "2026-07-28T21:55:43Z",
   "count": 66,
   "items": [
     {
@@ -10,15 +10,15 @@
     },
     {
       "date": "2026-07-26",
-      "type": "called up",
-      "player": "Spencer Jones",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-07-26",
       "type": "placed",
       "player": "Cody Bellinger",
       "description": "Placed on 10-Day IL (Strained left hamstring - out 4-6 weeks)"
+    },
+    {
+      "date": "2026-07-26",
+      "type": "called up",
+      "player": "Spencer Jones",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-07-22",
