@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T19:57:21Z",
+  "updated": "2026-07-28T20:48:39Z",
   "season": 2026,
   "pitchers": [
     {
@@ -2011,43 +2011,6 @@
         "AA",
         "High-A",
         "Low-A"
-      ]
-    },
-    {
-      "id": 702046,
-      "name": "Matt Keating",
-      "position": "P",
-      "level": "AA",
-      "level_since": "2026-03-30",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "w": 2,
-        "l": 1,
-        "g": 27,
-        "gs": 0,
-        "cg": 0,
-        "sho": 0,
-        "sv": 0,
-        "svo": 1,
-        "ip": "26.1",
-        "ip_outs": 79,
-        "h": 20,
-        "r": 15,
-        "er": 14,
-        "hr": 5,
-        "hb": 1,
-        "bb": 20,
-        "so": 39,
-        "era": "4.78",
-        "era_num": 4.784810126582278,
-        "whip": "1.52",
-        "whip_num": 1.518987341772152,
-        "avg": ".204",
-        "avg_num": 0.20408163265306123
-      },
-      "season_levels": [
-        "AA"
       ]
     },
     {

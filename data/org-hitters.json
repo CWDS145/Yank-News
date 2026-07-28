@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T19:52:39Z",
+  "updated": "2026-07-28T20:44:03Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-07-18",
@@ -312,6 +312,28 @@
       ]
     },
     {
+      "id": 542194,
+      "name": "Christian Bethancourt",
+      "position": "C",
+      "level": "AAA",
+      "level_since": "2026-07-28",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 206,
+        "k": 44,
+        "avg": ".262",
+        "ops": ".775",
+        "avg_num": 0.2621359223300971,
+        "ops_num": 0.7751103265666373
+      },
+      "last_10": null,
+      "season_levels": [
+        "AAA"
+      ],
+      "last_10_levels": []
+    },
+    {
       "id": 820991,
       "name": "Christofer Reyes",
       "position": "SS",
@@ -408,10 +430,10 @@
       "id": 702068,
       "name": "Cole Gabrielson",
       "position": "CF",
-      "level": "AA",
-      "level_since": "2026-07-21",
-      "prior_level": "AAA",
-      "prior_level_since": "2026-06-17",
+      "level": "AAA",
+      "level_since": "2026-07-28",
+      "prior_level": "AA",
+      "prior_level_since": "2026-07-21",
       "season": {
         "ab": 156,
         "k": 36,
@@ -594,37 +616,6 @@
       ]
     },
     {
-      "id": 687554,
-      "name": "DJ Gladney",
-      "position": "LF",
-      "level": "AA",
-      "level_since": null,
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 324,
-        "k": 121,
-        "avg": ".269",
-        "ops": ".829",
-        "avg_num": 0.26851851851851855,
-        "ops_num": 0.8289291163822999
-      },
-      "last_10": {
-        "ab": 34,
-        "k": 12,
-        "avg": ".382",
-        "ops": "1.106",
-        "avg_num": 0.38235294117647056,
-        "ops_num": 1.1058823529411765
-      },
-      "season_levels": [
-        "AA"
-      ],
-      "last_10_levels": [
-        "AA"
-      ]
-    },
-    {
       "id": 668752,
       "name": "Duke Ellis",
       "position": "CF",
@@ -685,28 +676,6 @@
       "last_10_levels": [
         "Low-A"
       ]
-    },
-    {
-      "id": 702750,
-      "name": "Edinson Duran",
-      "position": "C",
-      "level": "AAA",
-      "level_since": "2026-04-02",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 5,
-        "k": 1,
-        "avg": ".200",
-        "ops": ".733",
-        "avg_num": 0.2,
-        "ops_num": 0.7333333333333334
-      },
-      "last_10": null,
-      "season_levels": [
-        "AAA"
-      ],
-      "last_10_levels": []
     },
     {
       "id": 800246,
@@ -1198,6 +1167,29 @@
       "last_10_levels": [
         "MLB"
       ]
+    },
+    {
+      "id": 701816,
+      "name": "John Cristino",
+      "position": "C",
+      "level": "AA",
+      "level_since": "2026-06-09",
+      "prior_level": "Low-A",
+      "prior_level_since": "2026-05-02",
+      "season": {
+        "ab": 33,
+        "k": 15,
+        "avg": ".152",
+        "ops": ".573",
+        "avg_num": 0.15151515151515152,
+        "ops_num": 0.5727272727272728
+      },
+      "last_10": null,
+      "season_levels": [
+        "AA",
+        "Low-A"
+      ],
+      "last_10_levels": []
     },
     {
       "id": 694742,
