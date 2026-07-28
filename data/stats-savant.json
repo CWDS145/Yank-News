@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T12:53:41Z",
+  "updated": "2026-07-28T13:54:33Z",
   "season": 2026,
   "players": [
     {
@@ -53,7 +53,7 @@
       "statcast_batting": null,
       "sprint_speed": {
         "sprint_speed": 28.5,
-        "hp_to_1b": 4.43,
+        "hp_to_1b": 4.42,
         "bolts": 3
       }
     },
@@ -104,30 +104,30 @@
       "id": 700250,
       "name": "Ben Rice",
       "expected_batting": {
-        "pa": 428,
-        "est_ba": 0.272,
-        "est_slg": 0.523,
+        "pa": 433,
+        "est_ba": 0.273,
+        "est_slg": 0.522,
         "est_woba": 0.379,
-        "ba": 0.273,
-        "slg": 0.586,
-        "woba": 0.398,
-        "est_woba_minus_woba": -0.019
+        "ba": 0.275,
+        "slg": 0.585,
+        "woba": 0.399,
+        "est_woba_minus_woba": -0.02
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 272,
-        "avg_ev": 92.3,
+        "attempts": 275,
+        "avg_ev": 92.1,
         "max_ev": 110.9,
-        "avg_la": 14.1,
-        "barrel_pct": 15.8,
-        "barrel_per_pa": 10,
-        "ev95plus": 131,
-        "ev95_pct": 48.2,
+        "avg_la": 13.7,
+        "barrel_pct": 15.6,
+        "barrel_per_pa": 9.9,
+        "ev95plus": 132,
+        "ev95_pct": 48,
         "hardhit_pct": null
       },
       "sprint_speed": {
-        "sprint_speed": 26.7,
-        "hp_to_1b": 4.56,
+        "sprint_speed": 26.8,
+        "hp_to_1b": 4.57,
         "bolts": null
       }
     },
@@ -329,65 +329,65 @@
       "expected_pitching": null,
       "statcast_batting": null,
       "sprint_speed": {
-        "sprint_speed": 28.6,
-        "hp_to_1b": 4.25,
-        "bolts": 8
+        "sprint_speed": 28.8,
+        "hp_to_1b": 4.26,
+        "bolts": 9
       }
     },
     {
       "id": 665862,
       "name": "Jazz Chisholm Jr.",
       "expected_batting": {
-        "pa": 387,
+        "pa": 391,
         "est_ba": 0.209,
         "est_slg": 0.374,
-        "est_woba": 0.291,
-        "ba": 0.223,
-        "slg": 0.41,
-        "woba": 0.308,
-        "est_woba_minus_woba": -0.017
+        "est_woba": 0.29,
+        "ba": 0.226,
+        "slg": 0.414,
+        "woba": 0.311,
+        "est_woba_minus_woba": -0.021
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 232,
-        "avg_ev": 90.8,
+        "attempts": 234,
+        "avg_ev": 90.9,
         "max_ev": 112.4,
         "avg_la": 16.8,
-        "barrel_pct": 9.5,
-        "barrel_per_pa": 5.7,
-        "ev95plus": 97,
-        "ev95_pct": 41.8,
+        "barrel_pct": 9.8,
+        "barrel_per_pa": 5.9,
+        "ev95plus": 98,
+        "ev95_pct": 41.9,
         "hardhit_pct": null
       },
       "sprint_speed": {
         "sprint_speed": 28.4,
         "hp_to_1b": 4.24,
-        "bolts": 6
+        "bolts": 7
       }
     },
     {
       "id": 676609,
       "name": "José Caballero",
       "expected_batting": {
-        "pa": 325,
-        "est_ba": 0.223,
-        "est_slg": 0.323,
+        "pa": 329,
+        "est_ba": 0.221,
+        "est_slg": 0.32,
         "est_woba": 0.266,
-        "ba": 0.238,
-        "slg": 0.376,
-        "woba": 0.292,
-        "est_woba_minus_woba": -0.026
+        "ba": 0.236,
+        "slg": 0.372,
+        "woba": 0.29,
+        "est_woba_minus_woba": -0.024
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 226,
-        "avg_ev": 83.8,
+        "attempts": 228,
+        "avg_ev": 83.9,
         "max_ev": 108.5,
-        "avg_la": 12.2,
+        "avg_la": 12.5,
         "barrel_pct": 3.5,
-        "barrel_per_pa": 2.5,
+        "barrel_per_pa": 2.4,
         "ev95plus": 56,
-        "ev95_pct": 24.9,
+        "ev95_pct": 24.7,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -446,25 +446,25 @@
       "id": 502671,
       "name": "Paul Goldschmidt",
       "expected_batting": {
-        "pa": 291,
-        "est_ba": 0.231,
-        "est_slg": 0.417,
-        "est_woba": 0.307,
+        "pa": 296,
+        "est_ba": 0.232,
+        "est_slg": 0.42,
+        "est_woba": 0.31,
         "ba": 0.258,
-        "slg": 0.483,
-        "woba": 0.344,
-        "est_woba_minus_woba": -0.037
+        "slg": 0.48,
+        "woba": 0.343,
+        "est_woba_minus_woba": -0.033
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 197,
-        "avg_ev": 86.5,
+        "attempts": 201,
+        "avg_ev": 86.4,
         "max_ev": 109.8,
-        "avg_la": 14.1,
-        "barrel_pct": 11.2,
-        "barrel_per_pa": 7.6,
-        "ev95plus": 74,
-        "ev95_pct": 37.6,
+        "avg_la": 13.6,
+        "barrel_pct": 11.4,
+        "barrel_per_pa": 7.8,
+        "ev95plus": 75,
+        "ev95_pct": 37.3,
         "hardhit_pct": null
       },
       "sprint_speed": {
@@ -545,9 +545,9 @@
       "expected_pitching": null,
       "statcast_batting": null,
       "sprint_speed": {
-        "sprint_speed": 28.5,
+        "sprint_speed": 28.8,
         "hp_to_1b": null,
-        "bolts": 4
+        "bolts": 5
       }
     },
     {
@@ -571,30 +571,30 @@
       "id": 663757,
       "name": "Trent Grisham",
       "expected_batting": {
-        "pa": 340,
+        "pa": 341,
         "est_ba": 0.25,
         "est_slg": 0.44,
-        "est_woba": 0.346,
-        "ba": 0.216,
-        "slg": 0.39,
-        "woba": 0.314,
+        "est_woba": 0.345,
+        "ba": 0.215,
+        "slg": 0.389,
+        "woba": 0.313,
         "est_woba_minus_woba": 0.032
       },
       "expected_pitching": null,
       "statcast_batting": {
-        "attempts": 240,
-        "avg_ev": 90.8,
+        "attempts": 241,
+        "avg_ev": 90.9,
         "max_ev": 111.6,
-        "avg_la": 17.3,
+        "avg_la": 17.2,
         "barrel_pct": 10.4,
-        "barrel_per_pa": 7.4,
-        "ev95plus": 108,
-        "ev95_pct": 45,
+        "barrel_per_pa": 7.3,
+        "ev95plus": 109,
+        "ev95_pct": 45.2,
         "hardhit_pct": null
       },
       "sprint_speed": {
         "sprint_speed": 26.7,
-        "hp_to_1b": 4.53,
+        "hp_to_1b": 4.52,
         "bolts": null
       }
     },
