@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T23:24:05Z",
+  "updated": "2026-07-28T23:49:40Z",
   "count": 66,
   "items": [
     {
@@ -10,15 +10,15 @@
     },
     {
       "date": "2026-07-26",
-      "type": "placed",
-      "player": "Cody Bellinger",
-      "description": "Placed on 10-Day IL (Strained left hamstring - out 4-6 weeks)"
-    },
-    {
-      "date": "2026-07-26",
       "type": "called up",
       "player": "Spencer Jones",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-07-26",
+      "type": "placed",
+      "player": "Cody Bellinger",
+      "description": "Placed on 10-Day IL (Strained left hamstring - out 4-6 weeks)"
     },
     {
       "date": "2026-07-22",
@@ -76,9 +76,9 @@
     },
     {
       "date": "2026-07-18",
-      "type": "purchased",
+      "type": "sent",
       "player": "Bradley Hanner",
-      "description": "NTR - Purchased From Minors"
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-07-18",
@@ -88,9 +88,9 @@
     },
     {
       "date": "2026-07-18",
-      "type": "sent",
+      "type": "purchased",
       "player": "Bradley Hanner",
-      "description": "Sent to Minors"
+      "description": "NTR - Purchased From Minors"
     },
     {
       "date": "2026-07-17",
@@ -124,9 +124,9 @@
     },
     {
       "date": "2026-07-03",
-      "type": "",
-      "player": "Trent Grisham",
-      "description": "Removed From 10-Day IL (Strained right hamstring)"
+      "type": "sent",
+      "player": "Oswaldo Cabrera",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-07-03",
@@ -148,9 +148,9 @@
     },
     {
       "date": "2026-07-03",
-      "type": "sent",
-      "player": "Oswaldo Cabrera",
-      "description": "Sent to Minors"
+      "type": "",
+      "player": "Trent Grisham",
+      "description": "Removed From 10-Day IL (Strained right hamstring)"
     },
     {
       "date": "2026-07-03",
@@ -196,15 +196,15 @@
     },
     {
       "date": "2026-06-29",
-      "type": "placed",
-      "player": "David Bednar",
-      "description": "Placed on Paternity Leave List"
-    },
-    {
-      "date": "2026-06-29",
       "type": "called up",
       "player": "Jacob Bird",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "placed",
+      "player": "David Bednar",
+      "description": "Placed on Paternity Leave List"
     },
     {
       "date": "2026-06-26",
@@ -232,15 +232,15 @@
     },
     {
       "date": "2026-06-23",
-      "type": "called up",
-      "player": "J.C. Escarra",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-23",
       "type": "placed",
       "player": "Ali Sanchez",
       "description": "Placed on Paternity Leave List"
+    },
+    {
+      "date": "2026-06-23",
+      "type": "called up",
+      "player": "J.C. Escarra",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-22",
@@ -250,18 +250,6 @@
     },
     {
       "date": "2026-06-21",
-      "type": "recalled",
-      "player": "Austin Wells",
-      "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-06-21",
-      "type": "",
-      "player": "Austin Wells",
-      "description": "Removed From 10-Day IL (Cervical headaches)"
-    },
-    {
-      "date": "2026-06-21",
       "type": "called up",
       "player": "Elmer Rodriguez",
       "description": "Called Up from Minors"
@@ -273,15 +261,27 @@
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-06-20",
-      "type": "sent",
-      "player": "J.C. Escarra",
-      "description": "Sent to Minors"
+      "date": "2026-06-21",
+      "type": "",
+      "player": "Austin Wells",
+      "description": "Removed From 10-Day IL (Cervical headaches)"
+    },
+    {
+      "date": "2026-06-21",
+      "type": "recalled",
+      "player": "Austin Wells",
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-06-20",
       "type": "sent",
       "player": "Jacob Bird",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-06-20",
+      "type": "sent",
+      "player": "J.C. Escarra",
       "description": "Sent to Minors"
     },
     {
