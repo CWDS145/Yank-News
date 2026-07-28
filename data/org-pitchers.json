@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T00:15:49Z",
+  "updated": "2026-07-28T00:58:34Z",
   "season": 2026,
   "pitchers": [
     {
@@ -7,7 +7,7 @@
       "name": "Aaron Nixon",
       "position": "P",
       "level": "High-A",
-      "level_since": null,
+      "level_since": "2026-03-30",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -83,7 +83,7 @@
       "name": "Allen Facundo",
       "position": "P",
       "level": "High-A",
-      "level_since": null,
+      "level_since": "2026-04-27",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -2050,27 +2050,27 @@
       "season": {
         "w": 4,
         "l": 3,
-        "g": 12,
-        "gs": 12,
+        "g": 13,
+        "gs": 13,
         "cg": 0,
         "sho": 0,
         "sv": 0,
         "svo": 0,
-        "ip": "69.2",
-        "ip_outs": 209,
-        "h": 49,
-        "r": 24,
-        "er": 24,
+        "ip": "71.2",
+        "ip_outs": 215,
+        "h": 54,
+        "r": 27,
+        "er": 27,
         "hr": 2,
         "hb": 2,
-        "bb": 20,
-        "so": 60,
-        "era": "3.10",
-        "era_num": 3.1004784688995217,
-        "whip": "0.99",
-        "whip_num": 0.9904306220095693,
-        "avg": ".200",
-        "avg_num": 0.2
+        "bb": 21,
+        "so": 64,
+        "era": "3.39",
+        "era_num": 3.390697674418605,
+        "whip": "1.05",
+        "whip_num": 1.0465116279069768,
+        "avg": ".212",
+        "avg_num": 0.21176470588235294
       },
       "season_levels": [
         "MLB",
