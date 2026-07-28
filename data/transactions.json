@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T16:13:26Z",
+  "updated": "2026-07-28T17:01:29Z",
   "count": 65,
   "items": [
     {
@@ -118,21 +118,15 @@
     },
     {
       "date": "2026-07-03",
-      "type": "recalled",
-      "player": "Trent Grisham",
-      "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "sent",
-      "player": "Spencer Jones",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-03",
       "type": "sent",
       "player": "Oswaldo Cabrera",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "recalled",
+      "player": "Trent Grisham",
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-07-03",
@@ -142,21 +136,21 @@
     },
     {
       "date": "2026-07-03",
+      "type": "",
+      "player": "Ryan McMahon",
+      "description": "Removed From 10-Day IL (Throat/ear infection)"
+    },
+    {
+      "date": "2026-07-03",
       "type": "placed",
       "player": "Carlos Rodon",
       "description": "Placed on 15-Day IL (Left elbow inflammation)"
     },
     {
       "date": "2026-07-03",
-      "type": "",
-      "player": "Ryan McMahon",
-      "description": "Removed From 10-Day IL (Throat/ear infection)"
-    },
-    {
-      "date": "2026-07-02",
-      "type": "reinstated",
-      "player": "David Bednar",
-      "description": "Reinstated from Paternity Leave List"
+      "type": "sent",
+      "player": "Spencer Jones",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-07-02",
@@ -165,16 +159,22 @@
       "description": "Released"
     },
     {
-      "date": "2026-07-01",
-      "type": "sent",
-      "player": "Yovanny Cruz",
-      "description": "Sent to Minors"
+      "date": "2026-07-02",
+      "type": "reinstated",
+      "player": "David Bednar",
+      "description": "Reinstated from Paternity Leave List"
     },
     {
       "date": "2026-07-01",
       "type": "sent",
       "player": "Trent Grisham",
       "description": "Sent to Minors For Rehabilitation"
+    },
+    {
+      "date": "2026-07-01",
+      "type": "sent",
+      "player": "Yovanny Cruz",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-06-30",
@@ -190,15 +190,15 @@
     },
     {
       "date": "2026-06-29",
-      "type": "sent",
-      "player": "Yerry De Los Santos",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-06-29",
       "type": "called up",
       "player": "Jacob Bird",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "sent",
+      "player": "Yerry De Los Santos",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-06-26",
@@ -304,15 +304,15 @@
     },
     {
       "date": "2026-06-13",
-      "type": "placed",
-      "player": "Trent Grisham",
-      "description": "Placed on 10-Day IL (Strained right hamstring)"
-    },
-    {
-      "date": "2026-06-13",
       "type": "recalled",
       "player": "Jasson Dominguez",
       "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-06-13",
+      "type": "placed",
+      "player": "Trent Grisham",
+      "description": "Placed on 10-Day IL (Strained right hamstring)"
     },
     {
       "date": "2026-06-11",
