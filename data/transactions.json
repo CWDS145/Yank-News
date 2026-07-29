@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T17:31:30Z",
+  "updated": "2026-07-29T18:25:45Z",
   "count": 66,
   "items": [
     {
@@ -76,12 +76,6 @@
     },
     {
       "date": "2026-07-18",
-      "type": "purchased",
-      "player": "Bradley Hanner",
-      "description": "NTR - Purchased From Minors"
-    },
-    {
-      "date": "2026-07-18",
       "type": "transferred",
       "player": "Aaron Judge",
       "description": "Transferred to 60-Day IL (Right rib stress fracture)"
@@ -91,6 +85,12 @@
       "type": "sent",
       "player": "Bradley Hanner",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-18",
+      "type": "purchased",
+      "player": "Bradley Hanner",
+      "description": "NTR - Purchased From Minors"
     },
     {
       "date": "2026-07-17",
@@ -124,12 +124,6 @@
     },
     {
       "date": "2026-07-03",
-      "type": "placed",
-      "player": "Carlos Rodon",
-      "description": "Placed on 15-Day IL (Left elbow inflammation)"
-    },
-    {
-      "date": "2026-07-03",
       "type": "sent",
       "player": "Spencer Jones",
       "description": "Sent to Minors"
@@ -148,6 +142,12 @@
     },
     {
       "date": "2026-07-03",
+      "type": "placed",
+      "player": "Carlos Rodon",
+      "description": "Placed on 15-Day IL (Left elbow inflammation)"
+    },
+    {
+      "date": "2026-07-03",
       "type": "sent",
       "player": "Oswaldo Cabrera",
       "description": "Sent to Minors"
@@ -160,15 +160,15 @@
     },
     {
       "date": "2026-07-02",
-      "type": "reinstated",
-      "player": "David Bednar",
-      "description": "Reinstated from Paternity Leave List"
-    },
-    {
-      "date": "2026-07-02",
       "type": "released",
       "player": "Payton Henry",
       "description": "Released"
+    },
+    {
+      "date": "2026-07-02",
+      "type": "reinstated",
+      "player": "David Bednar",
+      "description": "Reinstated from Paternity Leave List"
     },
     {
       "date": "2026-07-01",
