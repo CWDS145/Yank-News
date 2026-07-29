@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T14:17:26Z",
+  "updated": "2026-07-29T15:15:37Z",
   "count": 66,
   "items": [
     {
@@ -112,21 +112,15 @@
     },
     {
       "date": "2026-07-04",
-      "type": "called up",
-      "player": "Brendan Beck",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-07-04",
       "type": "sent",
       "player": "Brendan Beck",
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-07-03",
-      "type": "placed",
-      "player": "Carlos Rodon",
-      "description": "Placed on 15-Day IL (Left elbow inflammation)"
+      "date": "2026-07-04",
+      "type": "called up",
+      "player": "Brendan Beck",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-07-03",
@@ -137,8 +131,8 @@
     {
       "date": "2026-07-03",
       "type": "",
-      "player": "Ryan McMahon",
-      "description": "Removed From 10-Day IL (Throat/ear infection)"
+      "player": "Trent Grisham",
+      "description": "Removed From 10-Day IL (Strained right hamstring)"
     },
     {
       "date": "2026-07-03",
@@ -148,9 +142,9 @@
     },
     {
       "date": "2026-07-03",
-      "type": "",
-      "player": "Trent Grisham",
-      "description": "Removed From 10-Day IL (Strained right hamstring)"
+      "type": "placed",
+      "player": "Carlos Rodon",
+      "description": "Placed on 15-Day IL (Left elbow inflammation)"
     },
     {
       "date": "2026-07-03",
@@ -159,10 +153,10 @@
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-07-02",
-      "type": "reinstated",
-      "player": "David Bednar",
-      "description": "Reinstated from Paternity Leave List"
+      "date": "2026-07-03",
+      "type": "",
+      "player": "Ryan McMahon",
+      "description": "Removed From 10-Day IL (Throat/ear infection)"
     },
     {
       "date": "2026-07-02",
@@ -171,16 +165,22 @@
       "description": "Released"
     },
     {
-      "date": "2026-07-01",
-      "type": "sent",
-      "player": "Yovanny Cruz",
-      "description": "Sent to Minors"
+      "date": "2026-07-02",
+      "type": "reinstated",
+      "player": "David Bednar",
+      "description": "Reinstated from Paternity Leave List"
     },
     {
       "date": "2026-07-01",
       "type": "sent",
       "player": "Trent Grisham",
       "description": "Sent to Minors For Rehabilitation"
+    },
+    {
+      "date": "2026-07-01",
+      "type": "sent",
+      "player": "Yovanny Cruz",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-06-30",
@@ -190,9 +190,9 @@
     },
     {
       "date": "2026-06-29",
-      "type": "placed",
-      "player": "David Bednar",
-      "description": "Placed on Paternity Leave List"
+      "type": "called up",
+      "player": "Jacob Bird",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-29",
@@ -202,9 +202,9 @@
     },
     {
       "date": "2026-06-29",
-      "type": "called up",
-      "player": "Jacob Bird",
-      "description": "Called Up from Minors"
+      "type": "placed",
+      "player": "David Bednar",
+      "description": "Placed on Paternity Leave List"
     },
     {
       "date": "2026-06-26",
@@ -220,21 +220,15 @@
     },
     {
       "date": "2026-06-24",
-      "type": "called up",
-      "player": "Oswaldo Cabrera",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-24",
       "type": "placed",
       "player": "Ryan McMahon",
       "description": "Placed on 10-Day IL (Throat/ear infection)"
     },
     {
-      "date": "2026-06-23",
-      "type": "placed",
-      "player": "Ali Sanchez",
-      "description": "Placed on Paternity Leave List"
+      "date": "2026-06-24",
+      "type": "called up",
+      "player": "Oswaldo Cabrera",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-23",
@@ -243,15 +237,15 @@
       "description": "Called Up from Minors"
     },
     {
+      "date": "2026-06-23",
+      "type": "placed",
+      "player": "Ali Sanchez",
+      "description": "Placed on Paternity Leave List"
+    },
+    {
       "date": "2026-06-22",
       "type": "called up",
       "player": "Yerry De Los Santos",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-21",
-      "type": "called up",
-      "player": "Elmer Rodriguez",
       "description": "Called Up from Minors"
     },
     {
@@ -273,6 +267,12 @@
       "description": "Sent to Minors"
     },
     {
+      "date": "2026-06-21",
+      "type": "called up",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors"
+    },
+    {
       "date": "2026-06-20",
       "type": "sent",
       "player": "J.C. Escarra",
@@ -292,15 +292,15 @@
     },
     {
       "date": "2026-06-16",
-      "type": "sent",
-      "player": "Austin Wells",
-      "description": "Sent to Minors For Rehabilitation"
-    },
-    {
-      "date": "2026-06-16",
       "type": "released",
       "player": "Seth Brown",
       "description": "Released"
+    },
+    {
+      "date": "2026-06-16",
+      "type": "sent",
+      "player": "Austin Wells",
+      "description": "Sent to Minors For Rehabilitation"
     },
     {
       "date": "2026-06-13",
@@ -322,15 +322,15 @@
     },
     {
       "date": "2026-06-11",
-      "type": "",
-      "player": "Angel Chivilli",
-      "description": "Removed From 15-Day IL (Right shoulder discomfort)"
-    },
-    {
-      "date": "2026-06-11",
       "type": "sent",
       "player": "Angel Chivilli",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-06-11",
+      "type": "",
+      "player": "Angel Chivilli",
+      "description": "Removed From 15-Day IL (Right shoulder discomfort)"
     },
     {
       "date": "2026-06-11",
