@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T23:25:17Z",
+  "updated": "2026-07-30T23:50:02Z",
   "count": 65,
   "items": [
     {
@@ -22,12 +22,6 @@
     },
     {
       "date": "2026-07-22",
-      "type": "recalled",
-      "player": "Spencer Jones",
-      "description": "Called Up from Minors (recalled as 27th roster player)"
-    },
-    {
-      "date": "2026-07-22",
       "type": "sent",
       "player": "Kervin Castro",
       "description": "Sent to Minors"
@@ -41,13 +35,31 @@
     {
       "date": "2026-07-22",
       "type": "",
-      "player": "Max Fried",
-      "description": "Removed From 15-Day IL (Left elbow bone bruise)"
+      "player": "Spencer Jones",
+      "description": "Return of 27th man"
+    },
+    {
+      "date": "2026-07-22",
+      "type": "recalled",
+      "player": "Spencer Jones",
+      "description": "Called Up from Minors (recalled as 27th roster player)"
     },
     {
       "date": "2026-07-22",
       "type": "",
-      "player": "Spencer Jones",
+      "player": "Max Fried",
+      "description": "Removed From 15-Day IL (Left elbow bone bruise)"
+    },
+    {
+      "date": "2026-07-19",
+      "type": "sent",
+      "player": "Jacob Bird",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-19",
+      "type": "",
+      "player": "Elmer Rodriguez",
       "description": "Return of 27th man"
     },
     {
@@ -58,21 +70,15 @@
     },
     {
       "date": "2026-07-19",
-      "type": "sent",
-      "player": "Jacob Bird",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-19",
       "type": "recalled",
       "player": "Elmer Rodriguez",
       "description": "Called Up from Minors (recalled as 27th roster player)"
     },
     {
-      "date": "2026-07-19",
-      "type": "",
-      "player": "Elmer Rodriguez",
-      "description": "Return of 27th man"
+      "date": "2026-07-18",
+      "type": "purchased",
+      "player": "Bradley Hanner",
+      "description": "NTR - Purchased From Minors"
     },
     {
       "date": "2026-07-18",
@@ -85,12 +91,6 @@
       "type": "sent",
       "player": "Bradley Hanner",
       "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-18",
-      "type": "purchased",
-      "player": "Bradley Hanner",
-      "description": "NTR - Purchased From Minors"
     },
     {
       "date": "2026-07-17",
@@ -125,26 +125,26 @@
     {
       "date": "2026-07-03",
       "type": "",
-      "player": "Ryan McMahon",
-      "description": "Removed From 10-Day IL (Throat/ear infection)"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "",
       "player": "Trent Grisham",
       "description": "Removed From 10-Day IL (Strained right hamstring)"
     },
     {
       "date": "2026-07-03",
-      "type": "sent",
-      "player": "Oswaldo Cabrera",
-      "description": "Sent to Minors"
+      "type": "",
+      "player": "Ryan McMahon",
+      "description": "Removed From 10-Day IL (Throat/ear infection)"
     },
     {
       "date": "2026-07-03",
       "type": "recalled",
       "player": "Trent Grisham",
       "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "sent",
+      "player": "Spencer Jones",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-07-03",
@@ -155,14 +155,8 @@
     {
       "date": "2026-07-03",
       "type": "sent",
-      "player": "Spencer Jones",
+      "player": "Oswaldo Cabrera",
       "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-02",
-      "type": "released",
-      "player": "Payton Henry",
-      "description": "Released"
     },
     {
       "date": "2026-07-02",
@@ -171,10 +165,10 @@
       "description": "Reinstated from Paternity Leave List"
     },
     {
-      "date": "2026-07-01",
-      "type": "sent",
-      "player": "Trent Grisham",
-      "description": "Sent to Minors For Rehabilitation"
+      "date": "2026-07-02",
+      "type": "released",
+      "player": "Payton Henry",
+      "description": "Released"
     },
     {
       "date": "2026-07-01",
@@ -183,15 +177,15 @@
       "description": "Sent to Minors"
     },
     {
+      "date": "2026-07-01",
+      "type": "sent",
+      "player": "Trent Grisham",
+      "description": "Sent to Minors For Rehabilitation"
+    },
+    {
       "date": "2026-06-30",
       "type": "called up",
       "player": "Yovanny Cruz",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-29",
-      "type": "called up",
-      "player": "Jacob Bird",
       "description": "Called Up from Minors"
     },
     {
@@ -205,6 +199,12 @@
       "type": "sent",
       "player": "Yerry De Los Santos",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "called up",
+      "player": "Jacob Bird",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-26",
@@ -220,27 +220,27 @@
     },
     {
       "date": "2026-06-24",
-      "type": "placed",
-      "player": "Ryan McMahon",
-      "description": "Placed on 10-Day IL (Throat/ear infection)"
-    },
-    {
-      "date": "2026-06-24",
       "type": "called up",
       "player": "Oswaldo Cabrera",
       "description": "Called Up from Minors"
     },
     {
-      "date": "2026-06-23",
-      "type": "called up",
-      "player": "J.C. Escarra",
-      "description": "Called Up from Minors"
+      "date": "2026-06-24",
+      "type": "placed",
+      "player": "Ryan McMahon",
+      "description": "Placed on 10-Day IL (Throat/ear infection)"
     },
     {
       "date": "2026-06-23",
       "type": "placed",
       "player": "Ali Sanchez",
       "description": "Placed on Paternity Leave List"
+    },
+    {
+      "date": "2026-06-23",
+      "type": "called up",
+      "player": "J.C. Escarra",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-22",
@@ -256,15 +256,15 @@
     },
     {
       "date": "2026-06-21",
-      "type": "recalled",
-      "player": "Austin Wells",
-      "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-06-21",
       "type": "",
       "player": "Austin Wells",
       "description": "Removed From 10-Day IL (Cervical headaches)"
+    },
+    {
+      "date": "2026-06-21",
+      "type": "recalled",
+      "player": "Austin Wells",
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-06-21",
@@ -292,21 +292,15 @@
     },
     {
       "date": "2026-06-16",
-      "type": "sent",
-      "player": "Austin Wells",
-      "description": "Sent to Minors For Rehabilitation"
-    },
-    {
-      "date": "2026-06-16",
       "type": "released",
       "player": "Seth Brown",
       "description": "Released"
     },
     {
-      "date": "2026-06-13",
-      "type": "",
-      "player": "Jasson Dominguez",
-      "description": "Removed From 10-Day IL (Sprained left shoulder AC joint)"
+      "date": "2026-06-16",
+      "type": "sent",
+      "player": "Austin Wells",
+      "description": "Sent to Minors For Rehabilitation"
     },
     {
       "date": "2026-06-13",
@@ -316,9 +310,21 @@
     },
     {
       "date": "2026-06-13",
+      "type": "",
+      "player": "Jasson Dominguez",
+      "description": "Removed From 10-Day IL (Sprained left shoulder AC joint)"
+    },
+    {
+      "date": "2026-06-13",
       "type": "recalled",
       "player": "Jasson Dominguez",
       "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-06-11",
+      "type": "sent",
+      "player": "Angel Chivilli",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-06-11",
@@ -331,12 +337,6 @@
       "type": "recalled",
       "player": "Angel Chivilli",
       "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-06-11",
-      "type": "sent",
-      "player": "Angel Chivilli",
-      "description": "Sent to Minors"
     },
     {
       "date": "2026-06-10",
@@ -376,15 +376,15 @@
     },
     {
       "date": "2026-06-05",
-      "type": "called up",
-      "player": "Spencer Jones",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-05",
       "type": "sent",
       "player": "Jasson Dominguez",
       "description": "Sent to Minors For Rehabilitation"
+    },
+    {
+      "date": "2026-06-05",
+      "type": "called up",
+      "player": "Spencer Jones",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-02",
