@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T12:07:30Z",
+  "updated": "2026-07-30T13:03:54Z",
   "count": 65,
   "items": [
     {
@@ -376,15 +376,15 @@
     },
     {
       "date": "2026-06-05",
-      "type": "called up",
-      "player": "Spencer Jones",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-05",
       "type": "sent",
       "player": "Jasson Dominguez",
       "description": "Sent to Minors For Rehabilitation"
+    },
+    {
+      "date": "2026-06-05",
+      "type": "called up",
+      "player": "Spencer Jones",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-02",
