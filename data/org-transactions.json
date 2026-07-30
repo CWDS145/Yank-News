@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T23:39:58Z",
+  "updated": "2026-07-30T00:09:28Z",
   "items": [
     {
       "id": 931999,
@@ -741,32 +741,6 @@
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
       "description": "New York Yankees recalled RHP Yovanny Cruz from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 923411,
-      "date": "2026-06-29",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 670280,
-      "player": "David Bednar",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees placed RHP David Bednar on the paternity list."
-    },
-    {
-      "id": 923410,
-      "date": "2026-06-29",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 656234,
-      "player": "Jake Bird",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Jake Bird from Scranton/Wilkes-Barre RailRiders."
     }
   ]
 }
