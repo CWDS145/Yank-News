@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T23:39:43Z",
+  "updated": "2026-07-31T00:11:21Z",
   "items": [
     {
       "id": 931999,
@@ -728,32 +728,6 @@
       "from": "New York Yankees",
       "to": "AA Somerset Patriots",
       "description": "New York Yankees sent CF Trent Grisham on a rehab assignment to Somerset Patriots."
-    },
-    {
-      "id": 923522,
-      "date": "2026-06-30",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 672442,
-      "player": "Yovanny Cruz",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Yovanny Cruz from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 923510,
-      "date": "2026-06-30",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 660787,
-      "player": "Yerry De los Santos",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees optioned RHP Yerry De los Santos to Scranton/Wilkes-Barre RailRiders."
     }
   ]
 }
