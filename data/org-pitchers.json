@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T23:16:13Z",
+  "updated": "2026-07-31T23:44:19Z",
   "season": 2026,
   "pitchers": [
     {
@@ -37,45 +37,6 @@
       },
       "season_levels": [
         "High-A"
-      ]
-    },
-    {
-      "id": 529017,
-      "name": "Alexander Cornielle",
-      "position": "P",
-      "level": "AAA",
-      "level_since": "2026-06-14",
-      "prior_level": "AA",
-      "prior_level_since": "2026-06-11",
-      "season": {
-        "w": 2,
-        "l": 3,
-        "g": 10,
-        "gs": 10,
-        "cg": 0,
-        "sho": 0,
-        "sv": 0,
-        "svo": 0,
-        "ip": "39.0",
-        "ip_outs": 117,
-        "h": 33,
-        "r": 15,
-        "er": 15,
-        "hr": 5,
-        "hb": 1,
-        "bb": 23,
-        "so": 38,
-        "era": "3.46",
-        "era_num": 3.4615384615384617,
-        "whip": "1.44",
-        "whip_num": 1.435897435897436,
-        "avg": ".236",
-        "avg_num": 0.2357142857142857
-      },
-      "season_levels": [
-        "AAA",
-        "AA",
-        "Low-A"
       ]
     },
     {
@@ -488,6 +449,43 @@
       },
       "season_levels": [
         "MLB"
+      ]
+    },
+    {
+      "id": 809137,
+      "name": "Brian Hendry",
+      "position": "P",
+      "level": "AAA",
+      "level_since": "2026-07-21",
+      "prior_level": "Low-A",
+      "prior_level_since": "2026-06-27",
+      "season": {
+        "w": 0,
+        "l": 0,
+        "g": 3,
+        "gs": 0,
+        "cg": 0,
+        "sho": 0,
+        "sv": 1,
+        "svo": 1,
+        "ip": "5.1",
+        "ip_outs": 16,
+        "h": 2,
+        "r": 0,
+        "er": 0,
+        "hr": 0,
+        "hb": 0,
+        "bb": 1,
+        "so": 3,
+        "era": "0.00",
+        "era_num": 0.0,
+        "whip": "0.56",
+        "whip_num": 0.5625,
+        "avg": ".111",
+        "avg_num": 0.1111111111111111
+      },
+      "season_levels": [
+        "Low-A"
       ]
     },
     {
