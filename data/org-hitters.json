@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T21:11:41Z",
+  "updated": "2026-07-31T21:42:11Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-07-21",
@@ -1607,38 +1607,6 @@
       ],
       "last_10_levels": [
         "AAA"
-      ]
-    },
-    {
-      "id": 686540,
-      "name": "Owen Cobb",
-      "position": "SS",
-      "level": "AA",
-      "level_since": "2026-07-07",
-      "prior_level": "AAA",
-      "prior_level_since": "2026-06-25",
-      "season": {
-        "ab": 261,
-        "k": 59,
-        "avg": ".245",
-        "ops": ".643",
-        "avg_num": 0.24521072796934865,
-        "ops_num": 0.6425658138672599
-      },
-      "last_10": {
-        "ab": 26,
-        "k": 3,
-        "avg": ".423",
-        "ops": ".885",
-        "avg_num": 0.4230769230769231,
-        "ops_num": 0.8846153846153846
-      },
-      "season_levels": [
-        "AAA",
-        "AA"
-      ],
-      "last_10_levels": [
-        "AA"
       ]
     },
     {
