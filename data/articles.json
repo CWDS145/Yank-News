@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-31T16:10:53Z",
-  "count": 66,
+  "updated": "2026-07-31T17:03:06Z",
+  "count": 65,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-07-31T16:10:53Z",
+      "published": "2026-07-31T17:03:06Z",
+      "image": null
+    },
+    {
+      "title": "From low-key addition to breakout star, this Yankees prospect is on the rise",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Brendan Samson",
+      "link": "https://www.mlb.com/yankees/news/yankees-prospect-wilberson-de-pena-s-breakout-season",
+      "published": "2026-07-31T16:32:00Z",
       "image": null
     },
     {
@@ -453,15 +462,6 @@
       "image": null
     },
     {
-      "title": "Cody Bellinger lands on IL with hamstring strain: How injury makes Yankees' trade deadline needs even greater",
-      "summary": "Already without Aaron Judge and Giancarlo Stanton, the Yanks will now be missing Bellinger for 4-6 weeks",
-      "source": "CBS Sports MLB",
-      "author": "Mike Axisa",
-      "link": "https://www.cbssports.com/mlb/news/yankees-cody-bellinger-injury-trade-deadline/",
-      "published": "2026-07-27T22:45:28Z",
-      "image": "https://sportshub.cbsistatic.com/i/2026/07/26/484a41c5-61ee-4ea3-a280-89fc046d2aa5/bellinger-getty-2.png"
-    },
-    {
       "title": "Bellinger to miss 4-6 weeks with Grade 2 hamstring strain",
       "summary": "",
       "source": "MLB.com Yankees",
@@ -585,15 +585,6 @@
       "author": "Bryan Hoch",
       "link": "https://www.mlb.com/yankees/news/cam-schlittler-strikes-out-12-phillies-for-yankees",
       "published": "2026-07-25T02:36:00Z",
-      "image": null
-    },
-    {
-      "title": "Caballero: When it comes to pitch-timer rules, 'I have to obey'",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch",
-      "link": "https://www.mlb.com/yankees/news/jose-caballero-adjusting-to-pitch-timer-enforcement",
-      "published": "2026-07-24T22:51:28Z",
       "image": null
     }
   ]
