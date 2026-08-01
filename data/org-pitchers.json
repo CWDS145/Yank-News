@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T21:42:03Z",
+  "updated": "2026-08-01T22:13:52Z",
   "season": 2026,
   "pitchers": [
     {
@@ -37,6 +37,43 @@
       },
       "season_levels": [
         "High-A"
+      ]
+    },
+    {
+      "id": 680572,
+      "name": "Adam Kloffenstein",
+      "position": "P",
+      "level": "AAA",
+      "level_since": "2026-03-31",
+      "prior_level": "AA",
+      "prior_level_since": "2026-03-27",
+      "season": {
+        "w": 2,
+        "l": 7,
+        "g": 17,
+        "gs": 17,
+        "cg": 0,
+        "sho": 0,
+        "sv": 0,
+        "svo": 0,
+        "ip": "75.1",
+        "ip_outs": 226,
+        "h": 64,
+        "r": 49,
+        "er": 41,
+        "hr": 14,
+        "hb": 10,
+        "bb": 43,
+        "so": 69,
+        "era": "4.90",
+        "era_num": 4.898230088495575,
+        "whip": "1.42",
+        "whip_num": 1.420353982300885,
+        "avg": ".229",
+        "avg_num": 0.22939068100358423
+      },
+      "season_levels": [
+        "AAA"
       ]
     },
     {
@@ -499,28 +536,28 @@
       "prior_level_since": null,
       "season": {
         "w": 2,
-        "l": 6,
-        "g": 13,
-        "gs": 11,
-        "cg": 0,
+        "l": 7,
+        "g": 14,
+        "gs": 12,
+        "cg": 1,
         "sho": 0,
         "sv": 0,
         "svo": 0,
-        "ip": "56.1",
-        "ip_outs": 169,
-        "h": 48,
-        "r": 33,
-        "er": 29,
+        "ip": "63.1",
+        "ip_outs": 190,
+        "h": 52,
+        "r": 35,
+        "er": 31,
         "hr": 7,
-        "hb": 0,
+        "hb": 1,
         "bb": 32,
-        "so": 52,
-        "era": "4.63",
-        "era_num": 4.633136094674557,
-        "whip": "1.42",
-        "whip_num": 1.4201183431952662,
-        "avg": ".224",
-        "avg_num": 0.22429906542056074
+        "so": 57,
+        "era": "4.41",
+        "era_num": 4.405263157894737,
+        "whip": "1.33",
+        "whip_num": 1.3263157894736841,
+        "avg": ".218",
+        "avg_num": 0.2184873949579832
       },
       "season_levels": [
         "High-A"
@@ -2901,10 +2938,10 @@
       "id": 672442,
       "name": "Yovanny Cruz",
       "position": "P",
-      "level": "AAA",
+      "level": "MLB",
       "level_since": "2026-07-02",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-06-30",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-07-02",
       "season": {
         "w": 7,
         "l": 3,
