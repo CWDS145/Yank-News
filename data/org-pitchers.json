@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T20:39:58Z",
+  "updated": "2026-08-01T21:13:42Z",
   "season": 2026,
   "pitchers": [
     {
@@ -633,43 +633,6 @@
         "whip_num": 0.9073170731707317,
         "avg": ".196",
         "avg_num": 0.196
-      },
-      "season_levels": [
-        "MLB"
-      ]
-    },
-    {
-      "id": 666808,
-      "name": "Camilo Doval",
-      "position": "P",
-      "level": "MLB",
-      "level_since": null,
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "w": 3,
-        "l": 1,
-        "g": 44,
-        "gs": 0,
-        "cg": 0,
-        "sho": 0,
-        "sv": 1,
-        "svo": 5,
-        "ip": "39.2",
-        "ip_outs": 119,
-        "h": 38,
-        "r": 29,
-        "er": 20,
-        "hr": 6,
-        "hb": 2,
-        "bb": 18,
-        "so": 39,
-        "era": "4.54",
-        "era_num": 4.53781512605042,
-        "whip": "1.41",
-        "whip_num": 1.411764705882353,
-        "avg": ".250",
-        "avg_num": 0.25
       },
       "season_levels": [
         "MLB"
