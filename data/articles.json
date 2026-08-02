@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T23:22:03Z",
+  "updated": "2026-08-02T23:49:27Z",
   "count": 74,
   "items": [
     {
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-08-02T23:22:03Z",
+      "published": "2026-08-02T23:49:27Z",
       "image": null
     },
     {
@@ -17,16 +17,25 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-to-hold-78th-old-timers-day-presented-by-freshdirect-on-saturday-august-8-at-yankee-stadium/",
-      "published": "2026-08-02T23:22:03Z",
+      "published": "2026-08-02T23:49:27Z",
       "image": null
     },
     {
-      "title": "Yanks land infielder García from Nationals for 4 pitchers",
+      "title": "Wells' catching gear pays tribute to Munson on anniversary of death",
       "summary": "",
       "source": "MLB.com Yankees",
-      "author": "MLB.com",
+      "author": "Zach Sweet",
+      "link": "https://www.mlb.com/yankees/news/austin-wells-honors-thurman-munson-on-anniversary-of-death",
+      "published": "2026-08-02T23:35:00Z",
+      "image": null
+    },
+    {
+      "title": "Yanks land lefty slugger García from Nationals for 4 pitchers",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Zach Sweet",
       "link": "https://www.mlb.com/yankees/news/luis-garcia-jr-yankees-nationals-trade",
-      "published": "2026-08-02T23:00:00Z",
+      "published": "2026-08-02T23:22:00Z",
       "image": null
     },
     {
@@ -39,8 +48,8 @@
       "image": null
     },
     {
-      "title": "Yankees trade for Luis García Jr. adds sorely-needed lineup boost",
-      "summary": "The MLB trade deadline continues to send shockwaves throughout the league, most recently with the Yankees securing Luis García Jr. from the Nationals. In return for the lefty infielder, the Nationals will receive relievers Ben Grable, Yovanny Cruz and Jake Bird, plus starter Jack Cebert, who was spotted saying goodbyes to his teammates in Somerset […]",
+      "title": "Yankees’ trade for Luis García Jr. adds sorely-needed lineup boost",
+      "summary": "The MLB trade deadline continues to send shockwaves throughout the league, most recently with the Yankees securing Luis García Jr. from the Nationals. In return for the lefty infielder, the Nationals will receive relievers Ben Grable, Yovanny Cruz, and Jake Bird, plus starter Jack Cebert, who was spotted saying goodbyes to his teammates in Somerset […]",
       "source": "Pinstripe Alley",
       "author": "Dani Mohr",
       "link": "https://www.pinstripealley.com/yankees-rumors/200237/yankees-trade-for-luis-garcia-jr-adds-sorely-needed-lineup-boost",
@@ -84,15 +93,6 @@
       "image": "https://sportshub.cbsistatic.com/i/2026/08/02/aa4238be-08b3-4d5a-89cc-fd762dc4ab06/garcia-getty.png"
     },
     {
-      "title": "Yankees ride strong pitching again in win over Cubs before adding bat at deadline",
-      "summary": "Before they swung a deal to help their flailing lineup on Sunday afternoon, the Yankees played a familiar game.",
-      "source": "NY Post Yankees",
-      "author": "Greg Joyce",
-      "link": "https://nypost.com/2026/08/02/sports/yankees-ride-strong-pitching-to-win-over-cubs-before-luis-garcia-jr-trade/",
-      "published": "2026-08-02T21:40:12Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fnew-york-yankees-pitcher-gerrit-136288661.jpg?w%3D1024"
-    },
-    {
       "title": "Yankees acquiring Luis García Jr. from Nationals",
       "summary": "The Yankees started their deadline dealing on Saturday sending off Camilo Doval to the Pirates, but that was an ancillary move to what their plans were. This team was always going to be buying, and it was only a question of who they would target and how many pieces they would get. Now the first […]",
       "source": "Pinstripe Alley",
@@ -109,15 +109,6 @@
       "link": "https://www.pinstripealley.com/yankees-scores-standings/200147/yankees-score-recap-cubs-road-trip-gerrit-cole-jose-caballero-david-bednar-chicago",
       "published": "2026-08-02T21:30:59Z",
       "image": null
-    },
-    {
-      "title": "Yankees trade for Nationals’ Luis Garcia Jr. to bolster offense at deadline",
-      "summary": "The Yankees agreed to a trade that will bring García to The Bronx before Monday’s trade deadline.",
-      "source": "NY Post Yankees",
-      "author": "Greg Joyce",
-      "link": "https://nypost.com/2026/08/02/sports/yankees-trade-for-nationals-luis-garcia-jr-to-bolster-offense-at-deadline/",
-      "published": "2026-08-02T21:24:50Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fwashington-nationals-first-baseman-luis-136038040.jpg?w%3D1024"
     },
     {
       "title": "Yankees Social Media Spotlight: Baseball Immortality",
@@ -144,15 +135,6 @@
       "author": "Charlie Wright",
       "link": "https://www.mlbtraderumors.com/2026/08/yankees-interested-in-luis-garcia-jr.html",
       "published": "2026-08-02T19:30:16Z",
-      "image": null
-    },
-    {
-      "title": "Wells' catching gear pays tribute to Munson on anniversary of death",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Zach Sweet",
-      "link": "https://www.mlb.com/yankees/news/austin-wells-honors-thurman-munson-on-anniversary-of-death",
-      "published": "2026-08-02T19:11:00Z",
       "image": null
     },
     {
@@ -462,6 +444,15 @@
       "image": null
     },
     {
+      "title": "Jazz Chisholm gets day off after another Yankees injury scare",
+      "summary": "A day later, Jazz Chisholm Jr. still seems to have avoided anything serious, though he was out of the lineup Friday afternoon after exiting Thursday’s game early with right hamstring cramps.",
+      "source": "NY Post Yankees",
+      "author": "Greg Joyce",
+      "link": "https://nypost.com/2026/07/31/sports/jazz-chisholm-gets-day-off-after-another-yankees-injury-scare/",
+      "published": "2026-07-31T18:14:34Z",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F5-shortstop-luisangel-acu-0-136022431.jpg?w%3D1024"
+    },
+    {
       "title": "From low-key addition to breakout star, this Yankees prospect is on the rise",
       "summary": "",
       "source": "MLB.com Yankees",
@@ -469,6 +460,15 @@
       "link": "https://www.mlb.com/yankees/news/yankees-prospect-wilberson-de-pena-s-breakout-season",
       "published": "2026-07-31T16:32:00Z",
       "image": null
+    },
+    {
+      "title": "What to remember when we instantly grade the Yankees trade deadline",
+      "summary": "For better or worse, many deadline “hauls” or “busts” are not always what they seem.",
+      "source": "NY Post Yankees",
+      "author": "Greg Joyce",
+      "link": "https://nypost.com/2026/07/31/sports/what-to-remember-when-we-instantly-grade-yankees-trade-deadline/",
+      "published": "2026-07-31T10:20:00Z",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fthrows-eighth-inning-baltimore-orioles-127025632.jpg?quality%3D90%26"
     },
     {
       "title": "Re-ranking the top 10 deals from last year's Trade Deadline",
