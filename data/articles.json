@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-02T22:49:00Z",
-  "count": 73,
+  "updated": "2026-08-02T23:22:03Z",
+  "count": 74,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-08-02T22:49:00Z",
+      "published": "2026-08-02T23:22:03Z",
       "image": null
     },
     {
@@ -17,12 +17,48 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-to-hold-78th-old-timers-day-presented-by-freshdirect-on-saturday-august-8-at-yankee-stadium/",
-      "published": "2026-08-02T22:49:00Z",
+      "published": "2026-08-02T23:22:03Z",
+      "image": null
+    },
+    {
+      "title": "Yanks land infielder García from Nationals for 4 pitchers",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "MLB.com",
+      "link": "https://www.mlb.com/yankees/news/luis-garcia-jr-yankees-nationals-trade",
+      "published": "2026-08-02T23:00:00Z",
+      "image": null
+    },
+    {
+      "title": "Cole battles, Headrick delivers in clutch as pitching carries Yanks again",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Zach Sweet",
+      "link": "https://www.mlb.com/yankees/news/gerrit-cole-pitches-5-2-3-solid-innings-against-cubs",
+      "published": "2026-08-02T22:57:00Z",
+      "image": null
+    },
+    {
+      "title": "Yankees trade for Luis García Jr. adds sorely-needed lineup boost",
+      "summary": "The MLB trade deadline continues to send shockwaves throughout the league, most recently with the Yankees securing Luis García Jr. from the Nationals. In return for the lefty infielder, the Nationals will receive relievers Ben Grable, Yovanny Cruz and Jake Bird, plus starter Jack Cebert, who was spotted saying goodbyes to his teammates in Somerset […]",
+      "source": "Pinstripe Alley",
+      "author": "Dani Mohr",
+      "link": "https://www.pinstripealley.com/yankees-rumors/200237/yankees-trade-for-luis-garcia-jr-adds-sorely-needed-lineup-boost",
+      "published": "2026-08-02T22:56:18Z",
+      "image": null
+    },
+    {
+      "title": "Cardinals Rumors: May, Nootbaar, Phillies, Rays, Yanks",
+      "summary": "The Cardinals are shopping right-hander Dustin May, a realistic candidate to end up on the move before Monday’s trade deadline. An array of teams have shown interest in May, according to Derek Goold of the St. Louis Post-Dispatch. The Rays and Phillies each had a scout on hand to watch his most recent start, per […]",
+      "source": "MLB Trade Rumors NYY",
+      "author": "Connor Byrne",
+      "link": "https://www.mlbtraderumors.com/2026/08/cardinals-rumors-may-nootbaar-phillies-rays-yanks.html",
+      "published": "2026-08-02T22:53:18Z",
       "image": null
     },
     {
       "title": "Yankees Acquire Luis Garcia Jr.",
-      "summary": "New York City native Luis Garcia Jr. is heading to his hometown team.  The Yankees have acquired the slugger from the Nationals for a package of four right-handed pitchers — Yovanny Cruz, Jake Bird, and prospects Jack Cebert and Ben Grable. Given how the Yankees’ offense has largely cratered since Aaron Judge went to the injured list, […]",
+      "summary": "New York City native Luis Garcia Jr. is heading to his hometown team.  The Yankees have acquired the slugger from the Nationals for a package of four right-handed pitchers — Yovanny Cruz, Jake Bird, and prospects Jack Cebert and Ben Grable.  Both the Yankees and Nats have officially announced the deal is complete. Given how the Yankees’ […]",
       "source": "MLB Trade Rumors NYY",
       "author": "Mark Polishuk",
       "link": "https://www.mlbtraderumors.com/2026/08/yankees-acquire-luis-garcia-jr.html",
@@ -66,30 +102,12 @@
       "image": null
     },
     {
-      "title": "Cole battles through traffic as Yanks ride another strong start to victory",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Zach Sweet",
-      "link": "https://www.mlb.com/yankees/news/gerrit-cole-pitches-5-2-3-solid-innings-against-cubs",
-      "published": "2026-08-02T21:34:00Z",
-      "image": null
-    },
-    {
       "title": "Yankees win road trip, Cubs series finale behind Cole, Caballero",
       "summary": "I don’t know what I expect anyone to do about this. I am not sure there is anything that realistically can be done about this. But ye gods, the Yankee offense is putrid. Rancid. Foul. Pick your adjective. Regression and injury have laid waste to the Yankees and there is no 6-foot-7, three-time MVP and […]",
       "source": "Pinstripe Alley",
       "author": "Kevin Winterhalt",
       "link": "https://www.pinstripealley.com/yankees-scores-standings/200147/yankees-score-recap-cubs-road-trip-gerrit-cole-jose-caballero-david-bednar-chicago",
       "published": "2026-08-02T21:30:59Z",
-      "image": null
-    },
-    {
-      "title": "Yanks to land infielder García from Nationals for 4 pitchers (source)",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "MLB.com",
-      "link": "https://www.mlb.com/yankees/news/luis-garcia-jr-yankees-nationals-trade",
-      "published": "2026-08-02T21:30:14Z",
       "image": null
     },
     {
@@ -243,15 +261,6 @@
       "author": "Madison Pavich",
       "link": "https://www.pinstripealley.com/yankees-prospects/200096/yankees-prospects-george-lombard-jr-chase-hampton-jc-escarra-roderick-arias",
       "published": "2026-08-02T11:00:00Z",
-      "image": null
-    },
-    {
-      "title": "Today on Pinstripe Alley &#8211; 8/2/26",
-      "summary": "Saturday was a disappointing day for the Yankees on the field, as they let a narrow late lead slip away with the back of their bullpen allowing four runs to cross in the last two innings. The offense could’ve done a lot more to set them up for success though, managing to score just two […]",
-      "source": "Pinstripe Alley",
-      "author": "Madison Pavich",
-      "link": "https://www.pinstripealley.com/pinstripe-alley-discussions/200090/today-on-pinstripe-alley-yankees-8-2-26",
-      "published": "2026-08-02T10:00:00Z",
       "image": null
     },
     {
