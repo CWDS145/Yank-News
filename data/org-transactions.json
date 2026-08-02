@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T09:04:20Z",
+  "updated": "2026-08-02T09:57:50Z",
   "items": [
     {
       "id": 933930,
@@ -132,19 +132,6 @@
       "description": "New York Yankees optioned RHP Kervin Castro to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 929087,
-      "date": "2026-07-20",
-      "type_code": "SGN",
-      "type_desc": "Signed",
-      "player_id": 842296,
-      "player": "Michael Harpster",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees signed RHP Michael Harpster."
-    },
-    {
       "id": 929086,
       "date": "2026-07-20",
       "type_code": "SGN",
@@ -158,30 +145,69 @@
       "description": "New York Yankees signed 3B Andrew Gonzalez."
     },
     {
-      "id": 929084,
+      "id": 929087,
       "date": "2026-07-20",
       "type_code": "SGN",
       "type_desc": "Signed",
-      "player_id": 822496,
-      "player": "Bayram Hot",
+      "player_id": 842296,
+      "player": "Michael Harpster",
       "from_team_id": null,
       "to_team_id": 147,
       "from": null,
       "to": "New York Yankees",
-      "description": "New York Yankees signed SS Bayram Hot."
+      "description": "New York Yankees signed RHP Michael Harpster."
     },
     {
-      "id": 929083,
+      "id": 929088,
       "date": "2026-07-20",
       "type_code": "SGN",
       "type_desc": "Signed",
-      "player_id": 830339,
-      "player": "Luke Pettitte",
+      "player_id": 824424,
+      "player": "Bear Harrison",
       "from_team_id": null,
       "to_team_id": 147,
       "from": null,
       "to": "New York Yankees",
-      "description": "New York Yankees signed TWP Luke Pettitte."
+      "description": "New York Yankees signed C Bear Harrison."
+    },
+    {
+      "id": 929089,
+      "date": "2026-07-20",
+      "type_code": "SGN",
+      "type_desc": "Signed",
+      "player_id": 827290,
+      "player": "Paul Gutierrez-Contreras II",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees signed OF Paul Gutierrez-Contreras II."
+    },
+    {
+      "id": 929090,
+      "date": "2026-07-20",
+      "type_code": "SGN",
+      "type_desc": "Signed",
+      "player_id": 807078,
+      "player": "Sean Duncan",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees signed LHP Sean Duncan."
+    },
+    {
+      "id": 929091,
+      "date": "2026-07-20",
+      "type_code": "SGN",
+      "type_desc": "Signed",
+      "player_id": 833392,
+      "player": "Brendan Brock",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees signed C Brendan Brock."
     },
     {
       "id": 929082,
@@ -288,56 +314,30 @@
       "description": "New York Yankees signed SS William Cutshall."
     },
     {
-      "id": 929091,
+      "id": 929084,
       "date": "2026-07-20",
       "type_code": "SGN",
       "type_desc": "Signed",
-      "player_id": 833392,
-      "player": "Brendan Brock",
+      "player_id": 822496,
+      "player": "Bayram Hot",
       "from_team_id": null,
       "to_team_id": 147,
       "from": null,
       "to": "New York Yankees",
-      "description": "New York Yankees signed C Brendan Brock."
+      "description": "New York Yankees signed SS Bayram Hot."
     },
     {
-      "id": 929090,
+      "id": 929083,
       "date": "2026-07-20",
       "type_code": "SGN",
       "type_desc": "Signed",
-      "player_id": 807078,
-      "player": "Sean Duncan",
+      "player_id": 830339,
+      "player": "Luke Pettitte",
       "from_team_id": null,
       "to_team_id": 147,
       "from": null,
       "to": "New York Yankees",
-      "description": "New York Yankees signed LHP Sean Duncan."
-    },
-    {
-      "id": 929089,
-      "date": "2026-07-20",
-      "type_code": "SGN",
-      "type_desc": "Signed",
-      "player_id": 827290,
-      "player": "Paul Gutierrez-Contreras II",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees signed OF Paul Gutierrez-Contreras II."
-    },
-    {
-      "id": 929088,
-      "date": "2026-07-20",
-      "type_code": "SGN",
-      "type_desc": "Signed",
-      "player_id": 824424,
-      "player": "Bear Harrison",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees signed C Bear Harrison."
+      "description": "New York Yankees signed TWP Luke Pettitte."
     },
     {
       "id": 928954,
@@ -366,19 +366,6 @@
       "description": "New York Yankees activated RHP Elmer Rodríguez."
     },
     {
-      "id": 928920,
-      "date": "2026-07-19",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 656234,
-      "player": "Jake Bird",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees optioned RHP Jake Bird to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 928919,
       "date": "2026-07-19",
       "type_code": "CU",
@@ -390,6 +377,19 @@
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
       "description": "New York Yankees recalled RHP Elmer Rodríguez from Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 928920,
+      "date": "2026-07-19",
+      "type_code": "OPT",
+      "type_desc": "Optioned",
+      "player_id": 656234,
+      "player": "Jake Bird",
+      "from_team_id": 147,
+      "to_team_id": 531,
+      "from": "New York Yankees",
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees optioned RHP Jake Bird to Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 928921,
@@ -470,17 +470,17 @@
       "description": "New York Yankees signed free agent OF Easton Talt to a minor league contract."
     },
     {
-      "id": 928647,
+      "id": 928641,
       "date": "2026-07-16",
       "type_code": "SFA",
       "type_desc": "Signed as Free Agent",
-      "player_id": 844118,
-      "player": "Max Vaisvila",
+      "player_id": 822171,
+      "player": "A.J. Hutcheson",
       "from_team_id": null,
       "to_team_id": 147,
       "from": null,
       "to": "New York Yankees",
-      "description": "New York Yankees signed free agent LHP Max Vaisvila to a minor league contract."
+      "description": "New York Yankees signed free agent RHP A.J. Hutcheson to a minor league contract."
     },
     {
       "id": 928643,
@@ -496,17 +496,17 @@
       "description": "New York Yankees signed free agent RHP Josh Newell to a minor league contract."
     },
     {
-      "id": 928641,
+      "id": 928647,
       "date": "2026-07-16",
       "type_code": "SFA",
       "type_desc": "Signed as Free Agent",
-      "player_id": 822171,
-      "player": "A.J. Hutcheson",
+      "player_id": 844118,
+      "player": "Max Vaisvila",
       "from_team_id": null,
       "to_team_id": 147,
       "from": null,
       "to": "New York Yankees",
-      "description": "New York Yankees signed free agent RHP A.J. Hutcheson to a minor league contract."
+      "description": "New York Yankees signed free agent LHP Max Vaisvila to a minor league contract."
     },
     {
       "id": 928645,
@@ -535,19 +535,6 @@
       "description": "New York Yankees signed free agent LHP Zach Johnston to a minor league contract."
     },
     {
-      "id": 933127,
-      "date": "2026-07-14",
-      "type_code": "SFA",
-      "type_desc": "Signed as Free Agent",
-      "player_id": 842074,
-      "player": "Payton Soske",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees signed free agent RHP Payton Soske to a minor league contract."
-    },
-    {
       "id": 928040,
       "date": "2026-07-14",
       "type_code": "SGN",
@@ -559,6 +546,32 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees signed RHP Jason Krieger."
+    },
+    {
+      "id": 928046,
+      "date": "2026-07-14",
+      "type_code": "SFA",
+      "type_desc": "Signed as Free Agent",
+      "player_id": 844122,
+      "player": "Jorsixt Jimenez",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees signed free agent OF Jorsixt Jimenez to a minor league contract."
+    },
+    {
+      "id": 933127,
+      "date": "2026-07-14",
+      "type_code": "SFA",
+      "type_desc": "Signed as Free Agent",
+      "player_id": 842074,
+      "player": "Payton Soske",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees signed free agent RHP Payton Soske to a minor league contract."
     },
     {
       "id": 928044,
@@ -587,17 +600,17 @@
       "description": "New York Yankees signed free agent OF Maika Niu to a minor league contract."
     },
     {
-      "id": 928046,
-      "date": "2026-07-14",
-      "type_code": "SFA",
-      "type_desc": "Signed as Free Agent",
-      "player_id": 844122,
-      "player": "Jorsixt Jimenez",
+      "id": 927784,
+      "date": "2026-07-13",
+      "type_code": "SGN",
+      "type_desc": "Signed",
+      "player_id": 806059,
+      "player": "Hunter Dietz",
       "from_team_id": null,
       "to_team_id": 147,
       "from": null,
       "to": "New York Yankees",
-      "description": "New York Yankees signed free agent OF Jorsixt Jimenez to a minor league contract."
+      "description": "New York Yankees signed LHP Hunter Dietz."
     },
     {
       "id": 927771,
@@ -613,17 +626,17 @@
       "description": "New York Yankees signed RHP David Leslie."
     },
     {
-      "id": 927784,
-      "date": "2026-07-13",
-      "type_code": "SGN",
-      "type_desc": "Signed",
-      "player_id": 806059,
-      "player": "Hunter Dietz",
-      "from_team_id": null,
+      "id": 925202,
+      "date": "2026-07-05",
+      "type_code": "CU",
+      "type_desc": "Recalled",
+      "player_id": 683409,
+      "player": "Angel Chivilli",
+      "from_team_id": 531,
       "to_team_id": 147,
-      "from": null,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
-      "description": "New York Yankees signed LHP Hunter Dietz."
+      "description": "New York Yankees recalled RHP Angel Chivilli from Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 925062,
@@ -637,19 +650,6 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees optioned RHP Brendan Beck to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 925202,
-      "date": "2026-07-05",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 683409,
-      "player": "Angel Chivilli",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Angel Chivilli from Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 924936,
