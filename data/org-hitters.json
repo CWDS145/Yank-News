@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T13:13:40Z",
+  "updated": "2026-08-02T13:52:55Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-07-23",
@@ -1575,39 +1575,6 @@
       ],
       "last_10_levels": [
         "AA"
-      ]
-    },
-    {
-      "id": 692657,
-      "name": "Omar Alfonzo",
-      "position": "C",
-      "level": "AA",
-      "level_since": "2026-08-01",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 208,
-        "k": 73,
-        "avg": ".240",
-        "ops": ".763",
-        "avg_num": 0.2403846153846154,
-        "ops_num": 0.7632408575031526
-      },
-      "last_10": {
-        "ab": 14,
-        "k": 5,
-        "avg": ".286",
-        "ops": ".946",
-        "avg_num": 0.2857142857142857,
-        "ops_num": 0.9464285714285714
-      },
-      "season_levels": [
-        "AA",
-        "Low-A"
-      ],
-      "last_10_levels": [
-        "AA",
-        "Low-A"
       ]
     },
     {
