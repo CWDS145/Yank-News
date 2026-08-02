@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T22:42:10Z",
+  "updated": "2026-08-02T23:13:37Z",
   "season": 2026,
   "pitchers": [
     {
@@ -225,44 +225,6 @@
       },
       "season_levels": [
         "Low-A"
-      ]
-    },
-    {
-      "id": 695066,
-      "name": "Ben Grable",
-      "position": "P",
-      "level": "AA",
-      "level_since": "2026-04-27",
-      "prior_level": "High-A",
-      "prior_level_since": "2026-03-30",
-      "season": {
-        "w": 3,
-        "l": 1,
-        "g": 32,
-        "gs": 0,
-        "cg": 0,
-        "sho": 0,
-        "sv": 4,
-        "svo": 5,
-        "ip": "36.2",
-        "ip_outs": 110,
-        "h": 21,
-        "r": 10,
-        "er": 10,
-        "hr": 1,
-        "hb": 2,
-        "bb": 10,
-        "so": 56,
-        "era": "2.45",
-        "era_num": 2.4545454545454546,
-        "whip": "0.85",
-        "whip_num": 0.8454545454545455,
-        "avg": ".162",
-        "avg_num": 0.16153846153846155
-      },
-      "season_levels": [
-        "AA",
-        "High-A"
       ]
     },
     {
@@ -1548,44 +1510,6 @@
       },
       "season_levels": [
         "High-A"
-      ]
-    },
-    {
-      "id": 656234,
-      "name": "Jake Bird",
-      "position": "P",
-      "level": "AAA",
-      "level_since": "2026-07-19",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-06-29",
-      "season": {
-        "w": 1,
-        "l": 1,
-        "g": 43,
-        "gs": 0,
-        "cg": 0,
-        "sho": 0,
-        "sv": 0,
-        "svo": 3,
-        "ip": "38.0",
-        "ip_outs": 114,
-        "h": 37,
-        "r": 21,
-        "er": 21,
-        "hr": 5,
-        "hb": 5,
-        "bb": 13,
-        "so": 40,
-        "era": "4.97",
-        "era_num": 4.973684210526316,
-        "whip": "1.32",
-        "whip_num": 1.3157894736842106,
-        "avg": ".257",
-        "avg_num": 0.2569444444444444
-      },
-      "season_levels": [
-        "MLB",
-        "AAA"
       ]
     },
     {
@@ -2928,44 +2852,6 @@
         "whip_num": 1.2040816326530612,
         "avg": ".239",
         "avg_num": 0.2391304347826087
-      },
-      "season_levels": [
-        "MLB",
-        "AAA"
-      ]
-    },
-    {
-      "id": 672442,
-      "name": "Yovanny Cruz",
-      "position": "P",
-      "level": "MLB",
-      "level_since": "2026-08-01",
-      "prior_level": "AAA",
-      "prior_level_since": "2026-07-02",
-      "season": {
-        "w": 7,
-        "l": 3,
-        "g": 35,
-        "gs": 0,
-        "cg": 0,
-        "sho": 0,
-        "sv": 4,
-        "svo": 8,
-        "ip": "41.0",
-        "ip_outs": 123,
-        "h": 34,
-        "r": 21,
-        "er": 15,
-        "hr": 3,
-        "hb": 7,
-        "bb": 15,
-        "so": 58,
-        "era": "3.29",
-        "era_num": 3.292682926829268,
-        "whip": "1.20",
-        "whip_num": 1.1951219512195121,
-        "avg": ".224",
-        "avg_num": 0.2236842105263158
       },
       "season_levels": [
         "MLB",

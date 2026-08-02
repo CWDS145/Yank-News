@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T22:37:46Z",
+  "updated": "2026-08-02T23:09:02Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-07-23",
@@ -1417,6 +1417,37 @@
       ],
       "last_10_levels": [
         "Low-A"
+      ]
+    },
+    {
+      "id": 671277,
+      "name": "Luis García Jr.",
+      "position": "1B",
+      "level": "MLB",
+      "level_since": null,
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 357,
+        "k": 61,
+        "avg": ".283",
+        "ops": ".873",
+        "avg_num": 0.28291316526610644,
+        "ops_num": 0.8730583142347847
+      },
+      "last_10": {
+        "ab": 35,
+        "k": 6,
+        "avg": ".314",
+        "ops": ".990",
+        "avg_num": 0.3142857142857143,
+        "ops_num": 0.9904761904761905
+      },
+      "season_levels": [
+        "MLB"
+      ],
+      "last_10_levels": [
+        "MLB"
       ]
     },
     {
