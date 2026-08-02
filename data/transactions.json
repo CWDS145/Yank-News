@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T16:49:40Z",
+  "updated": "2026-08-02T17:23:50Z",
   "count": 65,
   "items": [
     {
@@ -130,9 +130,9 @@
     },
     {
       "date": "2026-07-03",
-      "type": "",
-      "player": "Trent Grisham",
-      "description": "Removed From 10-Day IL (Strained right hamstring)"
+      "type": "placed",
+      "player": "Carlos Rodon",
+      "description": "Placed on 15-Day IL (Left elbow inflammation)"
     },
     {
       "date": "2026-07-03",
@@ -148,6 +148,12 @@
     },
     {
       "date": "2026-07-03",
+      "type": "",
+      "player": "Trent Grisham",
+      "description": "Removed From 10-Day IL (Strained right hamstring)"
+    },
+    {
+      "date": "2026-07-03",
       "type": "recalled",
       "player": "Trent Grisham",
       "description": "Recalled From Minors Rehab Assignment"
@@ -157,12 +163,6 @@
       "type": "sent",
       "player": "Oswaldo Cabrera",
       "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "placed",
-      "player": "Carlos Rodon",
-      "description": "Placed on 15-Day IL (Left elbow inflammation)"
     },
     {
       "date": "2026-07-02",
@@ -262,6 +262,12 @@
     },
     {
       "date": "2026-06-21",
+      "type": "called up",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-06-21",
       "type": "recalled",
       "player": "Austin Wells",
       "description": "Recalled From Minors Rehab Assignment"
@@ -271,12 +277,6 @@
       "type": "sent",
       "player": "Elmer Rodriguez",
       "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-06-21",
-      "type": "called up",
-      "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-20",
