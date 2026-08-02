@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T10:32:38Z",
+  "updated": "2026-08-02T10:32:08Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -120,7 +120,7 @@
         "rank": 6
       },
       {
-        "name": "Camilo Doval",
+        "name": "Yovanny Cruz",
         "rank": 7
       },
       {
@@ -136,7 +136,6 @@
     "Ben Rice",
     "Brent Headrick",
     "Cam Schlittler",
-    "Camilo Doval",
     "Carlos Rodon",
     "Clarke Schmidt",
     "David Bednar",
@@ -155,6 +154,7 @@
     "Spencer G. Jones",
     "Tim Hill",
     "Trent Grisham",
-    "Will Warren"
+    "Will Warren",
+    "Yovanny Cruz"
   ]
 }
