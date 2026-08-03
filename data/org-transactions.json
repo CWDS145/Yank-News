@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-02T23:38:40Z",
+  "updated": "2026-08-03T00:10:04Z",
   "items": [
+    {
+      "id": 934192,
+      "date": "2026-08-03",
+      "type_code": "TR",
+      "type_desc": "Trade",
+      "player_id": 672442,
+      "player": "Yovanny Cruz",
+      "from_team_id": 147,
+      "to_team_id": 120,
+      "from": "New York Yankees",
+      "to": "Washington Nationals",
+      "description": "Washington Nationals traded 1B Luis García Jr. to New York Yankees for RHP Ben Grable, RHP Yovanny Cruz, RHP Jack Cebert and RHP Jake Bird."
+    },
     {
       "id": 933930,
       "date": "2026-08-01",
@@ -676,58 +689,6 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees optioned CF Spencer Jones to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 924748,
-      "date": "2026-07-03",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 663757,
-      "player": "Trent Grisham",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees activated CF Trent Grisham from the 10-day injured list."
-    },
-    {
-      "id": 924747,
-      "date": "2026-07-03",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 641857,
-      "player": "Ryan McMahon",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees activated 3B Ryan McMahon from the 10-day injured list."
-    },
-    {
-      "id": 924746,
-      "date": "2026-07-03",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 607074,
-      "player": "Carlos Rodón",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees placed LHP Carlos Rodón on the 15-day injured list retroactive to June 30, 2026. Left elbow inflammation."
-    },
-    {
-      "id": 924749,
-      "date": "2026-07-03",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 665828,
-      "player": "Oswaldo Cabrera",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees optioned 3B Oswaldo Cabrera to Scranton/Wilkes-Barre RailRiders."
     }
   ]
 }
