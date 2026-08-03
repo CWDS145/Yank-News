@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T10:32:08Z",
+  "updated": "2026-08-03T11:04:39Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -14,8 +14,12 @@
     ],
     "1B": [
       {
-        "name": "Paul Goldschmidt",
+        "name": "Luis V. Garcia",
         "rank": 1
+      },
+      {
+        "name": "Paul Goldschmidt",
+        "rank": 2
       }
     ],
     "2B": [
@@ -120,12 +124,8 @@
         "rank": 6
       },
       {
-        "name": "Yovanny Cruz",
-        "rank": 7
-      },
-      {
         "name": "Ryan Yarbrough",
-        "rank": 8
+        "rank": 7
       }
     ]
   },
@@ -145,6 +145,7 @@
     "Jasson Dominguez",
     "Jazz Chisholm",
     "Jose Caballero",
+    "Luis V. Garcia",
     "Max Fried",
     "Paul Blackburn",
     "Paul Goldschmidt",
@@ -154,7 +155,6 @@
     "Spencer G. Jones",
     "Tim Hill",
     "Trent Grisham",
-    "Will Warren",
-    "Yovanny Cruz"
+    "Will Warren"
   ]
 }
