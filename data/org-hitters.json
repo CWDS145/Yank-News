@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T18:24:05Z",
+  "updated": "2026-08-03T19:15:05Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-07-24",
@@ -1463,10 +1463,10 @@
       "id": 680474,
       "name": "Max Schuemann",
       "position": "LF",
-      "level": "MLB",
-      "level_since": "2026-04-28",
-      "prior_level": "AAA",
-      "prior_level_since": "2026-03-21",
+      "level": "AAA",
+      "level_since": "2026-03-21",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-02-09",
       "season": {
         "ab": 146,
         "k": 37,
