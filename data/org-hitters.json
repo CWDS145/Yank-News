@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T22:39:09Z",
+  "updated": "2026-08-03T23:11:21Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-07-24",
@@ -888,6 +888,38 @@
       ],
       "last_10_levels": [
         "Low-A"
+      ]
+    },
+    {
+      "id": 671218,
+      "name": "Heliot Ramos",
+      "position": "LF",
+      "level": "MLB",
+      "level_since": "2026-08-03",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 314,
+        "k": 91,
+        "avg": ".271",
+        "ops": ".754",
+        "avg_num": 0.27070063694267515,
+        "ops_num": 0.7538131508817025
+      },
+      "last_10": {
+        "ab": 42,
+        "k": 12,
+        "avg": ".238",
+        "ops": ".542",
+        "avg_num": 0.23809523809523808,
+        "ops_num": 0.5424430641821947
+      },
+      "season_levels": [
+        "MLB",
+        "AAA"
+      ],
+      "last_10_levels": [
+        "MLB"
       ]
     },
     {
