@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T11:04:39Z",
+  "updated": "2026-08-04T10:53:11Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -42,7 +42,7 @@
     ],
     "LF": [
       {
-        "name": "Spencer G. Jones",
+        "name": "Heliot Ramos",
         "rank": 1
       }
     ],
@@ -54,7 +54,7 @@
     ],
     "RF": [
       {
-        "name": "Jasson Dominguez",
+        "name": "Spencer G. Jones",
         "rank": 1
       }
     ],
@@ -124,8 +124,12 @@
         "rank": 6
       },
       {
-        "name": "Ryan Yarbrough",
+        "name": "Kervin Castro",
         "rank": 7
+      },
+      {
+        "name": "Ryan Yarbrough",
+        "rank": 8
       }
     ]
   },
@@ -142,9 +146,10 @@
     "Fernando E. Cruz",
     "Gerrit Cole",
     "Giancarlo Stanton",
-    "Jasson Dominguez",
+    "Heliot Ramos",
     "Jazz Chisholm",
     "Jose Caballero",
+    "Kervin Castro",
     "Luis V. Garcia",
     "Max Fried",
     "Paul Blackburn",
