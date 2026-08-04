@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T13:59:08Z",
+  "updated": "2026-08-04T15:09:53Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-07-25",
@@ -561,6 +561,37 @@
       ],
       "last_10_levels": [
         "High-A"
+      ]
+    },
+    {
+      "id": 687554,
+      "name": "DJ Gladney",
+      "position": "LF",
+      "level": "AA",
+      "level_since": "2026-07-28",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 324,
+        "k": 121,
+        "avg": ".269",
+        "ops": ".829",
+        "avg_num": 0.26851851851851855,
+        "ops_num": 0.8289291163822999
+      },
+      "last_10": {
+        "ab": 9,
+        "k": 2,
+        "avg": ".556",
+        "ops": "1.556",
+        "avg_num": 0.5555555555555556,
+        "ops_num": 1.5555555555555556
+      },
+      "season_levels": [
+        "AA"
+      ],
+      "last_10_levels": [
+        "AA"
       ]
     },
     {
@@ -1686,10 +1717,10 @@
       "id": 703149,
       "name": "Roderick Arias",
       "position": "SS",
-      "level": "High-A",
-      "level_since": "2026-03-30",
-      "prior_level": null,
-      "prior_level_since": null,
+      "level": "AA",
+      "level_since": "2026-08-04",
+      "prior_level": "High-A",
+      "prior_level_since": "2026-03-30",
       "season": {
         "ab": 340,
         "k": 116,
