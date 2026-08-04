@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T17:01:59Z",
+  "updated": "2026-08-04T18:00:32Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1554,8 +1554,8 @@
       "id": 815278,
       "name": "Jose M. Rodriguez",
       "position": "P",
-      "level": "Low-A",
-      "level_since": null,
+      "level": "High-A",
+      "level_since": "2026-08-04",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -2110,6 +2110,43 @@
       },
       "season_levels": [
         "MLB"
+      ]
+    },
+    {
+      "id": 695560,
+      "name": "Pico Kohn",
+      "position": "P",
+      "level": "High-A",
+      "level_since": "2026-03-30",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "w": 1,
+        "l": 0,
+        "g": 1,
+        "gs": 1,
+        "cg": 0,
+        "sho": 0,
+        "sv": 0,
+        "svo": 0,
+        "ip": "5.2",
+        "ip_outs": 17,
+        "h": 3,
+        "r": 1,
+        "er": 1,
+        "hr": 1,
+        "hb": 0,
+        "bb": 2,
+        "so": 8,
+        "era": "1.59",
+        "era_num": 1.588235294117647,
+        "whip": "0.88",
+        "whip_num": 0.8823529411764706,
+        "avg": ".143",
+        "avg_num": 0.14285714285714285
+      },
+      "season_levels": [
+        "High-A"
       ]
     },
     {

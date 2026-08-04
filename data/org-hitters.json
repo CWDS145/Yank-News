@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T16:57:30Z",
+  "updated": "2026-08-04T17:56:23Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-07-25",
@@ -253,8 +253,8 @@
       "id": 701727,
       "name": "Bryce Martin-Grudzielanek",
       "position": "SS",
-      "level": "Low-A",
-      "level_since": null,
+      "level": "High-A",
+      "level_since": "2026-08-04",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -471,13 +471,44 @@
       ]
     },
     {
+      "id": 692110,
+      "name": "Core Jackson",
+      "position": "SS",
+      "level": "High-A",
+      "level_since": "2026-05-11",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 274,
+        "k": 66,
+        "avg": ".252",
+        "ops": ".821",
+        "avg_num": 0.2518248175182482,
+        "ops_num": 0.8213018147726512
+      },
+      "last_10": {
+        "ab": 1,
+        "k": 0,
+        "avg": ".000",
+        "ops": ".000",
+        "avg_num": 0.0,
+        "ops_num": 0.0
+      },
+      "season_levels": [
+        "High-A"
+      ],
+      "last_10_levels": [
+        "High-A"
+      ]
+    },
+    {
       "id": 806154,
       "name": "David McCann",
       "position": "C",
-      "level": "Low-A",
-      "level_since": "2026-03-17",
-      "prior_level": null,
-      "prior_level_since": null,
+      "level": "High-A",
+      "level_since": "2026-08-04",
+      "prior_level": "Low-A",
+      "prior_level_since": "2026-03-17",
       "season": {
         "ab": 111,
         "k": 36,
@@ -533,35 +564,17 @@
       ]
     },
     {
-      "id": 800299,
-      "name": "Diomedes Hernandez",
-      "position": "C",
+      "id": 831025,
+      "name": "Dean Toigo",
+      "position": "OF",
       "level": "High-A",
-      "level_since": "2026-05-01",
-      "prior_level": "AA",
-      "prior_level_since": "2026-04-12",
-      "season": {
-        "ab": 10,
-        "k": 4,
-        "avg": ".100",
-        "ops": ".408",
-        "avg_num": 0.1,
-        "ops_num": 0.4076923076923077
-      },
-      "last_10": {
-        "ab": 9,
-        "k": 3,
-        "avg": ".111",
-        "ops": ".384",
-        "avg_num": 0.1111111111111111,
-        "ops_num": 0.3838383838383838
-      },
-      "season_levels": [
-        "High-A"
-      ],
-      "last_10_levels": [
-        "High-A"
-      ]
+      "level_since": "2026-08-04",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "last_10": null,
+      "season_levels": [],
+      "last_10_levels": []
     },
     {
       "id": 687554,
@@ -779,39 +792,6 @@
       ],
       "last_10_levels": [
         "AAA"
-      ]
-    },
-    {
-      "id": 808106,
-      "name": "Gabriel Lara",
-      "position": "CF",
-      "level": "High-A",
-      "level_since": "2026-07-28",
-      "prior_level": "Low-A",
-      "prior_level_since": "2026-05-12",
-      "season": {
-        "ab": 85,
-        "k": 27,
-        "avg": ".165",
-        "ops": ".632",
-        "avg_num": 0.16470588235294117,
-        "ops_num": 0.6319327731092437
-      },
-      "last_10": {
-        "ab": 15,
-        "k": 5,
-        "avg": ".133",
-        "ops": ".433",
-        "avg_num": 0.13333333333333333,
-        "ops_num": 0.43333333333333335
-      },
-      "season_levels": [
-        "High-A",
-        "Low-A"
-      ],
-      "last_10_levels": [
-        "High-A",
-        "Low-A"
       ]
     },
     {
@@ -1458,6 +1438,19 @@
       "last_10_levels": [
         "Low-A"
       ]
+    },
+    {
+      "id": 809569,
+      "name": "Maika Niu",
+      "position": "CF",
+      "level": "High-A",
+      "level_since": "2026-07-14",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-07-14",
+      "season": null,
+      "last_10": null,
+      "season_levels": [],
+      "last_10_levels": []
     },
     {
       "id": 692633,
