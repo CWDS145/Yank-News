@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T06:12:56Z",
+  "updated": "2026-08-04T07:13:09Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-07-25",
@@ -127,7 +127,7 @@
       "name": "Anthony Volpe",
       "position": "SS",
       "level": "AAA",
-      "level_since": "2026-08-03",
+      "level_since": "2026-08-04",
       "prior_level": "MLB",
       "prior_level_since": "2026-05-12",
       "season": {
@@ -1054,7 +1054,7 @@
       "name": "Jasson Domínguez",
       "position": "RF",
       "level": "AAA",
-      "level_since": "2026-08-03",
+      "level_since": "2026-08-04",
       "prior_level": "MLB",
       "prior_level_since": "2026-06-13",
       "season": {
