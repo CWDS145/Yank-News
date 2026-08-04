@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-03T23:52:45Z",
-  "count": 73,
+  "updated": "2026-08-04T00:42:26Z",
+  "count": 74,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-08-03T23:52:45Z",
+      "published": "2026-08-04T00:42:26Z",
       "image": null
     },
     {
@@ -17,17 +17,53 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-to-hold-78th-old-timers-day-presented-by-freshdirect-on-saturday-august-8-at-yankee-stadium/",
-      "published": "2026-08-03T23:52:45Z",
+      "published": "2026-08-04T00:42:26Z",
       "image": null
     },
     {
-      "title": "NYC native Luis Garcia Jr. living his Yankees dream after trade — but there’s a major power task",
-      "summary": "Luis García Jr. was born and bred in New York and grew up rooting for the Yankees.",
-      "source": "NY Post Yankees",
-      "author": "Brian Lewis",
-      "link": "https://nypost.com/2026/08/03/sports/nyc-native-luis-garcia-jr-living-his-yankees-dream-after-trade/",
-      "published": "2026-08-03T23:33:31Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fnew-york-yankees-first-baseman-136384377.jpg?w%3D1024"
+      "title": "Latest Yankees injuries and transactions",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "MLB.com",
+      "link": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
+      "published": "2026-08-04T00:31:00Z",
+      "image": null
+    },
+    {
+      "title": "Yanks acquire OF Ramos from Giants for 2 prospects to wrap Deadline moves",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Bryan Hoch",
+      "link": "https://www.mlb.com/yankees/news/heliot-ramos-yankees-giants-trade",
+      "published": "2026-08-04T00:13:00Z",
+      "image": null
+    },
+    {
+      "title": "NY native García poised to become 'instant presence' in Yankees' lineup",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Bryan Hoch and Zach Sweet",
+      "link": "https://www.mlb.com/yankees/news/luis-garcia-jr-joins-yankees-after-trade",
+      "published": "2026-08-04T00:11:00Z",
+      "image": null
+    },
+    {
+      "title": "2026 MLB trade deadline winners and losers: Giants, Mets enjoy seller's market, Yankees don't do enough",
+      "summary": "The 2026 MLB trade deadline is in the books; there were a lot of deals and a handful of winners and losers",
+      "source": "CBS Sports MLB",
+      "author": "Mike Axisa",
+      "link": "https://www.cbssports.com/mlb/news/2026-mlb-trade-deadline-winners-and-losers-giants-mets-yankees/",
+      "published": "2026-08-04T00:02:02Z",
+      "image": "https://sportshub.cbsistatic.com/i/2026/08/04/b7d40717-b7fd-4e38-8983-430c86db0371/luis-arraez-getty-3.png"
+    },
+    {
+      "title": "Yankees' pitching prospect lands on Team of the Week",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Ben Weinrib",
+      "link": "https://www.mlb.com/yankees/news/prospect-team-of-the-week-august-3-2026",
+      "published": "2026-08-03T23:29:42Z",
+      "image": null
     },
     {
       "title": "MLB trade deadline tracker: See every move of the 2026 deadline",
@@ -66,15 +102,6 @@
       "image": null
     },
     {
-      "title": "Yanks acquire outfielder Ramos from Giants for 2 prospects",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch",
-      "link": "https://www.mlb.com/yankees/news/heliot-ramos-yankees-giants-trade",
-      "published": "2026-08-03T22:24:00Z",
-      "image": null
-    },
-    {
       "title": "Yankees trade grades: Former All-Star Heliot Ramos arrives to help the struggling offense",
       "summary": "The Yankees have desperately missed Aaron Judge, Giancarlo Stanton and Cody Bellinger in their lineup",
       "source": "CBS Sports MLB",
@@ -82,15 +109,6 @@
       "link": "https://www.cbssports.com/mlb/news/yankees-trade-grades-heliot-ramos-giants/",
       "published": "2026-08-03T22:21:58Z",
       "image": "https://sportshub.cbsistatic.com/i/2026/08/03/b3046299-12ce-4785-835c-3bc6929dec7c/ramos-getty.png"
-    },
-    {
-      "title": "NY native García poised to become 'instant presence' in Yankees' lineup",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch and Zach Sweet",
-      "link": "https://www.mlb.com/yankees/news/luis-garcia-jr-joins-yankees-after-trade",
-      "published": "2026-08-03T22:17:55Z",
-      "image": null
     },
     {
       "title": "2026 World Series odds: Who’s favored to win the title after MLB trade deadline?",
@@ -108,15 +126,6 @@
       "author": "Dani Mohr",
       "link": "https://www.pinstripealley.com/yankees-rumors/200477/yankees-acquiring-heliot-ramos-from-giants",
       "published": "2026-08-03T21:54:30Z",
-      "image": null
-    },
-    {
-      "title": "Latest Yankees injuries and transactions",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "MLB.com",
-      "link": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
-      "published": "2026-08-03T21:52:00Z",
       "image": null
     },
     {
@@ -489,6 +498,15 @@
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fdetroit-tigers-pitcher-tarik-skubal-135901744.jpg?w%3D1024"
     },
     {
+      "title": "Yankees’ bullpen falters late as offense keeps struggling in loss to Cubs",
+      "summary": "The way the Yankees have been hitting — or not hitting — lately, their pitchers have had to be just about perfect.",
+      "source": "NY Post Yankees",
+      "author": "Greg Joyce",
+      "link": "https://nypost.com/2026/08/01/sports/yankees-bullpen-falters-late-as-offense-keeps-struggling-in-loss-to-cubs/",
+      "published": "2026-08-02T02:30:44Z",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fnew-york-yankees-pitcher-brent-136233606.jpg?w%3D1024"
+    },
+    {
       "title": "With Doval falling in 'pen hierarchy, Yanks deal him to Pirates for 2 prospects",
       "summary": "",
       "source": "MLB.com Yankees",
@@ -639,15 +657,6 @@
       "author": "Bryan Hoch",
       "link": "https://www.mlb.com/yankees/news/gerrit-cole-strikes-out-seven-yankees-white-sox",
       "published": "2026-07-29T03:48:00Z",
-      "image": null
-    },
-    {
-      "title": "Where does Rice land in latest MVP poll?",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Jason Foster",
-      "link": "https://www.mlb.com/yankees/news/yordan-alvarez-shohei-ohtani-lead-fourth-2026-mvp-poll",
-      "published": "2026-07-28T04:04:21Z",
       "image": null
     },
     {
