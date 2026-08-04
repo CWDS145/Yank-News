@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T18:00:32Z",
+  "updated": "2026-08-04T18:57:10Z",
   "season": 2026,
   "pitchers": [
     {
@@ -191,6 +191,17 @@
         "MLB",
         "AAA"
       ]
+    },
+    {
+      "id": 827768,
+      "name": "Anthony Mena",
+      "position": "P",
+      "level": "Low-A",
+      "level_since": "2026-08-04",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "season_levels": []
     },
     {
       "id": 824445,
@@ -803,6 +814,43 @@
       "prior_level_since": null,
       "season": null,
       "season_levels": []
+    },
+    {
+      "id": 814343,
+      "name": "Danny Flatt",
+      "position": "P",
+      "level": "Low-A",
+      "level_since": "2026-04-28",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "w": 1,
+        "l": 2,
+        "g": 4,
+        "gs": 4,
+        "cg": 0,
+        "sho": 0,
+        "sv": 0,
+        "svo": 0,
+        "ip": "21.1",
+        "ip_outs": 64,
+        "h": 20,
+        "r": 14,
+        "er": 13,
+        "hr": 2,
+        "hb": 2,
+        "bb": 6,
+        "so": 13,
+        "era": "5.48",
+        "era_num": 5.484375,
+        "whip": "1.22",
+        "whip_num": 1.21875,
+        "avg": ".250",
+        "avg_num": 0.25
+      },
+      "season_levels": [
+        "Low-A"
+      ]
     },
     {
       "id": 702130,
@@ -2148,6 +2196,17 @@
       "season_levels": [
         "High-A"
       ]
+    },
+    {
+      "id": 828266,
+      "name": "Rafael Arias",
+      "position": "P",
+      "level": "Low-A",
+      "level_since": "2026-08-04",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "season_levels": []
     },
     {
       "id": 606160,

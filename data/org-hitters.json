@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T17:56:23Z",
+  "updated": "2026-08-04T18:52:34Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-07-25",
@@ -123,6 +123,19 @@
       ]
     },
     {
+      "id": 835219,
+      "name": "Anthony Potestio",
+      "position": "2B",
+      "level": "Low-A",
+      "level_since": "2026-08-04",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "last_10": null,
+      "season_levels": [],
+      "last_10_levels": []
+    },
+    {
       "id": 683011,
       "name": "Anthony Volpe",
       "position": "SS",
@@ -188,6 +201,19 @@
       ]
     },
     {
+      "id": 824424,
+      "name": "Bear Harrison",
+      "position": "C",
+      "level": "Low-A",
+      "level_since": "2026-08-04",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "last_10": null,
+      "season_levels": [],
+      "last_10_levels": []
+    },
+    {
       "id": 700250,
       "name": "Ben Rice",
       "position": "1B",
@@ -217,6 +243,19 @@
       "last_10_levels": [
         "MLB"
       ]
+    },
+    {
+      "id": 701331,
+      "name": "Blake Cyr",
+      "position": "2B",
+      "level": "Low-A",
+      "level_since": "2026-08-04",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "last_10": null,
+      "season_levels": [],
+      "last_10_levels": []
     },
     {
       "id": 806963,
@@ -577,6 +616,19 @@
       "last_10_levels": []
     },
     {
+      "id": 824425,
+      "name": "Diego Castellanos",
+      "position": "OF",
+      "level": "Low-A",
+      "level_since": "2026-08-04",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "last_10": null,
+      "season_levels": [],
+      "last_10_levels": []
+    },
+    {
       "id": 687554,
       "name": "DJ Gladney",
       "position": "LF",
@@ -661,37 +713,6 @@
         "ops": "1.611",
         "avg_num": 0.6666666666666666,
         "ops_num": 1.6111111111111112
-      },
-      "season_levels": [
-        "Low-A"
-      ],
-      "last_10_levels": [
-        "Low-A"
-      ]
-    },
-    {
-      "id": 800246,
-      "name": "Engelth Urena",
-      "position": "C",
-      "level": "Low-A",
-      "level_since": "2026-03-30",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 261,
-        "k": 73,
-        "avg": ".207",
-        "ops": ".691",
-        "avg_num": 0.20689655172413793,
-        "ops_num": 0.6913429673159133
-      },
-      "last_10": {
-        "ab": 19,
-        "k": 5,
-        "avg": ".263",
-        "ops": ".842",
-        "avg_num": 0.2631578947368421,
-        "ops_num": 0.8421052631578947
       },
       "season_levels": [
         "Low-A"
@@ -845,28 +866,6 @@
       "last_10": null,
       "season_levels": [
         "MLB"
-      ],
-      "last_10_levels": []
-    },
-    {
-      "id": 801307,
-      "name": "Gregory Bozzo",
-      "position": "C",
-      "level": "Low-A",
-      "level_since": "2026-04-03",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 19,
-        "k": 7,
-        "avg": ".263",
-        "ops": ".807",
-        "avg_num": 0.2631578947368421,
-        "ops_num": 0.8070175438596491
-      },
-      "last_10": null,
-      "season_levels": [
-        "Low-A"
       ],
       "last_10_levels": []
     },
@@ -1676,6 +1675,19 @@
       ]
     },
     {
+      "id": 827290,
+      "name": "Paul Gutierrez-Contreras II",
+      "position": "OF",
+      "level": "Low-A",
+      "level_since": "2026-08-04",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "last_10": null,
+      "season_levels": [],
+      "last_10_levels": []
+    },
+    {
       "id": 823754,
       "name": "Robbie Burnett",
       "position": "OF",
@@ -1865,6 +1877,19 @@
       "last_10_levels": [
         "MLB"
       ]
+    },
+    {
+      "id": 801489,
+      "name": "Tyce Armstrong",
+      "position": "2B",
+      "level": "Low-A",
+      "level_since": "2026-08-04",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "last_10": null,
+      "season_levels": [],
+      "last_10_levels": []
     },
     {
       "id": 676205,
