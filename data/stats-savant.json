@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T08:05:13Z",
+  "updated": "2026-08-05T09:12:19Z",
   "season": 2026,
   "players": [
     {
@@ -127,7 +127,7 @@
       },
       "sprint_speed": {
         "sprint_speed": 26.8,
-        "hp_to_1b": 4.56,
+        "hp_to_1b": 4.57,
         "bolts": null
       }
     },
@@ -277,6 +277,18 @@
       }
     },
     {
+      "id": 671218,
+      "name": "Heliot Ramos",
+      "expected_batting": null,
+      "expected_pitching": null,
+      "statcast_batting": null,
+      "sprint_speed": {
+        "sprint_speed": 27.1,
+        "hp_to_1b": 4.49,
+        "bolts": null
+      }
+    },
+    {
       "id": 641555,
       "name": "J.C. Escarra",
       "expected_batting": null,
@@ -327,7 +339,7 @@
       },
       "sprint_speed": {
         "sprint_speed": 28.3,
-        "hp_to_1b": 4.24,
+        "hp_to_1b": 4.25,
         "bolts": 7
       }
     },
@@ -389,7 +401,7 @@
       },
       "sprint_speed": {
         "sprint_speed": 26.5,
-        "hp_to_1b": 4.35,
+        "hp_to_1b": 4.36,
         "bolts": null
       }
     },
@@ -497,7 +509,7 @@
       },
       "sprint_speed": {
         "sprint_speed": 25.8,
-        "hp_to_1b": 4.61,
+        "hp_to_1b": 4.62,
         "bolts": null
       }
     },
@@ -543,7 +555,7 @@
       "statcast_batting": null,
       "sprint_speed": {
         "sprint_speed": 29.0,
-        "hp_to_1b": 4.24,
+        "hp_to_1b": 4.23,
         "bolts": 7
       }
     },
@@ -590,8 +602,8 @@
         "hardhit_pct": null
       },
       "sprint_speed": {
-        "sprint_speed": 26.7,
-        "hp_to_1b": 4.54,
+        "sprint_speed": 26.6,
+        "hp_to_1b": 4.53,
         "bolts": null
       }
     },
