@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T15:04:18Z",
+  "updated": "2026-08-06T23:36:47Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-07-27",
@@ -1873,39 +1873,6 @@
       ],
       "last_10_levels": [
         "MLB"
-      ]
-    },
-    {
-      "id": 801726,
-      "name": "Santiago Gomez",
-      "position": "SS",
-      "level": "High-A",
-      "level_since": "2026-07-07",
-      "prior_level": "AA",
-      "prior_level_since": "2026-06-25",
-      "season": {
-        "ab": 90,
-        "k": 24,
-        "avg": ".222",
-        "ops": ".646",
-        "avg_num": 0.2222222222222222,
-        "ops_num": 0.6460317460317461
-      },
-      "last_10": {
-        "ab": 6,
-        "k": 3,
-        "avg": ".000",
-        "ops": ".143",
-        "avg_num": 0.0,
-        "ops_num": 0.14285714285714285
-      },
-      "season_levels": [
-        "AA",
-        "High-A",
-        "Low-A"
-      ],
-      "last_10_levels": [
-        "High-A"
       ]
     },
     {
