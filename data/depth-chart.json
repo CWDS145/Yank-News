@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T10:53:11Z",
+  "updated": "2026-08-06T10:52:25Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -36,7 +36,7 @@
     ],
     "SS": [
       {
-        "name": "Jose Caballero",
+        "name": "George Lombard Jr.",
         "rank": 1
       }
     ],
@@ -120,11 +120,11 @@
         "rank": 5
       },
       {
-        "name": "Angel Chivilli",
+        "name": "Kervin Castro",
         "rank": 6
       },
       {
-        "name": "Kervin Castro",
+        "name": "Yerry De Los Santos",
         "rank": 7
       },
       {
@@ -135,7 +135,6 @@
   },
   "all_players": [
     "Ali Sanchez",
-    "Angel Chivilli",
     "Austin Wells",
     "Ben Rice",
     "Brent Headrick",
@@ -144,11 +143,11 @@
     "Clarke Schmidt",
     "David Bednar",
     "Fernando E. Cruz",
+    "George Lombard Jr.",
     "Gerrit Cole",
     "Giancarlo Stanton",
     "Heliot Ramos",
     "Jazz Chisholm",
-    "Jose Caballero",
     "Kervin Castro",
     "Luis V. Garcia",
     "Max Fried",
@@ -160,6 +159,7 @@
     "Spencer G. Jones",
     "Tim Hill",
     "Trent Grisham",
-    "Will Warren"
+    "Will Warren",
+    "Yerry De Los Santos"
   ]
 }
