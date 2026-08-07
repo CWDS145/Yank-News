@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T17:40:35Z",
+  "updated": "2026-08-07T18:09:50Z",
   "season": 2026,
   "pitchers": [
     {
@@ -2532,6 +2532,43 @@
       "season_levels": [
         "AA",
         "High-A"
+      ]
+    },
+    {
+      "id": 669740,
+      "name": "Travis MacGregor",
+      "position": "P",
+      "level": "High-A",
+      "level_since": "2026-08-07",
+      "prior_level": "Low-A",
+      "prior_level_since": "2026-07-28",
+      "season": {
+        "w": 0,
+        "l": 0,
+        "g": 3,
+        "gs": 1,
+        "cg": 0,
+        "sho": 0,
+        "sv": 0,
+        "svo": 0,
+        "ip": "4.2",
+        "ip_outs": 14,
+        "h": 2,
+        "r": 0,
+        "er": 0,
+        "hr": 0,
+        "hb": 1,
+        "bb": 1,
+        "so": 3,
+        "era": "0.00",
+        "era_num": 0.0,
+        "whip": "0.64",
+        "whip_num": 0.6428571428571429,
+        "avg": ".133",
+        "avg_num": 0.13333333333333333
+      },
+      "season_levels": [
+        "Low-A"
       ]
     },
     {
