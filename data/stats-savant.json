@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T09:07:06Z",
+  "updated": "2026-08-07T09:35:20Z",
   "season": 2026,
   "players": [
     {
@@ -96,7 +96,7 @@
       },
       "sprint_speed": {
         "sprint_speed": 25.7,
-        "hp_to_1b": 4.66,
+        "hp_to_1b": 4.67,
         "bolts": null
       }
     },
@@ -171,13 +171,13 @@
       "expected_batting": null,
       "expected_pitching": {
         "pa": 194,
-        "est_ba": 0.212,
+        "est_ba": 0.213,
         "est_slg": 0.324,
-        "est_woba": 0.296,
+        "est_woba": 0.297,
         "ba": 0.195,
         "slg": 0.305,
         "woba": 0.28,
-        "est_woba_minus_woba": 0.016
+        "est_woba_minus_woba": 0.017
       },
       "statcast_batting": null,
       "sprint_speed": null
