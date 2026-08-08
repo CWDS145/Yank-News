@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T14:08:32Z",
+  "updated": "2026-08-08T14:33:46Z",
   "season": 2026,
   "pitchers": [
     {
@@ -224,43 +224,6 @@
         "whip_num": 0.3,
         "avg": ".100",
         "avg_num": 0.1
-      },
-      "season_levels": [
-        "Low-A"
-      ]
-    },
-    {
-      "id": 824445,
-      "name": "Austin Breedlove",
-      "position": "P",
-      "level": "Low-A",
-      "level_since": "2026-07-08",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "w": 0,
-        "l": 0,
-        "g": 6,
-        "gs": 0,
-        "cg": 0,
-        "sho": 0,
-        "sv": 2,
-        "svo": 2,
-        "ip": "7.2",
-        "ip_outs": 23,
-        "h": 7,
-        "r": 7,
-        "er": 6,
-        "hr": 3,
-        "hb": 0,
-        "bb": 6,
-        "so": 5,
-        "era": "7.04",
-        "era_num": 7.043478260869565,
-        "whip": "1.70",
-        "whip_num": 1.6956521739130435,
-        "avg": ".241",
-        "avg_num": 0.2413793103448276
       },
       "season_levels": [
         "Low-A"
