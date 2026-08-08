@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T15:09:41Z",
+  "updated": "2026-08-08T15:42:27Z",
   "count": 69,
   "items": [
     {
@@ -10,26 +10,20 @@
     },
     {
       "date": "2026-08-04",
-      "type": "called up",
-      "player": "Yerry De Los Santos",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-08-04",
       "type": "purchased",
       "player": "George Lombard Jr.",
       "description": "Purchased From Minors"
     },
     {
-      "date": "2026-08-03",
-      "type": "sent",
-      "player": "Angel Chivilli",
-      "description": "Sent to Minors"
+      "date": "2026-08-04",
+      "type": "called up",
+      "player": "Yerry De Los Santos",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Max Schuemann",
+      "player": "Angel Chivilli",
       "description": "Sent to Minors"
     },
     {
@@ -47,13 +41,19 @@
     {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Anthony Volpe",
+      "player": "Max Schuemann",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-08-03",
       "type": "sent",
       "player": "Jasson Dominguez",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-08-03",
+      "type": "sent",
+      "player": "Anthony Volpe",
       "description": "Sent to Minors"
     },
     {
@@ -394,12 +394,6 @@
     },
     {
       "date": "2026-06-11",
-      "type": "recalled",
-      "player": "Angel Chivilli",
-      "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-06-11",
       "type": "sent",
       "player": "Angel Chivilli",
       "description": "Sent to Minors"
@@ -409,6 +403,12 @@
       "type": "",
       "player": "Angel Chivilli",
       "description": "Removed From 15-Day IL (Right shoulder discomfort)"
+    },
+    {
+      "date": "2026-06-11",
+      "type": "recalled",
+      "player": "Angel Chivilli",
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-06-10",
