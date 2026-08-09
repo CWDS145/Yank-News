@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T15:59:31Z",
+  "updated": "2026-08-09T16:29:28Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-07-30",
@@ -719,6 +719,37 @@
       ]
     },
     {
+      "id": 800299,
+      "name": "Diomedes Hernandez",
+      "position": "C",
+      "level": "High-A",
+      "level_since": "2026-05-01",
+      "prior_level": "AA",
+      "prior_level_since": "2026-04-12",
+      "season": {
+        "ab": 10,
+        "k": 4,
+        "avg": ".100",
+        "ops": ".408",
+        "avg_num": 0.1,
+        "ops_num": 0.4076923076923077
+      },
+      "last_10": {
+        "ab": 2,
+        "k": 1,
+        "avg": ".000",
+        "ops": ".333",
+        "avg_num": 0.0,
+        "ops_num": 0.3333333333333333
+      },
+      "season_levels": [
+        "High-A"
+      ],
+      "last_10_levels": [
+        "High-A"
+      ]
+    },
+    {
       "id": 687554,
       "name": "DJ Gladney",
       "position": "LF",
@@ -1244,37 +1275,6 @@
       ],
       "last_10_levels": [
         "AA"
-      ]
-    },
-    {
-      "id": 700648,
-      "name": "Josue Gonzalez",
-      "position": "C",
-      "level": "High-A",
-      "level_since": "2026-03-30",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 215,
-        "k": 64,
-        "avg": ".219",
-        "ops": ".730",
-        "avg_num": 0.2186046511627907,
-        "ops_num": 0.7298801973220579
-      },
-      "last_10": {
-        "ab": 11,
-        "k": 5,
-        "avg": ".364",
-        "ops": ".962",
-        "avg_num": 0.36363636363636365,
-        "ops_num": 0.9621212121212122
-      },
-      "season_levels": [
-        "High-A"
-      ],
-      "last_10_levels": [
-        "High-A"
       ]
     },
     {
