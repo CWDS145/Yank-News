@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T05:50:00Z",
+  "updated": "2026-08-10T06:18:24Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-07-31",
@@ -597,9 +597,9 @@
       "name": "David McCann",
       "position": "C",
       "level": "High-A",
-      "level_since": null,
-      "prior_level": null,
-      "prior_level_since": null,
+      "level_since": "2026-08-04",
+      "prior_level": "Low-A",
+      "prior_level_since": "2026-03-17",
       "season": {
         "ab": 130,
         "k": 42,
