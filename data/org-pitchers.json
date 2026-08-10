@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T08:57:07Z",
+  "updated": "2026-08-10T09:56:47Z",
   "season": 2026,
   "pitchers": [
     {
@@ -721,9 +721,9 @@
       "name": "Chase Hampton",
       "position": "P",
       "level": "MLB",
-      "level_since": null,
-      "prior_level": null,
-      "prior_level_since": null,
+      "level_since": "2026-06-12",
+      "prior_level": "High-A",
+      "prior_level_since": "2026-05-26",
       "season": {
         "w": 0,
         "l": 6,
@@ -1184,7 +1184,7 @@
       "name": "Greysen Carter",
       "position": "P",
       "level": "Low-A",
-      "level_since": null,
+      "level_since": "2026-04-03",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -1370,7 +1370,7 @@
       "name": "J.T. Etheridge",
       "position": "P",
       "level": "Low-A",
-      "level_since": null,
+      "level_since": "2026-04-14",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -1481,7 +1481,7 @@
       "name": "Jose Ledesma",
       "position": "P",
       "level": "Low-A",
-      "level_since": null,
+      "level_since": "2026-04-03",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -1556,7 +1556,7 @@
       "name": "Jose Martinez",
       "position": "P",
       "level": "Low-A",
-      "level_since": null,
+      "level_since": "2026-04-07",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -1630,7 +1630,7 @@
       "name": "Justin West",
       "position": "P",
       "level": "Low-A",
-      "level_since": null,
+      "level_since": "2026-04-03",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -1781,9 +1781,9 @@
       "name": "Luis Gil",
       "position": "P",
       "level": "MLB",
-      "level_since": null,
-      "prior_level": null,
-      "prior_level_since": null,
+      "level_since": "2026-04-10",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-03-25",
       "season": {
         "w": 1,
         "l": 2,
@@ -1932,7 +1932,7 @@
       "name": "Matthew Tippie",
       "position": "P",
       "level": "Low-A",
-      "level_since": null,
+      "level_since": "2026-04-03",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -2118,7 +2118,7 @@
       "name": "Rafael Arias",
       "position": "P",
       "level": "Low-A",
-      "level_since": null,
+      "level_since": "2026-08-04",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -2304,7 +2304,7 @@
       "name": "Sabier Marte",
       "position": "P",
       "level": "Low-A",
-      "level_since": null,
+      "level_since": "2026-07-09",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -2716,7 +2716,7 @@
       "name": "Wyatt Parliament",
       "position": "P",
       "level": "Low-A",
-      "level_since": null,
+      "level_since": "2026-04-03",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
