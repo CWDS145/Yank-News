@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T17:16:02Z",
+  "updated": "2026-08-11T17:43:25Z",
   "season": 2026,
   "pitchers": [
     {
@@ -2784,6 +2784,44 @@
       "season_levels": [
         "MLB",
         "AAA"
+      ]
+    },
+    {
+      "id": 666720,
+      "name": "Yerry Rodríguez",
+      "position": "P",
+      "level": "Low-A",
+      "level_since": "2026-08-11",
+      "prior_level": "AA",
+      "prior_level_since": "2026-06-12",
+      "season": {
+        "w": 1,
+        "l": 1,
+        "g": 7,
+        "gs": 1,
+        "cg": 0,
+        "sho": 0,
+        "sv": 0,
+        "svo": 1,
+        "ip": "8.2",
+        "ip_outs": 26,
+        "h": 10,
+        "r": 2,
+        "er": 2,
+        "hr": 0,
+        "hb": 0,
+        "bb": 1,
+        "so": 6,
+        "era": "2.08",
+        "era_num": 2.076923076923077,
+        "whip": "1.27",
+        "whip_num": 1.2692307692307692,
+        "avg": ".286",
+        "avg_num": 0.2857142857142857
+      },
+      "season_levels": [
+        "High-A",
+        "Low-A"
       ]
     },
     {
