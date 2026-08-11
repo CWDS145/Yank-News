@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T12:20:17Z",
+  "updated": "2026-08-11T12:49:00Z",
   "count": 66,
   "items": [
     {
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-08-11T12:20:17Z",
+      "published": "2026-08-11T12:49:00Z",
       "image": null
     },
     {
@@ -17,7 +17,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-outfielder-heliot-ramos/",
-      "published": "2026-08-11T12:20:17Z",
+      "published": "2026-08-11T12:49:00Z",
       "image": null
     },
     {
@@ -26,7 +26,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-infielder-luis-garcia-jr/",
-      "published": "2026-08-11T12:20:17Z",
+      "published": "2026-08-11T12:49:00Z",
       "image": null
     },
     {
@@ -35,7 +35,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-to-hold-78th-old-timers-day-presented-by-freshdirect-on-saturday-august-8-at-yankee-stadium/",
-      "published": "2026-08-11T12:20:17Z",
+      "published": "2026-08-11T12:49:00Z",
+      "image": null
+    },
+    {
+      "title": "New York Yankees vs. Seattle Mariners: Series Preview",
+      "summary": "After three straight series against the Senior Circuit, the Yankees welcome the Mariners to the East Coast. The Bombers had an off day on Monday after dropping the series finale against the National League East-leading Atlanta Braves. The Yankees continue to hold serve as they wait for reinforcements to arrive, posting a 5-5 mark over […]",
+      "source": "Pinstripe Alley",
+      "author": "Jonathan Farrar",
+      "link": "https://www.pinstripealley.com/yankees-game-information/201687/new-york-yankees-seattle-mariners-series-preview-probable-pitchers-ryan-weathers-will-warren-max-fried-gilbert-miller-woo",
+      "published": "2026-08-11T12:30:00Z",
       "image": null
     },
     {
@@ -46,15 +55,6 @@
       "link": "https://www.pinstripealley.com/yankees-prospects/201767/yankees-prospects-germayhoni-beltre-ruben-castillo-hector-moreno-isaias",
       "published": "2026-08-11T11:00:00Z",
       "image": null
-    },
-    {
-      "title": "Jazz Chisholm Jr. and Trent Grisham have lost right to be in Yankees lineup every day",
-      "summary": "It has been so bad for so long that Boone cannot just blindly write their names into the lineup and/or stick with them late in games.",
-      "source": "NY Post Yankees",
-      "author": "Joel Sherman",
-      "link": "https://nypost.com/2026/08/11/sports/jazz-chisholm-jr-trent-grisham-shouldnt-be-yankees-lineup-givens/",
-      "published": "2026-08-11T11:00:00Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fnewspress-collage-i2odk7fjy-1786386055417.jpg?quality%3D90%26"
     },
     {
       "title": "How does the Yankees’ rotation stack up in the AL?",
@@ -180,15 +180,6 @@
       "author": "Jake Devin",
       "link": "https://www.pinstripealley.com/yankees-prospects/201515/yankees-top-prospects-dominguez-scranton-minors-arias-facundo",
       "published": "2026-08-10T11:00:00Z",
-      "image": null
-    },
-    {
-      "title": "Today on Pinstripe Alley – 8/10/26",
-      "summary": "The Yankees came oh-so-close to a scintillating sweep of the Braves, but the offense sputtered once again in another extra-innings loss yesterday. Even so, the series victory over Atlanta did serve as proof of concept. Thanks to their stellar pitching, this offensively limited version of the Yankees very much can beat the best teams in […]",
-      "source": "Pinstripe Alley",
-      "author": "Jake Devin",
-      "link": "https://www.pinstripealley.com/pinstripe-alley-discussions/201514/yankees-mlb-pinstripe-alley-8-10-26",
-      "published": "2026-08-10T10:00:00Z",
       "image": null
     },
     {
@@ -406,6 +397,15 @@
       "link": "https://www.mlb.com/yankees/news/yankees-hold-2026-old-timers-day",
       "published": "2026-08-08T20:04:00Z",
       "image": null
+    },
+    {
+      "title": "Tommy John pens goodbye to Yankees for Old-Timers’ Day during health fight",
+      "summary": "Tommy John, the longtime pitcher known for the elbow surgery named after him, has penned his goodbye to the Yankees while in a health battle.",
+      "source": "NY Post Yankees",
+      "author": "Dan Martin",
+      "link": "https://nypost.com/2026/08/08/sports/tommy-john-pens-goodbye-to-yankees-during-health-fight/",
+      "published": "2026-08-08T18:49:14Z",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2FGettyImages-511617922.jpg?w%3D1024"
     },
     {
       "title": "In test of playoff-type baseball, Yanks show their mettle with comeback win",
