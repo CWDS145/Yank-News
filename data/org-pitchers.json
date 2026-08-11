@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T17:43:25Z",
+  "updated": "2026-08-11T18:12:46Z",
   "season": 2026,
   "pitchers": [
     {
@@ -882,10 +882,10 @@
       "id": 687589,
       "name": "Dom Hamel",
       "position": "P",
-      "level": "AAA",
-      "level_since": "2026-07-02",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-01-27",
+      "level": "AA",
+      "level_since": "2026-08-11",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-07-02",
       "season": {
         "w": 3,
         "l": 9,
@@ -1295,8 +1295,8 @@
       "id": 675296,
       "name": "Hayden Merda",
       "position": "P",
-      "level": "AA",
-      "level_since": null,
+      "level": "AAA",
+      "level_since": "2026-08-11",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -2715,10 +2715,10 @@
       "id": 814392,
       "name": "Xavier Rivas",
       "position": "P",
-      "level": "AA",
-      "level_since": "2026-03-30",
-      "prior_level": null,
-      "prior_level_since": null,
+      "level": "AAA",
+      "level_since": "2026-08-11",
+      "prior_level": "AA",
+      "prior_level_since": "2026-03-30",
       "season": {
         "w": 6,
         "l": 4,
