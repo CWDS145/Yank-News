@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T15:37:45Z",
+  "updated": "2026-08-11T16:10:30Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-08-01",
@@ -565,10 +565,10 @@
       "id": 692110,
       "name": "Core Jackson",
       "position": "SS",
-      "level": "High-A",
-      "level_since": "2026-05-11",
-      "prior_level": null,
-      "prior_level_since": null,
+      "level": "AA",
+      "level_since": "2026-08-11",
+      "prior_level": "High-A",
+      "prior_level_since": "2026-05-11",
       "season": {
         "ab": 293,
         "k": 72,
@@ -996,8 +996,8 @@
       "id": 694215,
       "name": "Hans Montero",
       "position": "3B",
-      "level": "Low-A",
-      "level_since": null,
+      "level": "High-A",
+      "level_since": "2026-08-11",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
