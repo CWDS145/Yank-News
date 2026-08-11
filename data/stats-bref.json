@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-10T14:28:07Z",
+  "updated": "2026-08-11T14:27:44Z",
   "source": "Baseball-Reference",
   "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
   "season": 2026,
   "scrape_attempt": {
     "status": "ok",
     "http_status": 200,
-    "duration_ms": 276,
+    "duration_ms": 331,
     "note": "tables: bat_id=players_standard_batting pit_id=players_standard_pitching batters=25 pitchers=22"
   },
   "team_record": {
@@ -55,7 +55,7 @@
     "SO": "1065",
     "HR": "116",
     "ERA+": "127",
-    "FIP": "3.64",
+    "FIP": "3.65",
     "WHIP": "1.177",
     "rWAR": "17.8"
   },
@@ -357,7 +357,7 @@
       "OPS": ".691",
       "OPS+": "92",
       "TB": "46",
-      "rWAR": "0.5"
+      "rWAR": "0.6"
     },
     {
       "name": "Giancarlo Stanton",
@@ -472,7 +472,7 @@
       "OPS": ".535",
       "OPS+": "47",
       "TB": "10",
-      "rWAR": "-0.3"
+      "rWAR": "-0.4"
     },
     {
       "name": "Luis García Jr.",
@@ -653,8 +653,8 @@
       "BB": "31",
       "SO": "182",
       "HR": "14",
-      "ERA+": "188",
-      "FIP": "2.60",
+      "ERA+": "189",
+      "FIP": "2.61",
       "WHIP": "0.927",
       "rWAR": "4.9"
     },
@@ -738,7 +738,7 @@
       "SO": "87",
       "HR": "11",
       "ERA+": "125",
-      "FIP": "3.37",
+      "FIP": "3.38",
       "WHIP": "1.079",
       "rWAR": "2.0"
     },
@@ -759,7 +759,7 @@
       "SO": "52",
       "HR": "3",
       "ERA+": "127",
-      "FIP": "3.43",
+      "FIP": "3.44",
       "WHIP": "1.252",
       "rWAR": "0.7"
     },
@@ -800,7 +800,7 @@
       "BB": "19",
       "SO": "71",
       "HR": "3",
-      "ERA+": "275",
+      "ERA+": "276",
       "FIP": "2.31",
       "WHIP": "1.146",
       "rWAR": "2.4"
@@ -948,7 +948,7 @@
       "SO": "9",
       "HR": "6",
       "ERA+": "70",
-      "FIP": "8.36",
+      "FIP": "8.37",
       "WHIP": "1.345",
       "rWAR": "-0.2"
     },
@@ -1074,7 +1074,7 @@
       "SO": "6",
       "HR": "0",
       "ERA+": "263",
-      "FIP": "1.96",
+      "FIP": "1.97",
       "WHIP": "0.750",
       "rWAR": "0.1"
     },
