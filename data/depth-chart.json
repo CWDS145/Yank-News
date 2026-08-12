@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T10:18:41Z",
+  "updated": "2026-08-12T10:22:45Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -120,16 +120,20 @@
         "rank": 5
       },
       {
-        "name": "Kervin Castro",
+        "name": "Yerry De Los Santos",
         "rank": 6
       },
       {
-        "name": "Yerry De Los Santos",
+        "name": "Bradley Hanner",
         "rank": 7
       },
       {
         "name": "Ryan Yarbrough",
         "rank": 8
+      },
+      {
+        "name": "Kervin Castro",
+        "rank": 9
       }
     ]
   },
@@ -137,6 +141,7 @@
     "Ali Sanchez",
     "Austin Wells",
     "Ben Rice",
+    "Bradley Hanner",
     "Brent Headrick",
     "Cam Schlittler",
     "Carlos Rodon",
