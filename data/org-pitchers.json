@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T12:11:22Z",
+  "updated": "2026-08-12T12:44:05Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1484,8 +1484,34 @@
       "level_since": "2026-04-03",
       "prior_level": null,
       "prior_level_since": null,
-      "season": null,
-      "season_levels": []
+      "season": {
+        "w": 0,
+        "l": 3,
+        "g": 25,
+        "gs": 0,
+        "cg": 0,
+        "sho": 0,
+        "sv": 1,
+        "svo": 4,
+        "ip": "32.2",
+        "ip_outs": 98,
+        "h": 30,
+        "r": 20,
+        "er": 15,
+        "hr": 1,
+        "hb": 3,
+        "bb": 17,
+        "so": 36,
+        "era": "4.13",
+        "era_num": 4.13265306122449,
+        "whip": "1.44",
+        "whip_num": 1.4387755102040816,
+        "avg": ".240",
+        "avg_num": 0.24
+      },
+      "season_levels": [
+        "Low-A"
+      ]
     },
     {
       "id": 815278,
