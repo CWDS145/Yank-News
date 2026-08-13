@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T19:16:50Z",
+  "updated": "2026-08-13T19:46:39Z",
   "season": 2026,
   "pitchers": [
     {
@@ -839,6 +839,43 @@
       },
       "season_levels": [
         "Low-A"
+      ]
+    },
+    {
+      "id": 702130,
+      "name": "Danny Watson",
+      "position": "P",
+      "level": "AAA",
+      "level_since": "2026-03-26",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "w": 4,
+        "l": 3,
+        "g": 34,
+        "gs": 2,
+        "cg": 0,
+        "sho": 0,
+        "sv": 2,
+        "svo": 2,
+        "ip": "43.2",
+        "ip_outs": 131,
+        "h": 34,
+        "r": 29,
+        "er": 23,
+        "hr": 5,
+        "hb": 8,
+        "bb": 18,
+        "so": 51,
+        "era": "4.74",
+        "era_num": 4.740458015267175,
+        "whip": "1.19",
+        "whip_num": 1.1908396946564885,
+        "avg": ".211",
+        "avg_num": 0.2111801242236025
+      },
+      "season_levels": [
+        "AAA"
       ]
     },
     {
@@ -2238,27 +2275,27 @@
       "season": {
         "w": 2,
         "l": 1,
-        "g": 28,
+        "g": 29,
         "gs": 1,
         "cg": 0,
         "sho": 0,
         "sv": 2,
         "svo": 2,
-        "ip": "44.0",
-        "ip_outs": 132,
+        "ip": "45.1",
+        "ip_outs": 136,
         "h": 38,
         "r": 25,
         "er": 18,
         "hr": 3,
         "hb": 4,
-        "bb": 18,
-        "so": 30,
-        "era": "3.68",
-        "era_num": 3.6818181818181817,
-        "whip": "1.27",
-        "whip_num": 1.2727272727272727,
-        "avg": ".229",
-        "avg_num": 0.2289156626506024
+        "bb": 19,
+        "so": 32,
+        "era": "3.57",
+        "era_num": 3.573529411764706,
+        "whip": "1.26",
+        "whip_num": 1.2573529411764706,
+        "avg": ".224",
+        "avg_num": 0.2235294117647059
       },
       "season_levels": [
         "MLB"
@@ -2455,10 +2492,10 @@
       "id": 669740,
       "name": "Travis MacGregor",
       "position": "P",
-      "level": "High-A",
-      "level_since": "2026-08-07",
-      "prior_level": "Low-A",
-      "prior_level_since": "2026-07-28",
+      "level": "AAA",
+      "level_since": "2026-08-13",
+      "prior_level": "High-A",
+      "prior_level_since": "2026-08-07",
       "season": {
         "w": 0,
         "l": 0,
@@ -2762,7 +2799,7 @@
       "season": {
         "w": 3,
         "l": 2,
-        "g": 38,
+        "g": 39,
         "gs": 2,
         "cg": 0,
         "sho": 0,
