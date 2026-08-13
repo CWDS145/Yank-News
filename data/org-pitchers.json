@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T18:42:18Z",
+  "updated": "2026-08-13T19:16:50Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1983,21 +1983,21 @@
         "sho": 0,
         "sv": 0,
         "svo": 0,
-        "ip": "87.1",
-        "ip_outs": 262,
-        "h": 62,
+        "ip": "89.1",
+        "ip_outs": 268,
+        "h": 64,
         "r": 29,
         "er": 29,
         "hr": 3,
         "hb": 2,
-        "bb": 26,
-        "so": 81,
-        "era": "2.99",
-        "era_num": 2.9885496183206106,
-        "whip": "1.01",
-        "whip_num": 1.0076335877862594,
-        "avg": ".202",
-        "avg_num": 0.20195439739413681
+        "bb": 27,
+        "so": 82,
+        "era": "2.92",
+        "era_num": 2.921641791044776,
+        "whip": "1.02",
+        "whip_num": 1.0186567164179106,
+        "avg": ".204",
+        "avg_num": 0.20447284345047922
       },
       "season_levels": [
         "MLB",
@@ -2530,7 +2530,7 @@
       "id": 683332,
       "name": "Tyler Boudreau",
       "position": "P",
-      "level": "Low-A",
+      "level": "AA",
       "level_since": "2026-08-13",
       "prior_level": null,
       "prior_level_since": null,
