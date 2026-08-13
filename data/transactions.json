@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T09:54:15Z",
+  "updated": "2026-08-13T10:26:03Z",
   "count": 65,
   "items": [
     {
@@ -28,20 +28,26 @@
     },
     {
       "date": "2026-08-04",
-      "type": "purchased",
-      "player": "George Lombard Jr.",
-      "description": "Purchased From Minors"
-    },
-    {
-      "date": "2026-08-04",
       "type": "called up",
       "player": "Yerry De Los Santos",
       "description": "Called Up from Minors"
     },
     {
+      "date": "2026-08-04",
+      "type": "purchased",
+      "player": "George Lombard Jr.",
+      "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-08-03",
+      "type": "traded",
+      "player": "Heliot Ramos",
+      "description": "Traded From San Francisco (for LHP Henry Lalane, three-player deal)"
+    },
+    {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Anthony Volpe",
+      "player": "Angel Chivilli",
       "description": "Sent to Minors"
     },
     {
@@ -53,20 +59,14 @@
     {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Max Schuemann",
+      "player": "Anthony Volpe",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Angel Chivilli",
+      "player": "Max Schuemann",
       "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-08-03",
-      "type": "traded",
-      "player": "Heliot Ramos",
-      "description": "Traded From San Francisco (for LHP Henry Lalane, three-player deal)"
     },
     {
       "date": "2026-08-03",
@@ -227,14 +227,14 @@
     {
       "date": "2026-07-03",
       "type": "",
-      "player": "Ryan McMahon",
-      "description": "Removed From 10-Day IL (Throat/ear infection)"
+      "player": "Trent Grisham",
+      "description": "Removed From 10-Day IL (Strained right hamstring)"
     },
     {
       "date": "2026-07-03",
-      "type": "",
+      "type": "recalled",
       "player": "Trent Grisham",
-      "description": "Removed From 10-Day IL (Strained right hamstring)"
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-07-03",
@@ -244,21 +244,21 @@
     },
     {
       "date": "2026-07-03",
-      "type": "recalled",
-      "player": "Trent Grisham",
-      "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-07-02",
-      "type": "released",
-      "player": "Payton Henry",
-      "description": "Released"
+      "type": "",
+      "player": "Ryan McMahon",
+      "description": "Removed From 10-Day IL (Throat/ear infection)"
     },
     {
       "date": "2026-07-02",
       "type": "reinstated",
       "player": "David Bednar",
       "description": "Reinstated from Paternity Leave List"
+    },
+    {
+      "date": "2026-07-02",
+      "type": "released",
+      "player": "Payton Henry",
+      "description": "Released"
     },
     {
       "date": "2026-07-01",
