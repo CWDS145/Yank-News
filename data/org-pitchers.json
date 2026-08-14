@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T14:23:25Z",
+  "updated": "2026-08-14T14:47:21Z",
   "season": 2026,
   "pitchers": [
     {
@@ -644,9 +644,9 @@
       "name": "Carlos Rodón",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-08-08",
+      "level_since": "2026-08-13",
       "prior_level": "AAA",
-      "prior_level_since": "2026-05-05",
+      "prior_level_since": "2026-08-08",
       "season": {
         "w": 4,
         "l": 3,
