@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T11:05:19Z",
+  "updated": "2026-08-14T11:29:45Z",
   "season": 2026,
   "players": [
     {
@@ -104,14 +104,14 @@
       "id": 700250,
       "name": "Ben Rice",
       "expected_batting": {
-        "pa": 492,
-        "est_ba": 0.264,
-        "est_slg": 0.509,
+        "pa": 496,
+        "est_ba": 0.265,
+        "est_slg": 0.508,
         "est_woba": 0.373,
-        "ba": 0.258,
-        "slg": 0.543,
-        "woba": 0.381,
-        "est_woba_minus_woba": -0.008
+        "ba": 0.256,
+        "slg": 0.54,
+        "woba": 0.379,
+        "est_woba_minus_woba": -0.006
       },
       "expected_pitching": null,
       "statcast_batting": {
@@ -235,14 +235,14 @@
       "name": "Fernando Cruz",
       "expected_batting": null,
       "expected_pitching": {
-        "pa": 216,
-        "est_ba": 0.185,
-        "est_slg": 0.315,
-        "est_woba": 0.281,
-        "ba": 0.204,
-        "slg": 0.337,
-        "woba": 0.298,
-        "est_woba_minus_woba": -0.017
+        "pa": 219,
+        "est_ba": 0.183,
+        "est_slg": 0.311,
+        "est_woba": 0.278,
+        "ba": 0.201,
+        "slg": 0.332,
+        "woba": 0.294,
+        "est_woba_minus_woba": -0.016
       },
       "statcast_batting": null,
       "sprint_speed": null
@@ -280,13 +280,13 @@
       "id": 671218,
       "name": "Heliot Ramos",
       "expected_batting": {
-        "pa": 335,
-        "est_ba": 0.257,
-        "est_slg": 0.438,
-        "est_woba": 0.32,
-        "ba": 0.25,
-        "slg": 0.404,
-        "woba": 0.305,
+        "pa": 336,
+        "est_ba": 0.256,
+        "est_slg": 0.437,
+        "est_woba": 0.319,
+        "ba": 0.249,
+        "slg": 0.403,
+        "woba": 0.304,
         "est_woba_minus_woba": 0.015
       },
       "expected_pitching": null,
@@ -335,13 +335,13 @@
       "id": 665862,
       "name": "Jazz Chisholm Jr.",
       "expected_batting": {
-        "pa": 439,
-        "est_ba": 0.209,
-        "est_slg": 0.364,
-        "est_woba": 0.289,
-        "ba": 0.218,
-        "slg": 0.395,
-        "woba": 0.303,
+        "pa": 443,
+        "est_ba": 0.207,
+        "est_slg": 0.361,
+        "est_woba": 0.286,
+        "ba": 0.216,
+        "slg": 0.391,
+        "woba": 0.3,
         "est_woba_minus_woba": -0.014
       },
       "expected_pitching": null,
@@ -366,14 +366,14 @@
       "id": 676609,
       "name": "José Caballero",
       "expected_batting": {
-        "pa": 353,
-        "est_ba": 0.23,
-        "est_slg": 0.341,
-        "est_woba": 0.278,
-        "ba": 0.242,
-        "slg": 0.391,
-        "woba": 0.302,
-        "est_woba_minus_woba": -0.024
+        "pa": 356,
+        "est_ba": 0.231,
+        "est_slg": 0.342,
+        "est_woba": 0.28,
+        "ba": 0.241,
+        "slg": 0.389,
+        "woba": 0.301,
+        "est_woba_minus_woba": -0.021
       },
       "expected_pitching": null,
       "statcast_batting": {
@@ -397,14 +397,14 @@
       "id": 671277,
       "name": "Luis García Jr.",
       "expected_batting": {
-        "pa": 403,
+        "pa": 407,
         "est_ba": 0.287,
-        "est_slg": 0.502,
-        "est_woba": 0.352,
-        "ba": 0.279,
-        "slg": 0.549,
-        "woba": 0.365,
-        "est_woba_minus_woba": -0.013
+        "est_slg": 0.501,
+        "est_woba": 0.351,
+        "ba": 0.281,
+        "slg": 0.552,
+        "woba": 0.367,
+        "est_woba_minus_woba": -0.016
       },
       "expected_pitching": null,
       "statcast_batting": {
@@ -419,7 +419,7 @@
         "hardhit_pct": null
       },
       "sprint_speed": {
-        "sprint_speed": 26.5,
+        "sprint_speed": 26.4,
         "hp_to_1b": 4.36,
         "bolts": null
       }
@@ -429,14 +429,14 @@
       "name": "Max Fried",
       "expected_batting": null,
       "expected_pitching": {
-        "pa": 312,
-        "est_ba": 0.192,
-        "est_slg": 0.252,
-        "est_woba": 0.24,
-        "ba": 0.192,
-        "slg": 0.246,
-        "woba": 0.233,
-        "est_woba_minus_woba": 0.007
+        "pa": 332,
+        "est_ba": 0.2,
+        "est_slg": 0.264,
+        "est_woba": 0.248,
+        "ba": 0.197,
+        "slg": 0.258,
+        "woba": 0.24,
+        "est_woba_minus_woba": 0.008
       },
       "statcast_batting": null,
       "sprint_speed": null
@@ -505,12 +505,12 @@
       "id": 641857,
       "name": "Ryan McMahon",
       "expected_batting": {
-        "pa": 290,
-        "est_ba": 0.238,
-        "est_slg": 0.401,
+        "pa": 293,
+        "est_ba": 0.236,
+        "est_slg": 0.399,
         "est_woba": 0.307,
-        "ba": 0.22,
-        "slg": 0.379,
+        "ba": 0.218,
+        "slg": 0.376,
         "woba": 0.292,
         "est_woba_minus_woba": 0.015
       },
@@ -554,14 +554,14 @@
       "name": "Ryan Yarbrough",
       "expected_batting": null,
       "expected_pitching": {
-        "pa": 190,
-        "est_ba": 0.226,
-        "est_slg": 0.32,
-        "est_woba": 0.287,
-        "ba": 0.229,
-        "slg": 0.355,
-        "woba": 0.302,
-        "est_woba_minus_woba": -0.015
+        "pa": 195,
+        "est_ba": 0.224,
+        "est_slg": 0.317,
+        "est_woba": 0.286,
+        "ba": 0.224,
+        "slg": 0.347,
+        "woba": 0.297,
+        "est_woba_minus_woba": -0.011
       },
       "statcast_batting": null,
       "sprint_speed": null
@@ -599,14 +599,14 @@
       "id": 663757,
       "name": "Trent Grisham",
       "expected_batting": {
-        "pa": 399,
-        "est_ba": 0.248,
-        "est_slg": 0.441,
-        "est_woba": 0.341,
+        "pa": 403,
+        "est_ba": 0.252,
+        "est_slg": 0.444,
+        "est_woba": 0.342,
         "ba": 0.222,
-        "slg": 0.418,
-        "woba": 0.321,
-        "est_woba_minus_woba": 0.02
+        "slg": 0.416,
+        "woba": 0.32,
+        "est_woba_minus_woba": 0.022
       },
       "expected_pitching": null,
       "statcast_batting": {
@@ -621,7 +621,7 @@
         "hardhit_pct": null
       },
       "sprint_speed": {
-        "sprint_speed": 26.6,
+        "sprint_speed": 26.7,
         "hp_to_1b": 4.53,
         "bolts": null
       }
