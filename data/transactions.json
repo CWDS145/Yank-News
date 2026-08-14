@@ -1,7 +1,13 @@
 {
-  "updated": "2026-08-14T21:08:16Z",
-  "count": 65,
+  "updated": "2026-08-14T21:40:18Z",
+  "count": 66,
   "items": [
+    {
+      "date": "2026-08-14",
+      "type": "signed",
+      "player": "Justin Topa",
+      "description": "Signed to a Minor League Contract"
+    },
     {
       "date": "2026-08-11",
       "type": "called up",
@@ -41,7 +47,19 @@
     {
       "date": "2026-08-03",
       "type": "sent",
+      "player": "Jasson Dominguez",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-08-03",
+      "type": "sent",
       "player": "Anthony Volpe",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-08-03",
+      "type": "sent",
+      "player": "Angel Chivilli",
       "description": "Sent to Minors"
     },
     {
@@ -53,7 +71,7 @@
     {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Angel Chivilli",
+      "player": "Max Schuemann",
       "description": "Sent to Minors"
     },
     {
@@ -61,18 +79,6 @@
       "type": "called up",
       "player": "Kervin Castro",
       "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-08-03",
-      "type": "sent",
-      "player": "Jasson Dominguez",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-08-03",
-      "type": "sent",
-      "player": "Max Schuemann",
-      "description": "Sent to Minors"
     },
     {
       "date": "2026-08-02",
@@ -100,15 +106,15 @@
     },
     {
       "date": "2026-07-26",
-      "type": "called up",
-      "player": "Spencer Jones",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-07-26",
       "type": "placed",
       "player": "Cody Bellinger",
       "description": "Placed on 10-Day IL (Strained left hamstring - out 4-6 weeks)"
+    },
+    {
+      "date": "2026-07-26",
+      "type": "called up",
+      "player": "Spencer Jones",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-07-22",
@@ -124,12 +130,6 @@
     },
     {
       "date": "2026-07-22",
-      "type": "",
-      "player": "Spencer Jones",
-      "description": "Return of 27th man"
-    },
-    {
-      "date": "2026-07-22",
       "type": "recalled",
       "player": "Spencer Jones",
       "description": "Called Up from Minors (recalled as 27th roster player)"
@@ -139,6 +139,24 @@
       "type": "",
       "player": "Max Fried",
       "description": "Removed From 15-Day IL (Left elbow bone bruise)"
+    },
+    {
+      "date": "2026-07-22",
+      "type": "",
+      "player": "Spencer Jones",
+      "description": "Return of 27th man"
+    },
+    {
+      "date": "2026-07-19",
+      "type": "",
+      "player": "Elmer Rodriguez",
+      "description": "Return of 27th man"
+    },
+    {
+      "date": "2026-07-19",
+      "type": "called up",
+      "player": "Kervin Castro",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-07-19",
@@ -153,16 +171,10 @@
       "description": "Called Up from Minors (recalled as 27th roster player)"
     },
     {
-      "date": "2026-07-19",
-      "type": "called up",
-      "player": "Kervin Castro",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-07-19",
-      "type": "",
-      "player": "Elmer Rodriguez",
-      "description": "Return of 27th man"
+      "date": "2026-07-18",
+      "type": "transferred",
+      "player": "Aaron Judge",
+      "description": "Transferred to 60-Day IL (Right rib stress fracture)"
     },
     {
       "date": "2026-07-18",
@@ -175,12 +187,6 @@
       "type": "sent",
       "player": "Bradley Hanner",
       "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-18",
-      "type": "transferred",
-      "player": "Aaron Judge",
-      "description": "Transferred to 60-Day IL (Right rib stress fracture)"
     },
     {
       "date": "2026-07-17",
@@ -221,18 +227,6 @@
     {
       "date": "2026-07-03",
       "type": "sent",
-      "player": "Oswaldo Cabrera",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "",
-      "player": "Ryan McMahon",
-      "description": "Removed From 10-Day IL (Throat/ear infection)"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "sent",
       "player": "Spencer Jones",
       "description": "Sent to Minors"
     },
@@ -247,6 +241,18 @@
       "type": "",
       "player": "Trent Grisham",
       "description": "Removed From 10-Day IL (Strained right hamstring)"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "sent",
+      "player": "Oswaldo Cabrera",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "",
+      "player": "Ryan McMahon",
+      "description": "Removed From 10-Day IL (Throat/ear infection)"
     },
     {
       "date": "2026-07-02",
@@ -280,15 +286,15 @@
     },
     {
       "date": "2026-06-29",
-      "type": "called up",
-      "player": "Jacob Bird",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-29",
       "type": "sent",
       "player": "Yerry De Los Santos",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "called up",
+      "player": "Jacob Bird",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-06-29",
@@ -346,6 +352,12 @@
     },
     {
       "date": "2026-06-21",
+      "type": "",
+      "player": "Austin Wells",
+      "description": "Removed From 10-Day IL (Cervical headaches)"
+    },
+    {
+      "date": "2026-06-21",
       "type": "called up",
       "player": "Elmer Rodriguez",
       "description": "Called Up from Minors"
@@ -357,21 +369,15 @@
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-06-21",
-      "type": "",
-      "player": "Austin Wells",
-      "description": "Removed From 10-Day IL (Cervical headaches)"
-    },
-    {
       "date": "2026-06-20",
       "type": "sent",
-      "player": "J.C. Escarra",
+      "player": "Jacob Bird",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-06-20",
       "type": "sent",
-      "player": "Jacob Bird",
+      "player": "J.C. Escarra",
       "description": "Sent to Minors"
     },
     {
