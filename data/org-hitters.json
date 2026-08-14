@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T20:02:47Z",
+  "updated": "2026-08-14T20:29:26Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-08-04",
@@ -24,29 +24,6 @@
       "last_10": null,
       "season_levels": [
         "MLB"
-      ],
-      "last_10_levels": []
-    },
-    {
-      "id": 670868,
-      "name": "Abrahan Gutierrez",
-      "position": "C",
-      "level": "AAA",
-      "level_since": "2026-06-05",
-      "prior_level": "AA",
-      "prior_level_since": "2026-03-23",
-      "season": {
-        "ab": 96,
-        "k": 17,
-        "avg": ".250",
-        "ops": ".641",
-        "avg_num": 0.25,
-        "ops_num": 0.6412953795379538
-      },
-      "last_10": null,
-      "season_levels": [
-        "AAA",
-        "AA"
       ],
       "last_10_levels": []
     },
@@ -1716,6 +1693,28 @@
       "last_10_levels": [
         "AA"
       ]
+    },
+    {
+      "id": 641598,
+      "name": "Mitch Garver",
+      "position": "C",
+      "level": "AAA",
+      "level_since": "2026-08-08",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-08-08",
+      "season": {
+        "ab": 126,
+        "k": 49,
+        "avg": ".175",
+        "ops": ".596",
+        "avg_num": 0.1746031746031746,
+        "ops_num": 0.5956642164695856
+      },
+      "last_10": null,
+      "season_levels": [
+        "MLB"
+      ],
+      "last_10_levels": []
     },
     {
       "id": 692657,
