@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T01:35:06Z",
+  "updated": "2026-08-14T02:57:33Z",
   "count": 65,
   "items": [
     {
@@ -28,15 +28,15 @@
     },
     {
       "date": "2026-08-04",
-      "type": "called up",
-      "player": "Yerry De Los Santos",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-08-04",
       "type": "purchased",
       "player": "George Lombard Jr.",
       "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-08-04",
+      "type": "called up",
+      "player": "Yerry De Los Santos",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-08-03",
