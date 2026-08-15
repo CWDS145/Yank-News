@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T11:05:57Z",
+  "updated": "2026-08-15T11:37:42Z",
   "count": 66,
   "items": [
     {
@@ -47,14 +47,8 @@
     {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Angel Chivilli",
+      "player": "Jasson Dominguez",
       "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-08-03",
-      "type": "traded",
-      "player": "Heliot Ramos",
-      "description": "Traded From San Francisco (for LHP Henry Lalane, three-player deal)"
     },
     {
       "date": "2026-08-03",
@@ -65,8 +59,14 @@
     {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Jasson Dominguez",
+      "player": "Angel Chivilli",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-08-03",
+      "type": "traded",
+      "player": "Heliot Ramos",
+      "description": "Traded From San Francisco (for LHP Henry Lalane, three-player deal)"
     },
     {
       "date": "2026-08-03",
