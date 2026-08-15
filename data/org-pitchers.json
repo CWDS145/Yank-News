@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T23:01:04Z",
+  "updated": "2026-08-15T23:33:39Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1373,7 +1373,7 @@
       "name": "J.T. Etheridge",
       "position": "P",
       "level": "Low-A",
-      "level_since": "2026-04-14",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
