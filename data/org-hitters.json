@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T21:55:12Z",
+  "updated": "2026-08-16T22:27:30Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-08-06",
@@ -564,39 +564,6 @@
       ],
       "last_10_levels": [
         "AA"
-      ]
-    },
-    {
-      "id": 692110,
-      "name": "Core Jackson",
-      "position": "SS",
-      "level": "AA",
-      "level_since": "2026-08-11",
-      "prior_level": "High-A",
-      "prior_level_since": "2026-05-11",
-      "season": {
-        "ab": 310,
-        "k": 75,
-        "avg": ".261",
-        "ops": ".843",
-        "avg_num": 0.26129032258064516,
-        "ops_num": 0.842625495946179
-      },
-      "last_10": {
-        "ab": 29,
-        "k": 8,
-        "avg": ".310",
-        "ops": ".881",
-        "avg_num": 0.3103448275862069,
-        "ops_num": 0.880708294501398
-      },
-      "season_levels": [
-        "AA",
-        "High-A"
-      ],
-      "last_10_levels": [
-        "AA",
-        "High-A"
       ]
     },
     {
