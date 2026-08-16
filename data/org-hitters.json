@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T01:56:18Z",
+  "updated": "2026-08-16T02:44:00Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-08-06",
@@ -947,7 +947,7 @@
       "name": "George Lombard Jr.",
       "position": "SS",
       "level": "MLB",
-      "level_since": "2026-04-29",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
