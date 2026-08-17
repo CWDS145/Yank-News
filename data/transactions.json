@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T08:17:04Z",
+  "updated": "2026-08-17T08:47:20Z",
   "count": 64,
   "items": [
     {
@@ -34,20 +34,20 @@
     },
     {
       "date": "2026-08-04",
-      "type": "purchased",
-      "player": "George Lombard Jr.",
-      "description": "Purchased From Minors"
-    },
-    {
-      "date": "2026-08-04",
       "type": "called up",
       "player": "Yerry De Los Santos",
       "description": "Called Up from Minors"
     },
     {
+      "date": "2026-08-04",
+      "type": "purchased",
+      "player": "George Lombard Jr.",
+      "description": "Purchased From Minors"
+    },
+    {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Angel Chivilli",
+      "player": "Anthony Volpe",
       "description": "Sent to Minors"
     },
     {
@@ -59,19 +59,19 @@
     {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Anthony Volpe",
+      "player": "Max Schuemann",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-08-03",
+      "type": "sent",
+      "player": "Angel Chivilli",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-08-03",
       "type": "sent",
       "player": "Jasson Dominguez",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-08-03",
-      "type": "sent",
-      "player": "Max Schuemann",
       "description": "Sent to Minors"
     },
     {
