@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T03:48:09Z",
+  "updated": "2026-08-17T04:18:12Z",
   "count": 64,
   "items": [
     {
@@ -10,15 +10,15 @@
     },
     {
       "date": "2026-08-11",
-      "type": "called up",
-      "player": "Bradley Hanner",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-08-11",
       "type": "placed",
       "player": "Kervin Castro",
       "description": "Placed on 15-Day IL (Right elbow neuritis)"
+    },
+    {
+      "date": "2026-08-11",
+      "type": "called up",
+      "player": "Bradley Hanner",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-08-08",
@@ -34,15 +34,27 @@
     },
     {
       "date": "2026-08-04",
+      "type": "purchased",
+      "player": "George Lombard Jr.",
+      "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-08-04",
       "type": "called up",
       "player": "Yerry De Los Santos",
       "description": "Called Up from Minors"
     },
     {
-      "date": "2026-08-04",
-      "type": "purchased",
-      "player": "George Lombard Jr.",
-      "description": "Purchased From Minors"
+      "date": "2026-08-03",
+      "type": "sent",
+      "player": "Jasson Dominguez",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-08-03",
+      "type": "sent",
+      "player": "Anthony Volpe",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-08-03",
@@ -55,18 +67,6 @@
       "type": "traded",
       "player": "Heliot Ramos",
       "description": "Traded From San Francisco (for LHP Henry Lalane, three-player deal)"
-    },
-    {
-      "date": "2026-08-03",
-      "type": "sent",
-      "player": "Anthony Volpe",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-08-03",
-      "type": "sent",
-      "player": "Jasson Dominguez",
-      "description": "Sent to Minors"
     },
     {
       "date": "2026-08-03",
@@ -178,15 +178,15 @@
     },
     {
       "date": "2026-07-18",
-      "type": "purchased",
-      "player": "Bradley Hanner",
-      "description": "NTR - Purchased From Minors"
-    },
-    {
-      "date": "2026-07-18",
       "type": "sent",
       "player": "Bradley Hanner",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-18",
+      "type": "purchased",
+      "player": "Bradley Hanner",
+      "description": "NTR - Purchased From Minors"
     },
     {
       "date": "2026-07-17",
