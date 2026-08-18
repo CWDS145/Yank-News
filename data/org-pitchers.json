@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T13:39:31Z",
+  "updated": "2026-08-18T14:07:39Z",
   "season": 2026,
   "pitchers": [
     {
@@ -227,43 +227,6 @@
       },
       "season_levels": [
         "Low-A"
-      ]
-    },
-    {
-      "id": 696292,
-      "name": "Ben Hess",
-      "position": "P",
-      "level": "AA",
-      "level_since": "2026-04-18",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "w": 3,
-        "l": 4,
-        "g": 16,
-        "gs": 16,
-        "cg": 0,
-        "sho": 0,
-        "sv": 0,
-        "svo": 0,
-        "ip": "56.2",
-        "ip_outs": 170,
-        "h": 52,
-        "r": 37,
-        "er": 28,
-        "hr": 7,
-        "hb": 4,
-        "bb": 30,
-        "so": 65,
-        "era": "4.45",
-        "era_num": 4.447058823529412,
-        "whip": "1.45",
-        "whip_num": 1.4470588235294117,
-        "avg": ".245",
-        "avg_num": 0.24528301886792453
-      },
-      "season_levels": [
-        "AA"
       ]
     },
     {
