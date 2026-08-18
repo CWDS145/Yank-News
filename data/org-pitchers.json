@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T05:34:32Z",
+  "updated": "2026-08-18T06:02:56Z",
   "season": 2026,
   "pitchers": [
     {
@@ -2603,44 +2603,6 @@
       "season_levels": [
         "AA",
         "Low-A"
-      ]
-    },
-    {
-      "id": 684608,
-      "name": "Will Brian",
-      "position": "P",
-      "level": "AAA",
-      "level_since": "2026-06-20",
-      "prior_level": "AA",
-      "prior_level_since": "2026-06-14",
-      "season": {
-        "w": 1,
-        "l": 2,
-        "g": 37,
-        "gs": 1,
-        "cg": 0,
-        "sho": 0,
-        "sv": 3,
-        "svo": 5,
-        "ip": "46.0",
-        "ip_outs": 138,
-        "h": 37,
-        "r": 22,
-        "er": 20,
-        "hr": 4,
-        "hb": 1,
-        "bb": 26,
-        "so": 60,
-        "era": "3.91",
-        "era_num": 3.9130434782608696,
-        "whip": "1.37",
-        "whip_num": 1.3695652173913044,
-        "avg": ".219",
-        "avg_num": 0.21893491124260356
-      },
-      "season_levels": [
-        "AAA",
-        "AA"
       ]
     },
     {
