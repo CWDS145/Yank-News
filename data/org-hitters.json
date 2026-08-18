@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T19:28:52Z",
+  "updated": "2026-08-18T19:55:57Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-08-08",
@@ -153,19 +153,6 @@
       "last_10_levels": [
         "AAA"
       ]
-    },
-    {
-      "id": 682625,
-      "name": "Antonio Gomez",
-      "position": "C",
-      "level": "Low-A",
-      "level_since": "2026-03-17",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": null,
-      "last_10": null,
-      "season_levels": [],
-      "last_10_levels": []
     },
     {
       "id": 669224,
