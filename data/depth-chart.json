@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T10:10:53Z",
+  "updated": "2026-08-18T10:07:04Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -70,23 +70,23 @@
     ],
     "SP": [
       {
-        "name": "Max Fried",
+        "name": "Gerrit Cole",
         "rank": 1
       },
       {
-        "name": "Gerrit Cole",
+        "name": "Cam Schlittler",
         "rank": 2
       },
       {
-        "name": "Cam Schlittler",
+        "name": "Ryan Weathers",
         "rank": 3
       },
       {
-        "name": "Ryan Weathers",
+        "name": "Will Warren",
         "rank": 4
       },
       {
-        "name": "Will Warren",
+        "name": "Max Fried",
         "rank": 5
       },
       {
