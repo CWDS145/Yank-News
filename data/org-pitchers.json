@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T10:04:42Z",
+  "updated": "2026-08-18T10:32:54Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1937,7 +1937,7 @@
       "name": "Matt Keating",
       "position": "P",
       "level": "AA",
-      "level_since": "2026-03-30",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
