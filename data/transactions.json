@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T00:48:56Z",
+  "updated": "2026-08-19T01:32:04Z",
   "count": 66,
   "items": [
     {
@@ -52,21 +52,15 @@
     },
     {
       "date": "2026-08-04",
-      "type": "purchased",
-      "player": "George Lombard Jr.",
-      "description": "Purchased From Minors"
-    },
-    {
-      "date": "2026-08-04",
       "type": "called up",
       "player": "Yerry De Los Santos",
       "description": "Called Up from Minors"
     },
     {
-      "date": "2026-08-03",
-      "type": "sent",
-      "player": "Max Schuemann",
-      "description": "Sent to Minors"
+      "date": "2026-08-04",
+      "type": "purchased",
+      "player": "George Lombard Jr.",
+      "description": "Purchased From Minors"
     },
     {
       "date": "2026-08-03",
@@ -84,6 +78,12 @@
       "date": "2026-08-03",
       "type": "sent",
       "player": "Jasson Dominguez",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-08-03",
+      "type": "sent",
+      "player": "Max Schuemann",
       "description": "Sent to Minors"
     },
     {
@@ -238,15 +238,27 @@
     },
     {
       "date": "2026-07-03",
+      "type": "placed",
+      "player": "Carlos Rodon",
+      "description": "Placed on 15-Day IL (Left elbow inflammation)"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "",
+      "player": "Ryan McMahon",
+      "description": "Removed From 10-Day IL (Throat/ear infection)"
+    },
+    {
+      "date": "2026-07-03",
       "type": "sent",
       "player": "Oswaldo Cabrera",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-07-03",
-      "type": "placed",
-      "player": "Carlos Rodon",
-      "description": "Placed on 15-Day IL (Left elbow inflammation)"
+      "type": "sent",
+      "player": "Spencer Jones",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-07-03",
@@ -259,18 +271,6 @@
       "type": "recalled",
       "player": "Trent Grisham",
       "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "",
-      "player": "Ryan McMahon",
-      "description": "Removed From 10-Day IL (Throat/ear infection)"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "sent",
-      "player": "Spencer Jones",
-      "description": "Sent to Minors"
     },
     {
       "date": "2026-07-02",
