@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T22:28:05Z",
+  "updated": "2026-08-19T22:57:13Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-08-09",
@@ -24,6 +24,29 @@
       "last_10": null,
       "season_levels": [
         "MLB"
+      ],
+      "last_10_levels": []
+    },
+    {
+      "id": 670868,
+      "name": "Abrahan Gutierrez",
+      "position": "C",
+      "level": "AAA",
+      "level_since": "2026-06-05",
+      "prior_level": "AA",
+      "prior_level_since": "2026-03-23",
+      "season": {
+        "ab": 96,
+        "k": 17,
+        "avg": ".250",
+        "ops": ".641",
+        "avg_num": 0.25,
+        "ops_num": 0.6412953795379538
+      },
+      "last_10": null,
+      "season_levels": [
+        "AAA",
+        "AA"
       ],
       "last_10_levels": []
     },
@@ -226,20 +249,20 @@
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 446,
+        "ab": 447,
         "k": 129,
-        "avg": ".249",
-        "ops": ".872",
-        "avg_num": 0.24887892376681614,
-        "ops_num": 0.8722279040900707
+        "avg": ".251",
+        "ops": ".875",
+        "avg_num": 0.2505592841163311,
+        "ops_num": 0.8745593189355757
       },
       "last_10": {
-        "ab": 30,
+        "ab": 31,
         "k": 9,
-        "avg": ".100",
-        "ops": ".439",
-        "avg_num": 0.1,
-        "ops_num": 0.4392156862745098
+        "avg": ".129",
+        "ops": ".487",
+        "avg_num": 0.12903225806451613,
+        "ops_num": 0.4866359447004608
       },
       "season_levels": [
         "MLB"
@@ -931,20 +954,20 @@
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 353,
+        "ab": 354,
         "k": 104,
         "avg": ".249",
-        "ops": ".711",
-        "avg_num": 0.24929178470254956,
-        "ops_num": 0.7105821788622697
+        "ops": ".709",
+        "avg_num": 0.24858757062146894,
+        "ops_num": 0.708642302259887
       },
       "last_10": {
-        "ab": 26,
+        "ab": 27,
         "k": 8,
-        "avg": ".038",
-        "ops": ".215",
-        "avg_num": 0.038461538461538464,
-        "ops_num": 0.21485411140583555
+        "avg": ".037",
+        "ops": ".207",
+        "avg_num": 0.037037037037037035,
+        "ops_num": 0.2074074074074074
       },
       "season_levels": [
         "MLB",
@@ -1365,20 +1388,20 @@
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 403,
+        "ab": 404,
         "k": 70,
         "avg": ".275",
-        "ops": ".843",
-        "avg_num": 0.27543424317617865,
-        "ops_num": 0.8425839224682803
+        "ops": ".841",
+        "avg_num": 0.2747524752475248,
+        "ops_num": 0.8405358182877112
       },
       "last_10": {
-        "ab": 31,
+        "ab": 32,
         "k": 9,
-        "avg": ".194",
-        "ops": ".502",
-        "avg_num": 0.1935483870967742,
-        "ops_num": 0.5024437927663734
+        "avg": ".188",
+        "ops": ".487",
+        "avg_num": 0.1875,
+        "ops_num": 0.48713235294117646
       },
       "season_levels": [
         "MLB"
@@ -1851,20 +1874,20 @@
       "prior_level": "AA",
       "prior_level_since": "2026-07-01",
       "season": {
-        "ab": 369,
+        "ab": 370,
         "k": 73,
-        "avg": ".225",
-        "ops": ".743",
-        "avg_num": 0.22493224932249323,
-        "ops_num": 0.7433501586200696
+        "avg": ".227",
+        "ops": ".747",
+        "avg_num": 0.22702702702702704,
+        "ops_num": 0.7465145997060891
       },
       "last_10": {
-        "ab": 32,
+        "ab": 33,
         "k": 7,
-        "avg": ".375",
-        "ops": "1.331",
-        "avg_num": 0.375,
-        "ops_num": 1.331439393939394
+        "avg": ".394",
+        "ops": "1.351",
+        "avg_num": 0.3939393939393939,
+        "ops_num": 1.3511586452762923
       },
       "season_levels": [
         "MLB",
