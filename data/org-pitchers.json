@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T16:33:38Z",
+  "updated": "2026-08-19T17:04:26Z",
   "season": 2026,
   "pitchers": [
     {
@@ -458,9 +458,9 @@
       "name": "Brian Hendry",
       "position": "P",
       "level": "AAA",
-      "level_since": "2026-07-21",
-      "prior_level": "Low-A",
-      "prior_level_since": "2026-06-27",
+      "level_since": null,
+      "prior_level": null,
+      "prior_level_since": null,
       "season": {
         "w": 0,
         "l": 0,
