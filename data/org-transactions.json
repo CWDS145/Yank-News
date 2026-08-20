@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T05:58:51Z",
+  "updated": "2026-08-20T06:29:47Z",
   "items": [
     {
       "id": 938405,
@@ -93,7 +93,7 @@
       "description": "New York Yankees recalled RHP Bradley Hanner from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 936394,
+      "id": 936411,
       "date": "2026-08-08",
       "type_code": "ASG",
       "type_desc": "Assigned",
@@ -119,7 +119,7 @@
       "description": "New York Yankees signed free agent C Mitch Garver to a minor league contract."
     },
     {
-      "id": 936411,
+      "id": 936394,
       "date": "2026-08-08",
       "type_code": "ASG",
       "type_desc": "Assigned",
@@ -171,6 +171,19 @@
       "description": "New York Yankees activated LF Heliot Ramos."
     },
     {
+      "id": 934968,
+      "date": "2026-08-04",
+      "type_code": "CU",
+      "type_desc": "Recalled",
+      "player_id": 660787,
+      "player": "Yerry De los Santos",
+      "from_team_id": 531,
+      "to_team_id": 147,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
+      "to": "New York Yankees",
+      "description": "New York Yankees recalled RHP Yerry De los Santos from Scranton/Wilkes-Barre RailRiders."
+    },
+    {
       "id": 934465,
       "date": "2026-08-04",
       "type_code": "OPT",
@@ -184,17 +197,17 @@
       "description": "New York Yankees optioned RF Jasson Domínguez to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 934968,
+      "id": 934967,
       "date": "2026-08-04",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 660787,
-      "player": "Yerry De los Santos",
+      "type_code": "SE",
+      "type_desc": "Selected",
+      "player_id": 806146,
+      "player": "George Lombard Jr.",
       "from_team_id": 531,
       "to_team_id": 147,
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Yerry De los Santos from Scranton/Wilkes-Barre RailRiders."
+      "description": "New York Yankees selected the contract of SS George Lombard Jr. from Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 934466,
@@ -223,19 +236,6 @@
       "description": "New York Yankees optioned RHP Angel Chivilli to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 934967,
-      "date": "2026-08-04",
-      "type_code": "SE",
-      "type_desc": "Selected",
-      "player_id": 806146,
-      "player": "George Lombard Jr.",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees selected the contract of SS George Lombard Jr. from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 934296,
       "date": "2026-08-03",
       "type_code": "SC",
@@ -247,32 +247,6 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees activated 1B Luis García Jr.."
-    },
-    {
-      "id": 934374,
-      "date": "2026-08-03",
-      "type_code": "TR",
-      "type_desc": "Trade",
-      "player_id": 700649,
-      "player": "Henry Lalane",
-      "from_team_id": 147,
-      "to_team_id": 137,
-      "from": "New York Yankees",
-      "to": "San Francisco Giants",
-      "description": "San Francisco Giants traded LF Heliot Ramos to New York Yankees for LHP Henry Lalane and SS Kaeden Kent."
-    },
-    {
-      "id": 934192,
-      "date": "2026-08-03",
-      "type_code": "TR",
-      "type_desc": "Trade",
-      "player_id": 695066,
-      "player": "Ben Grable",
-      "from_team_id": 147,
-      "to_team_id": 120,
-      "from": "New York Yankees",
-      "to": "Washington Nationals",
-      "description": "Washington Nationals traded 1B Luis García Jr. to New York Yankees for RHP Ben Grable, RHP Yovanny Cruz, RHP Jack Cebert and RHP Jake Bird."
     },
     {
       "id": 934559,
@@ -288,6 +262,19 @@
       "description": "New York Yankees optioned LF Max Schuemann to Scranton/Wilkes-Barre RailRiders."
     },
     {
+      "id": 934192,
+      "date": "2026-08-03",
+      "type_code": "TR",
+      "type_desc": "Trade",
+      "player_id": 695066,
+      "player": "Ben Grable",
+      "from_team_id": 147,
+      "to_team_id": 120,
+      "from": "New York Yankees",
+      "to": "Washington Nationals",
+      "description": "Washington Nationals traded 1B Luis García Jr. to New York Yankees for RHP Ben Grable, RHP Yovanny Cruz, RHP Jack Cebert and RHP Jake Bird."
+    },
+    {
       "id": 934297,
       "date": "2026-08-03",
       "type_code": "CU",
@@ -299,6 +286,19 @@
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
       "description": "New York Yankees recalled RHP Kervin Castro from Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 934374,
+      "date": "2026-08-03",
+      "type_code": "TR",
+      "type_desc": "Trade",
+      "player_id": 809763,
+      "player": "Kaeden Kent",
+      "from_team_id": 147,
+      "to_team_id": 137,
+      "from": "New York Yankees",
+      "to": "San Francisco Giants",
+      "description": "San Francisco Giants traded LF Heliot Ramos to New York Yankees for LHP Henry Lalane and SS Kaeden Kent."
     },
     {
       "id": 933961,
@@ -318,12 +318,12 @@
       "date": "2026-08-01",
       "type_code": "TR",
       "type_desc": "Trade",
-      "player_id": 692657,
-      "player": "Omar Alfonzo",
-      "from_team_id": 134,
-      "to_team_id": 147,
-      "from": "Pittsburgh Pirates",
-      "to": "New York Yankees",
+      "player_id": null,
+      "player": null,
+      "from_team_id": 147,
+      "to_team_id": 134,
+      "from": "New York Yankees",
+      "to": "Pittsburgh Pirates",
       "description": "New York Yankees traded RHP Camilo Doval and cash to Pittsburgh Pirates for C Omar Alfonzo and OF Luis Cruz."
     },
     {
