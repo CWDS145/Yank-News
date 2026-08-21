@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T21:27:38Z",
+  "updated": "2026-08-21T21:55:57Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-08-11",
@@ -24,29 +24,6 @@
       "last_10": null,
       "season_levels": [
         "MLB"
-      ],
-      "last_10_levels": []
-    },
-    {
-      "id": 670868,
-      "name": "Abrahan Gutierrez",
-      "position": "C",
-      "level": "AAA",
-      "level_since": "2026-06-05",
-      "prior_level": "AA",
-      "prior_level_since": "2026-03-23",
-      "season": {
-        "ab": 96,
-        "k": 17,
-        "avg": ".250",
-        "ops": ".641",
-        "avg_num": 0.25,
-        "ops_num": 0.6412953795379538
-      },
-      "last_10": null,
-      "season_levels": [
-        "AAA",
-        "AA"
       ],
       "last_10_levels": []
     },
