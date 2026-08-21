@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T08:46:44Z",
+  "updated": "2026-08-21T09:15:12Z",
   "count": 61,
   "items": [
     {
@@ -77,12 +77,6 @@
     {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Max Schuemann",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-08-03",
-      "type": "sent",
       "player": "Jasson Dominguez",
       "description": "Sent to Minors"
     },
@@ -96,6 +90,12 @@
       "date": "2026-08-03",
       "type": "sent",
       "player": "Anthony Volpe",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-08-03",
+      "type": "sent",
+      "player": "Max Schuemann",
       "description": "Sent to Minors"
     },
     {
