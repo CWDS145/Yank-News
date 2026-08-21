@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T19:59:38Z",
+  "updated": "2026-08-21T20:32:25Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1327,6 +1327,43 @@
       },
       "season_levels": [
         "AAA",
+        "AA"
+      ]
+    },
+    {
+      "id": 680893,
+      "name": "Hueston Morrill",
+      "position": "P",
+      "level": "AA",
+      "level_since": "2026-03-17",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "w": 1,
+        "l": 0,
+        "g": 4,
+        "gs": 0,
+        "cg": 0,
+        "sho": 0,
+        "sv": 0,
+        "svo": 0,
+        "ip": "4.2",
+        "ip_outs": 14,
+        "h": 6,
+        "r": 5,
+        "er": 2,
+        "hr": 0,
+        "hb": 1,
+        "bb": 6,
+        "so": 4,
+        "era": "3.86",
+        "era_num": 3.857142857142857,
+        "whip": "2.57",
+        "whip_num": 2.5714285714285716,
+        "avg": ".286",
+        "avg_num": 0.2857142857142857
+      },
+      "season_levels": [
         "AA"
       ]
     },
