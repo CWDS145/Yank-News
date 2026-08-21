@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T19:38:46Z",
+  "updated": "2026-08-21T20:07:08Z",
   "count": 61,
   "items": [
     {
@@ -58,27 +58,21 @@
     },
     {
       "date": "2026-08-04",
-      "type": "called up",
-      "player": "Yerry De Los Santos",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-08-04",
       "type": "purchased",
       "player": "George Lombard Jr.",
       "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-08-04",
+      "type": "called up",
+      "player": "Yerry De Los Santos",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-08-03",
       "type": "called up",
       "player": "Kervin Castro",
       "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-08-03",
-      "type": "sent",
-      "player": "Max Schuemann",
-      "description": "Sent to Minors"
     },
     {
       "date": "2026-08-03",
@@ -96,6 +90,12 @@
       "date": "2026-08-03",
       "type": "sent",
       "player": "Anthony Volpe",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-08-03",
+      "type": "sent",
+      "player": "Max Schuemann",
       "description": "Sent to Minors"
     },
     {
