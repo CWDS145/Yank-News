@@ -1,38 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-08-21T04:58:29Z",
-      "source": "MLB season+byDateRange: Low-A",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season,byDateRange&sportId={sid}",
-      "status": 200,
-      "items": 69,
-      "note": "ok=69/69 window=2026-08-11..2026-08-21"
-    },
-    {
-      "timestamp": "2026-08-21T04:58:29Z",
-      "source": "MLB Transactions org",
-      "url": "https://statsapi.mlb.com/api/v1/transactions?teamId=147&startDate=2026-07-22&endDate=2026-08-21",
-      "status": 200,
-      "items": 43,
-      "note": "window 2026-07-22..2026-08-21"
-    },
-    {
-      "timestamp": "2026-08-21T05:02:15Z",
-      "source": "MLB personId fallback",
-      "url": "<bulk>",
-      "status": 200,
-      "items": 68,
-      "note": "players needing prior_level fallback"
-    },
-    {
-      "timestamp": "2026-08-21T05:02:53Z",
-      "source": "MLB season pitching: MLB",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
-      "status": 200,
-      "items": 77,
-      "note": "ok=77/77"
-    },
-    {
       "timestamp": "2026-08-21T05:02:53Z",
       "source": "MLB season pitching: AAA",
       "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
@@ -3999,6 +3967,38 @@
       "status": 200,
       "items": 75,
       "note": "pitchers needing prior_level fallback"
+    },
+    {
+      "timestamp": "2026-08-21T10:08:31Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 403,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-08-21T10:08:32Z",
+      "source": "MLB.com",
+      "url": "https://www.mlb.com/depth-charts",
+      "status": 404,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-08-21T10:08:32Z",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/team/depth/_/name/nyy/new-york-yankees",
+      "status": 202,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-08-21T10:08:32Z",
+      "source": "DepthChart",
+      "url": "all-sources-failed",
+      "status": 0,
+      "items": 0,
+      "note": "all_failed_kept_existing"
     }
   ]
 }
