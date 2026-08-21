@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T15:06:42Z",
+  "updated": "2026-08-21T15:33:57Z",
   "season": 2026,
   "pitchers": [
     {
@@ -2432,7 +2432,7 @@
       "name": "Tony Rossi",
       "position": "P",
       "level": "AA",
-      "level_since": null,
+      "level_since": "2026-06-05",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
