@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T23:55:34Z",
+  "updated": "2026-08-22T00:30:37Z",
   "items": [
     {
       "id": 938785,
@@ -429,45 +429,6 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees optioned CF Spencer Jones to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 930070,
-      "date": "2026-07-22",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 608331,
-      "player": "Max Fried",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees activated LHP Max Fried from the 15-day injured list."
-    },
-    {
-      "id": 930071,
-      "date": "2026-07-22",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 665645,
-      "player": "Kervin Castro",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees optioned RHP Kervin Castro to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 929846,
-      "date": "2026-07-22",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 682987,
-      "player": "Spencer Jones",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled CF Spencer Jones from Scranton/Wilkes-Barre RailRiders."
     }
   ]
 }
