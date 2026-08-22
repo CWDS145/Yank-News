@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T19:38:19Z",
+  "updated": "2026-08-22T20:05:46Z",
   "count": 72,
   "items": [
     {
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-08-22T19:38:19Z",
+      "published": "2026-08-22T20:05:46Z",
       "image": null
     },
     {
@@ -17,7 +17,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/former-new-york-yankees-fan-favorite-nick-swisher-and-the-sandlot-actor-chauncey-leopardi-to-star-in-third-season-of-award-winning-hexclad-presents-bronx-buds-premiering-this-saturday-august-8-on-th/",
-      "published": "2026-08-22T19:38:19Z",
+      "published": "2026-08-22T20:05:46Z",
       "image": null
     },
     {
@@ -26,7 +26,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-outfielder-heliot-ramos/",
-      "published": "2026-08-22T19:38:19Z",
+      "published": "2026-08-22T20:05:46Z",
       "image": null
     },
     {
@@ -35,7 +35,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-infielder-luis-garcia-jr/",
-      "published": "2026-08-22T19:38:19Z",
+      "published": "2026-08-22T20:05:46Z",
+      "image": null
+    },
+    {
+      "title": "Weathers exits start against Blue Jays with forearm discomfort",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Bryan Hoch",
+      "link": "https://www.mlb.com/yankees/news/ryan-weathers-exits-yankees-game-with-injury",
+      "published": "2026-08-22T19:38:00Z",
       "image": null
     },
     {
@@ -46,24 +55,6 @@
       "link": "https://www.pinstripealley.com/yankees-news/203875/yankees-ryan-weathers-elbow-injury-forearm-starting-rotation",
       "published": "2026-08-22T19:33:15Z",
       "image": null
-    },
-    {
-      "title": "Weathers exits start against Blue Jays with forearm discomfort",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch",
-      "link": "https://www.mlb.com/yankees/news/ryan-weathers-exits-yankees-game-with-injury",
-      "published": "2026-08-22T19:13:00Z",
-      "image": null
-    },
-    {
-      "title": "Ryan Weathers exits start early with forearm discomfort in latest Yankees injury concern",
-      "summary": "The sun was out Saturday in The Bronx, but boy was it a dark day for the Yankees.",
-      "source": "NY Post Yankees",
-      "author": "Mark W. Sanchez",
-      "link": "https://nypost.com/2026/08/22/sports/yankees-ryan-weathers-exits-start-early-with-apparent-injury/",
-      "published": "2026-08-22T19:03:10Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fryan-weathers-40-new-york-138208749_e58bdf.jpg?w%3D1024"
     },
     {
       "title": "Latest Yankees injuries and transactions",
@@ -514,6 +505,15 @@
       "link": "https://nypost.com/2026/08/20/sports/orioles-rip-mlb-technology-after-pete-alonso-blast-ruled-foul/",
       "published": "2026-08-20T04:35:44Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2FPete-Alonso.jpg?w%3D1024"
+    },
+    {
+      "title": "Ryan McMahon exits with hand injury in Yankees’ win: ‘A little sore’",
+      "summary": "Ryan McMahon exited Wednesday’s 5-3 win in the top of the eighth with a left-hand injury suffered sliding into second base in the top of the second.",
+      "source": "NY Post Yankees",
+      "author": "Dan Martin",
+      "link": "https://nypost.com/2026/08/20/sports/ryan-mcmahon-exits-with-left-hand-injury-in-yankees-win/",
+      "published": "2026-08-20T04:02:58Z",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2FRyan-McMahon.jpg?w%3D1024"
     },
     {
       "title": "Yanks push past Orioles after foul call on Alonso blast",
