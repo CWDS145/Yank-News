@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T14:37:33Z",
+  "updated": "2026-08-22T15:36:09Z",
   "season": 2026,
   "pitchers": [
     {
@@ -163,32 +163,31 @@
       "prior_level": "AAA",
       "prior_level_since": "2026-06-10",
       "season": {
-        "w": 2,
-        "l": 1,
-        "g": 28,
+        "w": 1,
+        "l": 0,
+        "g": 13,
         "gs": 1,
         "cg": 0,
         "sho": 0,
         "sv": 0,
-        "svo": 3,
-        "ip": "34.2",
-        "ip_outs": 104,
-        "h": 23,
-        "r": 11,
-        "er": 9,
-        "hr": 5,
-        "hb": 2,
-        "bb": 11,
-        "so": 35,
-        "era": "2.34",
-        "era_num": 2.3365384615384617,
-        "whip": "0.98",
-        "whip_num": 0.9807692307692307,
-        "avg": ".185",
-        "avg_num": 0.18548387096774194
+        "svo": 2,
+        "ip": "18.0",
+        "ip_outs": 54,
+        "h": 9,
+        "r": 2,
+        "er": 2,
+        "hr": 1,
+        "hb": 1,
+        "bb": 4,
+        "so": 19,
+        "era": "1.00",
+        "era_num": 1.0,
+        "whip": "0.72",
+        "whip_num": 0.7222222222222222,
+        "avg": ".153",
+        "avg_num": 0.15254237288135594
       },
       "season_levels": [
-        "MLB",
         "AAA"
       ]
     },
@@ -197,7 +196,7 @@
       "name": "Anthony Mena",
       "position": "P",
       "level": "Low-A",
-      "level_since": null,
+      "level_since": "2026-08-04",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -234,7 +233,7 @@
       "name": "Antonio Gomez",
       "position": "P",
       "level": "Low-A",
-      "level_since": null,
+      "level_since": "2026-03-17",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -495,9 +494,9 @@
       "name": "Bryce Warrecker",
       "position": "P",
       "level": "High-A",
-      "level_since": "2026-05-19",
-      "prior_level": "Low-A",
-      "prior_level_since": "2026-04-29",
+      "level_since": null,
+      "prior_level": null,
+      "prior_level_since": null,
       "season": {
         "w": 1,
         "l": 0,
@@ -921,7 +920,7 @@
       "name": "Edinzo Marquez",
       "position": "P",
       "level": "Low-A",
-      "level_since": null,
+      "level_since": "2026-04-01",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -1188,34 +1187,8 @@
       "level_since": "2026-04-03",
       "prior_level": null,
       "prior_level_since": null,
-      "season": {
-        "w": 5,
-        "l": 0,
-        "g": 31,
-        "gs": 0,
-        "cg": 0,
-        "sho": 0,
-        "sv": 1,
-        "svo": 4,
-        "ip": "48.2",
-        "ip_outs": 146,
-        "h": 35,
-        "r": 28,
-        "er": 24,
-        "hr": 4,
-        "hb": 9,
-        "bb": 42,
-        "so": 58,
-        "era": "4.44",
-        "era_num": 4.438356164383562,
-        "whip": "1.58",
-        "whip_num": 1.582191780821918,
-        "avg": ".207",
-        "avg_num": 0.20710059171597633
-      },
-      "season_levels": [
-        "Low-A"
-      ]
+      "season": null,
+      "season_levels": []
     },
     {
       "id": 692550,
@@ -2513,31 +2486,32 @@
       "season": {
         "w": 0,
         "l": 0,
-        "g": 3,
-        "gs": 0,
+        "g": 6,
+        "gs": 1,
         "cg": 0,
         "sho": 0,
         "sv": 0,
         "svo": 0,
-        "ip": "4.1",
-        "ip_outs": 13,
-        "h": 3,
+        "ip": "9.0",
+        "ip_outs": 27,
+        "h": 5,
         "r": 2,
         "er": 2,
         "hr": 0,
-        "hb": 1,
-        "bb": 4,
-        "so": 6,
-        "era": "4.15",
-        "era_num": 4.153846153846154,
-        "whip": "1.62",
-        "whip_num": 1.6153846153846154,
-        "avg": ".188",
-        "avg_num": 0.1875
+        "hb": 2,
+        "bb": 5,
+        "so": 9,
+        "era": "2.00",
+        "era_num": 2.0,
+        "whip": "1.11",
+        "whip_num": 1.1111111111111112,
+        "avg": ".161",
+        "avg_num": 0.16129032258064516
       },
       "season_levels": [
         "AAA",
-        "High-A"
+        "High-A",
+        "Low-A"
       ]
     },
     {
