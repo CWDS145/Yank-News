@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T23:39:35Z",
-  "count": 63,
+  "updated": "2026-08-22T00:17:27Z",
+  "count": 62,
   "items": [
     {
       "date": "2026-08-21",
@@ -70,14 +70,20 @@
     },
     {
       "date": "2026-08-04",
+      "type": "called up",
+      "player": "Yerry De Los Santos",
+      "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-08-04",
       "type": "purchased",
       "player": "George Lombard Jr.",
       "description": "Purchased From Minors"
     },
     {
-      "date": "2026-08-04",
+      "date": "2026-08-03",
       "type": "called up",
-      "player": "Yerry De Los Santos",
+      "player": "Kervin Castro",
       "description": "Called Up from Minors"
     },
     {
@@ -85,12 +91,6 @@
       "type": "traded",
       "player": "Heliot Ramos",
       "description": "Traded From San Francisco (for LHP Henry Lalane, three-player deal)"
-    },
-    {
-      "date": "2026-08-03",
-      "type": "called up",
-      "player": "Kervin Castro",
-      "description": "Called Up from Minors"
     },
     {
       "date": "2026-08-03",
@@ -280,15 +280,15 @@
     },
     {
       "date": "2026-07-03",
-      "type": "sent",
-      "player": "Oswaldo Cabrera",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-03",
       "type": "",
       "player": "Trent Grisham",
       "description": "Removed From 10-Day IL (Strained right hamstring)"
+    },
+    {
+      "date": "2026-07-03",
+      "type": "sent",
+      "player": "Oswaldo Cabrera",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-07-02",
@@ -372,12 +372,6 @@
       "date": "2026-06-23",
       "type": "called up",
       "player": "J.C. Escarra",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-06-22",
-      "type": "called up",
-      "player": "Yerry De Los Santos",
       "description": "Called Up from Minors"
     }
   ]
