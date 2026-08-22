@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T08:59:04Z",
+  "updated": "2026-08-22T09:30:41Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-08-12",
@@ -1233,9 +1233,9 @@
       "name": "Kenedy Corona",
       "position": "CF",
       "level": "AAA",
-      "level_since": "2026-05-04",
-      "prior_level": "AA",
-      "prior_level_since": "2026-03-23",
+      "level_since": null,
+      "prior_level": null,
+      "prior_level_since": null,
       "season": {
         "ab": 268,
         "k": 70,
@@ -1297,7 +1297,7 @@
       "name": "Kyle West",
       "position": "3B",
       "level": "High-A",
-      "level_since": "2026-03-30",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
