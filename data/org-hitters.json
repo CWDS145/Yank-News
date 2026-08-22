@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T13:31:57Z",
+  "updated": "2026-08-22T14:31:07Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-08-12",
@@ -315,7 +315,7 @@
       "name": "Bryce Martin-Grudzielanek",
       "position": "SS",
       "level": "High-A",
-      "level_since": "2026-08-04",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -569,7 +569,7 @@
       "name": "Dean Toigo",
       "position": "OF",
       "level": "High-A",
-      "level_since": "2026-08-04",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -1170,7 +1170,7 @@
       "name": "Josh Moylan",
       "position": "1B",
       "level": "AA",
-      "level_since": "2026-06-23",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -1853,7 +1853,7 @@
     {
       "id": 682987,
       "name": "Spencer Jones",
-      "position": "CF",
+      "position": "RF",
       "level": "MLB",
       "level_since": "2026-07-26",
       "prior_level": "AAA",

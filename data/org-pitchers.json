@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T13:38:31Z",
+  "updated": "2026-08-22T14:37:33Z",
   "season": 2026,
   "pitchers": [
     {
@@ -197,7 +197,7 @@
       "name": "Anthony Mena",
       "position": "P",
       "level": "Low-A",
-      "level_since": "2026-08-04",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -234,7 +234,7 @@
       "name": "Antonio Gomez",
       "position": "P",
       "level": "Low-A",
-      "level_since": "2026-03-17",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -921,7 +921,7 @@
       "name": "Edinzo Marquez",
       "position": "P",
       "level": "Low-A",
-      "level_since": "2026-04-01",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -2513,32 +2513,31 @@
       "season": {
         "w": 0,
         "l": 0,
-        "g": 6,
-        "gs": 1,
+        "g": 3,
+        "gs": 0,
         "cg": 0,
         "sho": 0,
         "sv": 0,
         "svo": 0,
-        "ip": "9.0",
-        "ip_outs": 27,
-        "h": 5,
+        "ip": "4.1",
+        "ip_outs": 13,
+        "h": 3,
         "r": 2,
         "er": 2,
         "hr": 0,
-        "hb": 2,
-        "bb": 5,
-        "so": 9,
-        "era": "2.00",
-        "era_num": 2.0,
-        "whip": "1.11",
-        "whip_num": 1.1111111111111112,
-        "avg": ".161",
-        "avg_num": 0.16129032258064516
+        "hb": 1,
+        "bb": 4,
+        "so": 6,
+        "era": "4.15",
+        "era_num": 4.153846153846154,
+        "whip": "1.62",
+        "whip_num": 1.6153846153846154,
+        "avg": ".188",
+        "avg_num": 0.1875
       },
       "season_levels": [
         "AAA",
-        "High-A",
-        "Low-A"
+        "High-A"
       ]
     },
     {
