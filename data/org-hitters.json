@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T10:56:40Z",
+  "updated": "2026-08-22T11:29:30Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-08-12",
@@ -319,12 +319,12 @@
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 57,
-        "k": 16,
-        "avg": ".193",
-        "ops": ".540",
-        "avg_num": 0.19298245614035087,
-        "ops_num": 0.5400809716599191
+        "ab": 391,
+        "k": 110,
+        "avg": ".263",
+        "ops": ".770",
+        "avg_num": 0.26342710997442453,
+        "ops_num": 0.7704044628883351
       },
       "last_10": {
         "ab": 29,
@@ -335,7 +335,8 @@
         "ops_num": 0.5444096133751306
       },
       "season_levels": [
-        "High-A"
+        "High-A",
+        "Low-A"
       ],
       "last_10_levels": [
         "High-A"
