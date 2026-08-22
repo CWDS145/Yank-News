@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T12:31:33Z",
+  "updated": "2026-08-22T13:31:57Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-08-12",
@@ -1108,8 +1108,8 @@
       "position": "RF",
       "level": "AAA",
       "level_since": "2026-08-04",
-      "prior_level": null,
-      "prior_level_since": null,
+      "prior_level": "MLB",
+      "prior_level_since": "2026-06-13",
       "season": {
         "ab": 359,
         "k": 79,
