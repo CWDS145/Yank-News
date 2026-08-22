@@ -1,18 +1,18 @@
 {
-  "updated": "2026-08-22T08:08:45Z",
+  "updated": "2026-08-22T08:43:31Z",
   "count": 62,
   "items": [
-    {
-      "date": "2026-08-21",
-      "type": "placed",
-      "player": "Ryan McMahon",
-      "description": "Placed on 10-Day IL (Left thumb sprain)"
-    },
     {
       "date": "2026-08-21",
       "type": "called up",
       "player": "Max Schuemann",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "placed",
+      "player": "Ryan McMahon",
+      "description": "Placed on 10-Day IL (Left thumb sprain)"
     },
     {
       "date": "2026-08-20",
@@ -94,20 +94,8 @@
     },
     {
       "date": "2026-08-03",
-      "type": "called up",
-      "player": "Kervin Castro",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-08-03",
       "type": "sent",
       "player": "Jasson Dominguez",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-08-03",
-      "type": "sent",
-      "player": "Angel Chivilli",
       "description": "Sent to Minors"
     },
     {
@@ -117,16 +105,28 @@
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "type": "called up",
-      "player": "Jacob Bird",
-      "description": "Called Up from Minors - Not to Report"
+      "player": "Kervin Castro",
+      "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-08-03",
+      "type": "sent",
+      "player": "Angel Chivilli",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-08-02",
       "type": "traded",
       "player": "Luis Garcia",
       "description": "Traded From Washington (for RHP Yovanny Cruz, five-player deal)"
+    },
+    {
+      "date": "2026-08-02",
+      "type": "called up",
+      "player": "Jacob Bird",
+      "description": "Called Up from Minors - Not to Report"
     },
     {
       "date": "2026-08-01",
@@ -154,12 +154,6 @@
     },
     {
       "date": "2026-07-22",
-      "type": "sent",
-      "player": "Kervin Castro",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-22",
       "type": "recalled",
       "player": "Max Fried",
       "description": "Recalled From Minors Rehab Assignment"
@@ -183,9 +177,9 @@
       "description": "Called Up from Minors (recalled as 27th roster player)"
     },
     {
-      "date": "2026-07-19",
+      "date": "2026-07-22",
       "type": "sent",
-      "player": "Jacob Bird",
+      "player": "Kervin Castro",
       "description": "Sent to Minors"
     },
     {
@@ -196,9 +190,9 @@
     },
     {
       "date": "2026-07-19",
-      "type": "",
-      "player": "Elmer Rodriguez",
-      "description": "Return of 27th man"
+      "type": "sent",
+      "player": "Jacob Bird",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-07-19",
@@ -207,16 +201,22 @@
       "description": "Called Up from Minors"
     },
     {
-      "date": "2026-07-18",
-      "type": "purchased",
-      "player": "Bradley Hanner",
-      "description": "NTR - Purchased From Minors"
+      "date": "2026-07-19",
+      "type": "",
+      "player": "Elmer Rodriguez",
+      "description": "Return of 27th man"
     },
     {
       "date": "2026-07-18",
       "type": "transferred",
       "player": "Aaron Judge",
       "description": "Transferred to 60-Day IL (Right rib stress fracture)"
+    },
+    {
+      "date": "2026-07-18",
+      "type": "purchased",
+      "player": "Bradley Hanner",
+      "description": "NTR - Purchased From Minors"
     },
     {
       "date": "2026-07-18",
