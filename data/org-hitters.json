@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T15:29:13Z",
+  "updated": "2026-08-22T15:57:59Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-08-12",
@@ -746,7 +746,7 @@
       "name": "Edinson Duran",
       "position": "C",
       "level": "AAA",
-      "level_since": null,
+      "level_since": "2026-04-02",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -981,9 +981,9 @@
       "name": "J.C. Escarra",
       "position": "C",
       "level": "AAA",
-      "level_since": null,
-      "prior_level": null,
-      "prior_level_since": null,
+      "level_since": "2026-06-26",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-06-23",
       "season": {
         "ab": 239,
         "k": 40,
@@ -1170,7 +1170,7 @@
       "name": "Josh Moylan",
       "position": "1B",
       "level": "AA",
-      "level_since": "2026-06-23",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -1265,9 +1265,9 @@
       "name": "Kevin Verde",
       "position": "SS",
       "level": "AA",
-      "level_since": "2026-05-23",
-      "prior_level": "Low-A",
-      "prior_level_since": "2026-04-03",
+      "level_since": null,
+      "prior_level": null,
+      "prior_level_since": null,
       "season": {
         "ab": 134,
         "k": 41,
