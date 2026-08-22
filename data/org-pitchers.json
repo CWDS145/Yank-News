@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T09:37:57Z",
+  "updated": "2026-08-22T10:03:44Z",
   "season": 2026,
   "pitchers": [
     {
@@ -533,7 +533,7 @@
       "name": "Cade Smith",
       "position": "P",
       "level": "AA",
-      "level_since": null,
+      "level_since": "2026-03-30",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
