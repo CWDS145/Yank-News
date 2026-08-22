@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T15:57:59Z",
+  "updated": "2026-08-22T16:28:53Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-08-12",
@@ -1108,8 +1108,8 @@
       "position": "RF",
       "level": "AAA",
       "level_since": "2026-08-04",
-      "prior_level": null,
-      "prior_level_since": null,
+      "prior_level": "MLB",
+      "prior_level_since": "2026-06-13",
       "season": {
         "ab": 359,
         "k": 79,
@@ -1170,7 +1170,7 @@
       "name": "Josh Moylan",
       "position": "1B",
       "level": "AA",
-      "level_since": null,
+      "level_since": "2026-06-23",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -1265,9 +1265,9 @@
       "name": "Kevin Verde",
       "position": "SS",
       "level": "AA",
-      "level_since": null,
-      "prior_level": null,
-      "prior_level_since": null,
+      "level_since": "2026-05-23",
+      "prior_level": "Low-A",
+      "prior_level_since": "2026-04-03",
       "season": {
         "ab": 134,
         "k": 41,
@@ -1516,9 +1516,9 @@
       "name": "Marco Luciano",
       "position": "SS",
       "level": "AAA",
-      "level_since": null,
-      "prior_level": null,
-      "prior_level_since": null,
+      "level_since": "2026-05-08",
+      "prior_level": "AA",
+      "prior_level_since": "2026-03-23",
       "season": {
         "ab": 333,
         "k": 95,
