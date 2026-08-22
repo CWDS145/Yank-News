@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T12:04:21Z",
+  "updated": "2026-08-22T12:38:46Z",
   "season": 2026,
   "pitchers": [
     {
@@ -2507,9 +2507,9 @@
       "name": "Travis MacGregor",
       "position": "P",
       "level": "AAA",
-      "level_since": null,
-      "prior_level": null,
-      "prior_level_since": null,
+      "level_since": "2026-08-13",
+      "prior_level": "High-A",
+      "prior_level_since": "2026-08-07",
       "season": {
         "w": 0,
         "l": 0,
