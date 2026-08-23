@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T11:06:44Z",
+  "updated": "2026-08-23T11:38:44Z",
   "count": 61,
   "items": [
     {
@@ -328,15 +328,15 @@
     },
     {
       "date": "2026-06-29",
-      "type": "placed",
-      "player": "David Bednar",
-      "description": "Placed on Paternity Leave List"
-    },
-    {
-      "date": "2026-06-29",
       "type": "called up",
       "player": "Jacob Bird",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "placed",
+      "player": "David Bednar",
+      "description": "Placed on Paternity Leave List"
     },
     {
       "date": "2026-06-29",
