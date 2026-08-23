@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T14:27:26Z",
+  "updated": "2026-08-23T14:56:18Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-08-13",
@@ -409,9 +409,9 @@
       "name": "Cody Bellinger",
       "position": "LF",
       "level": "MLB",
-      "level_since": "2026-07-26",
-      "prior_level": null,
-      "prior_level_since": null,
+      "level_since": "2026-08-23",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-08-20",
       "season": {
         "ab": 380,
         "k": 71,
