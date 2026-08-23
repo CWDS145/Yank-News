@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T10:08:07Z",
+  "updated": "2026-08-23T10:04:52Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -30,8 +30,12 @@
     ],
     "3B": [
       {
-        "name": "Ryan McMahon",
+        "name": "Jose Caballero",
         "rank": 1
+      },
+      {
+        "name": "Ryan McMahon",
+        "rank": 2
       }
     ],
     "SS": [
@@ -153,6 +157,7 @@
     "Giancarlo Stanton",
     "Heliot Ramos",
     "Jazz Chisholm",
+    "Jose Caballero",
     "Kervin Castro",
     "Luis V. Garcia",
     "Max Fried",
