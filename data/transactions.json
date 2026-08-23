@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T05:42:06Z",
+  "updated": "2026-08-23T06:11:39Z",
   "count": 61,
   "items": [
     {
@@ -298,15 +298,15 @@
     },
     {
       "date": "2026-07-02",
-      "type": "released",
-      "player": "Payton Henry",
-      "description": "Released"
-    },
-    {
-      "date": "2026-07-02",
       "type": "reinstated",
       "player": "David Bednar",
       "description": "Reinstated from Paternity Leave List"
+    },
+    {
+      "date": "2026-07-02",
+      "type": "released",
+      "player": "Payton Henry",
+      "description": "Released"
     },
     {
       "date": "2026-07-01",
