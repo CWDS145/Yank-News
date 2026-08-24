@@ -2,14 +2,6 @@
   "entries": [
     {
       "timestamp": "2026-08-24T05:01:34Z",
-      "source": "MLB season+byDateRange: Low-A",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season,byDateRange&sportId={sid}",
-      "status": 200,
-      "items": 69,
-      "note": "ok=69/69 window=2026-08-14..2026-08-24"
-    },
-    {
-      "timestamp": "2026-08-24T05:01:34Z",
       "source": "MLB Transactions org",
       "url": "https://statsapi.mlb.com/api/v1/transactions?teamId=147&startDate=2026-07-25&endDate=2026-08-24",
       "status": 200,
@@ -3999,6 +3991,14 @@
       "status": 200,
       "items": 78,
       "note": "pitchers needing prior_level fallback"
+    },
+    {
+      "timestamp": "2026-08-24T10:14:34Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 30,
+      "note": "ok"
     }
   ]
 }

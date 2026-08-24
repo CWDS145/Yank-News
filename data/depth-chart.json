@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T10:04:52Z",
+  "updated": "2026-08-24T10:14:34Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -46,7 +46,7 @@
     ],
     "LF": [
       {
-        "name": "Heliot Ramos",
+        "name": "Cody Bellinger",
         "rank": 1
       }
     ],
@@ -82,23 +82,23 @@
         "rank": 2
       },
       {
-        "name": "Ryan Weathers",
+        "name": "Carlos Rodon",
         "rank": 3
       },
       {
-        "name": "Carlos Rodon",
+        "name": "Will Warren",
         "rank": 4
       },
       {
-        "name": "Will Warren",
+        "name": "Max Fried",
         "rank": 5
       },
       {
-        "name": "Max Fried",
+        "name": "Clarke Schmidt",
         "rank": 6
       },
       {
-        "name": "Clarke Schmidt",
+        "name": "Ryan Weathers",
         "rank": 7
       }
     ],
@@ -128,16 +128,20 @@
         "rank": 6
       },
       {
-        "name": "Bradley Hanner",
+        "name": "Ryan Yarbrough",
         "rank": 7
       },
       {
-        "name": "Ryan Yarbrough",
+        "name": "Bradley Hanner",
         "rank": 8
       },
       {
-        "name": "Kervin Castro",
+        "name": "Brendan Beck",
         "rank": 9
+      },
+      {
+        "name": "Kervin Castro",
+        "rank": 10
       }
     ]
   },
@@ -146,16 +150,17 @@
     "Austin Wells",
     "Ben Rice",
     "Bradley Hanner",
+    "Brendan Beck",
     "Brent Headrick",
     "Cam Schlittler",
     "Carlos Rodon",
     "Clarke Schmidt",
+    "Cody Bellinger",
     "David Bednar",
     "Fernando E. Cruz",
     "George Lombard Jr.",
     "Gerrit Cole",
     "Giancarlo Stanton",
-    "Heliot Ramos",
     "Jazz Chisholm",
     "Jose Caballero",
     "Kervin Castro",
