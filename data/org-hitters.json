@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T22:28:23Z",
+  "updated": "2026-08-24T22:57:43Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-08-14",
@@ -1354,39 +1354,6 @@
       ],
       "last_10_levels": [
         "High-A"
-      ]
-    },
-    {
-      "id": 691411,
-      "name": "Luis Durango",
-      "position": "LF",
-      "level": "AA",
-      "level_since": "2026-07-28",
-      "prior_level": "High-A",
-      "prior_level_since": "2026-06-04",
-      "season": {
-        "ab": 240,
-        "k": 30,
-        "avg": ".338",
-        "ops": ".802",
-        "avg_num": 0.3375,
-        "ops_num": 0.8022727272727272
-      },
-      "last_10": {
-        "ab": 18,
-        "k": 0,
-        "avg": ".444",
-        "ops": ".918",
-        "avg_num": 0.4444444444444444,
-        "ops_num": 0.9181286549707601
-      },
-      "season_levels": [
-        "AA",
-        "High-A",
-        "Low-A"
-      ],
-      "last_10_levels": [
-        "AA"
       ]
     },
     {
