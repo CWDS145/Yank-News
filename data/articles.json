@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T13:22:39Z",
-  "count": 73,
+  "updated": "2026-08-24T13:48:19Z",
+  "count": 72,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-08-24T13:22:39Z",
+      "published": "2026-08-24T13:48:19Z",
       "image": null
     },
     {
@@ -17,7 +17,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/former-new-york-yankees-fan-favorite-nick-swisher-and-the-sandlot-actor-chauncey-leopardi-to-star-in-third-season-of-award-winning-hexclad-presents-bronx-buds-premiering-this-saturday-august-8-on-th/",
-      "published": "2026-08-24T13:22:39Z",
+      "published": "2026-08-24T13:48:19Z",
       "image": null
     },
     {
@@ -26,7 +26,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-outfielder-heliot-ramos/",
-      "published": "2026-08-24T13:22:39Z",
+      "published": "2026-08-24T13:48:19Z",
       "image": null
     },
     {
@@ -35,7 +35,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-infielder-luis-garcia-jr/",
-      "published": "2026-08-24T13:22:39Z",
+      "published": "2026-08-24T13:48:19Z",
+      "image": null
+    },
+    {
+      "title": "Size, 'self-belief' powering Jones' breakout -- and Judge-ian comp",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Bryan Hoch",
+      "link": "https://www.mlb.com/yankees/news/spencer-jones-coming-into-his-own-in-yankees-lineup",
+      "published": "2026-08-24T13:36:47Z",
       "image": null
     },
     {
@@ -471,15 +480,6 @@
       "image": null
     },
     {
-      "title": "Podcast: Pair of aces flashing their vintage form",
-      "summary": "Mariners to call up Kade Anderson | Morning Lineup",
-      "source": "MLB.com Yankees",
-      "author": "",
-      "link": "https://mlb-cuts-diamond.mlb.com/FORGE/2026/2026-08/21/b4f0276f-59ba5468-e932b5fc-csvm-diamondgcp-asset_1280x720_59_4000K.mp4",
-      "published": "2026-08-21T04:26:33Z",
-      "image": null
-    },
-    {
       "title": "Bellinger begins rehab assignment, hoping to return by weekend",
       "summary": "",
       "source": "MLB.com Yankees",
@@ -624,15 +624,6 @@
       "image": null
     },
     {
-      "title": "Pool work for Judge may be final step before hitting progression begins",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch",
-      "link": "https://www.mlb.com/yankees/news/aaron-judge-to-start-hitting-progression-for-yankees",
-      "published": "2026-08-18T22:27:41Z",
-      "image": null
-    },
-    {
       "title": "Max Fried lands back on IL with elbow injury: How the Yankees can withstand yet another hit",
       "summary": "Even with Carlos Rodón returning, the pitching staff is working overtime to make up for the lack of offense",
       "source": "CBS Sports MLB",
@@ -642,21 +633,21 @@
       "image": "https://sportshub.cbsistatic.com/i/2026/08/18/9fcd0610-4c88-4588-9df1-6ade6bd0bc6c/fried-getty.png"
     },
     {
-      "title": "Today's top games to watch, best bets, odds: Yankees vs. Orioles, Mariners vs. Brewers and more",
-      "summary": "Find best bets for the biggest games in sports on Tuesday from the SportsLine Projection Model and top CBS Sports experts",
-      "source": "CBS Sports MLB",
-      "author": "Scott Erskine",
-      "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-yankees-vs-orioles-mariners-vs-brewers-and-more/",
-      "published": "2026-08-18T19:30:45Z",
-      "image": "https://sportshub.cbsistatic.com/i/2026/05/11/b48e528a-d8fd-4384-9bf5-41ee1eb036c4/alonso.jpg"
-    },
-    {
       "title": "Yankees Place Max Fried On Injured List",
       "summary": "The Yankees announced they’ve placed Max Fried back on the 15-day injured list with a bone bruise in his elbow. They backdated the placement to August 14, the maximum three days. New York will activate Carlos Rodón from the 15-day IL tomorrow, as he’s slated to oppose Shane Baz in the opener of a three-game series at […]",
       "source": "MLB Trade Rumors NYY",
       "author": "Anthony Franco",
       "link": "https://www.mlbtraderumors.com/2026/08/yankees-place-max-fried-on-injured-list.html",
       "published": "2026-08-18T04:59:55Z",
+      "image": null
+    },
+    {
+      "title": "Schlittler keeps firm hold on top spot in Cy Young poll",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Jason Foster",
+      "link": "https://www.mlb.com/yankees/news/cam-schlittler-jacob-misiorowski-lead-fifth-2026-cy-young-poll",
+      "published": "2026-08-18T04:00:00Z",
       "image": null
     }
   ]
