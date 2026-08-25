@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T16:46:23Z",
+  "updated": "2026-08-25T17:12:40Z",
   "count": 64,
   "items": [
     {
@@ -160,15 +160,15 @@
     },
     {
       "date": "2026-08-02",
-      "type": "traded",
-      "player": "Luis Garcia",
-      "description": "Traded From Washington (for RHP Yovanny Cruz, five-player deal)"
-    },
-    {
-      "date": "2026-08-02",
       "type": "called up",
       "player": "Jacob Bird",
       "description": "Called Up from Minors - Not to Report"
+    },
+    {
+      "date": "2026-08-02",
+      "type": "traded",
+      "player": "Luis Garcia",
+      "description": "Traded From Washington (for RHP Yovanny Cruz, five-player deal)"
     },
     {
       "date": "2026-08-01",
@@ -304,21 +304,15 @@
     },
     {
       "date": "2026-07-03",
-      "type": "placed",
-      "player": "Carlos Rodon",
-      "description": "Placed on 15-Day IL (Left elbow inflammation)"
+      "type": "",
+      "player": "Trent Grisham",
+      "description": "Removed From 10-Day IL (Strained right hamstring)"
     },
     {
       "date": "2026-07-03",
       "type": "sent",
       "player": "Spencer Jones",
       "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-03",
-      "type": "",
-      "player": "Trent Grisham",
-      "description": "Removed From 10-Day IL (Strained right hamstring)"
     },
     {
       "date": "2026-07-03",
@@ -333,16 +327,22 @@
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-07-02",
-      "type": "reinstated",
-      "player": "David Bednar",
-      "description": "Reinstated from Paternity Leave List"
+      "date": "2026-07-03",
+      "type": "placed",
+      "player": "Carlos Rodon",
+      "description": "Placed on 15-Day IL (Left elbow inflammation)"
     },
     {
       "date": "2026-07-02",
       "type": "released",
       "player": "Payton Henry",
       "description": "Released"
+    },
+    {
+      "date": "2026-07-02",
+      "type": "reinstated",
+      "player": "David Bednar",
+      "description": "Reinstated from Paternity Leave List"
     },
     {
       "date": "2026-07-01",
@@ -364,15 +364,15 @@
     },
     {
       "date": "2026-06-29",
-      "type": "placed",
-      "player": "David Bednar",
-      "description": "Placed on Paternity Leave List"
-    },
-    {
-      "date": "2026-06-29",
       "type": "called up",
       "player": "Jacob Bird",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "placed",
+      "player": "David Bednar",
+      "description": "Placed on Paternity Leave List"
     },
     {
       "date": "2026-06-29",
