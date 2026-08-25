@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T14:47:34Z",
+  "updated": "2026-08-25T15:19:13Z",
   "count": 64,
   "items": [
     {
@@ -16,12 +16,6 @@
     },
     {
       "date": "2026-08-23",
-      "type": "placed",
-      "player": "Ryan Weathers",
-      "description": "Placed on 15-Day IL (Left forearm, flexor strain)"
-    },
-    {
-      "date": "2026-08-23",
       "type": "",
       "player": "Cody Bellinger",
       "description": "Removed From 10-Day IL (Strained left hamstring - out 4-6 weeks)"
@@ -31,6 +25,12 @@
       "type": "recalled",
       "player": "Cody Bellinger",
       "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-08-23",
+      "type": "placed",
+      "player": "Ryan Weathers",
+      "description": "Placed on 15-Day IL (Left forearm, flexor strain)"
     },
     {
       "date": "2026-08-22",
