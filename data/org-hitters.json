@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T18:29:07Z",
+  "updated": "2026-08-25T19:04:04Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-08-15",
@@ -928,7 +928,7 @@
       "name": "Giancarlo Stanton",
       "position": "DH",
       "level": "MLB",
-      "level_since": "2026-04-28",
+      "level_since": "2026-08-25",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
