@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T15:38:30Z",
+  "updated": "2026-08-25T16:10:13Z",
   "season": 2026,
   "pitchers": [
     {
@@ -757,6 +757,44 @@
       ]
     },
     {
+      "id": 810102,
+      "name": "Chris Veach",
+      "position": "P",
+      "level": "AA",
+      "level_since": "2026-05-19",
+      "prior_level": "High-A",
+      "prior_level_since": "2026-03-30",
+      "season": {
+        "w": 2,
+        "l": 2,
+        "g": 20,
+        "gs": 0,
+        "cg": 0,
+        "sho": 0,
+        "sv": 2,
+        "svo": 4,
+        "ip": "22.1",
+        "ip_outs": 67,
+        "h": 10,
+        "r": 7,
+        "er": 5,
+        "hr": 1,
+        "hb": 3,
+        "bb": 10,
+        "so": 33,
+        "era": "2.01",
+        "era_num": 2.014925373134328,
+        "whip": "0.90",
+        "whip_num": 0.8955223880597015,
+        "avg": ".130",
+        "avg_num": 0.12987012987012986
+      },
+      "season_levels": [
+        "AA",
+        "High-A"
+      ]
+    },
+    {
       "id": 657376,
       "name": "Clarke Schmidt",
       "position": "P",
@@ -766,43 +804,6 @@
       "prior_level_since": null,
       "season": null,
       "season_levels": []
-    },
-    {
-      "id": 814343,
-      "name": "Danny Flatt",
-      "position": "P",
-      "level": "Low-A",
-      "level_since": "2026-04-28",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "w": 2,
-        "l": 3,
-        "g": 8,
-        "gs": 4,
-        "cg": 0,
-        "sho": 0,
-        "sv": 0,
-        "svo": 0,
-        "ip": "29.2",
-        "ip_outs": 89,
-        "h": 28,
-        "r": 22,
-        "er": 20,
-        "hr": 5,
-        "hb": 2,
-        "bb": 14,
-        "so": 21,
-        "era": "6.07",
-        "era_num": 6.067415730337078,
-        "whip": "1.42",
-        "whip_num": 1.4157303370786516,
-        "avg": ".255",
-        "avg_num": 0.2545454545454545
-      },
-      "season_levels": [
-        "Low-A"
-      ]
     },
     {
       "id": 702130,
@@ -2167,6 +2168,43 @@
       ]
     },
     {
+      "id": 692646,
+      "name": "Pedro Rodriguez",
+      "position": "P",
+      "level": "Low-A",
+      "level_since": "2026-04-03",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "w": 1,
+        "l": 2,
+        "g": 25,
+        "gs": 0,
+        "cg": 0,
+        "sho": 0,
+        "sv": 3,
+        "svo": 5,
+        "ip": "25.0",
+        "ip_outs": 75,
+        "h": 23,
+        "r": 16,
+        "er": 16,
+        "hr": 3,
+        "hb": 2,
+        "bb": 15,
+        "so": 29,
+        "era": "5.76",
+        "era_num": 5.76,
+        "whip": "1.52",
+        "whip_num": 1.52,
+        "avg": ".242",
+        "avg_num": 0.24210526315789474
+      },
+      "season_levels": [
+        "Low-A"
+      ]
+    },
+    {
       "id": 695560,
       "name": "Pico Kohn",
       "position": "P",
@@ -2393,10 +2431,10 @@
       "id": 800344,
       "name": "Sean Paul Liñan",
       "position": "P",
-      "level": "AA",
-      "level_since": "2026-08-18",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-03-22",
+      "level": "High-A",
+      "level_since": "2026-08-25",
+      "prior_level": "AA",
+      "prior_level_since": "2026-08-18",
       "season": {
         "w": 2,
         "l": 8,
