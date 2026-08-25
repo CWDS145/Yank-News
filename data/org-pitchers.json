@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T21:04:15Z",
+  "updated": "2026-08-25T21:33:28Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1853,6 +1853,44 @@
         "AA",
         "High-A",
         "Low-A"
+      ]
+    },
+    {
+      "id": 694805,
+      "name": "Kyle Carr",
+      "position": "P",
+      "level": "AAA",
+      "level_since": "2026-07-03",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "w": 6,
+        "l": 6,
+        "g": 16,
+        "gs": 15,
+        "cg": 0,
+        "sho": 0,
+        "sv": 0,
+        "svo": 0,
+        "ip": "80.1",
+        "ip_outs": 241,
+        "h": 85,
+        "r": 47,
+        "er": 39,
+        "hr": 11,
+        "hb": 2,
+        "bb": 34,
+        "so": 96,
+        "era": "4.37",
+        "era_num": 4.369294605809128,
+        "whip": "1.48",
+        "whip_num": 1.4813278008298756,
+        "avg": ".265",
+        "avg_num": 0.26479750778816197
+      },
+      "season_levels": [
+        "AAA",
+        "AA"
       ]
     },
     {
