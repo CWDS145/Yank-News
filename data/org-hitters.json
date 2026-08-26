@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T14:07:09Z",
+  "updated": "2026-08-26T14:33:25Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-08-16",
@@ -773,28 +773,6 @@
       "last_10_levels": [
         "Low-A"
       ]
-    },
-    {
-      "id": 702750,
-      "name": "Edinson Duran",
-      "position": "C",
-      "level": "AAA",
-      "level_since": "2026-04-02",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 5,
-        "k": 1,
-        "avg": ".200",
-        "ops": ".733",
-        "avg_num": 0.2,
-        "ops_num": 0.7333333333333334
-      },
-      "last_10": null,
-      "season_levels": [
-        "AAA"
-      ],
-      "last_10_levels": []
     },
     {
       "id": 800285,
