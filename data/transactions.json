@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T10:14:06Z",
+  "updated": "2026-08-26T10:45:03Z",
   "count": 65,
   "items": [
     {
@@ -10,15 +10,15 @@
     },
     {
       "date": "2026-08-24",
-      "type": "sent",
-      "player": "Brendan Beck",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-08-24",
       "type": "transferred",
       "player": "Giancarlo Stanton",
       "description": "Transferred to 60-Day IL (Strained right calf)"
+    },
+    {
+      "date": "2026-08-24",
+      "type": "sent",
+      "player": "Brendan Beck",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-08-23",
@@ -346,15 +346,15 @@
     },
     {
       "date": "2026-07-02",
-      "type": "reinstated",
-      "player": "David Bednar",
-      "description": "Reinstated from Paternity Leave List"
-    },
-    {
-      "date": "2026-07-02",
       "type": "released",
       "player": "Payton Henry",
       "description": "Released"
+    },
+    {
+      "date": "2026-07-02",
+      "type": "reinstated",
+      "player": "David Bednar",
+      "description": "Reinstated from Paternity Leave List"
     },
     {
       "date": "2026-07-01",
@@ -376,15 +376,15 @@
     },
     {
       "date": "2026-06-29",
-      "type": "placed",
-      "player": "David Bednar",
-      "description": "Placed on Paternity Leave List"
-    },
-    {
-      "date": "2026-06-29",
       "type": "sent",
       "player": "Yerry De Los Santos",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-06-29",
+      "type": "placed",
+      "player": "David Bednar",
+      "description": "Placed on Paternity Leave List"
     },
     {
       "date": "2026-06-29",
