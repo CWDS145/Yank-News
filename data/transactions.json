@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T07:47:19Z",
+  "updated": "2026-08-26T08:17:37Z",
   "count": 65,
   "items": [
     {
@@ -10,15 +10,15 @@
     },
     {
       "date": "2026-08-24",
-      "type": "sent",
-      "player": "Brendan Beck",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-08-24",
       "type": "transferred",
       "player": "Giancarlo Stanton",
       "description": "Transferred to 60-Day IL (Strained right calf)"
+    },
+    {
+      "date": "2026-08-24",
+      "type": "sent",
+      "player": "Brendan Beck",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-08-23",
