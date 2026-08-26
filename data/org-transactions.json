@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T23:56:02Z",
+  "updated": "2026-08-26T00:30:53Z",
   "items": [
     {
       "id": 939273,
@@ -494,32 +494,6 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees signed free agent C Christian Bethancourt to a minor league contract."
-    },
-    {
-      "id": 931413,
-      "date": "2026-07-26",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 641355,
-      "player": "Cody Bellinger",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees placed LF Cody Bellinger on the 10-day injured list. Left hamstring strain."
-    },
-    {
-      "id": 931412,
-      "date": "2026-07-26",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 682987,
-      "player": "Spencer Jones",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled CF Spencer Jones from Scranton/Wilkes-Barre RailRiders."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T23:51:17Z",
+  "updated": "2026-08-26T00:26:05Z",
   "season": 2026,
   "team": {
     "id": 147,
@@ -605,19 +605,6 @@
   ],
   "schedule": [
     {
-      "gamePk": 824803,
-      "date": "2026-08-18T22:35:00Z",
-      "home_away": "away",
-      "opponent": "Baltimore Orioles",
-      "opponent_abbr": null,
-      "opponent_id": 110,
-      "status": "Final",
-      "home_score": 1,
-      "away_score": 3,
-      "winning_pitcher": null,
-      "losing_pitcher": null
-    },
-    {
       "gamePk": 824801,
       "date": "2026-08-19T22:35:00Z",
       "home_away": "away",
@@ -690,8 +677,8 @@
       "opponent_abbr": null,
       "opponent_id": 117,
       "status": "In Progress",
-      "home_score": 0,
-      "away_score": 1,
+      "home_score": 3,
+      "away_score": 2,
       "winning_pitcher": null,
       "losing_pitcher": null
     },
@@ -798,28 +785,41 @@
       "away_score": null,
       "winning_pitcher": null,
       "losing_pitcher": null
+    },
+    {
+      "gamePk": 823983,
+      "date": "2026-09-03T01:38:00Z",
+      "home_away": "away",
+      "opponent": "Los Angeles Angels",
+      "opponent_abbr": null,
+      "opponent_id": 108,
+      "status": "Scheduled",
+      "home_score": null,
+      "away_score": null,
+      "winning_pitcher": null,
+      "losing_pitcher": null
     }
   ],
   "player_stats": {
-    "642232": {
-      "name": "Ryan Yarbrough",
+    "657612": {
+      "name": "Tim Hill",
       "group": "pitching",
       "stats": {
-        "G": 31,
-        "GS": 1,
-        "W": 2,
-        "L": 1,
-        "SV": 3,
-        "IP": "50.0",
-        "H": 40,
-        "R": 26,
-        "ER": 19,
-        "BB": 19,
-        "SO": 37,
-        "ERA": "3.42",
-        "WHIP": "1.18",
-        "AVG": ".215",
-        "HR": 3
+        "G": 57,
+        "GS": 0,
+        "W": 4,
+        "L": 2,
+        "SV": 2,
+        "IP": "49.0",
+        "H": 45,
+        "R": 27,
+        "ER": 24,
+        "BB": 11,
+        "SO": 22,
+        "ERA": "4.41",
+        "WHIP": "1.14",
+        "AVG": ".246",
+        "HR": 9
       }
     },
     "671277": {
@@ -827,9 +827,9 @@
       "group": "hitting",
       "stats": {
         "G": 122,
-        "AB": 420,
-        "R": 54,
-        "H": 117,
+        "AB": 421,
+        "R": 55,
+        "H": 118,
         "2B": 23,
         "3B": 5,
         "HR": 26,
@@ -837,199 +837,10 @@
         "BB": 22,
         "SO": 74,
         "SB": 4,
-        "AVG": ".279",
-        "OBP": ".313",
-        "SLG": ".543",
-        "OPS": ".856"
-      }
-    },
-    "623437": {
-      "name": "Justin Topa",
-      "group": "pitching",
-      "stats": {
-        "G": 23,
-        "GS": 0,
-        "W": 0,
-        "L": 1,
-        "SV": 2,
-        "IP": "19.0",
-        "H": 27,
-        "R": 18,
-        "ER": 17,
-        "BB": 11,
-        "SO": 12,
-        "ERA": "8.05",
-        "WHIP": "2.00",
-        "AVG": ".346",
-        "HR": 4
-      }
-    },
-    "621112": {
-      "name": "Paul Blackburn",
-      "group": "pitching",
-      "stats": {
-        "G": 50,
-        "GS": 2,
-        "W": 5,
-        "L": 2,
-        "SV": 1,
-        "IP": "73.0",
-        "H": 48,
-        "R": 16,
-        "ER": 14,
-        "BB": 27,
-        "SO": 58,
-        "ERA": "1.73",
-        "WHIP": "1.03",
-        "AVG": ".188",
-        "HR": 6
-      }
-    },
-    "691176": {
-      "name": "Jasson Domínguez",
-      "group": "hitting",
-      "stats": {
-        "G": 53,
-        "AB": 200,
-        "R": 21,
-        "H": 46,
-        "2B": 12,
-        "3B": 0,
-        "HR": 6,
-        "RBI": 14,
-        "BB": 9,
-        "SO": 46,
-        "SB": 7,
-        "AVG": ".230",
-        "OBP": ".270",
-        "SLG": ".380",
-        "OPS": ".650"
-      }
-    },
-    "518585": {
-      "name": "Fernando Cruz",
-      "group": "pitching",
-      "stats": {
-        "G": 60,
-        "GS": 0,
-        "W": 4,
-        "L": 6,
-        "SV": 2,
-        "IP": "53.2",
-        "H": 40,
-        "R": 21,
-        "ER": 17,
-        "BB": 31,
-        "SO": 67,
-        "ERA": "2.85",
-        "WHIP": "1.32",
-        "AVG": ".206",
-        "HR": 6
-      }
-    },
-    "641355": {
-      "name": "Cody Bellinger",
-      "group": "hitting",
-      "stats": {
-        "G": 104,
-        "AB": 379,
-        "R": 53,
-        "H": 98,
-        "2B": 21,
-        "3B": 3,
-        "HR": 11,
-        "RBI": 53,
-        "BB": 55,
-        "SO": 72,
-        "SB": 10,
-        "AVG": ".259",
-        "OBP": ".349",
-        "SLG": ".417",
-        "OPS": ".766"
-      }
-    },
-    "683409": {
-      "name": "Angel Chivilli",
-      "group": "pitching",
-      "stats": {
-        "G": 15,
-        "GS": 0,
-        "W": 1,
-        "L": 1,
-        "SV": 0,
-        "IP": "16.2",
-        "H": 14,
-        "R": 9,
-        "ER": 7,
-        "BB": 7,
-        "SO": 16,
-        "ERA": "3.78",
-        "WHIP": "1.26",
-        "AVG": ".215",
-        "HR": 4
-      }
-    },
-    "677960": {
-      "name": "Ryan Weathers",
-      "group": "pitching",
-      "stats": {
-        "G": 25,
-        "GS": 25,
-        "W": 5,
-        "L": 8,
-        "SV": 0,
-        "IP": "137.1",
-        "H": 130,
-        "R": 61,
-        "ER": 55,
-        "BB": 38,
-        "SO": 143,
-        "ERA": "3.60",
-        "WHIP": "1.22",
-        "AVG": ".249",
-        "HR": 18
-      }
-    },
-    "663757": {
-      "name": "Trent Grisham",
-      "group": "hitting",
-      "stats": {
-        "G": 111,
-        "AB": 385,
-        "R": 63,
-        "H": 85,
-        "2B": 19,
-        "3B": 2,
-        "HR": 18,
-        "RBI": 56,
-        "BB": 55,
-        "SO": 79,
-        "SB": 9,
-        "AVG": ".221",
-        "OBP": ".316",
-        "SLG": ".421",
-        "OPS": ".737"
-      }
-    },
-    "641857": {
-      "name": "Ryan McMahon",
-      "group": "hitting",
-      "stats": {
-        "G": 106,
-        "AB": 278,
-        "R": 29,
-        "H": 60,
-        "2B": 12,
-        "3B": 0,
-        "HR": 10,
-        "RBI": 32,
-        "BB": 24,
-        "SO": 93,
-        "SB": 3,
-        "AVG": ".216",
-        "OBP": ".282",
-        "SLG": ".367",
-        "OPS": ".649"
+        "AVG": ".280",
+        "OBP": ".315",
+        "SLG": ".544",
+        "OPS": ".859"
       }
     },
     "642708": {
@@ -1053,48 +864,6 @@
         "OPS": ".697"
       }
     },
-    "680474": {
-      "name": "Max Schuemann",
-      "group": "hitting",
-      "stats": {
-        "G": 42,
-        "AB": 72,
-        "R": 17,
-        "H": 14,
-        "2B": 6,
-        "3B": 0,
-        "HR": 2,
-        "RBI": 8,
-        "BB": 12,
-        "SO": 21,
-        "SB": 3,
-        "AVG": ".194",
-        "OBP": ".333",
-        "SLG": ".361",
-        "OPS": ".694"
-      }
-    },
-    "671218": {
-      "name": "Heliot Ramos",
-      "group": "hitting",
-      "stats": {
-        "G": 90,
-        "AB": 341,
-        "R": 37,
-        "H": 82,
-        "2B": 17,
-        "3B": 3,
-        "HR": 9,
-        "RBI": 35,
-        "BB": 21,
-        "SO": 100,
-        "SB": 4,
-        "AVG": ".240",
-        "OBP": ".292",
-        "SLG": ".387",
-        "OPS": ".679"
-      }
-    },
     "607074": {
       "name": "Carlos Rodón",
       "group": "pitching",
@@ -1114,195 +883,6 @@
         "WHIP": "1.21",
         "AVG": ".188",
         "HR": 4
-      }
-    },
-    "645305": {
-      "name": "Ali Sánchez",
-      "group": "hitting",
-      "stats": {
-        "G": 38,
-        "AB": 63,
-        "R": 6,
-        "H": 16,
-        "2B": 2,
-        "3B": 0,
-        "HR": 1,
-        "RBI": 7,
-        "BB": 1,
-        "SO": 18,
-        "SB": 0,
-        "AVG": ".254",
-        "OBP": ".284",
-        "SLG": ".333",
-        "OPS": ".617"
-      }
-    },
-    "676609": {
-      "name": "José Caballero",
-      "group": "hitting",
-      "stats": {
-        "G": 110,
-        "AB": 341,
-        "R": 39,
-        "H": 79,
-        "2B": 12,
-        "3B": 0,
-        "HR": 12,
-        "RBI": 44,
-        "BB": 23,
-        "SO": 91,
-        "SB": 30,
-        "AVG": ".232",
-        "OBP": ".291",
-        "SLG": ".372",
-        "OPS": ".663"
-      }
-    },
-    "543037": {
-      "name": "Gerrit Cole",
-      "group": "pitching",
-      "stats": {
-        "G": 16,
-        "GS": 16,
-        "W": 7,
-        "L": 6,
-        "SV": 0,
-        "IP": "92.2",
-        "H": 79,
-        "R": 33,
-        "ER": 32,
-        "BB": 20,
-        "SO": 100,
-        "ERA": "3.11",
-        "WHIP": "1.07",
-        "AVG": ".224",
-        "HR": 12
-      }
-    },
-    "701542": {
-      "name": "Will Warren",
-      "group": "pitching",
-      "stats": {
-        "G": 26,
-        "GS": 25,
-        "W": 8,
-        "L": 6,
-        "SV": 0,
-        "IP": "124.0",
-        "H": 131,
-        "R": 73,
-        "ER": 61,
-        "BB": 44,
-        "SO": 124,
-        "ERA": "4.43",
-        "WHIP": "1.41",
-        "AVG": ".268",
-        "HR": 20
-      }
-    },
-    "690440": {
-      "name": "Bradley Hanner",
-      "group": "pitching",
-      "stats": {
-        "G": 2,
-        "GS": 0,
-        "W": 0,
-        "L": 0,
-        "SV": 0,
-        "IP": "2.2",
-        "H": 4,
-        "R": 2,
-        "ER": 2,
-        "BB": 0,
-        "SO": 3,
-        "ERA": "6.75",
-        "WHIP": "1.50",
-        "AVG": ".333",
-        "HR": 2
-      }
-    },
-    "683011": {
-      "name": "Anthony Volpe",
-      "group": "hitting",
-      "stats": {
-        "G": 56,
-        "AB": 171,
-        "R": 20,
-        "H": 41,
-        "2B": 9,
-        "3B": 1,
-        "HR": 1,
-        "RBI": 19,
-        "BB": 22,
-        "SO": 45,
-        "SB": 7,
-        "AVG": ".240",
-        "OBP": ".325",
-        "SLG": ".322",
-        "OPS": ".647"
-      }
-    },
-    "665862": {
-      "name": "Jazz Chisholm Jr.",
-      "group": "hitting",
-      "stats": {
-        "G": 122,
-        "AB": 423,
-        "R": 60,
-        "H": 93,
-        "2B": 15,
-        "3B": 3,
-        "HR": 18,
-        "RBI": 51,
-        "BB": 48,
-        "SO": 144,
-        "SB": 35,
-        "AVG": ".220",
-        "OBP": ".299",
-        "SLG": ".397",
-        "OPS": ".696"
-      }
-    },
-    "806146": {
-      "name": "George Lombard Jr.",
-      "group": "hitting",
-      "stats": {
-        "G": 18,
-        "AB": 60,
-        "R": 12,
-        "H": 17,
-        "2B": 1,
-        "3B": 0,
-        "HR": 2,
-        "RBI": 5,
-        "BB": 6,
-        "SO": 17,
-        "SB": 1,
-        "AVG": ".283",
-        "OBP": ".343",
-        "SLG": ".400",
-        "OPS": ".743"
-      }
-    },
-    "687396": {
-      "name": "Brent Headrick",
-      "group": "pitching",
-      "stats": {
-        "G": 67,
-        "GS": 0,
-        "W": 7,
-        "L": 2,
-        "SV": 0,
-        "IP": "66.1",
-        "H": 55,
-        "R": 12,
-        "ER": 11,
-        "BB": 20,
-        "SO": 83,
-        "ERA": "1.49",
-        "WHIP": "1.13",
-        "AVG": ".224",
-        "HR": 3
       }
     },
     "694341": {
@@ -1326,25 +906,46 @@
         "HR": 4
       }
     },
-    "661563": {
-      "name": "Luis Gil",
+    "642232": {
+      "name": "Ryan Yarbrough",
       "group": "pitching",
       "stats": {
-        "G": 4,
-        "GS": 4,
-        "W": 1,
-        "L": 2,
-        "SV": 0,
-        "IP": "19.1",
-        "H": 15,
-        "R": 13,
-        "ER": 13,
-        "BB": 11,
-        "SO": 9,
-        "ERA": "6.05",
-        "WHIP": "1.34",
-        "AVG": ".211",
-        "HR": 6
+        "G": 31,
+        "GS": 1,
+        "W": 2,
+        "L": 1,
+        "SV": 3,
+        "IP": "50.0",
+        "H": 40,
+        "R": 26,
+        "ER": 19,
+        "BB": 19,
+        "SO": 37,
+        "ERA": "3.42",
+        "WHIP": "1.18",
+        "AVG": ".215",
+        "HR": 3
+      }
+    },
+    "683011": {
+      "name": "Anthony Volpe",
+      "group": "hitting",
+      "stats": {
+        "G": 56,
+        "AB": 171,
+        "R": 20,
+        "H": 41,
+        "2B": 9,
+        "3B": 1,
+        "HR": 1,
+        "RBI": 19,
+        "BB": 22,
+        "SO": 45,
+        "SB": 7,
+        "AVG": ".240",
+        "OBP": ".325",
+        "SLG": ".322",
+        "OPS": ".647"
       }
     },
     "641555": {
@@ -1368,46 +969,172 @@
         "OPS": ".510"
       }
     },
-    "665828": {
-      "name": "Oswaldo Cabrera",
-      "group": "hitting",
+    "621112": {
+      "name": "Paul Blackburn",
+      "group": "pitching",
       "stats": {
-        "G": 3,
-        "AB": 9,
-        "R": 0,
-        "H": 0,
-        "2B": 0,
-        "3B": 0,
-        "HR": 0,
-        "RBI": 0,
-        "BB": 0,
-        "SO": 4,
-        "SB": 0,
-        "AVG": ".000",
-        "OBP": ".000",
-        "SLG": ".000",
-        "OPS": ".000"
+        "G": 50,
+        "GS": 2,
+        "W": 5,
+        "L": 2,
+        "SV": 1,
+        "IP": "73.0",
+        "H": 48,
+        "R": 16,
+        "ER": 14,
+        "BB": 27,
+        "SO": 58,
+        "ERA": "1.73",
+        "WHIP": "1.03",
+        "AVG": ".188",
+        "HR": 6
       }
     },
-    "502671": {
-      "name": "Paul Goldschmidt",
+    "645305": {
+      "name": "Ali Sánchez",
       "group": "hitting",
       "stats": {
-        "G": 90,
-        "AB": 304,
-        "R": 37,
-        "H": 75,
-        "2B": 11,
-        "3B": 1,
-        "HR": 16,
+        "G": 38,
+        "AB": 63,
+        "R": 6,
+        "H": 16,
+        "2B": 2,
+        "3B": 0,
+        "HR": 1,
+        "RBI": 7,
+        "BB": 1,
+        "SO": 18,
+        "SB": 0,
+        "AVG": ".254",
+        "OBP": ".284",
+        "SLG": ".333",
+        "OPS": ".617"
+      }
+    },
+    "641857": {
+      "name": "Ryan McMahon",
+      "group": "hitting",
+      "stats": {
+        "G": 106,
+        "AB": 278,
+        "R": 29,
+        "H": 60,
+        "2B": 12,
+        "3B": 0,
+        "HR": 10,
+        "RBI": 32,
+        "BB": 24,
+        "SO": 93,
+        "SB": 3,
+        "AVG": ".216",
+        "OBP": ".282",
+        "SLG": ".367",
+        "OPS": ".649"
+      }
+    },
+    "623437": {
+      "name": "Justin Topa",
+      "group": "pitching",
+      "stats": {
+        "G": 23,
+        "GS": 0,
+        "W": 0,
+        "L": 1,
+        "SV": 2,
+        "IP": "19.0",
+        "H": 27,
+        "R": 18,
+        "ER": 17,
+        "BB": 11,
+        "SO": 12,
+        "ERA": "8.05",
+        "WHIP": "2.00",
+        "AVG": ".346",
+        "HR": 4
+      }
+    },
+    "641355": {
+      "name": "Cody Bellinger",
+      "group": "hitting",
+      "stats": {
+        "G": 104,
+        "AB": 380,
+        "R": 54,
+        "H": 99,
+        "2B": 21,
+        "3B": 3,
+        "HR": 12,
+        "RBI": 56,
+        "BB": 55,
+        "SO": 72,
+        "SB": 10,
+        "AVG": ".261",
+        "OBP": ".350",
+        "SLG": ".426",
+        "OPS": ".776"
+      }
+    },
+    "663757": {
+      "name": "Trent Grisham",
+      "group": "hitting",
+      "stats": {
+        "G": 111,
+        "AB": 385,
+        "R": 64,
+        "H": 85,
+        "2B": 19,
+        "3B": 2,
+        "HR": 18,
+        "RBI": 56,
+        "BB": 56,
+        "SO": 79,
+        "SB": 9,
+        "AVG": ".221",
+        "OBP": ".318",
+        "SLG": ".421",
+        "OPS": ".739"
+      }
+    },
+    "677960": {
+      "name": "Ryan Weathers",
+      "group": "pitching",
+      "stats": {
+        "G": 25,
+        "GS": 25,
+        "W": 5,
+        "L": 8,
+        "SV": 0,
+        "IP": "137.1",
+        "H": 130,
+        "R": 61,
+        "ER": 55,
+        "BB": 38,
+        "SO": 143,
+        "ERA": "3.60",
+        "WHIP": "1.22",
+        "AVG": ".249",
+        "HR": 18
+      }
+    },
+    "676609": {
+      "name": "José Caballero",
+      "group": "hitting",
+      "stats": {
+        "G": 110,
+        "AB": 341,
+        "R": 39,
+        "H": 79,
+        "2B": 12,
+        "3B": 0,
+        "HR": 12,
         "RBI": 44,
-        "BB": 26,
-        "SO": 81,
-        "SB": 1,
-        "AVG": ".247",
-        "OBP": ".311",
-        "SLG": ".447",
-        "OPS": ".758"
+        "BB": 23,
+        "SO": 91,
+        "SB": 30,
+        "AVG": ".232",
+        "OBP": ".291",
+        "SLG": ".372",
+        "OPS": ".663"
       }
     },
     "693645": {
@@ -1431,46 +1158,67 @@
         "HR": 14
       }
     },
-    "657612": {
-      "name": "Tim Hill",
-      "group": "pitching",
+    "592450": {
+      "name": "Aaron Judge",
+      "group": "hitting",
       "stats": {
-        "G": 57,
-        "GS": 0,
-        "W": 4,
-        "L": 2,
-        "SV": 2,
-        "IP": "49.0",
-        "H": 45,
-        "R": 27,
-        "ER": 24,
-        "BB": 11,
-        "SO": 22,
-        "ERA": "4.41",
-        "WHIP": "1.14",
-        "AVG": ".246",
-        "HR": 9
+        "G": 59,
+        "AB": 214,
+        "R": 43,
+        "H": 53,
+        "2B": 10,
+        "3B": 0,
+        "HR": 17,
+        "RBI": 38,
+        "BB": 42,
+        "SO": 72,
+        "SB": 5,
+        "AVG": ".248",
+        "OBP": ".375",
+        "SLG": ".533",
+        "OPS": ".908"
       }
     },
-    "695684": {
-      "name": "Elmer Rodríguez",
+    "701542": {
+      "name": "Will Warren",
       "group": "pitching",
       "stats": {
-        "G": 4,
-        "GS": 4,
-        "W": 0,
-        "L": 2,
+        "G": 26,
+        "GS": 25,
+        "W": 8,
+        "L": 6,
         "SV": 0,
-        "IP": "17.0",
-        "H": 19,
-        "R": 9,
-        "ER": 9,
-        "BB": 11,
-        "SO": 10,
-        "ERA": "4.76",
-        "WHIP": "1.76",
-        "AVG": ".284",
-        "HR": 1
+        "IP": "126.0",
+        "H": 133,
+        "R": 74,
+        "ER": 61,
+        "BB": 44,
+        "SO": 126,
+        "ERA": "4.36",
+        "WHIP": "1.40",
+        "AVG": ".268",
+        "HR": 20
+      }
+    },
+    "502671": {
+      "name": "Paul Goldschmidt",
+      "group": "hitting",
+      "stats": {
+        "G": 90,
+        "AB": 304,
+        "R": 37,
+        "H": 75,
+        "2B": 11,
+        "3B": 1,
+        "HR": 16,
+        "RBI": 44,
+        "BB": 26,
+        "SO": 81,
+        "SB": 1,
+        "AVG": ".247",
+        "OBP": ".311",
+        "SLG": ".447",
+        "OPS": ".758"
       }
     },
     "670280": {
@@ -1494,46 +1242,25 @@
         "HR": 3
       }
     },
-    "682987": {
-      "name": "Spencer Jones",
-      "group": "hitting",
+    "687396": {
+      "name": "Brent Headrick",
+      "group": "pitching",
       "stats": {
-        "G": 58,
-        "AB": 160,
-        "R": 20,
-        "H": 37,
-        "2B": 8,
-        "3B": 1,
-        "HR": 7,
-        "RBI": 22,
-        "BB": 18,
-        "SO": 64,
-        "SB": 8,
-        "AVG": ".231",
-        "OBP": ".313",
-        "SLG": ".425",
-        "OPS": ".738"
-      }
-    },
-    "519317": {
-      "name": "Giancarlo Stanton",
-      "group": "hitting",
-      "stats": {
-        "G": 24,
-        "AB": 90,
-        "R": 8,
-        "H": 23,
-        "2B": 6,
-        "3B": 0,
-        "HR": 3,
-        "RBI": 14,
-        "BB": 6,
-        "SO": 29,
-        "SB": 1,
-        "AVG": ".256",
-        "OBP": ".302",
-        "SLG": ".422",
-        "OPS": ".724"
+        "G": 67,
+        "GS": 0,
+        "W": 7,
+        "L": 2,
+        "SV": 0,
+        "IP": "66.1",
+        "H": 55,
+        "R": 12,
+        "ER": 11,
+        "BB": 20,
+        "SO": 83,
+        "ERA": "1.49",
+        "WHIP": "1.13",
+        "AVG": ".224",
+        "HR": 3
       }
     },
     "608331": {
@@ -1557,46 +1284,235 @@
         "HR": 2
       }
     },
-    "592450": {
-      "name": "Aaron Judge",
-      "group": "hitting",
+    "661563": {
+      "name": "Luis Gil",
+      "group": "pitching",
       "stats": {
-        "G": 59,
-        "AB": 214,
-        "R": 43,
-        "H": 53,
-        "2B": 10,
-        "3B": 0,
-        "HR": 17,
-        "RBI": 38,
-        "BB": 42,
-        "SO": 72,
-        "SB": 5,
-        "AVG": ".248",
-        "OBP": ".375",
-        "SLG": ".533",
-        "OPS": ".908"
+        "G": 4,
+        "GS": 4,
+        "W": 1,
+        "L": 2,
+        "SV": 0,
+        "IP": "19.1",
+        "H": 15,
+        "R": 13,
+        "ER": 13,
+        "BB": 11,
+        "SO": 9,
+        "ERA": "6.05",
+        "WHIP": "1.34",
+        "AVG": ".211",
+        "HR": 6
       }
     },
-    "700250": {
-      "name": "Ben Rice",
+    "543037": {
+      "name": "Gerrit Cole",
+      "group": "pitching",
+      "stats": {
+        "G": 16,
+        "GS": 16,
+        "W": 7,
+        "L": 6,
+        "SV": 0,
+        "IP": "92.2",
+        "H": 79,
+        "R": 33,
+        "ER": 32,
+        "BB": 20,
+        "SO": 100,
+        "ERA": "3.11",
+        "WHIP": "1.07",
+        "AVG": ".224",
+        "HR": 12
+      }
+    },
+    "665862": {
+      "name": "Jazz Chisholm Jr.",
       "group": "hitting",
       "stats": {
-        "G": 126,
-        "AB": 466,
-        "R": 79,
-        "H": 116,
-        "2B": 20,
+        "G": 122,
+        "AB": 423,
+        "R": 60,
+        "H": 93,
+        "2B": 15,
         "3B": 3,
-        "HR": 34,
-        "RBI": 82,
-        "BB": 64,
-        "SO": 136,
+        "HR": 18,
+        "RBI": 51,
+        "BB": 48,
+        "SO": 144,
+        "SB": 35,
+        "AVG": ".220",
+        "OBP": ".299",
+        "SLG": ".397",
+        "OPS": ".696"
+      }
+    },
+    "680474": {
+      "name": "Max Schuemann",
+      "group": "hitting",
+      "stats": {
+        "G": 42,
+        "AB": 72,
+        "R": 17,
+        "H": 14,
+        "2B": 6,
+        "3B": 0,
+        "HR": 2,
+        "RBI": 8,
+        "BB": 12,
+        "SO": 21,
         "SB": 3,
-        "AVG": ".249",
-        "OBP": ".345",
-        "SLG": ".524",
-        "OPS": ".869"
+        "AVG": ".194",
+        "OBP": ".333",
+        "SLG": ".361",
+        "OPS": ".694"
+      }
+    },
+    "690440": {
+      "name": "Bradley Hanner",
+      "group": "pitching",
+      "stats": {
+        "G": 2,
+        "GS": 0,
+        "W": 0,
+        "L": 0,
+        "SV": 0,
+        "IP": "2.2",
+        "H": 4,
+        "R": 2,
+        "ER": 2,
+        "BB": 0,
+        "SO": 3,
+        "ERA": "6.75",
+        "WHIP": "1.50",
+        "AVG": ".333",
+        "HR": 2
+      }
+    },
+    "519317": {
+      "name": "Giancarlo Stanton",
+      "group": "hitting",
+      "stats": {
+        "G": 24,
+        "AB": 90,
+        "R": 8,
+        "H": 23,
+        "2B": 6,
+        "3B": 0,
+        "HR": 3,
+        "RBI": 14,
+        "BB": 6,
+        "SO": 29,
+        "SB": 1,
+        "AVG": ".256",
+        "OBP": ".302",
+        "SLG": ".422",
+        "OPS": ".724"
+      }
+    },
+    "665645": {
+      "name": "Kervin Castro",
+      "group": "pitching",
+      "stats": {
+        "G": 5,
+        "GS": 0,
+        "W": 0,
+        "L": 0,
+        "SV": 0,
+        "IP": "6.1",
+        "H": 3,
+        "R": 1,
+        "ER": 1,
+        "BB": 2,
+        "SO": 8,
+        "ERA": "1.42",
+        "WHIP": "0.79",
+        "AVG": ".143",
+        "HR": 0
+      }
+    },
+    "518585": {
+      "name": "Fernando Cruz",
+      "group": "pitching",
+      "stats": {
+        "G": 60,
+        "GS": 0,
+        "W": 4,
+        "L": 6,
+        "SV": 2,
+        "IP": "53.2",
+        "H": 40,
+        "R": 21,
+        "ER": 17,
+        "BB": 31,
+        "SO": 67,
+        "ERA": "2.85",
+        "WHIP": "1.32",
+        "AVG": ".206",
+        "HR": 6
+      }
+    },
+    "806146": {
+      "name": "George Lombard Jr.",
+      "group": "hitting",
+      "stats": {
+        "G": 18,
+        "AB": 61,
+        "R": 12,
+        "H": 18,
+        "2B": 1,
+        "3B": 0,
+        "HR": 2,
+        "RBI": 5,
+        "BB": 6,
+        "SO": 17,
+        "SB": 1,
+        "AVG": ".295",
+        "OBP": ".353",
+        "SLG": ".410",
+        "OPS": ".763"
+      }
+    },
+    "691176": {
+      "name": "Jasson Domínguez",
+      "group": "hitting",
+      "stats": {
+        "G": 53,
+        "AB": 200,
+        "R": 21,
+        "H": 46,
+        "2B": 12,
+        "3B": 0,
+        "HR": 6,
+        "RBI": 14,
+        "BB": 9,
+        "SO": 46,
+        "SB": 7,
+        "AVG": ".230",
+        "OBP": ".270",
+        "SLG": ".380",
+        "OPS": ".650"
+      }
+    },
+    "671218": {
+      "name": "Heliot Ramos",
+      "group": "hitting",
+      "stats": {
+        "G": 90,
+        "AB": 341,
+        "R": 37,
+        "H": 82,
+        "2B": 17,
+        "3B": 3,
+        "HR": 9,
+        "RBI": 35,
+        "BB": 21,
+        "SO": 100,
+        "SB": 4,
+        "AVG": ".240",
+        "OBP": ".292",
+        "SLG": ".387",
+        "OPS": ".679"
       }
     },
     "660787": {
@@ -1620,6 +1536,90 @@
         "HR": 1
       }
     },
+    "665828": {
+      "name": "Oswaldo Cabrera",
+      "group": "hitting",
+      "stats": {
+        "G": 3,
+        "AB": 9,
+        "R": 0,
+        "H": 0,
+        "2B": 0,
+        "3B": 0,
+        "HR": 0,
+        "RBI": 0,
+        "BB": 0,
+        "SO": 4,
+        "SB": 0,
+        "AVG": ".000",
+        "OBP": ".000",
+        "SLG": ".000",
+        "OPS": ".000"
+      }
+    },
+    "695684": {
+      "name": "Elmer Rodríguez",
+      "group": "pitching",
+      "stats": {
+        "G": 4,
+        "GS": 4,
+        "W": 0,
+        "L": 2,
+        "SV": 0,
+        "IP": "17.0",
+        "H": 19,
+        "R": 9,
+        "ER": 9,
+        "BB": 11,
+        "SO": 10,
+        "ERA": "4.76",
+        "WHIP": "1.76",
+        "AVG": ".284",
+        "HR": 1
+      }
+    },
+    "700250": {
+      "name": "Ben Rice",
+      "group": "hitting",
+      "stats": {
+        "G": 126,
+        "AB": 467,
+        "R": 79,
+        "H": 116,
+        "2B": 20,
+        "3B": 3,
+        "HR": 34,
+        "RBI": 82,
+        "BB": 64,
+        "SO": 136,
+        "SB": 3,
+        "AVG": ".248",
+        "OBP": ".344",
+        "SLG": ".522",
+        "OPS": ".866"
+      }
+    },
+    "683409": {
+      "name": "Angel Chivilli",
+      "group": "pitching",
+      "stats": {
+        "G": 15,
+        "GS": 0,
+        "W": 1,
+        "L": 1,
+        "SV": 0,
+        "IP": "16.2",
+        "H": 14,
+        "R": 9,
+        "ER": 7,
+        "BB": 7,
+        "SO": 16,
+        "ERA": "3.78",
+        "WHIP": "1.26",
+        "AVG": ".215",
+        "HR": 4
+      }
+    },
     "669224": {
       "name": "Austin Wells",
       "group": "hitting",
@@ -1641,25 +1641,25 @@
         "OPS": ".574"
       }
     },
-    "665645": {
-      "name": "Kervin Castro",
-      "group": "pitching",
+    "682987": {
+      "name": "Spencer Jones",
+      "group": "hitting",
       "stats": {
-        "G": 5,
-        "GS": 0,
-        "W": 0,
-        "L": 0,
-        "SV": 0,
-        "IP": "6.1",
-        "H": 3,
-        "R": 1,
-        "ER": 1,
-        "BB": 2,
-        "SO": 8,
-        "ERA": "1.42",
-        "WHIP": "0.79",
-        "AVG": ".143",
-        "HR": 0
+        "G": 58,
+        "AB": 161,
+        "R": 20,
+        "H": 37,
+        "2B": 8,
+        "3B": 1,
+        "HR": 7,
+        "RBI": 22,
+        "BB": 18,
+        "SO": 64,
+        "SB": 8,
+        "AVG": ".230",
+        "OBP": ".311",
+        "SLG": ".422",
+        "OPS": ".733"
       }
     }
   }
