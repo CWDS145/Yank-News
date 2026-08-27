@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T10:11:49Z",
+  "updated": "2026-08-27T13:31:27Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -90,16 +90,20 @@
         "rank": 4
       },
       {
-        "name": "Max Fried",
+        "name": "Elmer Rodriguez-Cruz",
         "rank": 5
       },
       {
-        "name": "Clarke Schmidt",
+        "name": "Max Fried",
         "rank": 6
       },
       {
-        "name": "Ryan Weathers",
+        "name": "Clarke Schmidt",
         "rank": 7
+      },
+      {
+        "name": "Ryan Weathers",
+        "rank": 8
       }
     ],
     "RP": [
@@ -116,15 +120,15 @@
         "rank": 3
       },
       {
-        "name": "Fernando E. Cruz",
+        "name": "Tim Hill",
         "rank": 4
       },
       {
-        "name": "Tim Hill",
+        "name": "Yerry De Los Santos",
         "rank": 5
       },
       {
-        "name": "Yerry De Los Santos",
+        "name": "Ryan Yarbrough",
         "rank": 6
       },
       {
@@ -132,15 +136,15 @@
         "rank": 7
       },
       {
-        "name": "Bradley Hanner",
+        "name": "Michael Fulmer",
         "rank": 8
       },
       {
-        "name": "Ryan Yarbrough",
+        "name": "Kervin Castro",
         "rank": 9
       },
       {
-        "name": "Kervin Castro",
+        "name": "Fernando E. Cruz",
         "rank": 10
       }
     ]
@@ -149,13 +153,13 @@
     "Ali Sanchez",
     "Austin Wells",
     "Ben Rice",
-    "Bradley Hanner",
     "Brent Headrick",
     "Cam Schlittler",
     "Carlos Rodon",
     "Clarke Schmidt",
     "Cody Bellinger",
     "David Bednar",
+    "Elmer Rodriguez-Cruz",
     "Fernando E. Cruz",
     "George Lombard Jr.",
     "Gerrit Cole",
@@ -166,6 +170,7 @@
     "Kervin Castro",
     "Luis V. Garcia",
     "Max Fried",
+    "Michael Fulmer",
     "Paul Blackburn",
     "Paul Goldschmidt",
     "Ryan McMahon",
