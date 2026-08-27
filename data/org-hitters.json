@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T19:20:23Z",
+  "updated": "2026-08-27T23:03:21Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-08-17",
@@ -272,35 +272,17 @@
       ]
     },
     {
-      "id": 701331,
-      "name": "Blake Cyr",
+      "id": 821877,
+      "name": "Blake Schaaf",
       "position": "2B",
       "level": "Low-A",
-      "level_since": "2026-08-04",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 36,
-        "k": 13,
-        "avg": ".278",
-        "ops": ".817",
-        "avg_num": 0.2777777777777778,
-        "ops_num": 0.8166666666666667
-      },
-      "last_10": {
-        "ab": 16,
-        "k": 6,
-        "avg": ".312",
-        "ops": ".951",
-        "avg_num": 0.3125,
-        "ops_num": 0.9513888888888888
-      },
-      "season_levels": [
-        "Low-A"
-      ],
-      "last_10_levels": [
-        "Low-A"
-      ]
+      "level_since": "2026-07-29",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-07-29",
+      "season": null,
+      "last_10": null,
+      "season_levels": [],
+      "last_10_levels": []
     },
     {
       "id": 806963,
