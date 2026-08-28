@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T23:03:21Z",
+  "updated": "2026-08-28T01:59:00Z",
   "items": [
     {
       "id": 939521,
@@ -546,19 +546,6 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees signed free agent SS Blake Schaaf to a minor league contract."
-    },
-    {
-      "id": 931999,
-      "date": "2026-07-28",
-      "type_code": "SFA",
-      "type_desc": "Signed as Free Agent",
-      "player_id": 542194,
-      "player": "Christian Bethancourt",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees signed free agent C Christian Bethancourt to a minor league contract."
     }
   ]
 }
