@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T16:35:17Z",
+  "updated": "2026-08-29T17:10:26Z",
   "count": 65,
   "items": [
     {
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-08-29T16:35:17Z",
+      "published": "2026-08-29T17:10:26Z",
       "image": null
     },
     {
@@ -17,7 +17,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/former-new-york-yankees-fan-favorite-nick-swisher-and-the-sandlot-actor-chauncey-leopardi-to-star-in-third-season-of-award-winning-hexclad-presents-bronx-buds-premiering-this-saturday-august-8-on-th/",
-      "published": "2026-08-29T16:35:17Z",
+      "published": "2026-08-29T17:10:26Z",
       "image": null
     },
     {
@@ -26,7 +26,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-outfielder-heliot-ramos/",
-      "published": "2026-08-29T16:35:17Z",
+      "published": "2026-08-29T17:10:26Z",
       "image": null
     },
     {
@@ -35,7 +35,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-infielder-luis-garcia-jr/",
-      "published": "2026-08-29T16:35:17Z",
+      "published": "2026-08-29T17:10:26Z",
+      "image": null
+    },
+    {
+      "title": "Latest Yankees injuries and transactions",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "MLB.com",
+      "link": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
+      "published": "2026-08-29T16:35:00Z",
       "image": null
     },
     {
@@ -48,15 +57,6 @@
       "image": null
     },
     {
-      "title": "Latest Yankees injuries and transactions",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "MLB.com",
-      "link": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
-      "published": "2026-08-29T16:17:00Z",
-      "image": null
-    },
-    {
       "title": "Yankees call up Brendan Beck for doubleheader, Max Fried to start Game 2",
       "summary": "The New York Yankees, fresh off a close 1-0 victory over the Boston Red Sox in Friday’s opener, are going to play two games against their archrivals on Saturday, which means they had to make some moves to finalize their roster ahead of the twin bill. The team announced that 27-year-old right-hander Brendan Beck is […]",
       "source": "Pinstripe Alley",
@@ -64,15 +64,6 @@
       "link": "https://www.pinstripealley.com/yankees-roster/204886/yankees-roster-moves-red-sox-doubleheader-brendan-beck-27th-man",
       "published": "2026-08-29T15:53:30Z",
       "image": null
-    },
-    {
-      "title": "These injured stars’ looming returns could have significant impact on MLB playoff races",
-      "summary": "See which injured stars, from Aaron Judge to Will Smith, could return in September and reshape MLB playoff races.",
-      "source": "NY Post Yankees",
-      "author": "Joel Sherman",
-      "link": "https://nypost.com/2026/08/29/sports/these-injured-stars-looming-returns-could-have-significant-impact-on-mlb-playoff-races/",
-      "published": "2026-08-29T15:53:11Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fworked-trainer-running-jumping-throwing-138301889.jpg?quality%3D90%26"
     },
     {
       "title": "The Yankees All-August Birthday Team",
@@ -370,6 +361,15 @@
       "link": "https://www.mlb.com/yankees/news/yankees-prospect-paul-gutierrez-contreras-hits-first-career-home-run",
       "published": "2026-08-28T03:23:50Z",
       "image": null
+    },
+    {
+      "title": "Yankees’ bats revert to old ways in ugly loss to Astros",
+      "summary": "For one night, a Yankees offense that had been emerging disappeared.",
+      "source": "NY Post Yankees",
+      "author": "Mark W. Sanchez",
+      "link": "https://nypost.com/2026/08/27/sports/yankees-bats-revert-to-old-ways-in-ugly-loss-to-astros/",
+      "published": "2026-08-28T02:31:37Z",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2FJazz-Chisholm-Jr.-.jpg?w%3D1024"
     },
     {
       "title": "Cruz diagnosed with partial right UCL tear; seeking 2nd opinion",
