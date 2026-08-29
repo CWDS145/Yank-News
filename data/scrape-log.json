@@ -1,14 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-08-29T04:35:26Z",
-      "source": "MLB personId fallback (pitchers)",
-      "url": "<bulk>",
-      "status": 200,
-      "items": 79,
-      "note": "pitchers needing prior_level fallback"
-    },
-    {
       "timestamp": "2026-08-29T04:37:06Z",
       "source": "MLB.com Yankees",
       "url": "https://www.mlb.com/yankees/feeds/news/rss.xml",
@@ -3999,6 +3991,14 @@
       "status": 200,
       "items": 79,
       "note": "pitchers needing prior_level fallback"
+    },
+    {
+      "timestamp": "2026-08-29T10:06:38Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 31,
+      "note": "ok"
     }
   ]
 }
