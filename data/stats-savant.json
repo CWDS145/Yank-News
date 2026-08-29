@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T18:25:36Z",
+  "updated": "2026-08-29T18:47:39Z",
   "season": 2026,
   "players": [
     {
@@ -53,16 +53,7 @@
     {
       "id": 669224,
       "name": "Austin Wells",
-      "expected_batting": {
-        "pa": 314,
-        "est_ba": 0.21,
-        "est_slg": 0.352,
-        "est_woba": 0.291,
-        "ba": 0.178,
-        "slg": 0.291,
-        "woba": 0.257,
-        "est_woba_minus_woba": 0.034
-      },
+      "expected_batting": null,
       "expected_pitching": null,
       "statcast_batting": {
         "attempts": 190,
@@ -84,16 +75,7 @@
     {
       "id": 700250,
       "name": "Ben Rice",
-      "expected_batting": {
-        "pa": 554,
-        "est_ba": 0.266,
-        "est_slg": 0.513,
-        "est_woba": 0.377,
-        "ba": 0.255,
-        "slg": 0.532,
-        "woba": 0.378,
-        "est_woba_minus_woba": -0.001
-      },
+      "expected_batting": null,
       "expected_pitching": null,
       "statcast_batting": {
         "attempts": 343,
@@ -166,16 +148,7 @@
     {
       "id": 641355,
       "name": "Cody Bellinger",
-      "expected_batting": {
-        "pa": 456,
-        "est_ba": 0.276,
-        "est_slg": 0.421,
-        "est_woba": 0.348,
-        "ba": 0.254,
-        "slg": 0.416,
-        "woba": 0.334,
-        "est_woba_minus_woba": 0.014
-      },
+      "expected_batting": null,
       "expected_pitching": null,
       "statcast_batting": {
         "attempts": 328,
@@ -272,16 +245,7 @@
     {
       "id": 671218,
       "name": "Heliot Ramos",
-      "expected_batting": {
-        "pa": 371,
-        "est_ba": 0.253,
-        "est_slg": 0.431,
-        "est_woba": 0.319,
-        "ba": 0.239,
-        "slg": 0.385,
-        "woba": 0.297,
-        "est_woba_minus_woba": 0.022
-      },
+      "expected_batting": null,
       "expected_pitching": null,
       "statcast_batting": {
         "attempts": 242,
@@ -327,16 +291,7 @@
     {
       "id": 665862,
       "name": "Jazz Chisholm Jr.",
-      "expected_batting": {
-        "pa": 488,
-        "est_ba": 0.214,
-        "est_slg": 0.37,
-        "est_woba": 0.293,
-        "ba": 0.226,
-        "slg": 0.401,
-        "woba": 0.309,
-        "est_woba_minus_woba": -0.016
-      },
+      "expected_batting": null,
       "expected_pitching": null,
       "statcast_batting": {
         "attempts": 290,
@@ -358,16 +313,7 @@
     {
       "id": 676609,
       "name": "José Caballero",
-      "expected_batting": {
-        "pa": 391,
-        "est_ba": 0.23,
-        "est_slg": 0.338,
-        "est_woba": 0.28,
-        "ba": 0.232,
-        "slg": 0.367,
-        "woba": 0.29,
-        "est_woba_minus_woba": -0.01
-      },
+      "expected_batting": null,
       "expected_pitching": null,
       "statcast_batting": {
         "attempts": 268,
@@ -389,16 +335,7 @@
     {
       "id": 671277,
       "name": "Luis García Jr.",
-      "expected_batting": {
-        "pa": 457,
-        "est_ba": 0.286,
-        "est_slg": 0.507,
-        "est_woba": 0.354,
-        "ba": 0.284,
-        "slg": 0.557,
-        "woba": 0.372,
-        "est_woba_minus_woba": -0.018
-      },
+      "expected_batting": null,
       "expected_pitching": null,
       "statcast_batting": {
         "attempts": 359,
@@ -466,16 +403,7 @@
     {
       "id": 502671,
       "name": "Paul Goldschmidt",
-      "expected_batting": {
-        "pa": 338,
-        "est_ba": 0.234,
-        "est_slg": 0.414,
-        "est_woba": 0.31,
-        "ba": 0.247,
-        "slg": 0.455,
-        "woba": 0.331,
-        "est_woba_minus_woba": -0.021
-      },
+      "expected_batting": null,
       "expected_pitching": null,
       "statcast_batting": {
         "attempts": 227,
@@ -497,16 +425,7 @@
     {
       "id": 641857,
       "name": "Ryan McMahon",
-      "expected_batting": {
-        "pa": 306,
-        "est_ba": 0.235,
-        "est_slg": 0.395,
-        "est_woba": 0.304,
-        "ba": 0.216,
-        "slg": 0.367,
-        "woba": 0.287,
-        "est_woba_minus_woba": 0.017
-      },
+      "expected_batting": null,
       "expected_pitching": null,
       "statcast_batting": {
         "attempts": 187,
@@ -591,16 +510,7 @@
     {
       "id": 663757,
       "name": "Trent Grisham",
-      "expected_batting": {
-        "pa": 460,
-        "est_ba": 0.247,
-        "est_slg": 0.436,
-        "est_woba": 0.341,
-        "ba": 0.216,
-        "slg": 0.41,
-        "woba": 0.319,
-        "est_woba_minus_woba": 0.022
-      },
+      "expected_batting": null,
       "expected_pitching": null,
       "statcast_batting": {
         "attempts": 318,
