@@ -1,19 +1,6 @@
 {
-  "updated": "2026-08-29T22:24:55Z",
+  "updated": "2026-08-29T22:52:02Z",
   "items": [
-    {
-      "id": 940001,
-      "date": "2026-08-29",
-      "type_code": "DES",
-      "type_desc": "Designated for Assignment",
-      "player_id": 623437,
-      "player": "Justin Topa",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees designated RHP Justin Topa for assignment."
-    },
     {
       "id": 940000,
       "date": "2026-08-29",
@@ -26,6 +13,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees activated LHP Max Fried from the 15-day injured list."
+    },
+    {
+      "id": 940001,
+      "date": "2026-08-29",
+      "type_code": "DES",
+      "type_desc": "Designated for Assignment",
+      "player_id": 623437,
+      "player": "Justin Topa",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees designated RHP Justin Topa for assignment."
     },
     {
       "id": 939935,
@@ -54,19 +54,6 @@
       "description": "New York Yankees signed free agent RF Jarred Kelenic to a minor league contract."
     },
     {
-      "id": 939521,
-      "date": "2026-08-26",
-      "type_code": "SFA",
-      "type_desc": "Signed as Free Agent",
-      "player_id": 605242,
-      "player": "Michael Fulmer",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees signed free agent RHP Michael Fulmer."
-    },
-    {
       "id": 939525,
       "date": "2026-08-26",
       "type_code": "SC",
@@ -78,6 +65,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees transferred RHP Kervin Castro from the 15-day injured list to the 60-day injured list. Right elbow neuritis."
+    },
+    {
+      "id": 939521,
+      "date": "2026-08-26",
+      "type_code": "SFA",
+      "type_desc": "Signed as Free Agent",
+      "player_id": 605242,
+      "player": "Michael Fulmer",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees signed free agent RHP Michael Fulmer."
     },
     {
       "id": 939522,
@@ -210,19 +210,6 @@
       "description": "New York Yankees optioned LF Max Schuemann to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 938785,
-      "date": "2026-08-21",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 641857,
-      "player": "Ryan McMahon",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees placed 3B Ryan McMahon on the 10-day injured list retroactive to August 20, 2026. Left thumb sprain."
-    },
-    {
       "id": 938942,
       "date": "2026-08-21",
       "type_code": "SFA",
@@ -234,6 +221,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees signed free agent RHP Eli Morgan to a minor league contract."
+    },
+    {
+      "id": 938785,
+      "date": "2026-08-21",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 641857,
+      "player": "Ryan McMahon",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees placed 3B Ryan McMahon on the 10-day injured list retroactive to August 20, 2026. Left thumb sprain."
     },
     {
       "id": 938784,
@@ -266,12 +266,12 @@
       "date": "2026-08-19",
       "type_code": "TR",
       "type_desc": "Trade",
-      "player_id": 542194,
-      "player": "Christian Bethancourt",
-      "from_team_id": 147,
-      "to_team_id": 134,
-      "from": "New York Yankees",
-      "to": "Pittsburgh Pirates",
+      "player_id": null,
+      "player": null,
+      "from_team_id": 134,
+      "to_team_id": 147,
+      "from": "Pittsburgh Pirates",
+      "to": "New York Yankees",
       "description": "New York Yankees traded C Christian Bethancourt to Pittsburgh Pirates for cash."
     },
     {
@@ -353,19 +353,6 @@
       "description": "New York Yankees recalled RHP Bradley Hanner from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 937308,
-      "date": "2026-08-08",
-      "type_code": "SFA",
-      "type_desc": "Signed as Free Agent",
-      "player_id": 641598,
-      "player": "Mitch Garver",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees signed free agent C Mitch Garver to a minor league contract."
-    },
-    {
       "id": 936411,
       "date": "2026-08-08",
       "type_code": "ASG",
@@ -377,6 +364,19 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees sent LHP Carlos Rodón on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 937308,
+      "date": "2026-08-08",
+      "type_code": "SFA",
+      "type_desc": "Signed as Free Agent",
+      "player_id": 641598,
+      "player": "Mitch Garver",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees signed free agent C Mitch Garver to a minor league contract."
     },
     {
       "id": 936394,
@@ -431,45 +431,6 @@
       "description": "New York Yankees activated LF Heliot Ramos."
     },
     {
-      "id": 934465,
-      "date": "2026-08-04",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 691176,
-      "player": "Jasson Domínguez",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees optioned RF Jasson Domínguez to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 934968,
-      "date": "2026-08-04",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 660787,
-      "player": "Yerry De los Santos",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Yerry De los Santos from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 934967,
-      "date": "2026-08-04",
-      "type_code": "SE",
-      "type_desc": "Selected",
-      "player_id": 806146,
-      "player": "George Lombard Jr.",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees selected the contract of SS George Lombard Jr. from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 934466,
       "date": "2026-08-04",
       "type_code": "OPT",
@@ -494,6 +455,45 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees optioned RHP Angel Chivilli to Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 934967,
+      "date": "2026-08-04",
+      "type_code": "SE",
+      "type_desc": "Selected",
+      "player_id": 806146,
+      "player": "George Lombard Jr.",
+      "from_team_id": 531,
+      "to_team_id": 147,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
+      "to": "New York Yankees",
+      "description": "New York Yankees selected the contract of SS George Lombard Jr. from Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 934968,
+      "date": "2026-08-04",
+      "type_code": "CU",
+      "type_desc": "Recalled",
+      "player_id": 660787,
+      "player": "Yerry De los Santos",
+      "from_team_id": 531,
+      "to_team_id": 147,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
+      "to": "New York Yankees",
+      "description": "New York Yankees recalled RHP Yerry De los Santos from Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 934465,
+      "date": "2026-08-04",
+      "type_code": "OPT",
+      "type_desc": "Optioned",
+      "player_id": 691176,
+      "player": "Jasson Domínguez",
+      "from_team_id": 147,
+      "to_team_id": 531,
+      "from": "New York Yankees",
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees optioned RF Jasson Domínguez to Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 934296,
@@ -526,26 +526,13 @@
       "date": "2026-08-03",
       "type_code": "TR",
       "type_desc": "Trade",
-      "player_id": 672442,
-      "player": "Yovanny Cruz",
+      "player_id": 695066,
+      "player": "Ben Grable",
       "from_team_id": 147,
       "to_team_id": 120,
       "from": "New York Yankees",
       "to": "Washington Nationals",
       "description": "Washington Nationals traded 1B Luis García Jr. to New York Yankees for RHP Ben Grable, RHP Yovanny Cruz, RHP Jack Cebert and RHP Jake Bird."
-    },
-    {
-      "id": 934297,
-      "date": "2026-08-03",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 665645,
-      "player": "Kervin Castro",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Kervin Castro from Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 934559,
@@ -561,12 +548,25 @@
       "description": "New York Yankees optioned LF Max Schuemann to Scranton/Wilkes-Barre RailRiders."
     },
     {
+      "id": 934297,
+      "date": "2026-08-03",
+      "type_code": "CU",
+      "type_desc": "Recalled",
+      "player_id": 665645,
+      "player": "Kervin Castro",
+      "from_team_id": 531,
+      "to_team_id": 147,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
+      "to": "New York Yankees",
+      "description": "New York Yankees recalled RHP Kervin Castro from Scranton/Wilkes-Barre RailRiders."
+    },
+    {
       "id": 933930,
       "date": "2026-08-01",
       "type_code": "TR",
       "type_desc": "Trade",
-      "player_id": 666808,
-      "player": "Camilo Doval",
+      "player_id": null,
+      "player": null,
       "from_team_id": 147,
       "to_team_id": 134,
       "from": "New York Yankees",
