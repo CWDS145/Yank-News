@@ -1,22 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-08-30T08:37:43Z",
-      "source": "MLB.com Yankees",
-      "url": "https://www.mlb.com/yankees/feeds/news/rss.xml",
-      "status": 200,
-      "items": 25,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-08-30T08:37:44Z",
-      "source": "Pinstripe Alley",
-      "url": "https://www.pinstripealley.com/rss/current.xml",
-      "status": 200,
-      "items": 10,
-      "note": "ok"
-    },
-    {
       "timestamp": "2026-08-30T08:37:44Z",
       "source": "NY Post Yankees",
       "url": "https://nypost.com/tag/new-york-yankees/feed/",
@@ -3999,6 +3983,22 @@
       "status": 200,
       "items": 77,
       "note": "pitchers needing prior_level fallback"
+    },
+    {
+      "timestamp": "2026-08-30T14:11:09Z",
+      "source": "FanGraphs Yankees",
+      "url": "https://www.fangraphs.com/teams/yankees",
+      "status": 200,
+      "items": 71,
+      "note": "ok | html_tables: batter_rows=48 pitcher_rows=27"
+    },
+    {
+      "timestamp": "2026-08-30T14:11:10Z",
+      "source": "Baseball-Reference Yankees",
+      "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
+      "status": 200,
+      "items": 50,
+      "note": "ok | tables: bat_id=players_standard_batting pit_id=players_standard_pitching batters=25 pitchers=25"
     }
   ]
 }
