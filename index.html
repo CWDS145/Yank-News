@@ -161,8 +161,8 @@ footer a:hover{text-decoration:underline}
 .ctrl-label input[type=number]{width:62px;border:1px solid #e5e5e5;border-radius:4px;padding:4px 6px;font:inherit;font-size:13px;background:#fff}
 input[type=search].search{flex:1;min-width:140px;border:1px solid #e5e5e5;border-radius:4px;padding:5px 9px;font:inherit;font-size:13px;background:#fff}
 .chips{display:flex;gap:4px;flex-wrap:wrap}
-.level-chip,.level-chip-p,.role-chip{background:#f3f4f6;border:1px solid #e5e5e5;padding:4px 10px;border-radius:999px;font:inherit;font-size:12px;cursor:pointer;color:#111}
-.level-chip[aria-pressed=true],.level-chip-p[aria-pressed=true],.role-chip[aria-pressed=true]{background:var(--navy);color:#fff;border-color:var(--navy)}
+.level-chip,.level-chip-p,.role-chip,.split-chip{background:#f3f4f6;border:1px solid #e5e5e5;padding:4px 10px;border-radius:999px;font:inherit;font-size:12px;cursor:pointer;color:#111}
+.level-chip[aria-pressed=true],.level-chip-p[aria-pressed=true],.role-chip[aria-pressed=true],.split-chip[aria-pressed=true]{background:var(--navy);color:#fff;border-color:var(--navy)}
 .ctrl-count{color:var(--gray);font-size:12px;margin-left:auto;white-space:nowrap}
 .table-wrap{overflow-x:auto;border:1px solid #e5e5e5;border-radius:6px}
 table.hitters{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums;font-size:12.5px}
@@ -212,7 +212,7 @@ table.hitters tbody tr:hover{background:#fafafa}
     <div class="section-head">
       <div>
         <h2>Org-Wide Hitters <span class="updated-stamp" id="hitters-updated"></span><span class="position-chips" id="position-chips" role="group" aria-label="Filter by position"><button class="pos-chip" data-pos="all" aria-pressed="true">All</button><button class="pos-chip" data-pos="C" aria-pressed="false">C</button><button class="pos-chip" data-pos="1B" aria-pressed="false">1B</button><button class="pos-chip" data-pos="2B" aria-pressed="false">2B</button><button class="pos-chip" data-pos="3B" aria-pressed="false">3B</button><button class="pos-chip" data-pos="SS" aria-pressed="false">SS</button><button class="pos-chip" data-pos="IF" aria-pressed="false">IF</button><button class="pos-chip" data-pos="LF" aria-pressed="false">LF</button><button class="pos-chip" data-pos="CF" aria-pressed="false">CF</button><button class="pos-chip" data-pos="RF" aria-pressed="false">RF</button><button class="pos-chip" data-pos="OF" aria-pressed="false">OF</button><button class="pos-chip" data-pos="DH" aria-pressed="false">DH</button></span></h2>
-        <div class="section-sub">MLB through Low-A · last 10 days vs season</div>
+        <div class="section-sub" id="hitters-sub">MLB through Low-A · last 10 days vs season</div>
       </div>
       <button id="refresh-hitters" class="refresh-btn" type="button" title="Re-read data/org-hitters.json (cron writes every 30 min)">Refresh now</button>
     </div>
@@ -220,6 +220,11 @@ table.hitters tbody tr:hover{background:#fafafa}
       <label class="ctrl-label">Last <input type="number" id="window-days" min="1" max="500" value="10"> ABs</label>
       <label class="ctrl-label">Min AB <input type="number" id="min-ab" min="0" value="5"></label>
       <input type="search" class="search" id="search" placeholder="Filter by name…" aria-label="Filter by name">
+      <div class="chips" role="group" aria-label="Splits vs pitcher hand">
+        <button class="split-chip" data-split="all" aria-pressed="true">All</button>
+        <button class="split-chip" data-split="vl" aria-pressed="false">vs LHP</button>
+        <button class="split-chip" data-split="vr" aria-pressed="false">vs RHP</button>
+      </div>
       <div class="chips" role="group" aria-label="Filter by level">
         <button class="level-chip" data-level="all" aria-pressed="true">All</button>
         <button class="level-chip" data-level="MLB" aria-pressed="false">MLB</button>
@@ -317,7 +322,7 @@ table.hitters tbody tr:hover{background:#fafafa}
 <script>
 "use strict";
 const D = { hitters: [], tx: [], pitchers: [] };
-const F = { minAB: 5, search: "", levels: new Set(), positions: new Set(), windowAB: 10 };
+const F = { minAB: 5, search: "", levels: new Set(), positions: new Set(), windowAB: 10, split: "all" };
 const FP = { minIP: 5, search: "", levels: new Set(), role: "all" };
 const STP = { col: "era", dir: "asc" };
 const STATS_API = "https://statsapi.mlb.com/api/v1";
@@ -325,14 +330,28 @@ const SPORT_LEVELS = [[1,"MLB"],[11,"AAA"],[12,"AA"],[13,"High-A"],[14,"Low-A"]]
 const windowCache = new Map();
 const ST = { col: "l10_avg", dir: "desc" };
 const LEVEL_RANK = { MLB: 0, AAA: 1, AA: 2, "High-A": 3, "Low-A": 4 };
+// Columns 4-7 show either the rolling AB window (split="all") or the
+// season-to-date platoon split (split="vl"/"vr"). One accessor so filters,
+// sorting and rendering can never disagree about which block is on screen.
+function winBlock(h){
+  if (F.split === "vl") return h.split_vl || null;
+  if (F.split === "vr") return h.split_vr || null;
+  return h.last_10 || null;
+}
+const SPLIT_LABEL = { all: "", vl: "vL", vr: "vR" };
+const SPLIT_SUB = {
+  all: "MLB through Low-A · last 10 days vs season",
+  vl:  "MLB through Low-A · season vs LHP vs season overall",
+  vr:  "MLB through Low-A · season vs RHP vs season overall",
+};
 const SORT = {
   player: h => (h.name||"").toLowerCase(),
   pos: h => (h.position||"").toLowerCase(),
   level: h => LEVEL_RANK[h.level] ?? 99,
-  l10_ab: h => (h.last_10 && h.last_10.ab) ?? -1,
-  l10_k:  h => (h.last_10 && h.last_10.k)  ?? -1,
-  l10_avg:h => (h.last_10 && h.last_10.avg_num) ?? -1,
-  l10_ops:h => (h.last_10 && h.last_10.ops_num) ?? -1,
+  l10_ab: h => (winBlock(h) && winBlock(h).ab) ?? -1,
+  l10_k:  h => (winBlock(h) && winBlock(h).k)  ?? -1,
+  l10_avg:h => (winBlock(h) && winBlock(h).avg_num) ?? -1,
+  l10_ops:h => (winBlock(h) && winBlock(h).ops_num) ?? -1,
   s_ab: h => (h.season && h.season.ab) ?? -1,
   s_k:  h => (h.season && h.season.k)  ?? -1,
   s_avg:h => (h.season && h.season.avg_num) ?? -1,
@@ -483,7 +502,7 @@ function renderTransactions(){
 
 function applyFilters(){
   let rows = D.hitters;
-  if (F.minAB > 0) rows = rows.filter(h => h.last_10 && h.last_10.ab != null && h.last_10.ab >= F.minAB);
+  if (F.minAB > 0) rows = rows.filter(h => { const w = winBlock(h); return w && w.ab != null && w.ab >= F.minAB; });
   if (F.search) {
     const q = F.search.toLowerCase();
     rows = rows.filter(h => (h.name||"").toLowerCase().includes(q));
@@ -500,7 +519,7 @@ function applySort(rows){
     let cmp = (typeof va === "string") ? va.localeCompare(vb) : (va - vb);
     if (ST.dir === "desc") cmp = -cmp;
     if (cmp === 0 && ST.col === "l10_avg") {
-      cmp = ((b.last_10 && b.last_10.ab) ?? -1) - ((a.last_10 && a.last_10.ab) ?? -1);
+      cmp = ((winBlock(b) && winBlock(b).ab) ?? -1) - ((winBlock(a) && winBlock(a).ab) ?? -1);
     }
     return cmp;
   });
@@ -629,7 +648,7 @@ function renderHitters(){
     return;
   }
   body.innerHTML = sorted.map(h => {
-    const l = h.last_10 || {}, s = h.season || {};
+    const l = winBlock(h) || {}, s = h.season || {};
     return '<tr>'
       + '<td>' + esc(h.name||"—") + '</td>'
       + '<td>' + esc(h.position||"—") + '</td>'
@@ -661,6 +680,9 @@ function updateChips(){
     const pos = c.dataset.pos;
     const active = (pos === "all" && F.positions.size === 0) || F.positions.has(pos);
     c.setAttribute("aria-pressed", active);
+  });
+  $$(".split-chip").forEach(c => {
+    c.setAttribute("aria-pressed", c.dataset.split === F.split);
   });
 }
 
@@ -723,6 +745,95 @@ function computeABWindow(games, targetAB){
   return { ab, k: so, avg: fmtRate(avg), ops: fmtRate(ops), avg_num: avg, ops_num: ops };
 }
 
+// Sum raw counting stats across levels, then recompute rates from the totals
+// (same math as scripts/fetch_org_hitters.py aggregate_blocks, so a promoted
+// hitter's AA + AAA split lines add up instead of being averaged).
+function aggregateRaw(blocks){
+  const valid = blocks.filter(Boolean);
+  if (!valid.length) return null;
+  let ab=0,h=0,bb=0,so=0,hbp=0,sf=0,tb=0;
+  for (const b of valid) {
+    ab+=b.ab||0; h+=b.h||0; bb+=b.bb||0; so+=b.so||0;
+    hbp+=b.hbp||0; sf+=b.sf||0; tb+=b.tb||0;
+  }
+  if (ab === 0 && bb === 0) return null;
+  const avg = ab > 0 ? h/ab : null;
+  const obpDen = ab + bb + hbp + sf;
+  const obp = obpDen > 0 ? (h+bb+hbp)/obpDen : null;
+  const slg = ab > 0 ? tb/ab : null;
+  const ops = (obp != null && slg != null) ? (obp+slg) : null;
+  return { ab, k: so, avg: fmtRate(avg), ops: fmtRate(ops), avg_num: avg, ops_num: ops };
+}
+
+function rawFromStat(st){
+  const n = v => parseInt(v) || 0;
+  return { ab:n(st.atBats), h:n(st.hits), bb:n(st.baseOnBalls), so:n(st.strikeOuts),
+           hbp:n(st.hitByPitch), sf:n(st.sacFlies), tb:n(st.totalBases) };
+}
+
+// statSplits + sitCodes vl/vr is the only StatsAPI route that exposes batter-vs-
+// pitcher-hand totals. gameLog cannot be used here: it reports per-game totals
+// with no opposing-hand dimension, which is why the split columns are
+// season-to-date rather than a rolling AB window.
+async function fetchHandSplits(pid, sportId, season){
+  const key = `sp|${pid}|${sportId}|${season}`;
+  if (windowCache.has(key)) return windowCache.get(key);
+  const url = `${STATS_API}/people/${pid}/stats?stats=statSplits&sitCodes=vl,vr`
+    + `&group=hitting&season=${season}&sportId=${sportId}`;
+  const empty = { vl: null, vr: null };
+  try {
+    const r = await fetch(url);
+    if (!r.ok) { windowCache.set(key, empty); return empty; }
+    const data = await r.json();
+    const out = { vl: null, vr: null };
+    for (const set of (data.stats || [])) {
+      for (const sp of (set.splits || [])) {
+        const code = ((sp.split || {}).code || "").toLowerCase();
+        const desc = ((sp.split || {}).description || "").toLowerCase();
+        let side = null;
+        if (code === "vl" || desc.includes("left")) side = "vl";
+        else if (code === "vr" || desc.includes("right")) side = "vr";
+        if (!side) continue;
+        const raw = rawFromStat(sp.stat || {});
+        out[side] = out[side]
+          ? aggregateRawMerge(out[side], raw)
+          : raw;
+      }
+    }
+    windowCache.set(key, out);
+    return out;
+  } catch (_) {
+    windowCache.set(key, empty);
+    return empty;
+  }
+}
+
+function aggregateRawMerge(a, b){
+  return { ab:a.ab+b.ab, h:a.h+b.h, bb:a.bb+b.bb, so:a.so+b.so,
+           hbp:a.hbp+b.hbp, sf:a.sf+b.sf, tb:a.tb+b.tb };
+}
+
+// Fills h.split_vl / h.split_vr for every hitter, aggregated across the levels
+// he has actually played at this season. Returns how many hitters came back
+// with usable data so a silently unsupported endpoint is visible, not hidden.
+async function recomputeSplits(){
+  const season = new Date().getUTCFullYear();
+  let withData = 0;
+  await Promise.all(D.hitters.map(async hitter => {
+    const targets = levelsForPlayer(hitter);
+    const perLevel = await Promise.all(targets.map(([sid]) =>
+      fetchHandSplits(hitter.id, sid, season)
+    ));
+    hitter.split_vl = aggregateRaw(perLevel.map(x => x.vl));
+    hitter.split_vr = aggregateRaw(perLevel.map(x => x.vr));
+    if (hitter.split_vl || hitter.split_vr) withData++;
+  }));
+  if (!withData && D.hitters.length) {
+    console.warn("statSplits returned no vl/vr data for any hitter — split columns will read \u2014");
+  }
+  return withData;
+}
+
 async function recomputeWindow(targetAB){
   const season = new Date().getUTCFullYear();
   await Promise.all(D.hitters.map(async hitter => {
@@ -735,10 +846,15 @@ async function recomputeWindow(targetAB){
   }));
 }
 
-function updateColumnHeaders(days){
+function updateColumnHeaders(){
+  const pre = (F.split === "all") ? ("L" + F.windowAB) : SPLIT_LABEL[F.split];
   $$("th button[data-l-prefix]").forEach(b => {
-    b.textContent = `L${days} ${b.dataset.lPrefix}`;
+    b.textContent = `${pre} ${b.dataset.lPrefix}`;
   });
+  const sub = $("#hitters-sub");
+  if (sub) sub.textContent = SPLIT_SUB[F.split];
+  const win = $("#window-days");
+  if (win) win.disabled = (F.split !== "all");
 }
 
 async function refresh(){
@@ -749,7 +865,8 @@ async function refresh(){
     renderTransactions();
     renderHitters();
     renderPitchers();
-    await recomputeWindow(F.windowAB);
+    if (F.split === "all") await recomputeWindow(F.windowAB);
+    else await recomputeSplits();
     renderHitters();
   }
   finally { btns.forEach(b => { b.classList.remove("loading"); b.disabled = false; b.textContent = b.dataset.lbl; }); }
@@ -766,7 +883,7 @@ function attachEvents(){
     clearTimeout(windowT);
     windowT = setTimeout(async () => {
       F.windowAB = ab;
-      updateColumnHeaders(ab);
+      updateColumnHeaders();
       const btn = $("#refresh-hitters");
       btn.dataset.lbl = btn.textContent; btn.classList.add("loading"); btn.disabled = true; btn.textContent = "Loading…";
       try { await recomputeWindow(ab); renderHitters(); }
@@ -792,6 +909,20 @@ function attachEvents(){
     else if (F.positions.has(pos)) F.positions.delete(pos);
     else F.positions.add(pos);
     updateChips(); renderHitters();
+  }));
+  $$(".split-chip").forEach(c => c.addEventListener("click", async () => {
+    const next = c.dataset.split;
+    if (next === F.split) return;
+    F.split = next;
+    updateChips();
+    updateColumnHeaders();
+    renderHitters();
+    if (next === "all") return;
+    const btn = $("#refresh-hitters");
+    btn.dataset.lbl = btn.textContent; btn.classList.add("loading");
+    btn.disabled = true; btn.textContent = "Loading\u2026";
+    try { await recomputeSplits(); renderHitters(); }
+    finally { btn.classList.remove("loading"); btn.disabled = false; btn.textContent = btn.dataset.lbl; }
   }));
   $$("th button[data-sort-col]").forEach(btn => btn.addEventListener("click", () => {
     const col = btn.dataset.sortCol;
@@ -841,6 +972,8 @@ function attachEvents(){
 
 (async function init(){
   attachEvents();
+  updateChips();
+  updateColumnHeaders();
   await fetchAll();
   renderTransactions();
   renderHitters();
