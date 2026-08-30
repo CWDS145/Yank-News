@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T10:06:38Z",
+  "updated": "2026-08-30T10:06:53Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -86,15 +86,15 @@
         "rank": 3
       },
       {
-        "name": "Will Warren",
+        "name": "Max Fried",
         "rank": 4
       },
       {
-        "name": "Elmer Rodriguez-Cruz",
+        "name": "Will Warren",
         "rank": 5
       },
       {
-        "name": "Max Fried",
+        "name": "Elmer Rodriguez-Cruz",
         "rank": 6
       },
       {
@@ -128,24 +128,20 @@
         "rank": 5
       },
       {
-        "name": "Ryan Yarbrough",
+        "name": "Michael Fulmer",
         "rank": 6
       },
       {
-        "name": "Justin Topa",
+        "name": "Ryan Yarbrough",
         "rank": 7
       },
       {
-        "name": "Michael Fulmer",
+        "name": "Kervin Castro",
         "rank": 8
       },
       {
-        "name": "Kervin Castro",
-        "rank": 9
-      },
-      {
         "name": "Fernando E. Cruz",
-        "rank": 10
+        "rank": 9
       }
     ]
   },
@@ -166,7 +162,6 @@
     "Giancarlo Stanton",
     "Jazz Chisholm",
     "Jose Caballero",
-    "Justin Topa",
     "Kervin Castro",
     "Luis V. Garcia",
     "Max Fried",
