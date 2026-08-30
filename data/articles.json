@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T02:20:37Z",
+  "updated": "2026-08-30T02:40:59Z",
   "count": 66,
   "items": [
     {
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-08-30T02:20:37Z",
+      "published": "2026-08-30T02:40:59Z",
       "image": null
     },
     {
@@ -17,7 +17,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/former-new-york-yankees-fan-favorite-nick-swisher-and-the-sandlot-actor-chauncey-leopardi-to-star-in-third-season-of-award-winning-hexclad-presents-bronx-buds-premiering-this-saturday-august-8-on-th/",
-      "published": "2026-08-30T02:20:37Z",
+      "published": "2026-08-30T02:40:59Z",
       "image": null
     },
     {
@@ -26,7 +26,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-outfielder-heliot-ramos/",
-      "published": "2026-08-30T02:20:37Z",
+      "published": "2026-08-30T02:40:59Z",
       "image": null
     },
     {
@@ -35,7 +35,25 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-infielder-luis-garcia-jr/",
-      "published": "2026-08-30T02:20:37Z",
+      "published": "2026-08-30T02:40:59Z",
+      "image": null
+    },
+    {
+      "title": "Lombard exits with right knee discomfort after awkward check swing",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Bryan Hoch",
+      "link": "https://www.mlb.com/yankees/news/george-lombard-jr-exits-red-sox-yankees-game-with-knee-injury",
+      "published": "2026-08-30T02:35:00Z",
+      "image": null
+    },
+    {
+      "title": "Yanks back Fried's solid return with 13 singles to split DH vs. Red Sox",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Bryan Hoch",
+      "link": "https://www.mlb.com/yankees/news/max-fried-returns-in-yankees-win-over-red-sox",
+      "published": "2026-08-30T02:33:41Z",
       "image": null
     },
     {
@@ -48,15 +66,6 @@
       "image": null
     },
     {
-      "title": "Lombard exits with right knee discomfort after awkward check swing",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch",
-      "link": "https://www.mlb.com/yankees/news/george-lombard-jr-exits-red-sox-yankees-game-with-knee-injury",
-      "published": "2026-08-30T00:59:09Z",
-      "image": null
-    },
-    {
       "title": "Yankees rookie George Lombard Jr. exits game with right knee injury",
       "summary": "George Lombard Jr. left the second game of a doubleheader vs. the Red Sox Saturday night at the Stadium with what appeared to be a right knee injury.",
       "source": "NY Post Yankees",
@@ -64,15 +73,6 @@
       "link": "https://nypost.com/2026/08/29/sports/yankees-rookie-george-lombard-jr-exits-game-with-possible-knee-injury/",
       "published": "2026-08-30T00:49:07Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2FGeorge-Lombard-Jr-3.jpg?w%3D1024"
-    },
-    {
-      "title": "Yankees pull George Lombard Jr. from Saturday night game with possible knee injury",
-      "summary": "After a hot start to his MLB career on both sides of the ball, George Lombard Jr. has taken his lumps in the second half of August. He has a .563 OPS in his last 14 games and recently had a streak of errors in six consecutive games, though optimism of course remains high on […]",
-      "source": "Pinstripe Alley",
-      "author": "Andrew Mearns",
-      "link": "https://www.pinstripealley.com/yankees-news/204974/yankees-injury-george-lombard-shortstop-il-knee-anthony-volpe",
-      "published": "2026-08-30T00:48:15Z",
-      "image": null
     },
     {
       "title": "Yankees’ depth pieces have rough go of it in ugly loss to Red Sox",
@@ -279,6 +279,15 @@
       "author": "Matt Ferenchick",
       "link": "https://www.pinstripealley.com/yankees-analysis-sabermetrics/204173/mlb-playoff-format-2026-al-east-race-yankees-rays-red-sox-bracket",
       "published": "2026-08-29T11:00:00Z",
+      "image": null
+    },
+    {
+      "title": "Yankees prospects: Tampa Tarpons clinch playoff spot with blowout win",
+      "summary": "Triple-A Scranton RailRiders: W, 2-0 at Worcester Red Sox SS Anthony Volpe 1-4, 2B, RBI — drove in Ellis with two-bagger in the fifthRF Jasson Domínguez 0-4, 2 KC J.C. Escarra 0-3, BB2B Marco Luciano 0-4, K3B Oswaldo Cabrera 1-4, K, GIDPDH Yanquiel Fernández 2-3, HR, BB, RBI, K — nearly 400 feet on solo […]",
+      "source": "Pinstripe Alley",
+      "author": "Andrew Mearns",
+      "link": "https://www.pinstripealley.com/yankees-prospects/204750/yankees-prospects-playoffs-tampa-clinch-scranton-somerset-hudson-valley",
+      "published": "2026-08-29T10:00:00Z",
       "image": null
     },
     {
@@ -522,15 +531,6 @@
       "author": "Darragh McDonald",
       "link": "https://www.mlbtraderumors.com/2026/08/yankees-sign-michael-fulmer-to-major-league-deal.html",
       "published": "2026-08-26T20:05:12Z",
-      "image": null
-    },
-    {
-      "title": "Their dads were known for pitching, but Pettitte and Sabathia showing out with some slugging",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "MLB.com staff",
-      "link": "https://www.mlb.com/yankees/news/luke-pettitte-carsten-sabathia-iii-homer-same-night-at-single-a",
-      "published": "2026-08-26T05:00:41Z",
       "image": null
     },
     {
