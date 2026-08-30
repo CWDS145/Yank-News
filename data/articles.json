@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T04:38:39Z",
+  "updated": "2026-08-30T05:12:54Z",
   "count": 66,
   "items": [
     {
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-08-30T04:38:39Z",
+      "published": "2026-08-30T05:12:54Z",
       "image": null
     },
     {
@@ -17,7 +17,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/former-new-york-yankees-fan-favorite-nick-swisher-and-the-sandlot-actor-chauncey-leopardi-to-star-in-third-season-of-award-winning-hexclad-presents-bronx-buds-premiering-this-saturday-august-8-on-th/",
-      "published": "2026-08-30T04:38:39Z",
+      "published": "2026-08-30T05:12:54Z",
       "image": null
     },
     {
@@ -26,7 +26,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-outfielder-heliot-ramos/",
-      "published": "2026-08-30T04:38:39Z",
+      "published": "2026-08-30T05:12:54Z",
       "image": null
     },
     {
@@ -35,7 +35,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-infielder-luis-garcia-jr/",
-      "published": "2026-08-30T04:38:39Z",
+      "published": "2026-08-30T05:12:54Z",
+      "image": null
+    },
+    {
+      "title": "Latest Yankees injuries and transactions",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "MLB.com",
+      "link": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
+      "published": "2026-08-30T04:44:00Z",
       "image": null
     },
     {
@@ -48,15 +57,6 @@
       "image": null
     },
     {
-      "title": "Latest Yankees injuries and transactions",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "MLB.com",
-      "link": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
-      "published": "2026-08-30T03:33:00Z",
-      "image": null
-    },
-    {
       "title": "Lombard (right knee discomfort) expected to be day to day",
       "summary": "",
       "source": "MLB.com Yankees",
@@ -66,7 +66,7 @@
       "image": null
     },
     {
-      "title": "Yankees salvage Red Sox doubleheader split with late-inning offensive surge",
+      "title": "Yankees salvage Red Sox doubleheader with late-inning offensive surge after ugly Game 1 loss",
       "summary": "All over The Bronx on Saturday night was relief.",
       "source": "NY Post Yankees",
       "author": "Mark W. Sanchez",
