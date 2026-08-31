@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T10:06:53Z",
+  "updated": "2026-08-31T10:09:26Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -124,11 +124,11 @@
         "rank": 4
       },
       {
-        "name": "Yerry De Los Santos",
+        "name": "Michael Fulmer",
         "rank": 5
       },
       {
-        "name": "Michael Fulmer",
+        "name": "Luis Gil",
         "rank": 6
       },
       {
@@ -163,6 +163,7 @@
     "Jazz Chisholm",
     "Jose Caballero",
     "Kervin Castro",
+    "Luis Gil",
     "Luis V. Garcia",
     "Max Fried",
     "Michael Fulmer",
@@ -174,7 +175,6 @@
     "Spencer G. Jones",
     "Tim Hill",
     "Trent Grisham",
-    "Will Warren",
-    "Yerry De Los Santos"
+    "Will Warren"
   ]
 }
