@@ -384,17 +384,21 @@ async function fetchJson(url){
 }
 
 async function fetchAll(){
-  const [h, t, c, p, cbs] = await Promise.all([
+  const [h, t, c, p, cbs, spl] = await Promise.all([
     fetchJson("data/org-hitters.json"),
     fetchJson("data/org-transactions.json"),
     fetchJson("data/contracts.json").catch(() => ({})),
     fetchJson("data/org-pitchers.json").catch(() => ({})),
     fetchJson("data/transactions.json").catch(() => ({})),
+    fetchJson("data/org-splits.json").catch(() => ({})),
   ]);
   const contracts = (c && c.players) || c || {};
+  const splits = (spl && spl.players) || {};
   D.hitters = ((h && h.hitters) || []).map(x => ({
     ...x,
     contract: contracts[String(x.id)] || contracts[x.id] || null,
+    split_vl: splits[x.id] && splits[x.id].vl ? splits[x.id].vl : null,
+    split_vr: splits[x.id] && splits[x.id].vr ? splits[x.id].vr : null,
   }));
   D.pitchers = ((p && p.pitchers) || []).map(x => ({
     ...x,
@@ -819,7 +823,12 @@ function aggregateRawMerge(a, b){
 async function recomputeSplits(){
   const season = new Date().getUTCFullYear();
   let withData = 0;
-  await Promise.all(D.hitters.map(async hitter => {
+  const hittersMissingData = D.hitters.filter(h => !h.split_vl && !h.split_vr);
+  if (hittersMissingData.length === 0) {
+    withData = D.hitters.filter(h => h.split_vl || h.split_vr).length;
+    return withData;
+  }
+  await Promise.all(hittersMissingData.map(async hitter => {
     const targets = levelsForPlayer(hitter);
     const perLevel = await Promise.all(targets.map(([sid]) =>
       fetchHandSplits(hitter.id, sid, season)
@@ -828,6 +837,7 @@ async function recomputeSplits(){
     hitter.split_vr = aggregateRaw(perLevel.map(x => x.vr));
     if (hitter.split_vl || hitter.split_vr) withData++;
   }));
+  withData += D.hitters.filter(h => h.split_vl || h.split_vr).length - hittersMissingData.filter(h => h.split_vl || h.split_vr).length;
   if (!withData && D.hitters.length) {
     console.warn("statSplits returned no vl/vr data for any hitter — split columns will read \u2014");
   }
