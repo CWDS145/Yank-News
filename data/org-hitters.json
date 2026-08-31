@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T19:51:51Z",
+  "updated": "2026-08-31T20:28:58Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-08-21",
@@ -1922,7 +1922,7 @@
       "name": "Tyce Armstrong",
       "position": "2B",
       "level": "Low-A",
-      "level_since": "2026-08-04",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
