@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T18:56:40Z",
+  "updated": "2026-08-31T19:28:56Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1543,6 +1543,43 @@
       },
       "season_levels": [
         "High-A"
+      ]
+    },
+    {
+      "id": 670167,
+      "name": "John Schreiber",
+      "position": "P",
+      "level": "MLB",
+      "level_since": "2026-08-31",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "w": 1,
+        "l": 3,
+        "g": 55,
+        "gs": 0,
+        "cg": 0,
+        "sho": 0,
+        "sv": 1,
+        "svo": 4,
+        "ip": "49.1",
+        "ip_outs": 148,
+        "h": 41,
+        "r": 23,
+        "er": 20,
+        "hr": 7,
+        "hb": 1,
+        "bb": 22,
+        "so": 36,
+        "era": "3.65",
+        "era_num": 3.6486486486486487,
+        "whip": "1.28",
+        "whip_num": 1.277027027027027,
+        "avg": ".232",
+        "avg_num": 0.23163841807909605
+      },
+      "season_levels": [
+        "MLB"
       ]
     },
     {
