@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T23:51:54Z",
+  "updated": "2026-09-01T01:14:04Z",
   "items": [
     {
       "id": 940245,
@@ -650,32 +650,6 @@
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
       "description": "New York Yankees recalled RHP Kervin Castro from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 933961,
-      "date": "2026-08-01",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 672442,
-      "player": "Yovanny Cruz",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Yovanny Cruz from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 933930,
-      "date": "2026-08-01",
-      "type_code": "TR",
-      "type_desc": "Trade",
-      "player_id": 666808,
-      "player": "Camilo Doval",
-      "from_team_id": 147,
-      "to_team_id": 134,
-      "from": "New York Yankees",
-      "to": "Pittsburgh Pirates",
-      "description": "New York Yankees traded RHP Camilo Doval and cash to Pittsburgh Pirates for C Omar Alfonzo and OF Luis Cruz."
     }
   ]
 }
