@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T13:57:02Z",
+  "updated": "2026-09-01T14:36:52Z",
   "season": 2026,
   "pitchers": [
     {
@@ -2387,7 +2387,7 @@
       "name": "Rafael Arias",
       "position": "P",
       "level": "Low-A",
-      "level_since": "2026-08-04",
+      "level_since": null,
       "prior_level": null,
       "prior_level_since": null,
       "season": {
