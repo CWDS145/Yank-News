@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T19:57:53Z",
+  "updated": "2026-09-01T20:34:40Z",
   "season": 2026,
   "pitchers": [
     {
@@ -678,43 +678,6 @@
         "AAA",
         "AA",
         "High-A"
-      ]
-    },
-    {
-      "id": 679693,
-      "name": "Carson Coleman",
-      "position": "P",
-      "level": "AAA",
-      "level_since": "2026-03-26",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "w": 1,
-        "l": 0,
-        "g": 37,
-        "gs": 1,
-        "cg": 0,
-        "sho": 0,
-        "sv": 3,
-        "svo": 6,
-        "ip": "44.0",
-        "ip_outs": 132,
-        "h": 51,
-        "r": 40,
-        "er": 39,
-        "hr": 5,
-        "hb": 1,
-        "bb": 25,
-        "so": 44,
-        "era": "7.98",
-        "era_num": 7.9772727272727275,
-        "whip": "1.73",
-        "whip_num": 1.7272727272727273,
-        "avg": ".287",
-        "avg_num": 0.28651685393258425
-      },
-      "season_levels": [
-        "AAA"
       ]
     },
     {
@@ -1767,6 +1730,44 @@
       },
       "season_levels": [
         "Low-A"
+      ]
+    },
+    {
+      "id": 623437,
+      "name": "Justin Topa",
+      "position": "P",
+      "level": "AAA",
+      "level_since": "2026-08-14",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-08-14",
+      "season": {
+        "w": 0,
+        "l": 4,
+        "g": 49,
+        "gs": 0,
+        "cg": 0,
+        "sho": 0,
+        "sv": 6,
+        "svo": 7,
+        "ip": "47.2",
+        "ip_outs": 143,
+        "h": 58,
+        "r": 28,
+        "er": 22,
+        "hr": 6,
+        "hb": 3,
+        "bb": 21,
+        "so": 30,
+        "era": "4.15",
+        "era_num": 4.153846153846154,
+        "whip": "1.66",
+        "whip_num": 1.6573426573426573,
+        "avg": ".297",
+        "avg_num": 0.29743589743589743
+      },
+      "season_levels": [
+        "MLB",
+        "AAA"
       ]
     },
     {
