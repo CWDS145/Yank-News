@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-01T22:12:18Z",
-  "count": 68,
+  "updated": "2026-09-01T22:35:49Z",
+  "count": 69,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-09-01T22:12:18Z",
+      "published": "2026-09-01T22:35:49Z",
       "image": null
     },
     {
@@ -17,7 +17,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/former-new-york-yankees-fan-favorite-nick-swisher-and-the-sandlot-actor-chauncey-leopardi-to-star-in-third-season-of-award-winning-hexclad-presents-bronx-buds-premiering-this-saturday-august-8-on-th/",
-      "published": "2026-09-01T22:12:18Z",
+      "published": "2026-09-01T22:35:49Z",
       "image": null
     },
     {
@@ -26,7 +26,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-outfielder-heliot-ramos/",
-      "published": "2026-09-01T22:12:18Z",
+      "published": "2026-09-01T22:35:49Z",
       "image": null
     },
     {
@@ -35,7 +35,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-infielder-luis-garcia-jr/",
-      "published": "2026-09-01T22:12:18Z",
+      "published": "2026-09-01T22:35:49Z",
+      "image": null
+    },
+    {
+      "title": "Watch No. 2 prospect Kilby play at Single-A in FREE Sunday matinee",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Brendan Samson",
+      "link": "https://www.mlb.com/yankees/news/watch-minor-league-baseball-games-for-free-2026",
+      "published": "2026-09-01T22:23:00Z",
       "image": null
     },
     {
@@ -162,15 +171,6 @@
       "author": "Andrew Mearns",
       "link": "https://www.pinstripealley.com/pinstripe-alley-discussions/205323/yankees-fan-discussion-september-preview",
       "published": "2026-09-01T10:00:00Z",
-      "image": null
-    },
-    {
-      "title": "Watch No. 2 prospect Kilby play at Single-A in FREE Sunday matinee",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Brendan Samson",
-      "link": "https://www.mlb.com/yankees/news/watch-minor-league-baseball-games-for-free-2026",
-      "published": "2026-09-01T06:27:00Z",
       "image": null
     },
     {
@@ -595,6 +595,15 @@
       "link": "https://www.mlb.com/yankees/news/aaron-judge-eyes-september-return-no-rehab-assignment",
       "published": "2026-08-27T21:37:20Z",
       "image": null
+    },
+    {
+      "title": "Yankees' quiet trade deadline already coming back to bite them -- but their bullpen can still be saved",
+      "summary": "Fernando Cruz has been diagnosed with a partially torn UCL and could be facing Tommy John surgery",
+      "source": "CBS Sports MLB",
+      "author": "Mike Axisa",
+      "link": "https://www.cbssports.com/mlb/news/yankees-bullpen-fernando-cruz-injury/",
+      "published": "2026-08-27T15:00:19Z",
+      "image": "https://sportshub.cbsistatic.com/i/2026/08/27/42e0aa1e-acd6-4e47-908f-77b17cd43c89/cruz-imagn.png"
     },
     {
       "title": "Fernando Cruz Diagnosed With Partial UCL Tear",
