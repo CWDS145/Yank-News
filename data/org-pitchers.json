@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T20:35:17Z",
+  "updated": "2026-09-02T20:57:37Z",
   "season": 2026,
   "pitchers": [
     {
@@ -801,8 +801,8 @@
       "position": "P",
       "level": "MLB",
       "level_since": "2026-08-29",
-      "prior_level": null,
-      "prior_level_since": null,
+      "prior_level": "AA",
+      "prior_level_since": "2026-08-29",
       "season": {
         "w": 0,
         "l": 0,
