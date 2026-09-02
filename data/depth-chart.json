@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T10:09:19Z",
+  "updated": "2026-09-02T10:09:16Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -30,12 +30,8 @@
     ],
     "3B": [
       {
-        "name": "Jose Caballero",
-        "rank": 1
-      },
-      {
         "name": "Ryan McMahon",
-        "rank": 2
+        "rank": 1
       }
     ],
     "SS": [
@@ -124,24 +120,28 @@
         "rank": 4
       },
       {
-        "name": "Michael Fulmer",
+        "name": "John Schreiber",
         "rank": 5
       },
       {
-        "name": "Luis Gil",
+        "name": "Michael Fulmer",
         "rank": 6
       },
       {
-        "name": "Ryan Yarbrough",
+        "name": "Luis Gil",
         "rank": 7
       },
       {
-        "name": "Kervin Castro",
+        "name": "Ryan Yarbrough",
         "rank": 8
       },
       {
-        "name": "Fernando E. Cruz",
+        "name": "Kervin Castro",
         "rank": 9
+      },
+      {
+        "name": "Fernando E. Cruz",
+        "rank": 10
       }
     ]
   },
@@ -161,7 +161,7 @@
     "Gerrit Cole",
     "Giancarlo Stanton",
     "Jazz Chisholm",
-    "Jose Caballero",
+    "John Schreiber",
     "Kervin Castro",
     "Luis Gil",
     "Luis V. Garcia",
