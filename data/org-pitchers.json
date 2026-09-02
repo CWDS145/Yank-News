@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T17:56:44Z",
+  "updated": "2026-09-02T18:56:49Z",
   "season": 2026,
   "pitchers": [
     {
@@ -761,10 +761,10 @@
       "id": 810102,
       "name": "Chris Veach",
       "position": "P",
-      "level": "AA",
-      "level_since": "2026-05-19",
-      "prior_level": "High-A",
-      "prior_level_since": "2026-03-30",
+      "level": "High-A",
+      "level_since": "2026-09-02",
+      "prior_level": "AA",
+      "prior_level_since": "2026-05-19",
       "season": {
         "w": 3,
         "l": 2,
