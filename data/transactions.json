@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T01:23:48Z",
+  "updated": "2026-09-02T01:55:44Z",
   "count": 70,
   "items": [
     {
@@ -46,8 +46,32 @@
     },
     {
       "date": "2026-08-29",
+      "type": "signed",
+      "player": "Jarred Kelenic",
+      "description": "Signed to a Minor League Contract"
+    },
+    {
+      "date": "2026-08-29",
+      "type": "",
+      "player": "Max Fried",
+      "description": "Removed From 15-Day IL (Left elbow bone bruise)"
+    },
+    {
+      "date": "2026-08-29",
       "type": "sent",
       "player": "Clarke Schmidt",
+      "description": "Sent to Minors For Rehabilitation"
+    },
+    {
+      "date": "2026-08-29",
+      "type": "designated",
+      "player": "Justin Topa",
+      "description": "Designated for Assignment"
+    },
+    {
+      "date": "2026-08-29",
+      "type": "sent",
+      "player": "Ryan McMahon",
       "description": "Sent to Minors For Rehabilitation"
     },
     {
@@ -63,46 +87,10 @@
       "description": "Return of 27th man"
     },
     {
-      "date": "2026-08-29",
-      "type": "",
-      "player": "Max Fried",
-      "description": "Removed From 15-Day IL (Left elbow bone bruise)"
-    },
-    {
-      "date": "2026-08-29",
+      "date": "2026-08-26",
       "type": "signed",
-      "player": "Jarred Kelenic",
-      "description": "Signed to a Minor League Contract"
-    },
-    {
-      "date": "2026-08-29",
-      "type": "sent",
-      "player": "Ryan McMahon",
-      "description": "Sent to Minors For Rehabilitation"
-    },
-    {
-      "date": "2026-08-29",
-      "type": "designated",
-      "player": "Justin Topa",
-      "description": "Designated for Assignment"
-    },
-    {
-      "date": "2026-08-26",
-      "type": "transferred",
-      "player": "Kervin Castro",
-      "description": "Transferred to 60-Day IL (Right elbow neuritis)"
-    },
-    {
-      "date": "2026-08-26",
-      "type": "called up",
-      "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-08-26",
-      "type": "placed",
-      "player": "Fernando Cruz",
-      "description": "Placed on 15-Day IL (Right elbow discomfort)"
+      "player": "Michael Fulmer",
+      "description": "Signed as Free Agent  ( 2026)(one-year contract)"
     },
     {
       "date": "2026-08-26",
@@ -112,9 +100,21 @@
     },
     {
       "date": "2026-08-26",
-      "type": "signed",
-      "player": "Michael Fulmer",
-      "description": "Signed as Free Agent  ( 2026)(one-year contract)"
+      "type": "placed",
+      "player": "Fernando Cruz",
+      "description": "Placed on 15-Day IL (Right elbow discomfort)"
+    },
+    {
+      "date": "2026-08-26",
+      "type": "called up",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-08-26",
+      "type": "transferred",
+      "player": "Kervin Castro",
+      "description": "Transferred to 60-Day IL (Right elbow neuritis)"
     },
     {
       "date": "2026-08-25",
@@ -124,15 +124,15 @@
     },
     {
       "date": "2026-08-24",
-      "type": "transferred",
-      "player": "Giancarlo Stanton",
-      "description": "Transferred to 60-Day IL (Strained right calf)"
-    },
-    {
-      "date": "2026-08-24",
       "type": "sent",
       "player": "Brendan Beck",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-08-24",
+      "type": "transferred",
+      "player": "Giancarlo Stanton",
+      "description": "Transferred to 60-Day IL (Strained right calf)"
     },
     {
       "date": "2026-08-23",
@@ -142,15 +142,15 @@
     },
     {
       "date": "2026-08-23",
-      "type": "recalled",
-      "player": "Cody Bellinger",
-      "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-08-23",
       "type": "called up",
       "player": "Brendan Beck",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-08-23",
+      "type": "recalled",
+      "player": "Cody Bellinger",
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-08-23",
@@ -262,6 +262,12 @@
     },
     {
       "date": "2026-08-03",
+      "type": "sent",
+      "player": "Anthony Volpe",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-08-03",
       "type": "called up",
       "player": "Kervin Castro",
       "description": "Called Up from Minors"
@@ -277,12 +283,6 @@
       "type": "traded",
       "player": "Heliot Ramos",
       "description": "Traded From San Francisco (for LHP Henry Lalane, three-player deal)"
-    },
-    {
-      "date": "2026-08-03",
-      "type": "sent",
-      "player": "Anthony Volpe",
-      "description": "Sent to Minors"
     },
     {
       "date": "2026-08-02",
@@ -329,6 +329,12 @@
     {
       "date": "2026-07-22",
       "type": "",
+      "player": "Max Fried",
+      "description": "Removed From 15-Day IL (Left elbow bone bruise)"
+    },
+    {
+      "date": "2026-07-22",
+      "type": "",
       "player": "Spencer Jones",
       "description": "Return of 27th man"
     },
@@ -343,12 +349,6 @@
       "type": "sent",
       "player": "Kervin Castro",
       "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-22",
-      "type": "",
-      "player": "Max Fried",
-      "description": "Removed From 15-Day IL (Left elbow bone bruise)"
     },
     {
       "date": "2026-07-19",
@@ -376,15 +376,15 @@
     },
     {
       "date": "2026-07-18",
-      "type": "transferred",
-      "player": "Aaron Judge",
-      "description": "Transferred to 60-Day IL (Right rib stress fracture)"
-    },
-    {
-      "date": "2026-07-18",
       "type": "purchased",
       "player": "Bradley Hanner",
       "description": "NTR - Purchased From Minors"
+    },
+    {
+      "date": "2026-07-18",
+      "type": "transferred",
+      "player": "Aaron Judge",
+      "description": "Transferred to 60-Day IL (Right rib stress fracture)"
     },
     {
       "date": "2026-07-18",
@@ -412,15 +412,15 @@
     },
     {
       "date": "2026-07-04",
-      "type": "called up",
-      "player": "Brendan Beck",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-07-04",
       "type": "sent",
       "player": "Brendan Beck",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-04",
+      "type": "called up",
+      "player": "Brendan Beck",
+      "description": "Called Up from Minors"
     }
   ]
 }
