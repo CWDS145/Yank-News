@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T20:56:57Z",
+  "updated": "2026-09-03T21:32:24Z",
   "season": 2026,
   "pitchers": [
     {
@@ -2758,44 +2758,6 @@
       "season_levels": [
         "AAA",
         "AA"
-      ]
-    },
-    {
-      "id": 683332,
-      "name": "Tyler Boudreau",
-      "position": "P",
-      "level": "Low-A",
-      "level_since": "2026-08-14",
-      "prior_level": "AA",
-      "prior_level_since": "2026-08-13",
-      "season": {
-        "w": 8,
-        "l": 3,
-        "g": 22,
-        "gs": 21,
-        "cg": 1,
-        "sho": 0,
-        "sv": 0,
-        "svo": 0,
-        "ip": "106.2",
-        "ip_outs": 320,
-        "h": 71,
-        "r": 45,
-        "er": 39,
-        "hr": 9,
-        "hb": 3,
-        "bb": 40,
-        "so": 118,
-        "era": "3.29",
-        "era_num": 3.290625,
-        "whip": "1.04",
-        "whip_num": 1.040625,
-        "avg": ".187",
-        "avg_num": 0.1868421052631579
-      },
-      "season_levels": [
-        "AA",
-        "Low-A"
       ]
     },
     {
