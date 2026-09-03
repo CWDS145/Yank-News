@@ -1,14 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-09-03T03:23:42Z",
-      "source": "MLB Transactions org",
-      "url": "https://statsapi.mlb.com/api/v1/transactions?teamId=147&startDate=2026-08-04&endDate=2026-09-03",
-      "status": 200,
-      "items": 50,
-      "note": "window 2026-08-04..2026-09-03"
-    },
-    {
       "timestamp": "2026-09-03T03:27:27Z",
       "source": "MLB personId fallback",
       "url": "<bulk>",
@@ -3999,6 +3991,14 @@
       "status": 200,
       "items": 68,
       "note": "ok=68/68"
+    },
+    {
+      "timestamp": "2026-09-03T10:08:53Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 30,
+      "note": "ok"
     }
   ]
 }
