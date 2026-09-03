@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T10:25:56Z",
+  "updated": "2026-09-03T10:47:32Z",
   "season": 2026,
   "players": [
     {
@@ -134,14 +134,14 @@
       "name": "Cam Schlittler",
       "expected_batting": null,
       "expected_pitching": {
-        "pa": 651,
+        "pa": 677,
         "est_ba": 0.21,
-        "est_slg": 0.335,
+        "est_slg": 0.337,
         "est_woba": 0.268,
-        "ba": 0.197,
-        "slg": 0.316,
-        "woba": 0.255,
-        "est_woba_minus_woba": 0.013
+        "ba": 0.192,
+        "slg": 0.311,
+        "woba": 0.25,
+        "est_woba_minus_woba": 0.018
       },
       "statcast_batting": null,
       "sprint_speed": null
@@ -154,11 +154,11 @@
         "pa": 247,
         "est_ba": 0.225,
         "est_slg": 0.352,
-        "est_woba": 0.31,
+        "est_woba": 0.311,
         "ba": 0.187,
         "slg": 0.311,
         "woba": 0.275,
-        "est_woba_minus_woba": 0.035
+        "est_woba_minus_woba": 0.036
       },
       "statcast_batting": null,
       "sprint_speed": null
@@ -199,14 +199,14 @@
       "name": "David Bednar",
       "expected_batting": null,
       "expected_pitching": {
-        "pa": 241,
-        "est_ba": 0.211,
-        "est_slg": 0.298,
-        "est_woba": 0.256,
-        "ba": 0.196,
+        "pa": 245,
+        "est_ba": 0.209,
+        "est_slg": 0.295,
+        "est_woba": 0.254,
+        "ba": 0.197,
         "slg": 0.283,
         "woba": 0.243,
-        "est_woba_minus_woba": 0.013
+        "est_woba_minus_woba": 0.011
       },
       "statcast_batting": null,
       "sprint_speed": null
@@ -471,11 +471,11 @@
         "pa": 303,
         "est_ba": 0.23,
         "est_slg": 0.344,
-        "est_woba": 0.288,
+        "est_woba": 0.289,
         "ba": 0.19,
         "slg": 0.285,
         "woba": 0.251,
-        "est_woba_minus_woba": 0.037
+        "est_woba_minus_woba": 0.038
       },
       "statcast_batting": null,
       "sprint_speed": null
