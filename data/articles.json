@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T05:28:25Z",
+  "updated": "2026-09-03T05:54:39Z",
   "count": 68,
   "items": [
     {
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-09-03T05:28:25Z",
+      "published": "2026-09-03T05:54:39Z",
       "image": null
     },
     {
@@ -17,7 +17,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/former-new-york-yankees-fan-favorite-nick-swisher-and-the-sandlot-actor-chauncey-leopardi-to-star-in-third-season-of-award-winning-hexclad-presents-bronx-buds-premiering-this-saturday-august-8-on-th/",
-      "published": "2026-09-03T05:28:25Z",
+      "published": "2026-09-03T05:54:39Z",
       "image": null
     },
     {
@@ -26,7 +26,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-outfielder-heliot-ramos/",
-      "published": "2026-09-03T05:28:25Z",
+      "published": "2026-09-03T05:54:39Z",
       "image": null
     },
     {
@@ -35,7 +35,25 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-infielder-luis-garcia-jr/",
-      "published": "2026-09-03T05:28:25Z",
+      "published": "2026-09-03T05:54:39Z",
+      "image": null
+    },
+    {
+      "title": "Watch No. 2 prospect Kilby play at Single-A in FREE Sunday matinee",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Brendan Samson",
+      "link": "https://www.mlb.com/yankees/news/watch-minor-league-baseball-games-for-free-2026",
+      "published": "2026-09-03T05:45:00Z",
+      "image": null
+    },
+    {
+      "title": "Yankees finally conjure some extra-inning magic with 5-run 10th",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Courtney Hollmon",
+      "link": "https://www.mlb.com/yankees/news/yankees-rally-in-10th-inning-to-beat-angels",
+      "published": "2026-09-03T05:27:46Z",
       "image": null
     },
     {
@@ -57,30 +75,12 @@
       "image": null
     },
     {
-      "title": "Yankees’ Ben Rice injures person in camera well with foul ball in scary scene",
-      "summary": "ANAHEIM, Calif. — The Yankees-Angels game was delayed in the top of the sixth inning Wednesday night after Ben Rice roped a foul ball into the first base camera well and appeared to hit a photographer in the head. The Yankees medical staff, including director of sports medicine and rehab Mike Schuck, jumped in to...",
-      "source": "NY Post Yankees",
-      "author": "Greg Joyce",
-      "link": "https://nypost.com/2026/09/02/sports/yankees-ben-rice-injures-person-in-camera-well-with-foul-ball-in-scary-scene/",
-      "published": "2026-09-03T03:29:29Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2FScreenshot-2026-09-02-at-111556-PM.jpg?w%3D1024"
-    },
-    {
       "title": "Latest Yankees injuries and transactions",
       "summary": "",
       "source": "MLB.com Yankees",
       "author": "MLB.com",
       "link": "https://www.mlb.com/yankees/news/yankees-injuries-and-roster-moves",
       "published": "2026-09-03T02:14:00Z",
-      "image": null
-    },
-    {
-      "title": "Watch No. 2 prospect Kilby play at Single-A in FREE Sunday matinee",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Brendan Samson",
-      "link": "https://www.mlb.com/yankees/news/watch-minor-league-baseball-games-for-free-2026",
-      "published": "2026-09-03T01:19:00Z",
       "image": null
     },
     {
@@ -444,6 +444,15 @@
       "image": null
     },
     {
+      "title": "Why Yankees’ Jazz Chisholm Jr. had every right on stolen bases that enraged Red Sox broadcasters",
+      "summary": "While it will be easy to make this another chapter in the annals of New York-Boston hatred, it is not that for me.",
+      "source": "NY Post Yankees",
+      "author": "Joel Sherman",
+      "link": "https://nypost.com/2026/08/31/sports/why-jazz-chisholm-jr-was-right-on-controversial-yankees-red-sox-steals/",
+      "published": "2026-08-31T18:40:45Z",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fcelebrates-teammates-dugout-scores-new-139017791.jpg?quality%3D90%26"
+    },
+    {
       "title": "Yankees To Claim John Schreiber",
       "summary": "The Yankees are going to claim right-hander John Schreiber off waivers from the Royals, reports Joel Sherman of The New York Post. It was reported a couple of days ago that the Royals would be placing Schreiber on waivers. The Yankees have a couple of open spots on the 40-man roster. Active rosters expand from […]",
       "source": "MLB Trade Rumors NYY",
@@ -603,15 +612,6 @@
       "author": "Connor Byrne",
       "link": "https://www.mlbtraderumors.com/2026/08/yankees-to-activate-max-fried-on-saturday.html",
       "published": "2026-08-28T23:44:55Z",
-      "image": null
-    },
-    {
-      "title": "Rivalry renewed as Red Sox, Yankees meet with October stakes",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch and Ian Browne",
-      "link": "https://www.mlb.com/yankees/news/red-sox-yankees-preview-august-2026",
-      "published": "2026-08-28T20:15:00Z",
       "image": null
     }
   ]
