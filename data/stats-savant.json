@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T08:51:50Z",
+  "updated": "2026-09-03T09:28:02Z",
   "season": 2026,
   "players": [
     {
@@ -113,6 +113,57 @@
       }
     },
     {
+      "id": 687396,
+      "name": "Brent Headrick",
+      "expected_batting": null,
+      "expected_pitching": {
+        "pa": 289,
+        "est_ba": 0.219,
+        "est_slg": 0.326,
+        "est_woba": 0.266,
+        "ba": 0.235,
+        "slg": 0.364,
+        "woba": 0.288,
+        "est_woba_minus_woba": -0.022
+      },
+      "statcast_batting": null,
+      "sprint_speed": null
+    },
+    {
+      "id": 693645,
+      "name": "Cam Schlittler",
+      "expected_batting": null,
+      "expected_pitching": {
+        "pa": 651,
+        "est_ba": 0.21,
+        "est_slg": 0.335,
+        "est_woba": 0.268,
+        "ba": 0.197,
+        "slg": 0.316,
+        "woba": 0.255,
+        "est_woba_minus_woba": 0.013
+      },
+      "statcast_batting": null,
+      "sprint_speed": null
+    },
+    {
+      "id": 607074,
+      "name": "Carlos Rodón",
+      "expected_batting": null,
+      "expected_pitching": {
+        "pa": 247,
+        "est_ba": 0.225,
+        "est_slg": 0.352,
+        "est_woba": 0.31,
+        "ba": 0.187,
+        "slg": 0.311,
+        "woba": 0.275,
+        "est_woba_minus_woba": 0.035
+      },
+      "statcast_batting": null,
+      "sprint_speed": null
+    },
+    {
       "id": 641355,
       "name": "Cody Bellinger",
       "expected_batting": {
@@ -144,6 +195,40 @@
       }
     },
     {
+      "id": 670280,
+      "name": "David Bednar",
+      "expected_batting": null,
+      "expected_pitching": {
+        "pa": 241,
+        "est_ba": 0.211,
+        "est_slg": 0.298,
+        "est_woba": 0.256,
+        "ba": 0.196,
+        "slg": 0.283,
+        "woba": 0.243,
+        "est_woba_minus_woba": 0.013
+      },
+      "statcast_batting": null,
+      "sprint_speed": null
+    },
+    {
+      "id": 518585,
+      "name": "Fernando Cruz",
+      "expected_batting": null,
+      "expected_pitching": {
+        "pa": 234,
+        "est_ba": 0.185,
+        "est_slg": 0.324,
+        "est_woba": 0.281,
+        "ba": 0.207,
+        "slg": 0.369,
+        "woba": 0.307,
+        "est_woba_minus_woba": -0.026
+      },
+      "statcast_batting": null,
+      "sprint_speed": null
+    },
+    {
       "id": 806146,
       "name": "George Lombard Jr.",
       "expected_batting": null,
@@ -154,6 +239,23 @@
         "hp_to_1b": 4.18,
         "bolts": 7
       }
+    },
+    {
+      "id": 543037,
+      "name": "Gerrit Cole",
+      "expected_batting": null,
+      "expected_pitching": {
+        "pa": 426,
+        "est_ba": 0.24,
+        "est_slg": 0.367,
+        "est_woba": 0.286,
+        "ba": 0.233,
+        "slg": 0.39,
+        "woba": 0.291,
+        "est_woba_minus_woba": -0.005
+      },
+      "statcast_batting": null,
+      "sprint_speed": null
     },
     {
       "id": 519317,
@@ -254,6 +356,23 @@
       }
     },
     {
+      "id": 670167,
+      "name": "John Schreiber",
+      "expected_batting": null,
+      "expected_pitching": {
+        "pa": 206,
+        "est_ba": 0.254,
+        "est_slg": 0.415,
+        "est_woba": 0.323,
+        "ba": 0.228,
+        "slg": 0.394,
+        "woba": 0.307,
+        "est_woba_minus_woba": 0.016
+      },
+      "statcast_batting": null,
+      "sprint_speed": null
+    },
+    {
       "id": 676609,
       "name": "José Caballero",
       "expected_batting": {
@@ -316,6 +435,23 @@
       }
     },
     {
+      "id": 608331,
+      "name": "Max Fried",
+      "expected_batting": null,
+      "expected_pitching": {
+        "pa": 347,
+        "est_ba": 0.198,
+        "est_slg": 0.262,
+        "est_woba": 0.246,
+        "ba": 0.198,
+        "slg": 0.265,
+        "woba": 0.243,
+        "est_woba_minus_woba": 0.003
+      },
+      "statcast_batting": null,
+      "sprint_speed": null
+    },
+    {
       "id": 680474,
       "name": "Max Schuemann",
       "expected_batting": null,
@@ -326,6 +462,23 @@
         "hp_to_1b": null,
         "bolts": null
       }
+    },
+    {
+      "id": 621112,
+      "name": "Paul Blackburn",
+      "expected_batting": null,
+      "expected_pitching": {
+        "pa": 303,
+        "est_ba": 0.23,
+        "est_slg": 0.344,
+        "est_woba": 0.288,
+        "ba": 0.19,
+        "slg": 0.285,
+        "woba": 0.251,
+        "est_woba_minus_woba": 0.037
+      },
+      "statcast_batting": null,
+      "sprint_speed": null
     },
     {
       "id": 502671,
@@ -390,6 +543,40 @@
       }
     },
     {
+      "id": 677960,
+      "name": "Ryan Weathers",
+      "expected_batting": null,
+      "expected_pitching": {
+        "pa": 568,
+        "est_ba": 0.255,
+        "est_slg": 0.424,
+        "est_woba": 0.319,
+        "ba": 0.249,
+        "slg": 0.394,
+        "woba": 0.306,
+        "est_woba_minus_woba": 0.013
+      },
+      "statcast_batting": null,
+      "sprint_speed": null
+    },
+    {
+      "id": 642232,
+      "name": "Ryan Yarbrough",
+      "expected_batting": null,
+      "expected_pitching": {
+        "pa": 226,
+        "est_ba": 0.228,
+        "est_slg": 0.327,
+        "est_woba": 0.288,
+        "ba": 0.221,
+        "slg": 0.337,
+        "woba": 0.29,
+        "est_woba_minus_woba": -0.002
+      },
+      "statcast_batting": null,
+      "sprint_speed": null
+    },
+    {
       "id": 682987,
       "name": "Spencer Jones",
       "expected_batting": null,
@@ -400,6 +587,23 @@
         "hp_to_1b": 4.24,
         "bolts": 8
       }
+    },
+    {
+      "id": 657612,
+      "name": "Tim Hill",
+      "expected_batting": null,
+      "expected_pitching": {
+        "pa": 213,
+        "est_ba": 0.261,
+        "est_slg": 0.42,
+        "est_woba": 0.321,
+        "ba": 0.237,
+        "slg": 0.397,
+        "woba": 0.303,
+        "est_woba_minus_woba": 0.018
+      },
+      "statcast_batting": null,
+      "sprint_speed": null
     },
     {
       "id": 663757,
@@ -431,6 +635,23 @@
         "hp_to_1b": 4.51,
         "bolts": null
       }
+    },
+    {
+      "id": 701542,
+      "name": "Will Warren",
+      "expected_batting": null,
+      "expected_pitching": {
+        "pa": 586,
+        "est_ba": 0.262,
+        "est_slg": 0.418,
+        "est_woba": 0.326,
+        "ba": 0.268,
+        "slg": 0.454,
+        "woba": 0.339,
+        "est_woba_minus_woba": -0.013
+      },
+      "statcast_batting": null,
+      "sprint_speed": null
     }
   ]
 }
