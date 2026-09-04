@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T10:08:53Z",
+  "updated": "2026-09-04T10:08:26Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -90,16 +90,12 @@
         "rank": 5
       },
       {
-        "name": "Elmer Rodriguez-Cruz",
+        "name": "Clarke Schmidt",
         "rank": 6
       },
       {
-        "name": "Clarke Schmidt",
-        "rank": 7
-      },
-      {
         "name": "Ryan Weathers",
-        "rank": 8
+        "rank": 7
       }
     ],
     "RP": [
@@ -124,7 +120,7 @@
         "rank": 5
       },
       {
-        "name": "Michael Fulmer",
+        "name": "Ryan Yarbrough",
         "rank": 6
       },
       {
@@ -132,16 +128,20 @@
         "rank": 7
       },
       {
-        "name": "Ryan Yarbrough",
+        "name": "Michael Fulmer",
         "rank": 8
       },
       {
-        "name": "Kervin Castro",
+        "name": "Elmer Rodriguez-Cruz",
         "rank": 9
       },
       {
-        "name": "Fernando E. Cruz",
+        "name": "Kervin Castro",
         "rank": 10
+      },
+      {
+        "name": "Fernando E. Cruz",
+        "rank": 11
       }
     ]
   },
