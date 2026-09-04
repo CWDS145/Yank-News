@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-03T14:14:20Z",
+  "updated": "2026-09-04T14:12:35Z",
   "source": "Baseball-Reference",
   "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
   "season": 2026,
   "scrape_attempt": {
     "status": "ok",
     "http_status": 200,
-    "duration_ms": 363,
+    "duration_ms": 229,
     "note": "tables: bat_id=players_standard_batting pit_id=players_standard_pitching batters=25 pitchers=26"
   },
   "team_record": {
@@ -36,7 +36,7 @@
     "OPS": ".720",
     "OPS+": "99",
     "TB": "1894",
-    "rWAR": "17.4"
+    "rWAR": "17.6"
   },
   "team_pitching": {
     "name": "Team Totals",
@@ -57,7 +57,7 @@
     "ERA+": "131",
     "FIP": "3.65",
     "WHIP": "1.173",
-    "rWAR": "23.9"
+    "rWAR": "23.8"
   },
   "batters": [
     {
@@ -150,7 +150,7 @@
       "OPS": ".661",
       "OPS+": "83",
       "TB": "140",
-      "rWAR": "2.2"
+      "rWAR": "2.3"
     },
     {
       "name": "Ryan McMahon",
@@ -196,7 +196,7 @@
       "OPS": ".769",
       "OPS+": "114",
       "TB": "176",
-      "rWAR": "4.0"
+      "rWAR": "4.1"
     },
     {
       "name": "Trent Grisham",
@@ -447,7 +447,7 @@
       "OBP": ".310",
       "SLG": ".367",
       "OPS": ".677",
-      "OPS+": "89",
+      "OPS+": "88",
       "TB": "29",
       "rWAR": "0.9"
     },
@@ -493,7 +493,7 @@
       "OBP": ".286",
       "SLG": ".266",
       "OPS": ".551",
-      "OPS+": "56",
+      "OPS+": "55",
       "TB": "17",
       "rWAR": "-0.6"
     },
@@ -653,7 +653,7 @@
       "BB": "42",
       "SO": "210",
       "HR": "15",
-      "ERA+": "206",
+      "ERA+": "207",
       "FIP": "2.62",
       "WHIP": "0.938",
       "rWAR": "6.4"
@@ -824,7 +824,7 @@
       "ERA+": "220",
       "FIP": "2.25",
       "WHIP": "1.186",
-      "rWAR": "2.6"
+      "rWAR": "2.5"
     },
     {
       "name": "Fernando Cruz",
@@ -1052,7 +1052,7 @@
       "BB": "2",
       "SO": "8",
       "HR": "0",
-      "ERA+": "313",
+      "ERA+": "314",
       "FIP": "1.52",
       "WHIP": "0.789",
       "rWAR": "0.3"
