@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T17:57:36Z",
+  "updated": "2026-09-04T18:36:20Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1510,6 +1510,17 @@
       ]
     },
     {
+      "id": 842070,
+      "name": "Jason Krieger",
+      "position": "P",
+      "level": "Low-A",
+      "level_since": "2026-09-04",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "season_levels": []
+    },
+    {
       "id": 670167,
       "name": "John Schreiber",
       "position": "P",
@@ -1587,10 +1598,10 @@
       "id": 702874,
       "name": "Jose Ledesma",
       "position": "P",
-      "level": "High-A",
-      "level_since": "2026-08-28",
-      "prior_level": "Low-A",
-      "prior_level_since": "2026-04-03",
+      "level": "Low-A",
+      "level_since": "2026-09-04",
+      "prior_level": "High-A",
+      "prior_level_since": "2026-08-28",
       "season": {
         "w": 1,
         "l": 3,
@@ -2531,43 +2542,6 @@
       },
       "season_levels": [
         "MLB"
-      ]
-    },
-    {
-      "id": 800239,
-      "name": "Sabier Marte",
-      "position": "P",
-      "level": "Low-A",
-      "level_since": "2026-07-09",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "w": 0,
-        "l": 3,
-        "g": 7,
-        "gs": 6,
-        "cg": 0,
-        "sho": 0,
-        "sv": 0,
-        "svo": 0,
-        "ip": "26.1",
-        "ip_outs": 79,
-        "h": 37,
-        "r": 32,
-        "er": 28,
-        "hr": 10,
-        "hb": 1,
-        "bb": 14,
-        "so": 21,
-        "era": "9.57",
-        "era_num": 9.569620253164556,
-        "whip": "1.94",
-        "whip_num": 1.9367088607594938,
-        "avg": ".325",
-        "avg_num": 0.32456140350877194
-      },
-      "season_levels": [
-        "Low-A"
       ]
     },
     {
