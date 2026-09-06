@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T10:06:56Z",
+  "updated": "2026-09-06T10:07:15Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -48,13 +48,13 @@
     ],
     "CF": [
       {
-        "name": "Trent Grisham",
+        "name": "Spencer G. Jones",
         "rank": 1
       }
     ],
     "RF": [
       {
-        "name": "Spencer G. Jones",
+        "name": "Heliot Ramos",
         "rank": 1
       }
     ],
@@ -160,6 +160,7 @@
     "George Lombard Jr.",
     "Gerrit Cole",
     "Giancarlo Stanton",
+    "Heliot Ramos",
     "Jazz Chisholm",
     "John Schreiber",
     "Kervin Castro",
@@ -174,7 +175,6 @@
     "Ryan Yarbrough",
     "Spencer G. Jones",
     "Tim Hill",
-    "Trent Grisham",
     "Will Warren"
   ]
 }
