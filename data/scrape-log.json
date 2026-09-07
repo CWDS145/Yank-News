@@ -2,14 +2,6 @@
   "entries": [
     {
       "timestamp": "2026-09-07T03:49:57Z",
-      "source": "MLB StatsAPI: roster fullSeason",
-      "url": "https://statsapi.mlb.com/api/v1/teams/147/roster?rosterType=fullSeason&season=2026",
-      "status": 200,
-      "items": 47,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-09-07T03:49:57Z",
       "source": "MLB StatsAPI: schedule",
       "url": "https://statsapi.mlb.com/api/v1/schedule?sportId=1&teamId=147&startDate=2026-08-31&endDate=2026-09-14",
       "status": 200,
@@ -3999,6 +3991,14 @@
       "status": 200,
       "items": 67,
       "note": "ok=67/67"
+    },
+    {
+      "timestamp": "2026-09-07T10:09:06Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 30,
+      "note": "ok"
     }
   ]
 }
