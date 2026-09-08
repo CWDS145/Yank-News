@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T04:16:44Z",
+  "updated": "2026-09-08T04:39:43Z",
   "count": 71,
   "items": [
     {
@@ -70,9 +70,9 @@
     },
     {
       "date": "2026-08-29",
-      "type": "sent",
-      "player": "Clarke Schmidt",
-      "description": "Sent to Minors For Rehabilitation"
+      "type": "signed",
+      "player": "Jarred Kelenic",
+      "description": "Signed to a Minor League Contract"
     },
     {
       "date": "2026-08-29",
@@ -88,9 +88,9 @@
     },
     {
       "date": "2026-08-29",
-      "type": "signed",
-      "player": "Jarred Kelenic",
-      "description": "Signed to a Minor League Contract"
+      "type": "sent",
+      "player": "Clarke Schmidt",
+      "description": "Sent to Minors For Rehabilitation"
     },
     {
       "date": "2026-08-29",
@@ -130,15 +130,15 @@
     },
     {
       "date": "2026-08-26",
-      "type": "placed",
-      "player": "Fernando Cruz",
-      "description": "Placed on 15-Day IL (Right elbow discomfort)"
-    },
-    {
-      "date": "2026-08-26",
       "type": "signed",
       "player": "Michael Fulmer",
       "description": "Signed as Free Agent  ( 2026)(one-year contract)"
+    },
+    {
+      "date": "2026-08-26",
+      "type": "placed",
+      "player": "Fernando Cruz",
+      "description": "Placed on 15-Day IL (Right elbow discomfort)"
     },
     {
       "date": "2026-08-25",
@@ -184,15 +184,15 @@
     },
     {
       "date": "2026-08-22",
-      "type": "signed",
-      "player": "Elijah Morgan",
-      "description": "Signed to a Minor League Contract"
-    },
-    {
-      "date": "2026-08-22",
       "type": "sent",
       "player": "Max Schuemann",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-08-22",
+      "type": "signed",
+      "player": "Elijah Morgan",
+      "description": "Signed to a Minor League Contract"
     },
     {
       "date": "2026-08-21",
@@ -238,15 +238,15 @@
     },
     {
       "date": "2026-08-11",
-      "type": "called up",
-      "player": "Bradley Hanner",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-08-11",
       "type": "placed",
       "player": "Kervin Castro",
       "description": "Placed on 15-Day IL (Right elbow neuritis)"
+    },
+    {
+      "date": "2026-08-11",
+      "type": "called up",
+      "player": "Bradley Hanner",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-08-08",
@@ -262,20 +262,20 @@
     },
     {
       "date": "2026-08-04",
-      "type": "called up",
-      "player": "Yerry De Los Santos",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-08-04",
       "type": "purchased",
       "player": "George Lombard Jr.",
       "description": "Purchased From Minors"
     },
     {
+      "date": "2026-08-04",
+      "type": "called up",
+      "player": "Yerry De Los Santos",
+      "description": "Called Up from Minors"
+    },
+    {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Max Schuemann",
+      "player": "Anthony Volpe",
       "description": "Sent to Minors"
     },
     {
@@ -287,19 +287,19 @@
     {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Angel Chivilli",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-08-03",
-      "type": "sent",
       "player": "Jasson Dominguez",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Anthony Volpe",
+      "player": "Angel Chivilli",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-08-03",
+      "type": "sent",
+      "player": "Max Schuemann",
       "description": "Sent to Minors"
     },
     {
@@ -346,21 +346,9 @@
     },
     {
       "date": "2026-07-22",
-      "type": "recalled",
-      "player": "Spencer Jones",
-      "description": "Called Up from Minors (recalled as 27th roster player)"
-    },
-    {
-      "date": "2026-07-22",
       "type": "",
       "player": "Spencer Jones",
       "description": "Return of 27th man"
-    },
-    {
-      "date": "2026-07-22",
-      "type": "",
-      "player": "Max Fried",
-      "description": "Removed From 15-Day IL (Left elbow bone bruise)"
     },
     {
       "date": "2026-07-22",
@@ -370,15 +358,27 @@
     },
     {
       "date": "2026-07-22",
+      "type": "recalled",
+      "player": "Spencer Jones",
+      "description": "Called Up from Minors (recalled as 27th roster player)"
+    },
+    {
+      "date": "2026-07-22",
       "type": "sent",
       "player": "Kervin Castro",
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-07-19",
+      "date": "2026-07-22",
       "type": "",
-      "player": "Elmer Rodriguez",
-      "description": "Return of 27th man"
+      "player": "Max Fried",
+      "description": "Removed From 15-Day IL (Left elbow bone bruise)"
+    },
+    {
+      "date": "2026-07-19",
+      "type": "sent",
+      "player": "Jacob Bird",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-07-19",
@@ -394,9 +394,9 @@
     },
     {
       "date": "2026-07-19",
-      "type": "sent",
-      "player": "Jacob Bird",
-      "description": "Sent to Minors"
+      "type": "",
+      "player": "Elmer Rodriguez",
+      "description": "Return of 27th man"
     },
     {
       "date": "2026-07-18",
