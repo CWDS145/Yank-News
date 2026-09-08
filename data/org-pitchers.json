@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T19:31:07Z",
+  "updated": "2026-09-08T19:56:37Z",
   "season": 2026,
   "pitchers": [
     {
@@ -308,10 +308,10 @@
       "id": 802374,
       "name": "Brady Kirtner",
       "position": "P",
-      "level": "High-A",
-      "level_since": "2026-04-02",
-      "prior_level": null,
-      "prior_level_since": null,
+      "level": "AA",
+      "level_since": "2026-09-08",
+      "prior_level": "High-A",
+      "prior_level_since": "2026-04-02",
       "season": {
         "w": 4,
         "l": 3,
@@ -722,10 +722,10 @@
       "id": 810102,
       "name": "Chris Veach",
       "position": "P",
-      "level": "High-A",
-      "level_since": "2026-09-02",
-      "prior_level": "AA",
-      "prior_level_since": "2026-05-19",
+      "level": "AA",
+      "level_since": "2026-09-08",
+      "prior_level": "High-A",
+      "prior_level_since": "2026-09-02",
       "season": {
         "w": 3,
         "l": 2,
@@ -1842,45 +1842,6 @@
       "season_levels": [
         "MLB",
         "AAA"
-      ]
-    },
-    {
-      "id": 805728,
-      "name": "Kevin Stevens",
-      "position": "P",
-      "level": "AA",
-      "level_since": "2026-07-16",
-      "prior_level": "High-A",
-      "prior_level_since": "2026-06-30",
-      "season": {
-        "w": 0,
-        "l": 0,
-        "g": 20,
-        "gs": 0,
-        "cg": 0,
-        "sho": 0,
-        "sv": 3,
-        "svo": 3,
-        "ip": "19.1",
-        "ip_outs": 58,
-        "h": 22,
-        "r": 15,
-        "er": 11,
-        "hr": 3,
-        "hb": 0,
-        "bb": 5,
-        "so": 27,
-        "era": "5.12",
-        "era_num": 5.120689655172414,
-        "whip": "1.40",
-        "whip_num": 1.396551724137931,
-        "avg": ".272",
-        "avg_num": 0.2716049382716049
-      },
-      "season_levels": [
-        "AA",
-        "High-A",
-        "Low-A"
       ]
     },
     {
