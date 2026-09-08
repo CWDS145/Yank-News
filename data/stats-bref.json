@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-07T14:14:12Z",
+  "updated": "2026-09-08T14:15:11Z",
   "source": "Baseball-Reference",
   "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
   "season": 2026,
   "scrape_attempt": {
     "status": "ok",
     "http_status": 200,
-    "duration_ms": 260,
+    "duration_ms": 222,
     "note": "tables: bat_id=players_standard_batting pit_id=players_standard_pitching batters=25 pitchers=26"
   },
   "team_record": {
@@ -36,7 +36,7 @@
     "OPS": ".718",
     "OPS+": "99",
     "TB": "1921",
-    "rWAR": "18.1"
+    "rWAR": "17.7"
   },
   "team_pitching": {
     "name": "Team Totals",
@@ -57,7 +57,7 @@
     "ERA+": "131",
     "FIP": "3.69",
     "WHIP": "1.167",
-    "rWAR": "23.7"
+    "rWAR": "24.4"
   },
   "batters": [
     {
@@ -79,7 +79,7 @@
       "OBP": ".279",
       "SLG": ".309",
       "OPS": ".588",
-      "OPS+": "65",
+      "OPS+": "64",
       "TB": "92",
       "rWAR": "0.6"
     },
@@ -104,7 +104,7 @@
       "OPS": ".772",
       "OPS+": "113",
       "TB": "149",
-      "rWAR": "1.4"
+      "rWAR": "1.5"
     },
     {
       "name": "Jazz Chisholm Jr.",
@@ -127,7 +127,7 @@
       "OPS": ".713",
       "OPS+": "98",
       "TB": "184",
-      "rWAR": "1.5"
+      "rWAR": "1.4"
     },
     {
       "name": "José Caballero",
@@ -265,7 +265,7 @@
       "OPS": ".878",
       "OPS+": "142",
       "TB": "269",
-      "rWAR": "3.0"
+      "rWAR": "2.9"
     },
     {
       "name": "Amed Rosario",
@@ -288,7 +288,7 @@
       "OPS": ".701",
       "OPS+": "93",
       "TB": "88",
-      "rWAR": "-0.1"
+      "rWAR": "-0.2"
     },
     {
       "name": "Spencer Jones",
@@ -334,7 +334,7 @@
       "OPS": ".644",
       "OPS+": "78",
       "TB": "77",
-      "rWAR": "-0.1"
+      "rWAR": "-0.2"
     },
     {
       "name": "Anthony Volpe",
@@ -357,7 +357,7 @@
       "OPS": ".646",
       "OPS+": "82",
       "TB": "55",
-      "rWAR": "1.1"
+      "rWAR": "1.0"
     },
     {
       "name": "Luis García Jr.",
@@ -403,7 +403,7 @@
       "OPS": ".641",
       "OPS+": "79",
       "TB": "31",
-      "rWAR": "0.8"
+      "rWAR": "1.0"
     },
     {
       "name": "Giancarlo Stanton",
@@ -518,7 +518,7 @@
       "OPS": ".573",
       "OPS+": "60",
       "TB": "21",
-      "rWAR": "0.0"
+      "rWAR": "-0.1"
     },
     {
       "name": "Randal Grichuk",
@@ -541,7 +541,7 @@
       "OPS": ".535",
       "OPS+": "47",
       "TB": "10",
-      "rWAR": "-0.3"
+      "rWAR": "-0.4"
     },
     {
       "name": "Oswaldo Cabrera",
@@ -654,9 +654,9 @@
       "SO": "210",
       "HR": "15",
       "ERA+": "206",
-      "FIP": "2.63",
+      "FIP": "2.62",
       "WHIP": "0.938",
-      "rWAR": "6.3"
+      "rWAR": "6.4"
     },
     {
       "name": "Ryan Weathers",
@@ -677,7 +677,7 @@
       "ERA+": "117",
       "FIP": "3.61",
       "WHIP": "1.223",
-      "rWAR": "2.2"
+      "rWAR": "2.3"
     },
     {
       "name": "Will Warren",
@@ -696,7 +696,7 @@
       "SO": "133",
       "HR": "20",
       "ERA+": "101",
-      "FIP": "4.18",
+      "FIP": "4.17",
       "WHIP": "1.379",
       "rWAR": "0.7"
     },
@@ -719,7 +719,7 @@
       "ERA+": "124",
       "FIP": "3.70",
       "WHIP": "1.090",
-      "rWAR": "2.5"
+      "rWAR": "2.6"
     },
     {
       "name": "Max Fried",
@@ -759,9 +759,9 @@
       "SO": "70",
       "HR": "6",
       "ERA+": "136",
-      "FIP": "3.82",
+      "FIP": "3.81",
       "WHIP": "1.172",
-      "rWAR": "1.1"
+      "rWAR": "1.2"
     },
     {
       "name": "David Bednar",
@@ -803,7 +803,7 @@
       "ERA+": "245",
       "FIP": "3.71",
       "WHIP": "1.034",
-      "rWAR": "2.8"
+      "rWAR": "2.9"
     },
     {
       "name": "Brent Headrick",
@@ -843,7 +843,7 @@
       "SO": "67",
       "HR": "7",
       "ERA+": "135",
-      "FIP": "4.18",
+      "FIP": "4.17",
       "WHIP": "1.335",
       "rWAR": "1.1"
     },
@@ -885,7 +885,7 @@
       "SO": "39",
       "HR": "3",
       "ERA+": "108",
-      "FIP": "3.78",
+      "FIP": "3.77",
       "WHIP": "1.226",
       "rWAR": "0.0"
     },
@@ -989,7 +989,7 @@
       "BB": "8",
       "SO": "15",
       "HR": "2",
-      "ERA+": "316",
+      "ERA+": "317",
       "FIP": "4.10",
       "WHIP": "1.200",
       "rWAR": "0.3"
@@ -1031,7 +1031,7 @@
       "BB": "5",
       "SO": "5",
       "HR": "4",
-      "ERA+": "53",
+      "ERA+": "54",
       "FIP": "10.53",
       "WHIP": "1.565",
       "rWAR": "-0.2"
