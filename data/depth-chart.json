@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T10:09:06Z",
+  "updated": "2026-09-08T10:09:03Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -54,7 +54,7 @@
     ],
     "RF": [
       {
-        "name": "Jasson Dominguez",
+        "name": "Aaron Judge",
         "rank": 1
       }
     ],
@@ -132,20 +132,17 @@
         "rank": 8
       },
       {
-        "name": "Elmer Rodriguez-Cruz",
+        "name": "Kervin Castro",
         "rank": 9
       },
       {
-        "name": "Kervin Castro",
-        "rank": 10
-      },
-      {
         "name": "Fernando E. Cruz",
-        "rank": 11
+        "rank": 10
       }
     ]
   },
   "all_players": [
+    "Aaron Judge",
     "Ali Sanchez",
     "Austin Wells",
     "Ben Rice",
@@ -155,12 +152,10 @@
     "Clarke Schmidt",
     "Cody Bellinger",
     "David Bednar",
-    "Elmer Rodriguez-Cruz",
     "Fernando E. Cruz",
     "George Lombard Jr.",
     "Gerrit Cole",
     "Giancarlo Stanton",
-    "Jasson Dominguez",
     "Jazz Chisholm",
     "John Schreiber",
     "Kervin Castro",
