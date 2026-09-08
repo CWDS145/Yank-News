@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T13:15:11Z",
+  "updated": "2026-09-08T13:37:45Z",
   "count": 71,
   "items": [
     {
@@ -112,15 +112,15 @@
     },
     {
       "date": "2026-08-26",
-      "type": "sent",
-      "player": "Bradley Hanner",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-08-26",
       "type": "signed",
       "player": "Michael Fulmer",
       "description": "Signed as Free Agent  ( 2026)(one-year contract)"
+    },
+    {
+      "date": "2026-08-26",
+      "type": "sent",
+      "player": "Bradley Hanner",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-08-26",
