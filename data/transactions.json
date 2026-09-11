@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T03:40:53Z",
+  "updated": "2026-09-11T04:17:46Z",
   "count": 72,
   "items": [
     {
@@ -94,12 +94,6 @@
     },
     {
       "date": "2026-08-29",
-      "type": "signed",
-      "player": "Jarred Kelenic",
-      "description": "Signed to a Minor League Contract"
-    },
-    {
-      "date": "2026-08-29",
       "type": "",
       "player": "Max Fried",
       "description": "Removed From 15-Day IL (Left elbow bone bruise)"
@@ -117,6 +111,24 @@
       "description": "Called Up from Minors (recalled as 27th roster player)"
     },
     {
+      "date": "2026-08-29",
+      "type": "signed",
+      "player": "Jarred Kelenic",
+      "description": "Signed to a Minor League Contract"
+    },
+    {
+      "date": "2026-08-26",
+      "type": "placed",
+      "player": "Fernando Cruz",
+      "description": "Placed on 15-Day IL (Right elbow discomfort)"
+    },
+    {
+      "date": "2026-08-26",
+      "type": "called up",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors"
+    },
+    {
       "date": "2026-08-26",
       "type": "sent",
       "player": "Bradley Hanner",
@@ -127,18 +139,6 @@
       "type": "transferred",
       "player": "Kervin Castro",
       "description": "Transferred to 60-Day IL (Right elbow neuritis)"
-    },
-    {
-      "date": "2026-08-26",
-      "type": "called up",
-      "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-08-26",
-      "type": "placed",
-      "player": "Fernando Cruz",
-      "description": "Placed on 15-Day IL (Right elbow discomfort)"
     },
     {
       "date": "2026-08-26",
@@ -190,15 +190,15 @@
     },
     {
       "date": "2026-08-22",
-      "type": "signed",
-      "player": "Elijah Morgan",
-      "description": "Signed to a Minor League Contract"
-    },
-    {
-      "date": "2026-08-22",
       "type": "sent",
       "player": "Max Schuemann",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-08-22",
+      "type": "signed",
+      "player": "Elijah Morgan",
+      "description": "Signed to a Minor League Contract"
     },
     {
       "date": "2026-08-21",
@@ -280,15 +280,15 @@
     },
     {
       "date": "2026-08-03",
-      "type": "traded",
-      "player": "Heliot Ramos",
-      "description": "Traded From San Francisco (for LHP Henry Lalane, three-player deal)"
+      "type": "sent",
+      "player": "Jasson Dominguez",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-08-03",
-      "type": "sent",
-      "player": "Max Schuemann",
-      "description": "Sent to Minors"
+      "type": "called up",
+      "player": "Kervin Castro",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-08-03",
@@ -299,14 +299,14 @@
     {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Jasson Dominguez",
+      "player": "Max Schuemann",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-08-03",
-      "type": "called up",
-      "player": "Kervin Castro",
-      "description": "Called Up from Minors"
+      "type": "traded",
+      "player": "Heliot Ramos",
+      "description": "Traded From San Francisco (for LHP Henry Lalane, three-player deal)"
     },
     {
       "date": "2026-08-03",
@@ -352,21 +352,9 @@
     },
     {
       "date": "2026-07-22",
-      "type": "",
-      "player": "Max Fried",
-      "description": "Removed From 15-Day IL (Left elbow bone bruise)"
-    },
-    {
-      "date": "2026-07-22",
       "type": "sent",
       "player": "Kervin Castro",
       "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-07-22",
-      "type": "recalled",
-      "player": "Max Fried",
-      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-07-22",
@@ -379,6 +367,30 @@
       "type": "recalled",
       "player": "Spencer Jones",
       "description": "Called Up from Minors (recalled as 27th roster player)"
+    },
+    {
+      "date": "2026-07-22",
+      "type": "recalled",
+      "player": "Max Fried",
+      "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-07-22",
+      "type": "",
+      "player": "Max Fried",
+      "description": "Removed From 15-Day IL (Left elbow bone bruise)"
+    },
+    {
+      "date": "2026-07-19",
+      "type": "recalled",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors (recalled as 27th roster player)"
+    },
+    {
+      "date": "2026-07-19",
+      "type": "",
+      "player": "Elmer Rodriguez",
+      "description": "Return of 27th man"
     },
     {
       "date": "2026-07-19",
@@ -393,28 +405,16 @@
       "description": "Called Up from Minors"
     },
     {
-      "date": "2026-07-19",
-      "type": "",
-      "player": "Elmer Rodriguez",
-      "description": "Return of 27th man"
-    },
-    {
-      "date": "2026-07-19",
-      "type": "recalled",
-      "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors (recalled as 27th roster player)"
+      "date": "2026-07-18",
+      "type": "sent",
+      "player": "Bradley Hanner",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-07-18",
       "type": "transferred",
       "player": "Aaron Judge",
       "description": "Transferred to 60-Day IL (Right rib stress fracture)"
-    },
-    {
-      "date": "2026-07-18",
-      "type": "sent",
-      "player": "Bradley Hanner",
-      "description": "Sent to Minors"
     },
     {
       "date": "2026-07-18",
