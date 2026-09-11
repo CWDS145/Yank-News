@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T19:29:40Z",
+  "updated": "2026-09-11T19:56:09Z",
   "season": 2026,
   "pitchers": [
     {
@@ -679,6 +679,43 @@
         "AAA",
         "AA",
         "High-A"
+      ]
+    },
+    {
+      "id": 679693,
+      "name": "Carson Coleman",
+      "position": "P",
+      "level": "AAA",
+      "level_since": "2026-03-26",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "w": 1,
+        "l": 0,
+        "g": 37,
+        "gs": 1,
+        "cg": 0,
+        "sho": 0,
+        "sv": 3,
+        "svo": 6,
+        "ip": "44.0",
+        "ip_outs": 132,
+        "h": 51,
+        "r": 40,
+        "er": 39,
+        "hr": 5,
+        "hb": 1,
+        "bb": 25,
+        "so": 44,
+        "era": "7.98",
+        "era_num": 7.9772727272727275,
+        "whip": "1.73",
+        "whip_num": 1.7272727272727273,
+        "avg": ".287",
+        "avg_num": 0.28651685393258425
+      },
+      "season_levels": [
+        "AAA"
       ]
     },
     {
