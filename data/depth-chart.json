@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T10:08:31Z",
+  "updated": "2026-09-11T10:08:22Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -24,7 +24,7 @@
     ],
     "2B": [
       {
-        "name": "Jose Caballero",
+        "name": "Anthony Volpe",
         "rank": 1
       },
       {
@@ -148,6 +148,7 @@
   "all_players": [
     "Aaron Judge",
     "Ali Sanchez",
+    "Anthony Volpe",
     "Austin Wells",
     "Ben Rice",
     "Brent Headrick",
@@ -162,7 +163,6 @@
     "Giancarlo Stanton",
     "Jazz Chisholm",
     "John Schreiber",
-    "Jose Caballero",
     "Kervin Castro",
     "Luis Gil",
     "Luis V. Garcia",
