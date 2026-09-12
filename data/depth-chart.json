@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T10:08:22Z",
+  "updated": "2026-09-12T10:07:17Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -124,7 +124,7 @@
         "rank": 5
       },
       {
-        "name": "Ryan Yarbrough",
+        "name": "Michael Fulmer",
         "rank": 6
       },
       {
@@ -132,16 +132,20 @@
         "rank": 7
       },
       {
-        "name": "Michael Fulmer",
+        "name": "Bradley Hanner",
         "rank": 8
       },
       {
-        "name": "Kervin Castro",
+        "name": "Ryan Yarbrough",
         "rank": 9
       },
       {
-        "name": "Fernando E. Cruz",
+        "name": "Kervin Castro",
         "rank": 10
+      },
+      {
+        "name": "Fernando E. Cruz",
+        "rank": 11
       }
     ]
   },
@@ -151,6 +155,7 @@
     "Anthony Volpe",
     "Austin Wells",
     "Ben Rice",
+    "Bradley Hanner",
     "Brent Headrick",
     "Cam Schlittler",
     "Carlos Rodon",
