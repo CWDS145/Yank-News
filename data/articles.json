@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T13:35:47Z",
+  "updated": "2026-09-12T14:11:43Z",
   "count": 68,
   "items": [
     {
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-09-12T13:35:47Z",
+      "published": "2026-09-12T14:11:43Z",
       "image": null
     },
     {
@@ -17,7 +17,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/new-york-yankees-recognize-the-25th-anniversary-of-9-11-with-commemorative-activities-and-outreach-on-and-off-the-field-those-lost-and-impacted-by-the-tragedy-to-be-honored-in-pregame-ceremonies-on-f/",
-      "published": "2026-09-12T13:35:47Z",
+      "published": "2026-09-12T14:11:43Z",
       "image": null
     },
     {
@@ -26,7 +26,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/former-new-york-yankees-fan-favorite-nick-swisher-and-the-sandlot-actor-chauncey-leopardi-to-star-in-third-season-of-award-winning-hexclad-presents-bronx-buds-premiering-this-saturday-august-8-on-th/",
-      "published": "2026-09-12T13:35:47Z",
+      "published": "2026-09-12T14:11:43Z",
       "image": null
     },
     {
@@ -35,7 +35,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-outfielder-heliot-ramos/",
-      "published": "2026-09-12T13:35:47Z",
+      "published": "2026-09-12T14:11:43Z",
       "image": null
     },
     {
@@ -44,7 +44,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-infielder-luis-garcia-jr/",
-      "published": "2026-09-12T13:35:47Z",
+      "published": "2026-09-12T14:11:43Z",
+      "image": null
+    },
+    {
+      "title": "Yanks prospect Cunningham closes his year at Double-A with season-best start",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "",
+      "link": "https://www.mlb.com/yankees/news/yankees-prospect-bryce-cunningham-pitches-7-shutout-innings-at-double-a",
+      "published": "2026-09-12T13:37:30Z",
       "image": null
     },
     {
@@ -603,15 +612,6 @@
       "author": "Bryan Hoch",
       "link": "https://www.mlb.com/yankees/news/ben-rice-tony-gwynn-comparisons-yankees-win-san-diego",
       "published": "2026-09-06T04:06:00Z",
-      "image": null
-    },
-    {
-      "title": "Right hamstring strain sends Grisham back to IL; Yanks recall Domínguez",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch",
-      "link": "https://www.mlb.com/yankees/news/trent-grisham-exits-yankees-game-with-right-hamstring-discomfort",
-      "published": "2026-09-05T22:49:00Z",
       "image": null
     }
   ]
