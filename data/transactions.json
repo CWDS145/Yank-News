@@ -1,17 +1,11 @@
 {
-  "updated": "2026-09-13T01:27:53Z",
+  "updated": "2026-09-13T01:51:44Z",
   "count": 76,
   "items": [
     {
       "date": "2026-09-11",
       "type": "called up",
       "player": "Bradley Hanner",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-09-10",
-      "type": "called up",
-      "player": "Anthony Volpe",
       "description": "Called Up from Minors"
     },
     {
@@ -25,6 +19,12 @@
       "type": "placed",
       "player": "Jazz Chisholm Jr.",
       "description": "Placed on 10-Day IL (Sprained right thumb)"
+    },
+    {
+      "date": "2026-09-10",
+      "type": "called up",
+      "player": "Anthony Volpe",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-09-07",
@@ -77,14 +77,14 @@
     {
       "date": "2026-08-31",
       "type": "",
-      "player": "John Schreiber",
-      "description": "Acquired Off Waivers From Kansas City"
+      "player": "Justin Topa",
+      "description": "Refused Minor League Assignment - Free Agent"
     },
     {
       "date": "2026-08-31",
       "type": "",
-      "player": "Justin Topa",
-      "description": "Refused Minor League Assignment - Free Agent"
+      "player": "John Schreiber",
+      "description": "Acquired Off Waivers From Kansas City"
     },
     {
       "date": "2026-08-30",
@@ -100,9 +100,21 @@
     },
     {
       "date": "2026-08-29",
-      "type": "",
+      "type": "designated",
+      "player": "Justin Topa",
+      "description": "Designated for Assignment"
+    },
+    {
+      "date": "2026-08-29",
+      "type": "recalled",
       "player": "Brendan Beck",
-      "description": "Return of 27th man"
+      "description": "Called Up from Minors (recalled as 27th roster player)"
+    },
+    {
+      "date": "2026-08-29",
+      "type": "",
+      "player": "Max Fried",
+      "description": "Removed From 15-Day IL (Left elbow bone bruise)"
     },
     {
       "date": "2026-08-29",
@@ -113,14 +125,8 @@
     {
       "date": "2026-08-29",
       "type": "",
-      "player": "Max Fried",
-      "description": "Removed From 15-Day IL (Left elbow bone bruise)"
-    },
-    {
-      "date": "2026-08-29",
-      "type": "recalled",
       "player": "Brendan Beck",
-      "description": "Called Up from Minors (recalled as 27th roster player)"
+      "description": "Return of 27th man"
     },
     {
       "date": "2026-08-29",
@@ -133,12 +139,6 @@
       "type": "sent",
       "player": "Clarke Schmidt",
       "description": "Sent to Minors For Rehabilitation"
-    },
-    {
-      "date": "2026-08-29",
-      "type": "designated",
-      "player": "Justin Topa",
-      "description": "Designated for Assignment"
     },
     {
       "date": "2026-08-26",
@@ -317,13 +317,13 @@
     {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Jasson Dominguez",
+      "player": "Anthony Volpe",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Anthony Volpe",
+      "player": "Jasson Dominguez",
       "description": "Sent to Minors"
     },
     {
