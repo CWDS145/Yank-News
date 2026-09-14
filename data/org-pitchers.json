@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T06:57:46Z",
+  "updated": "2026-09-14T07:44:40Z",
   "season": 2026,
   "pitchers": [
     {
@@ -2650,9 +2650,9 @@
       "name": "Trent Sellers",
       "position": "P",
       "level": "AA",
-      "level_since": "2026-08-27",
-      "prior_level": "AAA",
-      "prior_level_since": "2026-08-23",
+      "level_since": null,
+      "prior_level": null,
+      "prior_level_since": null,
       "season": {
         "w": 4,
         "l": 4,
