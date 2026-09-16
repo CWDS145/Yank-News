@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T18:33:08Z",
+  "updated": "2026-09-16T18:53:33Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-09-06",
@@ -201,9 +201,9 @@
       "name": "Austin Wells",
       "position": "C",
       "level": "MLB",
-      "level_since": null,
-      "prior_level": null,
-      "prior_level_since": null,
+      "level_since": "2026-06-21",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-06-16",
       "season": {
         "ab": 330,
         "k": 103,
@@ -882,20 +882,20 @@
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 401,
+        "ab": 402,
         "k": 111,
         "avg": ".264",
-        "ops": ".812",
-        "avg_num": 0.26433915211970077,
-        "ops_num": 0.8118194098088113
+        "ops": ".810",
+        "avg_num": 0.263681592039801,
+        "ops_num": 0.8099523174150041
       },
       "last_10": {
-        "ab": 30,
+        "ab": 31,
         "k": 8,
-        "avg": ".200",
-        "ops": ".639",
-        "avg_num": 0.2,
-        "ops_num": 0.6393939393939394
+        "avg": ".194",
+        "ops": ".620",
+        "avg_num": 0.1935483870967742,
+        "ops_num": 0.6195445920303606
       },
       "season_levels": [
         "MLB",
@@ -1413,20 +1413,20 @@
       "prior_level": null,
       "prior_level_since": null,
       "season": {
-        "ab": 491,
-        "k": 88,
+        "ab": 492,
+        "k": 89,
         "avg": ".285",
-        "ops": ".858",
-        "avg_num": 0.285132382892057,
-        "ops_num": 0.8576430003631255
+        "ops": ".856",
+        "avg_num": 0.2845528455284553,
+        "ops_num": 0.8559308707206994
       },
       "last_10": {
-        "ab": 33,
-        "k": 6,
-        "avg": ".303",
-        "ops": ".818",
-        "avg_num": 0.30303030303030304,
-        "ops_num": 0.8181818181818181
+        "ab": 34,
+        "k": 7,
+        "avg": ".294",
+        "ops": ".794",
+        "avg_num": 0.29411764705882354,
+        "ops_num": 0.7941176470588236
       },
       "season_levels": [
         "MLB"
@@ -1804,20 +1804,20 @@
       "prior_level": "AAA",
       "prior_level_since": "2026-07-23",
       "season": {
-        "ab": 423,
-        "k": 162,
-        "avg": ".265",
-        "ops": ".855",
-        "avg_num": 0.2647754137115839,
-        "ops_num": 0.8547850450923737
+        "ab": 424,
+        "k": 163,
+        "avg": ".264",
+        "ops": ".853",
+        "avg_num": 0.2641509433962264,
+        "ops_num": 0.8528776490643524
       },
       "last_10": {
-        "ab": 33,
-        "k": 11,
-        "avg": ".333",
-        "ops": ".890",
-        "avg_num": 0.3333333333333333,
-        "ops_num": 0.8902538902538903
+        "ab": 34,
+        "k": 12,
+        "avg": ".324",
+        "ops": ".865",
+        "avg_num": 0.3235294117647059,
+        "ops_num": 0.8653250773993808
       },
       "season_levels": [
         "MLB",
