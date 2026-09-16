@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T22:12:49Z",
+  "updated": "2026-09-16T22:36:41Z",
   "count": 78,
   "items": [
     {
@@ -214,6 +214,12 @@
     },
     {
       "date": "2026-08-23",
+      "type": "",
+      "player": "Cody Bellinger",
+      "description": "Removed From 10-Day IL (Strained left hamstring - out 4-6 weeks)"
+    },
+    {
+      "date": "2026-08-23",
       "type": "recalled",
       "player": "Cody Bellinger",
       "description": "Recalled From Minors Rehab Assignment"
@@ -223,12 +229,6 @@
       "type": "placed",
       "player": "Ryan Weathers",
       "description": "Placed on 15-Day IL (Left forearm, flexor strain)"
-    },
-    {
-      "date": "2026-08-23",
-      "type": "",
-      "player": "Cody Bellinger",
-      "description": "Removed From 10-Day IL (Strained left hamstring - out 4-6 weeks)"
     },
     {
       "date": "2026-08-23",
@@ -268,15 +268,15 @@
     },
     {
       "date": "2026-08-18",
-      "type": "",
-      "player": "Carlos Rodon",
-      "description": "Removed From 15-Day IL (Left elbow inflammation)"
-    },
-    {
-      "date": "2026-08-18",
       "type": "recalled",
       "player": "Carlos Rodon",
       "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-08-18",
+      "type": "",
+      "player": "Carlos Rodon",
+      "description": "Removed From 15-Day IL (Left elbow inflammation)"
     },
     {
       "date": "2026-08-17",
@@ -316,21 +316,21 @@
     },
     {
       "date": "2026-08-04",
-      "type": "purchased",
-      "player": "George Lombard Jr.",
-      "description": "Purchased From Minors"
-    },
-    {
-      "date": "2026-08-04",
       "type": "called up",
       "player": "Yerry De Los Santos",
       "description": "Called Up from Minors"
     },
     {
+      "date": "2026-08-04",
+      "type": "purchased",
+      "player": "George Lombard Jr.",
+      "description": "Purchased From Minors"
+    },
+    {
       "date": "2026-08-03",
-      "type": "called up",
-      "player": "Kervin Castro",
-      "description": "Called Up from Minors"
+      "type": "sent",
+      "player": "Jasson Dominguez",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-08-03",
@@ -346,6 +346,12 @@
     },
     {
       "date": "2026-08-03",
+      "type": "called up",
+      "player": "Kervin Castro",
+      "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-08-03",
       "type": "sent",
       "player": "Max Schuemann",
       "description": "Sent to Minors"
@@ -354,12 +360,6 @@
       "date": "2026-08-03",
       "type": "sent",
       "player": "Anthony Volpe",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-08-03",
-      "type": "sent",
-      "player": "Jasson Dominguez",
       "description": "Sent to Minors"
     },
     {
@@ -388,15 +388,15 @@
     },
     {
       "date": "2026-07-26",
-      "type": "called up",
-      "player": "Spencer Jones",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-07-26",
       "type": "placed",
       "player": "Cody Bellinger",
       "description": "Placed on 10-Day IL (Strained left hamstring - out 4-6 weeks)"
+    },
+    {
+      "date": "2026-07-26",
+      "type": "called up",
+      "player": "Spencer Jones",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-07-22",
