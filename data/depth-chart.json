@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T10:08:49Z",
+  "updated": "2026-09-17T10:08:55Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -94,12 +94,8 @@
         "rank": 5
       },
       {
-        "name": "Clarke Schmidt",
-        "rank": 6
-      },
-      {
         "name": "Ryan Weathers",
-        "rank": 7
+        "rank": 6
       }
     ],
     "RP": [
@@ -124,15 +120,15 @@
         "rank": 5
       },
       {
-        "name": "Tim Hill",
+        "name": "Michael Fulmer",
         "rank": 6
       },
       {
-        "name": "Michael Fulmer",
+        "name": "Tim Hill",
         "rank": 7
       },
       {
-        "name": "Bradley Hanner",
+        "name": "Clarke Schmidt",
         "rank": 8
       },
       {
@@ -155,7 +151,6 @@
     "Anthony Volpe",
     "Austin Wells",
     "Ben Rice",
-    "Bradley Hanner",
     "Brent Headrick",
     "Cam Schlittler",
     "Carlos Rodon",
