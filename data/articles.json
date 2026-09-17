@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-16T23:35:34Z",
-  "count": 70,
+  "updated": "2026-09-17T00:38:57Z",
+  "count": 71,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-09-16T23:35:34Z",
+      "published": "2026-09-17T00:38:57Z",
       "image": null
     },
     {
@@ -17,7 +17,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/new-york-yankees-recognize-the-25th-anniversary-of-9-11-with-commemorative-activities-and-outreach-on-and-off-the-field-those-lost-and-impacted-by-the-tragedy-to-be-honored-in-pregame-ceremonies-on-f/",
-      "published": "2026-09-16T23:35:34Z",
+      "published": "2026-09-17T00:38:57Z",
       "image": null
     },
     {
@@ -26,7 +26,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/former-new-york-yankees-fan-favorite-nick-swisher-and-the-sandlot-actor-chauncey-leopardi-to-star-in-third-season-of-award-winning-hexclad-presents-bronx-buds-premiering-this-saturday-august-8-on-th/",
-      "published": "2026-09-16T23:35:34Z",
+      "published": "2026-09-17T00:38:57Z",
       "image": null
     },
     {
@@ -35,7 +35,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-outfielder-heliot-ramos/",
-      "published": "2026-09-16T23:35:34Z",
+      "published": "2026-09-17T00:38:57Z",
       "image": null
     },
     {
@@ -44,7 +44,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-infielder-luis-garcia-jr/",
-      "published": "2026-09-16T23:35:34Z",
+      "published": "2026-09-17T00:38:57Z",
       "image": null
     },
     {
@@ -53,7 +53,16 @@
       "source": "MLB.com Yankees",
       "author": "Brendan Samson",
       "link": "https://www.mlb.com/yankees/news/watch-minor-league-baseball-games-for-free-2026",
-      "published": "2026-09-16T23:23:00Z",
+      "published": "2026-09-17T00:00:00Z",
+      "image": null
+    },
+    {
+      "title": "Here are the breakout prospects of the year -- one for each team",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Jonathan Mayo, Jim Callis and Sam Dykstra",
+      "link": "https://www.mlb.com/yankees/news/one-breakout-prospect-from-each-mlb-club-2026",
+      "published": "2026-09-16T23:45:00Z",
       "image": null
     },
     {
@@ -202,7 +211,7 @@
     },
     {
       "title": "Yankees Birthday of the Day: Tim Raines",
-      "summary": "Hall-of-Fame outfielder Tim Raines was one of the faces of Canadian baseball in the 1980s—an adroit hitter and fast-twitch baserunner whose 808 career steals ranks fifth all time. By the mid-90s, he had won a batting title, accumulated 2,295 hits, reached 50 steals in eight seasons, and been named an All-Star seven times in his […]",
+      "summary": "Hall of Fame outfielder Tim Raines was one of the faces of Canadian baseball in the 1980s—an adroit hitter and fast-twitch baserunner whose 808 career steals ranks fifth all time. By the mid-90s, he had won a batting title, accumulated 2,295 hits, reached 50 steals in eight seasons, and been named an All-Star seven times […]",
       "source": "Pinstripe Alley",
       "author": "Jeremy Nielsen",
       "link": "https://www.pinstripealley.com/yankees-history-trivia/207659/mlb-yankees-birthday-september-16-tim-raines-hall-of-fame-world-series",
@@ -597,15 +606,6 @@
       "image": null
     },
     {
-      "title": "25 years later, Jeter's bond with daughter of 9/11 victim is rekindled",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch",
-      "link": "https://www.mlb.com/yankees/news/yankees-hold-ceremony-25-years-after-9-11-tragedy",
-      "published": "2026-09-12T01:00:03Z",
-      "image": null
-    },
-    {
       "title": "Three AL East X-Factors that will help decide division race and playoff push",
       "summary": "The Yankees are trying to catch the Rays for the division crown, while the Red Sox are trying to catch the Yankees for home field",
       "source": "CBS Sports MLB",
@@ -631,6 +631,15 @@
       "link": "https://www.mlbtraderumors.com/2026/09/yankees-to-place-jazz-chisholm-jr-on-injured-list.html",
       "published": "2026-09-10T16:30:49Z",
       "image": null
+    },
+    {
+      "title": "Jazz Chisholm Jr. lands on IL with sprained thumb in major blow as Yankees chase down AL East title",
+      "summary": "Chisholm will be shut down from baseball activities for 7-10 days",
+      "source": "CBS Sports MLB",
+      "author": "Matt Snyder",
+      "link": "https://www.cbssports.com/mlb/news/jazz-chisholm-jr-injury-timeline-yankees-playoff-race/",
+      "published": "2026-09-10T16:29:02Z",
+      "image": "https://sportshub.cbsistatic.com/i/2026/09/09/86faec35-b42d-498f-b27a-7062f76005f8/jazz-getty.png"
     }
   ]
 }
