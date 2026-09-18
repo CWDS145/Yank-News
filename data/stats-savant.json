@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T07:47:59Z",
+  "updated": "2026-09-18T08:50:18Z",
   "season": 2026,
   "players": [
     {
@@ -46,7 +46,7 @@
       "statcast_batting": null,
       "sprint_speed": {
         "sprint_speed": 28.3,
-        "hp_to_1b": 4.34,
+        "hp_to_1b": 4.35,
         "bolts": null
       }
     },
@@ -190,7 +190,7 @@
       },
       "sprint_speed": {
         "sprint_speed": 27.3,
-        "hp_to_1b": 4.23,
+        "hp_to_1b": 4.24,
         "bolts": null
       }
     },
@@ -219,11 +219,11 @@
         "pa": 234,
         "est_ba": 0.185,
         "est_slg": 0.324,
-        "est_woba": 0.282,
+        "est_woba": 0.281,
         "ba": 0.207,
         "slg": 0.369,
         "woba": 0.306,
-        "est_woba_minus_woba": -0.024
+        "est_woba_minus_woba": -0.025
       },
       "statcast_batting": null,
       "sprint_speed": null
@@ -236,7 +236,7 @@
       "statcast_batting": null,
       "sprint_speed": {
         "sprint_speed": 29.3,
-        "hp_to_1b": 4.2,
+        "hp_to_1b": 4.21,
         "bolts": 9
       }
     },
@@ -296,7 +296,7 @@
       },
       "sprint_speed": {
         "sprint_speed": 27.3,
-        "hp_to_1b": 4.49,
+        "hp_to_1b": 4.5,
         "bolts": null
       }
     },
