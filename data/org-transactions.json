@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T23:53:00Z",
+  "updated": "2026-09-18T01:02:41Z",
   "items": [
     {
       "id": 942944,
@@ -624,19 +624,6 @@
       "from": "New York Yankees",
       "to": "Pittsburgh Pirates",
       "description": "New York Yankees traded C Christian Bethancourt to Pittsburgh Pirates for cash."
-    },
-    {
-      "id": 938143,
-      "date": "2026-08-18",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 607074,
-      "player": "Carlos Rodón",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees activated LHP Carlos Rodón from the 15-day injured list."
     }
   ]
 }
