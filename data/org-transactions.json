@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T23:52:30Z",
+  "updated": "2026-09-19T01:00:41Z",
   "items": [
     {
       "id": 943124,
@@ -624,19 +624,6 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees sent LF Cody Bellinger on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 938405,
-      "date": "2026-08-19",
-      "type_code": "TR",
-      "type_desc": "Trade",
-      "player_id": 542194,
-      "player": "Christian Bethancourt",
-      "from_team_id": 147,
-      "to_team_id": 134,
-      "from": "New York Yankees",
-      "to": "Pittsburgh Pirates",
-      "description": "New York Yankees traded C Christian Bethancourt to Pittsburgh Pirates for cash."
     }
   ]
 }
