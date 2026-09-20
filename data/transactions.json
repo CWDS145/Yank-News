@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T23:11:26Z",
+  "updated": "2026-09-20T23:35:52Z",
   "count": 73,
   "items": [
     {
@@ -16,15 +16,15 @@
     },
     {
       "date": "2026-09-16",
-      "type": "recalled",
-      "player": "Clarke Schmidt",
-      "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-09-16",
       "type": "",
       "player": "Clarke Schmidt",
       "description": "Removed From 60-Day IL (Recovery from right elbow surgery)"
+    },
+    {
+      "date": "2026-09-16",
+      "type": "recalled",
+      "player": "Clarke Schmidt",
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-09-16",
@@ -52,27 +52,27 @@
     },
     {
       "date": "2026-09-10",
-      "type": "called up",
-      "player": "Anthony Volpe",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-09-10",
       "type": "sent",
       "player": "Jasson Dominguez",
       "description": "Sent to Minors"
     },
     {
-      "date": "2026-09-07",
-      "type": "designated",
-      "player": "Chase Hampton",
-      "description": "Designated for Assignment"
+      "date": "2026-09-10",
+      "type": "called up",
+      "player": "Anthony Volpe",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-09-07",
       "type": "",
       "player": "Aaron Judge",
       "description": "Removed From 60-Day IL (Right rib stress fracture)"
+    },
+    {
+      "date": "2026-09-07",
+      "type": "designated",
+      "player": "Chase Hampton",
+      "description": "Designated for Assignment"
     },
     {
       "date": "2026-09-06",
@@ -82,15 +82,15 @@
     },
     {
       "date": "2026-09-05",
-      "type": "called up",
-      "player": "Jasson Dominguez",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-09-05",
       "type": "placed",
       "player": "Trent Grisham",
       "description": "Placed on 10-Day IL (Strained right hamstring)"
+    },
+    {
+      "date": "2026-09-05",
+      "type": "called up",
+      "player": "Jasson Dominguez",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-09-01",
@@ -124,15 +124,15 @@
     },
     {
       "date": "2026-08-30",
-      "type": "called up",
-      "player": "Luis Gil",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-08-30",
       "type": "sent",
       "player": "Yerry De Los Santos",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-08-30",
+      "type": "called up",
+      "player": "Luis Gil",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-08-29",
@@ -226,6 +226,12 @@
     },
     {
       "date": "2026-08-23",
+      "type": "placed",
+      "player": "Ryan Weathers",
+      "description": "Placed on 15-Day IL (Left forearm, flexor strain)"
+    },
+    {
+      "date": "2026-08-23",
       "type": "recalled",
       "player": "Cody Bellinger",
       "description": "Recalled From Minors Rehab Assignment"
@@ -235,12 +241,6 @@
       "type": "",
       "player": "Cody Bellinger",
       "description": "Removed From 10-Day IL (Strained left hamstring - out 4-6 weeks)"
-    },
-    {
-      "date": "2026-08-23",
-      "type": "placed",
-      "player": "Ryan Weathers",
-      "description": "Placed on 15-Day IL (Left forearm, flexor strain)"
     },
     {
       "date": "2026-08-23",
@@ -352,6 +352,12 @@
     },
     {
       "date": "2026-08-03",
+      "type": "sent",
+      "player": "Jasson Dominguez",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-08-03",
       "type": "traded",
       "player": "Heliot Ramos",
       "description": "Traded From San Francisco (for LHP Henry Lalane, three-player deal)"
@@ -366,12 +372,6 @@
       "date": "2026-08-03",
       "type": "sent",
       "player": "Anthony Volpe",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-08-03",
-      "type": "sent",
-      "player": "Jasson Dominguez",
       "description": "Sent to Minors"
     },
     {
@@ -430,15 +430,15 @@
     },
     {
       "date": "2026-07-22",
-      "type": "",
-      "player": "Max Fried",
-      "description": "Removed From 15-Day IL (Left elbow bone bruise)"
-    },
-    {
-      "date": "2026-07-22",
       "type": "sent",
       "player": "Kervin Castro",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-07-22",
+      "type": "",
+      "player": "Max Fried",
+      "description": "Removed From 15-Day IL (Left elbow bone bruise)"
     }
   ]
 }
