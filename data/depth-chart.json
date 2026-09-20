@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T10:07:34Z",
+  "updated": "2026-09-20T10:07:28Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -58,7 +58,7 @@
     ],
     "RF": [
       {
-        "name": "Aaron Judge",
+        "name": "Heliot Ramos",
         "rank": 1
       }
     ],
@@ -146,7 +146,6 @@
     ]
   },
   "all_players": [
-    "Aaron Judge",
     "Ali Sanchez",
     "Anthony Volpe",
     "Austin Wells",
@@ -161,6 +160,7 @@
     "George Lombard Jr.",
     "Gerrit Cole",
     "Giancarlo Stanton",
+    "Heliot Ramos",
     "Jazz Chisholm",
     "John Schreiber",
     "Kervin Castro",
