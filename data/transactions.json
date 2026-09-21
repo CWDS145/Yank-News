@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T15:37:14Z",
+  "updated": "2026-09-21T16:15:52Z",
   "count": 68,
   "items": [
     {
@@ -124,15 +124,15 @@
     },
     {
       "date": "2026-08-30",
-      "type": "called up",
-      "player": "Luis Gil",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-08-30",
       "type": "sent",
       "player": "Yerry De Los Santos",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-08-30",
+      "type": "called up",
+      "player": "Luis Gil",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-08-29",
@@ -340,12 +340,6 @@
     },
     {
       "date": "2026-08-03",
-      "type": "sent",
-      "player": "Jasson Dominguez",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-08-03",
       "type": "called up",
       "player": "Kervin Castro",
       "description": "Called Up from Minors"
@@ -375,6 +369,12 @@
       "description": "Sent to Minors"
     },
     {
+      "date": "2026-08-03",
+      "type": "sent",
+      "player": "Jasson Dominguez",
+      "description": "Sent to Minors"
+    },
+    {
       "date": "2026-08-02",
       "type": "called up",
       "player": "Jacob Bird",
@@ -400,15 +400,15 @@
     },
     {
       "date": "2026-07-26",
-      "type": "placed",
-      "player": "Cody Bellinger",
-      "description": "Placed on 10-Day IL (Strained left hamstring - out 4-6 weeks)"
-    },
-    {
-      "date": "2026-07-26",
       "type": "called up",
       "player": "Spencer Jones",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-07-26",
+      "type": "placed",
+      "player": "Cody Bellinger",
+      "description": "Placed on 10-Day IL (Strained left hamstring - out 4-6 weeks)"
     }
   ]
 }
