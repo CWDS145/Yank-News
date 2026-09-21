@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T13:14:46Z",
+  "updated": "2026-09-21T13:38:55Z",
   "count": 68,
   "items": [
     {
@@ -16,15 +16,15 @@
     },
     {
       "date": "2026-09-16",
-      "type": "",
-      "player": "Clarke Schmidt",
-      "description": "Removed From 60-Day IL (Recovery from right elbow surgery)"
-    },
-    {
-      "date": "2026-09-16",
       "type": "recalled",
       "player": "Clarke Schmidt",
       "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-09-16",
+      "type": "",
+      "player": "Clarke Schmidt",
+      "description": "Removed From 60-Day IL (Recovery from right elbow surgery)"
     },
     {
       "date": "2026-09-16",
@@ -46,9 +46,9 @@
     },
     {
       "date": "2026-09-10",
-      "type": "sent",
-      "player": "Jasson Dominguez",
-      "description": "Sent to Minors"
+      "type": "placed",
+      "player": "Jazz Chisholm Jr.",
+      "description": "Placed on 10-Day IL (Sprained right thumb)"
     },
     {
       "date": "2026-09-10",
@@ -58,21 +58,21 @@
     },
     {
       "date": "2026-09-10",
-      "type": "placed",
-      "player": "Jazz Chisholm Jr.",
-      "description": "Placed on 10-Day IL (Sprained right thumb)"
-    },
-    {
-      "date": "2026-09-07",
-      "type": "",
-      "player": "Aaron Judge",
-      "description": "Removed From 60-Day IL (Right rib stress fracture)"
+      "type": "sent",
+      "player": "Jasson Dominguez",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-09-07",
       "type": "designated",
       "player": "Chase Hampton",
       "description": "Designated for Assignment"
+    },
+    {
+      "date": "2026-09-07",
+      "type": "",
+      "player": "Aaron Judge",
+      "description": "Removed From 60-Day IL (Right rib stress fracture)"
     },
     {
       "date": "2026-09-06",
@@ -94,15 +94,15 @@
     },
     {
       "date": "2026-09-01",
-      "type": "signed",
-      "player": "Justin Topa",
-      "description": "Signed to a Minor League Contract"
-    },
-    {
-      "date": "2026-09-01",
       "type": "",
       "player": "Ryan McMahon",
       "description": "Removed From 10-Day IL (Left thumb sprain)"
+    },
+    {
+      "date": "2026-09-01",
+      "type": "signed",
+      "player": "Justin Topa",
+      "description": "Signed to a Minor League Contract"
     },
     {
       "date": "2026-09-01",
@@ -113,26 +113,26 @@
     {
       "date": "2026-08-31",
       "type": "",
-      "player": "Justin Topa",
-      "description": "Refused Minor League Assignment - Free Agent"
-    },
-    {
-      "date": "2026-08-31",
-      "type": "",
       "player": "John Schreiber",
       "description": "Acquired Off Waivers From Kansas City"
     },
     {
-      "date": "2026-08-30",
-      "type": "sent",
-      "player": "Yerry De Los Santos",
-      "description": "Sent to Minors"
+      "date": "2026-08-31",
+      "type": "",
+      "player": "Justin Topa",
+      "description": "Refused Minor League Assignment - Free Agent"
     },
     {
       "date": "2026-08-30",
       "type": "called up",
       "player": "Luis Gil",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-08-30",
+      "type": "sent",
+      "player": "Yerry De Los Santos",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-08-29",
@@ -340,9 +340,9 @@
     },
     {
       "date": "2026-08-03",
-      "type": "called up",
-      "player": "Kervin Castro",
-      "description": "Called Up from Minors"
+      "type": "sent",
+      "player": "Anthony Volpe",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-08-03",
@@ -364,9 +364,9 @@
     },
     {
       "date": "2026-08-03",
-      "type": "sent",
-      "player": "Anthony Volpe",
-      "description": "Sent to Minors"
+      "type": "called up",
+      "player": "Kervin Castro",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-08-03",
