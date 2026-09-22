@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T14:53:56Z",
+  "updated": "2026-09-22T15:29:54Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-09-12",
@@ -270,6 +270,28 @@
       "last_10_levels": [
         "MLB"
       ]
+    },
+    {
+      "id": 701331,
+      "name": "Blake Cyr",
+      "position": "2B",
+      "level": "Low-A",
+      "level_since": "2026-08-04",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 36,
+        "k": 13,
+        "avg": ".278",
+        "ops": ".817",
+        "avg_num": 0.2777777777777778,
+        "ops_num": 0.8166666666666667
+      },
+      "last_10": null,
+      "season_levels": [
+        "Low-A"
+      ],
+      "last_10_levels": []
     },
     {
       "id": 821877,
@@ -763,6 +785,28 @@
       "last_10_levels": []
     },
     {
+      "id": 823759,
+      "name": "Eric Genther",
+      "position": "C",
+      "level": "High-A",
+      "level_since": "2026-03-30",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 391,
+        "k": 91,
+        "avg": ".274",
+        "ops": ".847",
+        "avg_num": 0.27365728900255754,
+        "ops_num": 0.8468506634448925
+      },
+      "last_10": null,
+      "season_levels": [
+        "High-A"
+      ],
+      "last_10_levels": []
+    },
+    {
       "id": 667803,
       "name": "Ernesto Martinez Jr.",
       "position": "1B",
@@ -792,6 +836,29 @@
       "last_10_levels": [
         "AAA"
       ]
+    },
+    {
+      "id": 808106,
+      "name": "Gabriel Lara",
+      "position": "CF",
+      "level": "High-A",
+      "level_since": "2026-07-28",
+      "prior_level": "Low-A",
+      "prior_level_since": "2026-05-12",
+      "season": {
+        "ab": 85,
+        "k": 27,
+        "avg": ".165",
+        "ops": ".632",
+        "avg_num": 0.16470588235294117,
+        "ops_num": 0.6319327731092437
+      },
+      "last_10": null,
+      "season_levels": [
+        "High-A",
+        "Low-A"
+      ],
+      "last_10_levels": []
     },
     {
       "id": 806146,
@@ -845,6 +912,28 @@
       "last_10": null,
       "season_levels": [
         "MLB"
+      ],
+      "last_10_levels": []
+    },
+    {
+      "id": 801307,
+      "name": "Gregory Bozzo",
+      "position": "C",
+      "level": "Low-A",
+      "level_since": "2026-04-03",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 19,
+        "k": 7,
+        "avg": ".263",
+        "ops": ".807",
+        "avg_num": 0.2631578947368421,
+        "ops_num": 0.8070175438596491
+      },
+      "last_10": null,
+      "season_levels": [
+        "Low-A"
       ],
       "last_10_levels": []
     },
@@ -1200,6 +1289,29 @@
       "last_10_levels": [
         "AAA"
       ]
+    },
+    {
+      "id": 814269,
+      "name": "Kevin Verde",
+      "position": "SS",
+      "level": "AA",
+      "level_since": "2026-05-23",
+      "prior_level": "Low-A",
+      "prior_level_since": "2026-04-03",
+      "season": {
+        "ab": 136,
+        "k": 41,
+        "avg": ".199",
+        "ops": ".592",
+        "avg_num": 0.19852941176470587,
+        "ops_num": 0.592163577759871
+      },
+      "last_10": null,
+      "season_levels": [
+        "AA",
+        "Low-A"
+      ],
+      "last_10_levels": []
     },
     {
       "id": 823918,

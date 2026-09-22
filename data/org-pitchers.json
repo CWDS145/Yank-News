@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T14:58:43Z",
+  "updated": "2026-09-22T15:35:03Z",
   "season": 2026,
   "pitchers": [
     {
@@ -158,10 +158,10 @@
       "id": 683409,
       "name": "Angel Chivilli",
       "position": "P",
-      "level": "MLB",
-      "level_since": "2026-06-11",
-      "prior_level": "AAA",
-      "prior_level_since": "2026-06-10",
+      "level": "AAA",
+      "level_since": "2026-08-04",
+      "prior_level": "MLB",
+      "prior_level_since": "2026-06-11",
       "season": {
         "w": 2,
         "l": 1,
@@ -1135,6 +1135,43 @@
       ]
     },
     {
+      "id": 800471,
+      "name": "Franyer Herrera",
+      "position": "P",
+      "level": "High-A",
+      "level_since": "2026-03-30",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "w": 6,
+        "l": 4,
+        "g": 21,
+        "gs": 17,
+        "cg": 1,
+        "sho": 1,
+        "sv": 0,
+        "svo": 0,
+        "ip": "92.1",
+        "ip_outs": 277,
+        "h": 83,
+        "r": 56,
+        "er": 49,
+        "hr": 17,
+        "hb": 5,
+        "bb": 50,
+        "so": 100,
+        "era": "4.78",
+        "era_num": 4.776173285198556,
+        "whip": "1.44",
+        "whip_num": 1.44043321299639,
+        "avg": ".241",
+        "avg_num": 0.24057971014492754
+      },
+      "season_levels": [
+        "High-A"
+      ]
+    },
+    {
       "id": 687280,
       "name": "Geoffrey Gilbert",
       "position": "P",
@@ -1847,6 +1884,45 @@
       ]
     },
     {
+      "id": 805728,
+      "name": "Kevin Stevens",
+      "position": "P",
+      "level": "AA",
+      "level_since": "2026-07-16",
+      "prior_level": "High-A",
+      "prior_level_since": "2026-06-30",
+      "season": {
+        "w": 0,
+        "l": 0,
+        "g": 20,
+        "gs": 0,
+        "cg": 0,
+        "sho": 0,
+        "sv": 3,
+        "svo": 3,
+        "ip": "19.1",
+        "ip_outs": 58,
+        "h": 22,
+        "r": 15,
+        "er": 11,
+        "hr": 3,
+        "hb": 0,
+        "bb": 5,
+        "so": 27,
+        "era": "5.12",
+        "era_num": 5.120689655172414,
+        "whip": "1.40",
+        "whip_num": 1.396551724137931,
+        "avg": ".272",
+        "avg_num": 0.2716049382716049
+      },
+      "season_levels": [
+        "AA",
+        "High-A",
+        "Low-A"
+      ]
+    },
+    {
       "id": 694805,
       "name": "Kyle Carr",
       "position": "P",
@@ -2458,6 +2534,43 @@
       ]
     },
     {
+      "id": 800239,
+      "name": "Sabier Marte",
+      "position": "P",
+      "level": "Low-A",
+      "level_since": "2026-07-09",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "w": 0,
+        "l": 3,
+        "g": 7,
+        "gs": 6,
+        "cg": 0,
+        "sho": 0,
+        "sv": 0,
+        "svo": 0,
+        "ip": "26.1",
+        "ip_outs": 79,
+        "h": 37,
+        "r": 32,
+        "er": 28,
+        "hr": 10,
+        "hb": 1,
+        "bb": 14,
+        "so": 21,
+        "era": "9.57",
+        "era_num": 9.569620253164556,
+        "whip": "1.94",
+        "whip_num": 1.9367088607594938,
+        "avg": ".325",
+        "avg_num": 0.32456140350877194
+      },
+      "season_levels": [
+        "Low-A"
+      ]
+    },
+    {
       "id": 800344,
       "name": "Sean Paul Liñan",
       "position": "P",
@@ -2493,6 +2606,44 @@
       "season_levels": [
         "AA",
         "High-A"
+      ]
+    },
+    {
+      "id": 693647,
+      "name": "Thomas Balboni Jr.",
+      "position": "P",
+      "level": "High-A",
+      "level_since": "2026-04-27",
+      "prior_level": "Low-A",
+      "prior_level_since": "2026-04-17",
+      "season": {
+        "w": 3,
+        "l": 1,
+        "g": 34,
+        "gs": 0,
+        "cg": 0,
+        "sho": 0,
+        "sv": 0,
+        "svo": 1,
+        "ip": "37.2",
+        "ip_outs": 113,
+        "h": 26,
+        "r": 17,
+        "er": 16,
+        "hr": 5,
+        "hb": 13,
+        "bb": 17,
+        "so": 57,
+        "era": "3.82",
+        "era_num": 3.8230088495575223,
+        "whip": "1.14",
+        "whip_num": 1.1415929203539823,
+        "avg": ".195",
+        "avg_num": 0.19548872180451127
+      },
+      "season_levels": [
+        "High-A",
+        "Low-A"
       ]
     },
     {
