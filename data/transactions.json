@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T22:12:42Z",
+  "updated": "2026-09-22T22:36:37Z",
   "count": 70,
   "items": [
     {
@@ -208,15 +208,15 @@
     },
     {
       "date": "2026-08-26",
-      "type": "transferred",
-      "player": "Kervin Castro",
-      "description": "Transferred to 60-Day IL (Right elbow neuritis)"
-    },
-    {
-      "date": "2026-08-26",
       "type": "signed",
       "player": "Michael Fulmer",
       "description": "Signed as Free Agent  ( 2026)(one-year contract)"
+    },
+    {
+      "date": "2026-08-26",
+      "type": "transferred",
+      "player": "Kervin Castro",
+      "description": "Transferred to 60-Day IL (Right elbow neuritis)"
     },
     {
       "date": "2026-08-25",
@@ -371,7 +371,7 @@
     {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Angel Chivilli",
+      "player": "Max Schuemann",
       "description": "Sent to Minors"
     },
     {
@@ -383,7 +383,7 @@
     {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Max Schuemann",
+      "player": "Angel Chivilli",
       "description": "Sent to Minors"
     },
     {
