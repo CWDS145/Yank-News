@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T00:39:40Z",
+  "updated": "2026-09-22T01:24:56Z",
   "count": 68,
   "items": [
     {
@@ -46,15 +46,15 @@
     },
     {
       "date": "2026-09-10",
-      "type": "called up",
-      "player": "Anthony Volpe",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-09-10",
       "type": "sent",
       "player": "Jasson Dominguez",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-09-10",
+      "type": "called up",
+      "player": "Anthony Volpe",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-09-10",
@@ -196,15 +196,15 @@
     },
     {
       "date": "2026-08-26",
-      "type": "placed",
-      "player": "Fernando Cruz",
-      "description": "Placed on 15-Day IL (Right elbow discomfort)"
-    },
-    {
-      "date": "2026-08-26",
       "type": "signed",
       "player": "Michael Fulmer",
       "description": "Signed as Free Agent  ( 2026)(one-year contract)"
+    },
+    {
+      "date": "2026-08-26",
+      "type": "placed",
+      "player": "Fernando Cruz",
+      "description": "Placed on 15-Day IL (Right elbow discomfort)"
     },
     {
       "date": "2026-08-25",
@@ -250,15 +250,15 @@
     },
     {
       "date": "2026-08-22",
-      "type": "signed",
-      "player": "Elijah Morgan",
-      "description": "Signed to a Minor League Contract"
-    },
-    {
-      "date": "2026-08-22",
       "type": "sent",
       "player": "Max Schuemann",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-08-22",
+      "type": "signed",
+      "player": "Elijah Morgan",
+      "description": "Signed to a Minor League Contract"
     },
     {
       "date": "2026-08-21",
@@ -341,19 +341,13 @@
     {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Jasson Dominguez",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-08-03",
-      "type": "sent",
       "player": "Max Schuemann",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Angel Chivilli",
+      "player": "Jasson Dominguez",
       "description": "Sent to Minors"
     },
     {
@@ -361,6 +355,12 @@
       "type": "traded",
       "player": "Heliot Ramos",
       "description": "Traded From San Francisco (for LHP Henry Lalane, three-player deal)"
+    },
+    {
+      "date": "2026-08-03",
+      "type": "sent",
+      "player": "Angel Chivilli",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-08-03",
