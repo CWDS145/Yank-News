@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T10:09:14Z",
+  "updated": "2026-09-23T10:08:50Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -24,18 +24,18 @@
     ],
     "2B": [
       {
-        "name": "Anthony Volpe",
-        "rank": 1
-      },
-      {
         "name": "Jazz Chisholm",
-        "rank": 2
+        "rank": 1
       }
     ],
     "3B": [
       {
-        "name": "Ryan McMahon",
+        "name": "Jose Caballero",
         "rank": 1
+      },
+      {
+        "name": "Ryan McMahon",
+        "rank": 2
       }
     ],
     "SS": [
@@ -147,7 +147,6 @@
   },
   "all_players": [
     "Ali Sanchez",
-    "Anthony Volpe",
     "Austin Wells",
     "Ben Rice",
     "Brent Headrick",
@@ -163,6 +162,7 @@
     "Heliot Ramos",
     "Jazz Chisholm",
     "John Schreiber",
+    "Jose Caballero",
     "Kervin Castro",
     "Luis Gil",
     "Luis V. Garcia",

@@ -2,14 +2,6 @@
   "entries": [
     {
       "timestamp": "2026-09-23T05:00:46Z",
-      "source": "MLB statSplits vl/vr: MLB",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=statSplits&sitCodes=vl,vr&sportId={sid}",
-      "status": 200,
-      "items": 72,
-      "note": "ok=72/72"
-    },
-    {
-      "timestamp": "2026-09-23T05:00:46Z",
       "source": "MLB statSplits vl/vr: AAA",
       "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=statSplits&sitCodes=vl,vr&sportId={sid}",
       "status": 200,
@@ -3999,6 +3991,14 @@
       "status": 200,
       "items": 72,
       "note": "ok=72/72"
+    },
+    {
+      "timestamp": "2026-09-23T10:08:50Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 30,
+      "note": "ok"
     }
   ]
 }
