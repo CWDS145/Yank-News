@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T23:58:06Z",
+  "updated": "2026-09-23T01:06:42Z",
   "season": 2026,
   "pitchers": [
     {
@@ -2177,21 +2177,21 @@
         "sho": 0,
         "sv": 0,
         "svo": 0,
-        "ip": "111.2",
-        "ip_outs": 335,
-        "h": 80,
-        "r": 34,
-        "er": 34,
+        "ip": "115.2",
+        "ip_outs": 347,
+        "h": 84,
+        "r": 35,
+        "er": 35,
         "hr": 5,
         "hb": 2,
-        "bb": 32,
-        "so": 104,
-        "era": "2.74",
-        "era_num": 2.7402985074626867,
-        "whip": "1.00",
-        "whip_num": 1.0029850746268656,
-        "avg": ".204",
-        "avg_num": 0.2035623409669211
+        "bb": 33,
+        "so": 107,
+        "era": "2.72",
+        "era_num": 2.723342939481268,
+        "whip": "1.01",
+        "whip_num": 1.0115273775216138,
+        "avg": ".206",
+        "avg_num": 0.20588235294117646
       },
       "season_levels": [
         "MLB",
@@ -2464,7 +2464,7 @@
       "name": "Ryan Weathers",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-08-23",
+      "level_since": "2026-01-13",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
