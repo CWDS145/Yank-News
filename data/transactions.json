@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T04:41:23Z",
+  "updated": "2026-09-23T05:14:34Z",
   "count": 70,
   "items": [
     {
@@ -106,9 +106,9 @@
     },
     {
       "date": "2026-09-01",
-      "type": "recalled",
-      "player": "Ryan McMahon",
-      "description": "Recalled From Minors Rehab Assignment"
+      "type": "signed",
+      "player": "Justin Topa",
+      "description": "Signed to a Minor League Contract"
     },
     {
       "date": "2026-09-01",
@@ -118,9 +118,9 @@
     },
     {
       "date": "2026-09-01",
-      "type": "signed",
-      "player": "Justin Topa",
-      "description": "Signed to a Minor League Contract"
+      "type": "recalled",
+      "player": "Ryan McMahon",
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-08-31",
@@ -160,15 +160,15 @@
     },
     {
       "date": "2026-08-29",
-      "type": "designated",
-      "player": "Justin Topa",
-      "description": "Designated for Assignment"
-    },
-    {
-      "date": "2026-08-29",
       "type": "sent",
       "player": "Ryan McMahon",
       "description": "Sent to Minors For Rehabilitation"
+    },
+    {
+      "date": "2026-08-29",
+      "type": "designated",
+      "player": "Justin Topa",
+      "description": "Designated for Assignment"
     },
     {
       "date": "2026-08-29",
@@ -196,12 +196,6 @@
     },
     {
       "date": "2026-08-26",
-      "type": "called up",
-      "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-08-26",
       "type": "transferred",
       "player": "Kervin Castro",
       "description": "Transferred to 60-Day IL (Right elbow neuritis)"
@@ -217,6 +211,12 @@
       "type": "sent",
       "player": "Bradley Hanner",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-08-26",
+      "type": "called up",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-08-25",
@@ -274,15 +274,15 @@
     },
     {
       "date": "2026-08-21",
-      "type": "called up",
-      "player": "Max Schuemann",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-08-21",
       "type": "placed",
       "player": "Ryan McMahon",
       "description": "Placed on 10-Day IL (Left thumb sprain)"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "called up",
+      "player": "Max Schuemann",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-08-20",
