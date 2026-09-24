@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24T11:38:00Z",
-  "count": 66,
+  "updated": "2026-09-24T12:22:09Z",
+  "count": 67,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-09-24T11:38:00Z",
+      "published": "2026-09-24T12:22:09Z",
       "image": null
     },
     {
@@ -17,7 +17,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/new-york-yankees-recognize-the-25th-anniversary-of-9-11-with-commemorative-activities-and-outreach-on-and-off-the-field-those-lost-and-impacted-by-the-tragedy-to-be-honored-in-pregame-ceremonies-on-f/",
-      "published": "2026-09-24T11:38:00Z",
+      "published": "2026-09-24T12:22:09Z",
       "image": null
     },
     {
@@ -26,7 +26,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/former-new-york-yankees-fan-favorite-nick-swisher-and-the-sandlot-actor-chauncey-leopardi-to-star-in-third-season-of-award-winning-hexclad-presents-bronx-buds-premiering-this-saturday-august-8-on-th/",
-      "published": "2026-09-24T11:38:00Z",
+      "published": "2026-09-24T12:22:09Z",
       "image": null
     },
     {
@@ -35,7 +35,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-outfielder-heliot-ramos/",
-      "published": "2026-09-24T11:38:00Z",
+      "published": "2026-09-24T12:22:09Z",
       "image": null
     },
     {
@@ -44,7 +44,16 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-acquire-infielder-luis-garcia-jr/",
-      "published": "2026-09-24T11:38:00Z",
+      "published": "2026-09-24T12:22:09Z",
+      "image": null
+    },
+    {
+      "title": "Yankees Rivalry Roundup: Blue Jays eliminated after doubleheader sweep",
+      "summary": "The Yankees handled Tampa Bay for the second time in as many days, blowing them out 9-2 behind a pair of Ben Rice home runs as well as a Ryan McMahon grand slam. Of course, there was another game played in between that didn’t go New York’s way, but overall they’ve had a solid series […]",
+      "source": "Pinstripe Alley",
+      "author": "Madison Pavich",
+      "link": "https://www.pinstripealley.com/mlb-news/208947/yankees-rivals-roundup-blue-jays-eliminated-orioles-red-sox-white-sox-guardians-astros-rangers",
+      "published": "2026-09-24T12:00:00Z",
       "image": null
     },
     {
@@ -75,7 +84,7 @@
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2FCam-Schlittler-3.jpg?w%3D1024"
     },
     {
-      "title": "Ben Rice joins joins exclusive Yankees 40-homer club with huge night",
+      "title": "Ben Rice joins exclusive Yankees 40-homer club with huge night",
       "summary": "In a season where the Yankees have missed their two most established power hitters for months at a time, Ben Rice has provided a powerful presence in their stead.",
       "source": "NY Post Yankees",
       "author": "Greg Joyce",
@@ -183,7 +192,7 @@
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2Fcolorado-rockies-vs-new-york-140383912.jpg?w%3D1024"
     },
     {
-      "title": "Aaron Judge not giving up on wild-card round return as he bristles at Aaron Boone’s injury classification",
+      "title": "Aaron Judge is not sure why Aaron Boone ‘used those words’ in Yankees playoff twist",
       "summary": "Aaron Judge isn't giving up hope just yet.",
       "source": "NY Post Yankees",
       "author": "Dan Martin",
@@ -297,15 +306,6 @@
       "author": "Matt Ferenchick",
       "link": "https://www.pinstripealley.com/mlb-news/208685/yankees-rivals-recap-roundup-rays-al-east-wild-card-red-sox-guardians-white-sox-playoffs-standings",
       "published": "2026-09-23T14:00:00Z",
-      "image": null
-    },
-    {
-      "title": "Reflections on 15 Years of the “Moneyball” movie",
-      "summary": "On this day fifteen years ago, Moneyball released in theaters in the United States. Starring Brad Pitt as Oakland A’s general manager Billy Beane, the movie was an adaptation of Michael Lewis’s 2003 book Moneyball: The Art of Winning an Unfair Game, telling the story of the 2002 Athletics as they bucked traditional baseball wisdom […]",
-      "source": "Pinstripe Alley",
-      "author": "John Griffin",
-      "link": "https://www.pinstripealley.com/mlb-news/208545/moneyball-film-history-15-year-retrospective",
-      "published": "2026-09-23T12:00:00Z",
       "image": null
     },
     {
@@ -586,6 +586,15 @@
       "link": "https://www.mlb.com/yankees/news/gerrit-cole-steady-as-yankees-beat-diamondbacks",
       "published": "2026-09-19T06:11:00Z",
       "image": null
+    },
+    {
+      "title": "Yankees place Aaron Judge back on IL, making star slugger's status uncertain ahead of playoffs",
+      "summary": "Judge, back for just seven games after missing three months, is being shut down again right before the postseason",
+      "source": "CBS Sports MLB",
+      "author": "Matt Snyder",
+      "link": "https://www.cbssports.com/mlb/news/yankees-aaron-judge-calf-injury-playoffs-timeline/",
+      "published": "2026-09-19T01:42:19Z",
+      "image": "https://sportshub.cbsistatic.com/i/2026/09/18/62697295-985e-46e8-98ae-c35cee7ec3be/aaron-judge-getty-29.png"
     },
     {
       "title": "Reds Claim Oswaldo Cabrera",
