@@ -1,6 +1,32 @@
 {
-  "updated": "2026-09-24T19:27:05Z",
+  "updated": "2026-09-24T19:52:38Z",
   "items": [
+    {
+      "id": 943846,
+      "date": "2026-09-24",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 657376,
+      "player": "Clarke Schmidt",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees placed RHP Clarke Schmidt on the 15-day injured list retroactive to September 21, 2026. Right bicep neuritis."
+    },
+    {
+      "id": 943845,
+      "date": "2026-09-24",
+      "type_code": "CU",
+      "type_desc": "Recalled",
+      "player_id": 690440,
+      "player": "Bradley Hanner",
+      "from_team_id": 531,
+      "to_team_id": 147,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
+      "to": "New York Yankees",
+      "description": "New York Yankees recalled RHP Bradley Hanner from Scranton/Wilkes-Barre RailRiders."
+    },
     {
       "id": 943660,
       "date": "2026-09-22",
@@ -67,19 +93,6 @@
       "description": "Cincinnati Reds claimed 3B Oswaldo Cabrera off waivers from New York Yankees."
     },
     {
-      "id": 942945,
-      "date": "2026-09-16",
-      "type_code": "DES",
-      "type_desc": "Designated for Assignment",
-      "player_id": 665828,
-      "player": "Oswaldo Cabrera",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees designated 3B Oswaldo Cabrera for assignment."
-    },
-    {
       "id": 942944,
       "date": "2026-09-16",
       "type_code": "SC",
@@ -91,6 +104,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees activated RHP Clarke Schmidt from the 60-day injured list."
+    },
+    {
+      "id": 942945,
+      "date": "2026-09-16",
+      "type_code": "DES",
+      "type_desc": "Designated for Assignment",
+      "player_id": 665828,
+      "player": "Oswaldo Cabrera",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees designated 3B Oswaldo Cabrera for assignment."
     },
     {
       "id": 942920,
@@ -119,19 +145,6 @@
       "description": "Washington Nationals claimed RHP Chase Hampton off waivers from New York Yankees."
     },
     {
-      "id": 942017,
-      "date": "2026-09-11",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 690440,
-      "player": "Bradley Hanner",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Bradley Hanner from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 942005,
       "date": "2026-09-11",
       "type_code": "OPT",
@@ -143,6 +156,19 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees optioned RF Jasson Domínguez to Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 942017,
+      "date": "2026-09-11",
+      "type_code": "CU",
+      "type_desc": "Recalled",
+      "player_id": 690440,
+      "player": "Bradley Hanner",
+      "from_team_id": 531,
+      "to_team_id": 147,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
+      "to": "New York Yankees",
+      "description": "New York Yankees recalled RHP Bradley Hanner from Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 941937,
@@ -249,7 +275,7 @@
       "description": "New York Yankees recalled RF Jasson Domínguez from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 941836,
+      "id": 940885,
       "date": "2026-09-02",
       "type_code": "ASG",
       "type_desc": "Assigned",
@@ -262,7 +288,7 @@
       "description": "New York Yankees sent RHP Clarke Schmidt on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 940885,
+      "id": 941836,
       "date": "2026-09-02",
       "type_code": "ASG",
       "type_desc": "Assigned",
@@ -379,7 +405,7 @@
       "description": "New York Yankees optioned RHP Brendan Beck to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 940005,
+      "id": 940585,
       "date": "2026-08-29",
       "type_code": "ASG",
       "type_desc": "Assigned",
@@ -392,17 +418,17 @@
       "description": "New York Yankees sent 3B Ryan McMahon on a rehab assignment to Somerset Patriots."
     },
     {
-      "id": 940000,
+      "id": 940005,
       "date": "2026-08-29",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 608331,
-      "player": "Max Fried",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees activated LHP Max Fried from the 15-day injured list."
+      "type_code": "ASG",
+      "type_desc": "Assigned",
+      "player_id": 641857,
+      "player": "Ryan McMahon",
+      "from_team_id": 147,
+      "to_team_id": 1956,
+      "from": "New York Yankees",
+      "to": "AA Somerset Patriots",
+      "description": "New York Yankees sent 3B Ryan McMahon on a rehab assignment to Somerset Patriots."
     },
     {
       "id": 940006,
@@ -418,17 +444,17 @@
       "description": "New York Yankees sent RHP Clarke Schmidt on a rehab assignment to Somerset Patriots."
     },
     {
-      "id": 940585,
+      "id": 940000,
       "date": "2026-08-29",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 641857,
-      "player": "Ryan McMahon",
-      "from_team_id": 147,
-      "to_team_id": 1956,
-      "from": "New York Yankees",
-      "to": "AA Somerset Patriots",
-      "description": "New York Yankees sent 3B Ryan McMahon on a rehab assignment to Somerset Patriots."
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 608331,
+      "player": "Max Fried",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated LHP Max Fried from the 15-day injured list."
     },
     {
       "id": 940001,
