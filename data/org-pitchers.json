@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T22:57:04Z",
+  "updated": "2026-09-25T23:32:09Z",
   "season": 2026,
   "pitchers": [
     {
@@ -43,7 +43,7 @@
       "id": 529017,
       "name": "Alexander Cornielle",
       "position": "P",
-      "level": "AAA",
+      "level": "MLB",
       "level_since": "2026-06-14",
       "prior_level": "AA",
       "prior_level_since": "2026-06-11",
@@ -389,7 +389,7 @@
       "prior_level_since": "2026-08-30",
       "season": {
         "w": 10,
-        "l": 3,
+        "l": 4,
         "g": 29,
         "gs": 27,
         "cg": 0,
