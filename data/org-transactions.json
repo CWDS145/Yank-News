@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T23:52:11Z",
+  "updated": "2026-09-25T01:03:04Z",
   "items": [
     {
       "id": 943846,
@@ -559,32 +559,6 @@
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
       "description": "New York Yankees recalled RHP Elmer Rodríguez from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 939273,
-      "date": "2026-08-25",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 519317,
-      "player": "Giancarlo Stanton",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees transferred DH Giancarlo Stanton from the 10-day injured list to the 60-day injured list. Right calf strain."
-    },
-    {
-      "id": 939274,
-      "date": "2026-08-25",
-      "type_code": "SE",
-      "type_desc": "Selected",
-      "player_id": 623437,
-      "player": "Justin Topa",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees selected the contract of RHP Justin Topa from Scranton/Wilkes-Barre RailRiders."
     }
   ]
 }
