@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T07:18:48Z",
+  "updated": "2026-09-25T07:41:37Z",
   "count": 72,
   "items": [
     {
@@ -88,15 +88,15 @@
     },
     {
       "date": "2026-09-10",
-      "type": "called up",
-      "player": "Anthony Volpe",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-09-10",
       "type": "sent",
       "player": "Jasson Dominguez",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-09-10",
+      "type": "called up",
+      "player": "Anthony Volpe",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-09-07",
@@ -118,15 +118,15 @@
     },
     {
       "date": "2026-09-05",
-      "type": "placed",
-      "player": "Trent Grisham",
-      "description": "Placed on 10-Day IL (Strained right hamstring)"
-    },
-    {
-      "date": "2026-09-05",
       "type": "called up",
       "player": "Jasson Dominguez",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-09-05",
+      "type": "placed",
+      "player": "Trent Grisham",
+      "description": "Placed on 10-Day IL (Strained right hamstring)"
     },
     {
       "date": "2026-09-01",
@@ -401,13 +401,13 @@
     {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Jasson Dominguez",
+      "player": "Anthony Volpe",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Anthony Volpe",
+      "player": "Jasson Dominguez",
       "description": "Sent to Minors"
     },
     {
