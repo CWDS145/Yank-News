@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T10:08:34Z",
+  "updated": "2026-09-25T10:08:40Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -120,7 +120,7 @@
         "rank": 5
       },
       {
-        "name": "Michael Fulmer",
+        "name": "Luis Gil",
         "rank": 6
       },
       {
@@ -128,11 +128,11 @@
         "rank": 7
       },
       {
-        "name": "Clarke Schmidt",
+        "name": "Michael Fulmer",
         "rank": 8
       },
       {
-        "name": "Luis Gil",
+        "name": "Bradley Hanner",
         "rank": 9
       },
       {
@@ -142,6 +142,10 @@
       {
         "name": "Fernando E. Cruz",
         "rank": 11
+      },
+      {
+        "name": "Clarke Schmidt",
+        "rank": 12
       }
     ]
   },
@@ -149,6 +153,7 @@
     "Ali Sanchez",
     "Austin Wells",
     "Ben Rice",
+    "Bradley Hanner",
     "Brent Headrick",
     "Cam Schlittler",
     "Carlos Rodon",
