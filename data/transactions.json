@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T02:42:54Z",
+  "updated": "2026-09-25T03:16:43Z",
   "count": 70,
   "items": [
     {
@@ -16,15 +16,15 @@
     },
     {
       "date": "2026-09-22",
-      "type": "",
-      "player": "Jazz Chisholm Jr.",
-      "description": "Removed From 10-Day IL (Sprained right thumb)"
-    },
-    {
-      "date": "2026-09-22",
       "type": "sent",
       "player": "Max Schuemann",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-09-22",
+      "type": "",
+      "player": "Jazz Chisholm Jr.",
+      "description": "Removed From 10-Day IL (Sprained right thumb)"
     },
     {
       "date": "2026-09-19",
