@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T02:19:13Z",
+  "updated": "2026-09-26T03:16:27Z",
   "count": 77,
   "items": [
     {
@@ -10,15 +10,15 @@
     },
     {
       "date": "2026-09-25",
-      "type": "called up",
-      "player": "Yerry De Los Santos",
-      "description": "Called Up from Minors"
+      "type": "sent",
+      "player": "Brendan Beck",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-09-25",
-      "type": "purchased",
-      "player": "Alexander Cornielle",
-      "description": "Purchased From Minors"
+      "type": "called up",
+      "player": "Yerry De Los Santos",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-09-25",
@@ -28,8 +28,14 @@
     },
     {
       "date": "2026-09-25",
+      "type": "purchased",
+      "player": "Alexander Cornielle",
+      "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-09-24",
       "type": "sent",
-      "player": "Brendan Beck",
+      "player": "Luis Gil",
       "description": "Sent to Minors"
     },
     {
@@ -40,12 +46,6 @@
     },
     {
       "date": "2026-09-24",
-      "type": "sent",
-      "player": "Luis Gil",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-09-24",
       "type": "called up",
       "player": "Bradley Hanner",
       "description": "Called Up from Minors"
@@ -58,15 +58,15 @@
     },
     {
       "date": "2026-09-22",
-      "type": "",
-      "player": "Jazz Chisholm Jr.",
-      "description": "Removed From 10-Day IL (Sprained right thumb)"
-    },
-    {
-      "date": "2026-09-22",
       "type": "sent",
       "player": "Max Schuemann",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-09-22",
+      "type": "",
+      "player": "Jazz Chisholm Jr.",
+      "description": "Removed From 10-Day IL (Sprained right thumb)"
     },
     {
       "date": "2026-09-19",
@@ -88,15 +88,15 @@
     },
     {
       "date": "2026-09-16",
-      "type": "designated",
-      "player": "Oswaldo Cabrera",
-      "description": "Designated for Assignment"
-    },
-    {
-      "date": "2026-09-16",
       "type": "recalled",
       "player": "Clarke Schmidt",
       "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-09-16",
+      "type": "designated",
+      "player": "Oswaldo Cabrera",
+      "description": "Designated for Assignment"
     },
     {
       "date": "2026-09-15",
@@ -112,15 +112,15 @@
     },
     {
       "date": "2026-09-10",
-      "type": "sent",
-      "player": "Jasson Dominguez",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-09-10",
       "type": "placed",
       "player": "Jazz Chisholm Jr.",
       "description": "Placed on 10-Day IL (Sprained right thumb)"
+    },
+    {
+      "date": "2026-09-10",
+      "type": "sent",
+      "player": "Jasson Dominguez",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-09-10",
@@ -280,15 +280,15 @@
     },
     {
       "date": "2026-08-24",
-      "type": "transferred",
-      "player": "Giancarlo Stanton",
-      "description": "Transferred to 60-Day IL (Strained right calf)"
-    },
-    {
-      "date": "2026-08-24",
       "type": "sent",
       "player": "Brendan Beck",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-08-24",
+      "type": "transferred",
+      "player": "Giancarlo Stanton",
+      "description": "Transferred to 60-Day IL (Strained right calf)"
     },
     {
       "date": "2026-08-23",
@@ -316,15 +316,15 @@
     },
     {
       "date": "2026-08-22",
-      "type": "sent",
-      "player": "Max Schuemann",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-08-22",
       "type": "signed",
       "player": "Elijah Morgan",
       "description": "Signed to a Minor League Contract"
+    },
+    {
+      "date": "2026-08-22",
+      "type": "sent",
+      "player": "Max Schuemann",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-08-21",
@@ -394,32 +394,20 @@
     },
     {
       "date": "2026-08-04",
-      "type": "called up",
-      "player": "Yerry De Los Santos",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-08-04",
       "type": "purchased",
       "player": "George Lombard Jr.",
       "description": "Purchased From Minors"
     },
     {
-      "date": "2026-08-03",
-      "type": "sent",
-      "player": "Max Schuemann",
-      "description": "Sent to Minors"
+      "date": "2026-08-04",
+      "type": "called up",
+      "player": "Yerry De Los Santos",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-08-03",
       "type": "sent",
       "player": "Jasson Dominguez",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-08-03",
-      "type": "sent",
-      "player": "Anthony Volpe",
       "description": "Sent to Minors"
     },
     {
@@ -441,16 +429,28 @@
       "description": "Traded From San Francisco (for LHP Henry Lalane, three-player deal)"
     },
     {
-      "date": "2026-08-02",
-      "type": "traded",
-      "player": "Luis Garcia",
-      "description": "Traded From Washington (for RHP Yovanny Cruz, five-player deal)"
+      "date": "2026-08-03",
+      "type": "sent",
+      "player": "Max Schuemann",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-08-03",
+      "type": "sent",
+      "player": "Anthony Volpe",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-08-02",
       "type": "called up",
       "player": "Jacob Bird",
       "description": "Called Up from Minors - Not to Report"
+    },
+    {
+      "date": "2026-08-02",
+      "type": "traded",
+      "player": "Luis Garcia",
+      "description": "Traded From Washington (for RHP Yovanny Cruz, five-player deal)"
     },
     {
       "date": "2026-08-01",
