@@ -1,22 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-09-26T09:00:04Z",
-      "source": "MLB statSplits vl/vr: Low-A",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=statSplits&sitCodes=vl,vr&sportId={sid}",
-      "status": 200,
-      "items": 72,
-      "note": "ok=72/72"
-    },
-    {
-      "timestamp": "2026-09-26T09:14:08Z",
-      "source": "MLB.com Yankees",
-      "url": "https://www.mlb.com/yankees/feeds/news/rss.xml",
-      "status": 200,
-      "items": 25,
-      "note": "ok"
-    },
-    {
       "timestamp": "2026-09-26T09:14:08Z",
       "source": "Pinstripe Alley",
       "url": "https://www.pinstripealley.com/rss/current.xml",
@@ -3999,6 +3983,22 @@
       "status": 200,
       "items": 72,
       "note": "ok=72/72"
+    },
+    {
+      "timestamp": "2026-09-26T14:11:46Z",
+      "source": "FanGraphs Yankees",
+      "url": "https://www.fangraphs.com/teams/yankees",
+      "status": 403,
+      "items": 0,
+      "note": "http_403"
+    },
+    {
+      "timestamp": "2026-09-26T14:11:46Z",
+      "source": "Baseball-Reference Yankees",
+      "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
+      "status": 200,
+      "items": 52,
+      "note": "ok | tables: bat_id=players_standard_batting pit_id=players_standard_pitching batters=25 pitchers=27"
     }
   ]
 }
