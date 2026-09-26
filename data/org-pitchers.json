@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T13:01:20Z",
+  "updated": "2026-09-26T13:31:23Z",
   "season": 2026,
   "pitchers": [
     {
@@ -720,6 +720,43 @@
       ]
     },
     {
+      "id": 679693,
+      "name": "Carson Coleman",
+      "position": "P",
+      "level": "AAA",
+      "level_since": "2026-03-26",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "w": 1,
+        "l": 0,
+        "g": 37,
+        "gs": 1,
+        "cg": 0,
+        "sho": 0,
+        "sv": 3,
+        "svo": 6,
+        "ip": "44.0",
+        "ip_outs": 132,
+        "h": 51,
+        "r": 40,
+        "er": 39,
+        "hr": 5,
+        "hb": 1,
+        "bb": 25,
+        "so": 44,
+        "era": "7.98",
+        "era_num": 7.9772727272727275,
+        "whip": "1.73",
+        "whip_num": 1.7272727272727273,
+        "avg": ".287",
+        "avg_num": 0.28651685393258425
+      },
+      "season_levels": [
+        "AAA"
+      ]
+    },
+    {
       "id": 815454,
       "name": "Chris Kean",
       "position": "P",
@@ -870,6 +907,43 @@
       "season_levels": [
         "High-A",
         "Low-A"
+      ]
+    },
+    {
+      "id": 702130,
+      "name": "Danny Watson",
+      "position": "P",
+      "level": "AAA",
+      "level_since": "2026-03-26",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "w": 4,
+        "l": 4,
+        "g": 43,
+        "gs": 2,
+        "cg": 0,
+        "sho": 0,
+        "sv": 3,
+        "svo": 3,
+        "ip": "52.1",
+        "ip_outs": 157,
+        "h": 41,
+        "r": 35,
+        "er": 29,
+        "hr": 6,
+        "hb": 12,
+        "bb": 23,
+        "so": 59,
+        "era": "4.99",
+        "era_num": 4.987261146496815,
+        "whip": "1.22",
+        "whip_num": 1.2229299363057324,
+        "avg": ".215",
+        "avg_num": 0.21465968586387435
+      },
+      "season_levels": [
+        "AAA"
       ]
     },
     {

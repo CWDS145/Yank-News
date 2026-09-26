@@ -1,19 +1,6 @@
 {
-  "updated": "2026-09-26T12:56:20Z",
+  "updated": "2026-09-26T13:26:07Z",
   "items": [
-    {
-      "id": 944012,
-      "date": "2026-09-26",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 694341,
-      "player": "Brendan Beck",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees reassigned RHP Brendan Beck to the minor leagues."
-    },
     {
       "id": 943997,
       "date": "2026-09-25",
@@ -26,19 +13,6 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees transferred RHP Fernando Cruz from the 15-day injured list to the 60-day injured list. Right elbow discomfort."
-    },
-    {
-      "id": 943907,
-      "date": "2026-09-25",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 690440,
-      "player": "Bradley Hanner",
-      "from_team_id": 147,
-      "to_team_id": 475,
-      "from": "New York Yankees",
-      "to": "FCL Yankees",
-      "description": "New York Yankees optioned RHP Bradley Hanner to FCL Yankees."
     },
     {
       "id": 943914,
@@ -54,19 +28,6 @@
       "description": "New York Yankees recalled RHP Yerry De los Santos from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 943913,
-      "date": "2026-09-25",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 694341,
-      "player": "Brendan Beck",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Brendan Beck from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 943906,
       "date": "2026-09-25",
       "type_code": "OPT",
@@ -80,17 +41,30 @@
       "description": "New York Yankees optioned RHP Luis Gil to FCL Yankees."
     },
     {
-      "id": 943995,
+      "id": 943907,
       "date": "2026-09-25",
-      "type_code": "SE",
-      "type_desc": "Selected",
-      "player_id": 529017,
-      "player": "Alexander Cornielle",
+      "type_code": "OPT",
+      "type_desc": "Optioned",
+      "player_id": 690440,
+      "player": "Bradley Hanner",
+      "from_team_id": 147,
+      "to_team_id": 475,
+      "from": "New York Yankees",
+      "to": "FCL Yankees",
+      "description": "New York Yankees optioned RHP Bradley Hanner to FCL Yankees."
+    },
+    {
+      "id": 943913,
+      "date": "2026-09-25",
+      "type_code": "CU",
+      "type_desc": "Recalled",
+      "player_id": 694341,
+      "player": "Brendan Beck",
       "from_team_id": 531,
       "to_team_id": 147,
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
-      "description": "New York Yankees selected the contract of RHP Alexander Cornielle from Scranton/Wilkes-Barre RailRiders."
+      "description": "New York Yankees recalled RHP Brendan Beck from Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 943996,
@@ -106,7 +80,33 @@
       "description": "New York Yankees optioned RHP Brendan Beck to FCL Yankees."
     },
     {
+      "id": 943995,
+      "date": "2026-09-25",
+      "type_code": "SE",
+      "type_desc": "Selected",
+      "player_id": 529017,
+      "player": "Alexander Cornielle",
+      "from_team_id": 531,
+      "to_team_id": 147,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
+      "to": "New York Yankees",
+      "description": "New York Yankees selected the contract of RHP Alexander Cornielle from Scranton/Wilkes-Barre RailRiders."
+    },
+    {
       "id": 944002,
+      "date": "2026-09-24",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 694341,
+      "player": "Brendan Beck",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated RHP Brendan Beck."
+    },
+    {
+      "id": 944004,
       "date": "2026-09-24",
       "type_code": "SC",
       "type_desc": "Status Change",
@@ -130,19 +130,6 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees placed RHP Clarke Schmidt on the 15-day injured list retroactive to September 21, 2026. Right bicep neuritis."
-    },
-    {
-      "id": 944004,
-      "date": "2026-09-24",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 694341,
-      "player": "Brendan Beck",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees activated RHP Brendan Beck."
     },
     {
       "id": 944003,
@@ -236,19 +223,6 @@
       "description": "Cincinnati Reds claimed 3B Oswaldo Cabrera off waivers from New York Yankees."
     },
     {
-      "id": 942944,
-      "date": "2026-09-16",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 657376,
-      "player": "Clarke Schmidt",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees activated RHP Clarke Schmidt from the 60-day injured list."
-    },
-    {
       "id": 942945,
       "date": "2026-09-16",
       "type_code": "DES",
@@ -260,6 +234,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees designated 3B Oswaldo Cabrera for assignment."
+    },
+    {
+      "id": 942944,
+      "date": "2026-09-16",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 657376,
+      "player": "Clarke Schmidt",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated RHP Clarke Schmidt from the 60-day injured list."
     },
     {
       "id": 942920,
@@ -418,19 +405,6 @@
       "description": "New York Yankees recalled RF Jasson Domínguez from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 940885,
-      "date": "2026-09-02",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 657376,
-      "player": "Clarke Schmidt",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees sent RHP Clarke Schmidt on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 941836,
       "date": "2026-09-02",
       "type_code": "ASG",
@@ -444,17 +418,17 @@
       "description": "New York Yankees sent RHP Clarke Schmidt on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 940586,
-      "date": "2026-09-01",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 641857,
-      "player": "Ryan McMahon",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees activated 3B Ryan McMahon from the 10-day injured list."
+      "id": 940885,
+      "date": "2026-09-02",
+      "type_code": "ASG",
+      "type_desc": "Assigned",
+      "player_id": 657376,
+      "player": "Clarke Schmidt",
+      "from_team_id": 147,
+      "to_team_id": 531,
+      "from": "New York Yankees",
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees sent RHP Clarke Schmidt on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 940587,
@@ -468,6 +442,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees activated RHP John Schreiber."
+    },
+    {
+      "id": 940586,
+      "date": "2026-09-01",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 641857,
+      "player": "Ryan McMahon",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated 3B Ryan McMahon from the 10-day injured list."
     },
     {
       "id": 940245,
@@ -509,19 +496,6 @@
       "description": "New York Yankees claimed RHP John Schreiber off waivers from Kansas City Royals."
     },
     {
-      "id": 940095,
-      "date": "2026-08-30",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 660787,
-      "player": "Yerry De los Santos",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees optioned RHP Yerry De los Santos to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 940094,
       "date": "2026-08-30",
       "type_code": "CU",
@@ -548,43 +522,17 @@
       "description": "New York Yankees optioned RHP Brendan Beck to Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 940006,
-      "date": "2026-08-29",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 657376,
-      "player": "Clarke Schmidt",
+      "id": 940095,
+      "date": "2026-08-30",
+      "type_code": "OPT",
+      "type_desc": "Optioned",
+      "player_id": 660787,
+      "player": "Yerry De los Santos",
       "from_team_id": 147,
-      "to_team_id": 1956,
+      "to_team_id": 531,
       "from": "New York Yankees",
-      "to": "AA Somerset Patriots",
-      "description": "New York Yankees sent RHP Clarke Schmidt on a rehab assignment to Somerset Patriots."
-    },
-    {
-      "id": 940585,
-      "date": "2026-08-29",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 641857,
-      "player": "Ryan McMahon",
-      "from_team_id": 147,
-      "to_team_id": 1956,
-      "from": "New York Yankees",
-      "to": "AA Somerset Patriots",
-      "description": "New York Yankees sent 3B Ryan McMahon on a rehab assignment to Somerset Patriots."
-    },
-    {
-      "id": 940000,
-      "date": "2026-08-29",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 608331,
-      "player": "Max Fried",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees activated LHP Max Fried from the 15-day injured list."
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "New York Yankees optioned RHP Yerry De los Santos to Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 940005,
@@ -600,6 +548,19 @@
       "description": "New York Yankees sent 3B Ryan McMahon on a rehab assignment to Somerset Patriots."
     },
     {
+      "id": 940006,
+      "date": "2026-08-29",
+      "type_code": "ASG",
+      "type_desc": "Assigned",
+      "player_id": 657376,
+      "player": "Clarke Schmidt",
+      "from_team_id": 147,
+      "to_team_id": 1956,
+      "from": "New York Yankees",
+      "to": "AA Somerset Patriots",
+      "description": "New York Yankees sent RHP Clarke Schmidt on a rehab assignment to Somerset Patriots."
+    },
+    {
       "id": 940001,
       "date": "2026-08-29",
       "type_code": "DES",
@@ -611,6 +572,32 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees designated RHP Justin Topa for assignment."
+    },
+    {
+      "id": 940000,
+      "date": "2026-08-29",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 608331,
+      "player": "Max Fried",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated LHP Max Fried from the 15-day injured list."
+    },
+    {
+      "id": 940585,
+      "date": "2026-08-29",
+      "type_code": "ASG",
+      "type_desc": "Assigned",
+      "player_id": 641857,
+      "player": "Ryan McMahon",
+      "from_team_id": 147,
+      "to_team_id": 1956,
+      "from": "New York Yankees",
+      "to": "AA Somerset Patriots",
+      "description": "New York Yankees sent 3B Ryan McMahon on a rehab assignment to Somerset Patriots."
     },
     {
       "id": 939935,
