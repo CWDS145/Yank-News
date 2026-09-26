@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T23:58:32Z",
+  "updated": "2026-09-26T01:07:34Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1102,7 +1102,7 @@
       "name": "Fernando Cruz",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-08-26",
+      "level_since": "2026-09-25",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -1850,7 +1850,7 @@
       "name": "Kervin Castro",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-08-26",
+      "level_since": "2026-08-03",
       "prior_level": "AAA",
       "prior_level_since": "2026-07-22",
       "season": {
@@ -2513,21 +2513,21 @@
         "sho": 0,
         "sv": 3,
         "svo": 3,
-        "ip": "62.1",
-        "ip_outs": 187,
-        "h": 52,
+        "ip": "63.1",
+        "ip_outs": 190,
+        "h": 54,
         "r": 33,
         "er": 26,
         "hr": 3,
         "hb": 4,
-        "bb": 22,
-        "so": 46,
-        "era": "3.75",
-        "era_num": 3.7540106951871657,
-        "whip": "1.19",
-        "whip_num": 1.1871657754010696,
-        "avg": ".222",
-        "avg_num": 0.2222222222222222
+        "bb": 23,
+        "so": 49,
+        "era": "3.69",
+        "era_num": 3.694736842105263,
+        "whip": "1.22",
+        "whip_num": 1.2157894736842105,
+        "avg": ".226",
+        "avg_num": 0.22594142259414227
       },
       "season_levels": [
         "MLB"
@@ -2847,27 +2847,27 @@
       "season": {
         "w": 10,
         "l": 6,
-        "g": 31,
+        "g": 32,
         "gs": 29,
         "cg": 0,
         "sho": 0,
         "sv": 0,
         "svo": 0,
-        "ip": "152.1",
-        "ip_outs": 457,
-        "h": 156,
+        "ip": "155.0",
+        "ip_outs": 465,
+        "h": 158,
         "r": 83,
         "er": 68,
         "hr": 21,
         "hb": 4,
         "bb": 54,
-        "so": 151,
-        "era": "4.02",
-        "era_num": 4.017505470459518,
-        "whip": "1.38",
-        "whip_num": 1.3785557986870898,
-        "avg": ".262",
-        "avg_num": 0.26218487394957984
+        "so": 156,
+        "era": "3.95",
+        "era_num": 3.9483870967741934,
+        "whip": "1.37",
+        "whip_num": 1.367741935483871,
+        "avg": ".261",
+        "avg_num": 0.2607260726072607
       },
       "season_levels": [
         "MLB"
