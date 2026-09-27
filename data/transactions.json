@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T05:39:08Z",
+  "updated": "2026-09-27T06:24:47Z",
   "count": 76,
   "items": [
     {
@@ -34,6 +34,12 @@
     },
     {
       "date": "2026-09-24",
+      "type": "sent",
+      "player": "Bradley Hanner",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-09-24",
       "type": "placed",
       "player": "Clarke Schmidt",
       "description": "Placed on 15-Day IL (Right biceps neuritis)"
@@ -41,7 +47,7 @@
     {
       "date": "2026-09-24",
       "type": "sent",
-      "player": "Bradley Hanner",
+      "player": "Luis Gil",
       "description": "Sent to Minors"
     },
     {
@@ -49,12 +55,6 @@
       "type": "called up",
       "player": "Bradley Hanner",
       "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-09-24",
-      "type": "sent",
-      "player": "Luis Gil",
-      "description": "Sent to Minors"
     },
     {
       "date": "2026-09-22",
@@ -82,15 +82,15 @@
     },
     {
       "date": "2026-09-16",
-      "type": "recalled",
-      "player": "Clarke Schmidt",
-      "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-09-16",
       "type": "designated",
       "player": "Oswaldo Cabrera",
       "description": "Designated for Assignment"
+    },
+    {
+      "date": "2026-09-16",
+      "type": "recalled",
+      "player": "Clarke Schmidt",
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-09-16",
@@ -346,15 +346,15 @@
     },
     {
       "date": "2026-08-18",
-      "type": "",
-      "player": "Carlos Rodon",
-      "description": "Removed From 15-Day IL (Left elbow inflammation)"
-    },
-    {
-      "date": "2026-08-18",
       "type": "recalled",
       "player": "Carlos Rodon",
       "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-08-18",
+      "type": "",
+      "player": "Carlos Rodon",
+      "description": "Removed From 15-Day IL (Left elbow inflammation)"
     },
     {
       "date": "2026-08-17",
@@ -406,15 +406,15 @@
     },
     {
       "date": "2026-08-03",
-      "type": "traded",
-      "player": "Heliot Ramos",
-      "description": "Traded From San Francisco (for LHP Henry Lalane, three-player deal)"
+      "type": "sent",
+      "player": "Jasson Dominguez",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-08-03",
-      "type": "sent",
-      "player": "Angel Chivilli",
-      "description": "Sent to Minors"
+      "type": "traded",
+      "player": "Heliot Ramos",
+      "description": "Traded From San Francisco (for LHP Henry Lalane, three-player deal)"
     },
     {
       "date": "2026-08-03",
@@ -425,13 +425,13 @@
     {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Anthony Volpe",
+      "player": "Angel Chivilli",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-08-03",
       "type": "sent",
-      "player": "Jasson Dominguez",
+      "player": "Anthony Volpe",
       "description": "Sent to Minors"
     },
     {
@@ -442,15 +442,15 @@
     },
     {
       "date": "2026-08-02",
-      "type": "traded",
-      "player": "Luis Garcia",
-      "description": "Traded From Washington (for RHP Yovanny Cruz, five-player deal)"
-    },
-    {
-      "date": "2026-08-02",
       "type": "called up",
       "player": "Jacob Bird",
       "description": "Called Up from Minors - Not to Report"
+    },
+    {
+      "date": "2026-08-02",
+      "type": "traded",
+      "player": "Luis Garcia",
+      "description": "Traded From Washington (for RHP Yovanny Cruz, five-player deal)"
     },
     {
       "date": "2026-08-01",
