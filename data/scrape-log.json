@@ -1,38 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-09-28T04:33:46Z",
-      "source": "MLB Transactions org",
-      "url": "https://statsapi.mlb.com/api/v1/transactions?teamId=147&startDate=2026-08-29&endDate=2026-09-28",
-      "status": 200,
-      "items": 61,
-      "note": "window 2026-08-29..2026-09-28"
-    },
-    {
-      "timestamp": "2026-09-28T04:37:42Z",
-      "source": "MLB personId fallback",
-      "url": "<bulk>",
-      "status": 200,
-      "items": 69,
-      "note": "players needing prior_level fallback"
-    },
-    {
-      "timestamp": "2026-09-28T04:38:24Z",
-      "source": "MLB season pitching: MLB",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
-      "status": 200,
-      "items": 85,
-      "note": "ok=85/85"
-    },
-    {
-      "timestamp": "2026-09-28T04:38:24Z",
-      "source": "MLB season pitching: AAA",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
-      "status": 200,
-      "items": 85,
-      "note": "ok=85/85"
-    },
-    {
       "timestamp": "2026-09-28T04:38:24Z",
       "source": "MLB season pitching: AA",
       "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season&group=pitching&sportId={sid}",
@@ -3999,6 +3967,38 @@
       "status": 200,
       "items": 72,
       "note": "ok=72/72"
+    },
+    {
+      "timestamp": "2026-09-28T10:09:36Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 403,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-09-28T10:09:36Z",
+      "source": "MLB.com",
+      "url": "https://www.mlb.com/depth-charts",
+      "status": 404,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-09-28T10:09:36Z",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/team/depth/_/name/nyy/new-york-yankees",
+      "status": 202,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-09-28T10:09:36Z",
+      "source": "DepthChart",
+      "url": "all-sources-failed",
+      "status": 0,
+      "items": 0,
+      "note": "all_failed_kept_existing"
     }
   ]
 }
