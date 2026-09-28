@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T23:53:14Z",
+  "updated": "2026-09-28T01:11:24Z",
   "items": [
     {
       "id": 943997,
@@ -611,19 +611,6 @@
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
       "description": "New York Yankees recalled RHP Brendan Beck from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 939972,
-      "date": "2026-08-28",
-      "type_code": "SFA",
-      "type_desc": "Signed as Free Agent",
-      "player_id": 672284,
-      "player": "Jarred Kelenic",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees signed free agent RF Jarred Kelenic to a minor league contract."
     }
   ]
 }
