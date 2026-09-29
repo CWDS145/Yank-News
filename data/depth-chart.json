@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T10:08:40Z",
+  "updated": "2026-09-29T10:09:10Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -74,15 +74,15 @@
     ],
     "SP": [
       {
-        "name": "Max Fried",
+        "name": "Cam Schlittler",
         "rank": 1
       },
       {
-        "name": "Gerrit Cole",
+        "name": "Max Fried",
         "rank": 2
       },
       {
-        "name": "Cam Schlittler",
+        "name": "Gerrit Cole",
         "rank": 3
       },
       {
@@ -120,19 +120,19 @@
         "rank": 5
       },
       {
-        "name": "Luis Gil",
+        "name": "Tim Hill",
         "rank": 6
       },
       {
-        "name": "Tim Hill",
+        "name": "Michael Fulmer",
         "rank": 7
       },
       {
-        "name": "Michael Fulmer",
+        "name": "Yerry De Los Santos",
         "rank": 8
       },
       {
-        "name": "Bradley Hanner",
+        "name": "Alexander Cornielle",
         "rank": 9
       },
       {
@@ -150,10 +150,10 @@
     ]
   },
   "all_players": [
+    "Alexander Cornielle",
     "Ali Sanchez",
     "Austin Wells",
     "Ben Rice",
-    "Bradley Hanner",
     "Brent Headrick",
     "Cam Schlittler",
     "Carlos Rodon",
@@ -169,7 +169,6 @@
     "John Schreiber",
     "Jose Caballero",
     "Kervin Castro",
-    "Luis Gil",
     "Luis V. Garcia",
     "Max Fried",
     "Michael Fulmer",
@@ -180,6 +179,7 @@
     "Ryan Yarbrough",
     "Spencer G. Jones",
     "Tim Hill",
-    "Will Warren"
+    "Will Warren",
+    "Yerry De Los Santos"
   ]
 }
