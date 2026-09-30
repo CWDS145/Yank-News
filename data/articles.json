@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T13:20:50Z",
+  "updated": "2026-09-30T13:41:09Z",
   "count": 78,
   "items": [
     {
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-09-30T13:20:50Z",
+      "published": "2026-09-30T13:41:09Z",
       "image": null
     },
     {
@@ -17,7 +17,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/new-york-yankees-recognize-the-25th-anniversary-of-9-11-with-commemorative-activities-and-outreach-on-and-off-the-field-those-lost-and-impacted-by-the-tragedy-to-be-honored-in-pregame-ceremonies-on-f/",
-      "published": "2026-09-30T13:20:50Z",
+      "published": "2026-09-30T13:41:09Z",
       "image": null
     },
     {
@@ -26,8 +26,26 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/former-new-york-yankees-fan-favorite-nick-swisher-and-the-sandlot-actor-chauncey-leopardi-to-star-in-third-season-of-award-winning-hexclad-presents-bronx-buds-premiering-this-saturday-august-8-on-th/",
-      "published": "2026-09-30T13:20:50Z",
+      "published": "2026-09-30T13:41:09Z",
       "image": null
+    },
+    {
+      "title": "The Red Sox need Roman Anthony to stay alive vs. Yankees, but a nagging hand injury keeps derailing his season",
+      "summary": "Anthony exited Boston's Game 1 loss early as an injury that sidelined him for much of the summer flared up again",
+      "source": "CBS Sports MLB",
+      "author": "Julian McWilliams",
+      "link": "https://www.cbssports.com/mlb/news/red-sox-roman-anthony-yankees-nagging-hand-injury/",
+      "published": "2026-09-30T13:35:23Z",
+      "image": "https://sportshub.cbsistatic.com/i/2026/09/30/cf01e33d-e532-43c5-9bda-f2d06bf9962c/roman-anthony-getty-3.png"
+    },
+    {
+      "title": "Cam Schlittler, Austin Riley open MLB playoffs in style; Pete Prisco's NFL Power Rankings are out",
+      "summary": "Plus our first 2027 WNBA mock draft after a historic night in the postseason",
+      "source": "CBS Sports MLB",
+      "author": "Carter Bahns",
+      "link": "https://www.cbssports.com/mlb/news/cam-schlittler-austin-riley-open-mlb-playoffs-in-style-pete-priscos-nfl-power-rankings-are-out/",
+      "published": "2026-09-30T12:57:04Z",
+      "image": "https://sportshub.cbsistatic.com/i/2026/09/30/c7e1eade-277f-4b16-b98d-2be8dd922c26/gettyimages-2297799788-2.jpg"
     },
     {
       "title": "Wild Card Series Game 1 winners, losers: Cam Schlittler shows ace stuff for Yankees; Cubs offense vanishes",
@@ -46,24 +64,6 @@
       "link": "https://www.pinstripealley.com/yankees-game-information/209944/yankees-red-sox-wild-card-series-game-2-preview-fried-gray-new-york-boston",
       "published": "2026-09-30T12:45:00Z",
       "image": null
-    },
-    {
-      "title": "The Red Sox need Roman Anthony to stay alive vs. Yankees, but a nagging hand injury keeps derailing his season",
-      "summary": "Anthony exited Boston's Game 1 loss early as an injury that sidelined him for much of the summer flared up again",
-      "source": "CBS Sports MLB",
-      "author": "Julian McWilliams",
-      "link": "https://www.cbssports.com/mlb/news/red-sox-roman-anthony-yankees-nagging-hand-injury/",
-      "published": "2026-09-30T12:33:37Z",
-      "image": "https://sportshub.cbsistatic.com/i/2026/09/30/cf01e33d-e532-43c5-9bda-f2d06bf9962c/roman-anthony-getty-3.png"
-    },
-    {
-      "title": "Chad Tracy’s controversial call to pull Payton Tolle backfired for Red Sox in horrific fashion in Game 1 blowout",
-      "summary": "Boston's b-tier relievers ultimately surrendered eight runs in 3 1/3 innings.",
-      "source": "NY Post Yankees",
-      "author": "Matt Ehalt",
-      "link": "https://nypost.com/2026/09/30/sports/chad-tracys-controversial-call-to-pull-payton-tolle-backfired-for-red-sox-in-horrific-fashion-in-game-1-blowout/",
-      "published": "2026-09-30T12:18:28Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2F17-boston-red-sox-talks-143099673.jpg?w%3D1024"
     },
     {
       "title": "The Yankees’ Game 1 blueprint can carry them on a deep October run",
@@ -345,6 +345,15 @@
       "image": null
     },
     {
+      "title": "Yankees must use their biggest advantage in lefty-heavy series with Red Sox",
+      "summary": "The pre-series machinations for Red Sox-Yankees revolved around who was left out and who was the right fit.",
+      "source": "NY Post Yankees",
+      "author": "Joel Sherman",
+      "link": "https://nypost.com/2026/09/29/sports/yankees-must-use-biggest-advantage-in-lefty-heavy-series-with-red-sox/",
+      "published": "2026-09-29T22:53:27Z",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2Fnew-york-yankees-right-fielder-140978707.jpg?quality%3D90%26"
+    },
+    {
       "title": "Red Sox vs. Yankees AL Wild-Card Game 1 picks: Aaron Judge not available, but Cam Schlittler should be enough",
       "summary": "Aaron Judge is not on the Yankees' Wild Card roster as ace Cam Schlitter starts Game 1 vs. the Red Sox",
       "source": "CBS Sports MLB",
@@ -379,15 +388,6 @@
       "link": "https://www.mlb.com/yankees/news/aaron-judge-calf-injury-latest-news",
       "published": "2026-09-29T20:55:00Z",
       "image": null
-    },
-    {
-      "title": "Use DraftKings promo code to claim $150 in bonus bets by targeting Yankees-Red Sox, Padres-Cubs, MLB playoffs",
-      "summary": "DraftKings offers $150 in bonus bets after your first $5 wager for MLB, NFL betting on Tuesday",
-      "source": "CBS Sports MLB",
-      "author": "Owen OBrien",
-      "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-claim-150-bonus-bets-yankees-red-sox-padres-cubs-mlb-playoffs/",
-      "published": "2026-09-29T20:51:27Z",
-      "image": "https://sportshub.cbsistatic.com/i/2026/07/26/f6e09138-10e1-46d1-8a69-6cb1358224dd/draftkings-bet-5-get-150.jpg"
     },
     {
       "title": "Aaron Judge left off Yankees Wild Card Series roster, but Giancarlo Stanton will be available vs. Red Sox",
