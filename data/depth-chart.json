@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T10:09:10Z",
+  "updated": "2026-09-30T10:09:27Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -30,12 +30,8 @@
     ],
     "3B": [
       {
-        "name": "Jose Caballero",
-        "rank": 1
-      },
-      {
         "name": "Ryan McMahon",
-        "rank": 2
+        "rank": 1
       }
     ],
     "SS": [
@@ -52,13 +48,13 @@
     ],
     "CF": [
       {
-        "name": "Spencer G. Jones",
+        "name": "Trent Grisham",
         "rank": 1
       }
     ],
     "RF": [
       {
-        "name": "Heliot Ramos",
+        "name": "Spencer G. Jones",
         "rank": 1
       }
     ],
@@ -86,16 +82,8 @@
         "rank": 3
       },
       {
-        "name": "Will Warren",
-        "rank": 4
-      },
-      {
-        "name": "Carlos Rodon",
-        "rank": 5
-      },
-      {
         "name": "Ryan Weathers",
-        "rank": 6
+        "rank": 4
       }
     ],
     "RP": [
@@ -112,45 +100,36 @@
         "rank": 3
       },
       {
-        "name": "John Schreiber",
+        "name": "Carlos Rodon",
         "rank": 4
       },
       {
-        "name": "Ryan Yarbrough",
+        "name": "John Schreiber",
         "rank": 5
       },
       {
-        "name": "Tim Hill",
+        "name": "Will Warren",
         "rank": 6
       },
       {
-        "name": "Michael Fulmer",
+        "name": "Ryan Yarbrough",
         "rank": 7
       },
       {
-        "name": "Yerry De Los Santos",
+        "name": "Kervin Castro",
         "rank": 8
       },
       {
-        "name": "Alexander Cornielle",
+        "name": "Fernando E. Cruz",
         "rank": 9
       },
       {
-        "name": "Kervin Castro",
-        "rank": 10
-      },
-      {
-        "name": "Fernando E. Cruz",
-        "rank": 11
-      },
-      {
         "name": "Clarke Schmidt",
-        "rank": 12
+        "rank": 10
       }
     ]
   },
   "all_players": [
-    "Alexander Cornielle",
     "Ali Sanchez",
     "Austin Wells",
     "Ben Rice",
@@ -164,22 +143,18 @@
     "George Lombard Jr.",
     "Gerrit Cole",
     "Giancarlo Stanton",
-    "Heliot Ramos",
     "Jazz Chisholm",
     "John Schreiber",
-    "Jose Caballero",
     "Kervin Castro",
     "Luis V. Garcia",
     "Max Fried",
-    "Michael Fulmer",
     "Paul Blackburn",
     "Paul Goldschmidt",
     "Ryan McMahon",
     "Ryan Weathers",
     "Ryan Yarbrough",
     "Spencer G. Jones",
-    "Tim Hill",
-    "Will Warren",
-    "Yerry De Los Santos"
+    "Trent Grisham",
+    "Will Warren"
   ]
 }
