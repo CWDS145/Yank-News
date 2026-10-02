@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T22:09:34Z",
+  "updated": "2026-10-02T01:50:59Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1549,7 +1549,7 @@
       "name": "John Schreiber",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-09-01",
+      "level_since": "2026-08-31",
       "prior_level": null,
       "prior_level_since": null,
       "season": {

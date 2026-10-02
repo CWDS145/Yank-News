@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T22:04:36Z",
+  "updated": "2026-10-02T01:45:44Z",
   "items": [
     {
       "id": 944899,
@@ -598,32 +598,6 @@
       "from": "New York Yankees",
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "New York Yankees sent RHP Clarke Schmidt on a rehab assignment to Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 940586,
-      "date": "2026-09-01",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 641857,
-      "player": "Ryan McMahon",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees activated 3B Ryan McMahon from the 10-day injured list."
-    },
-    {
-      "id": 940587,
-      "date": "2026-09-01",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 670167,
-      "player": "John Schreiber",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees activated RHP John Schreiber."
     }
   ]
 }
