@@ -1,38 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-10-01T17:06:04Z",
-      "source": "Pinstripe Alley",
-      "url": "https://www.pinstripealley.com/rss/current.xml",
-      "status": 200,
-      "items": 10,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-10-01T17:06:05Z",
-      "source": "NY Post Yankees",
-      "url": "https://nypost.com/tag/new-york-yankees/feed/",
-      "status": 200,
-      "items": 20,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-10-01T17:06:05Z",
-      "source": "MLB Trade Rumors NYY",
-      "url": "https://www.mlbtraderumors.com/category/new-york-yankees/feed",
-      "status": 200,
-      "items": 15,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-10-01T17:06:05Z",
-      "source": "ESPN MLB",
-      "url": "https://www.espn.com/espn/rss/mlb/news",
-      "status": 202,
-      "items": 0,
-      "note": "http_error"
-    },
-    {
       "timestamp": "2026-10-01T17:06:05Z",
       "source": "CBS Sports MLB",
       "url": "https://www.cbssports.com/rss/headlines/mlb/",
@@ -3999,6 +3967,38 @@
       "status": 200,
       "items": 72,
       "note": "ok=72/72"
+    },
+    {
+      "timestamp": "2026-10-03T14:31:38Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 403,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-10-03T14:31:38Z",
+      "source": "MLB.com",
+      "url": "https://www.mlb.com/depth-charts",
+      "status": 404,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-10-03T14:31:38Z",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/team/depth/_/name/nyy/new-york-yankees",
+      "status": 202,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-10-03T14:31:38Z",
+      "source": "DepthChart",
+      "url": "all-sources-failed",
+      "status": 0,
+      "items": 0,
+      "note": "all_failed_kept_existing"
     }
   ]
 }
