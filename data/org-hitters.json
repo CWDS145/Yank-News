@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T13:59:21Z",
+  "updated": "2026-10-03T18:01:59Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-09-23",
@@ -87,7 +87,7 @@
       "name": "Amed Rosario",
       "position": "3B",
       "level": "MLB",
-      "level_since": "2026-05-30",
+      "level_since": "2026-10-03",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
