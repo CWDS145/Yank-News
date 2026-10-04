@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T10:09:16Z",
+  "updated": "2026-10-04T15:06:07Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -70,20 +70,16 @@
     ],
     "SP": [
       {
-        "name": "Cam Schlittler",
+        "name": "Gerrit Cole",
         "rank": 1
       },
       {
-        "name": "Max Fried",
+        "name": "Cam Schlittler",
         "rank": 2
       },
       {
-        "name": "Gerrit Cole",
+        "name": "Carlos Rodon",
         "rank": 3
-      },
-      {
-        "name": "Ryan Weathers",
-        "rank": 4
       }
     ],
     "RP": [
@@ -100,15 +96,15 @@
         "rank": 3
       },
       {
-        "name": "Carlos Rodon",
+        "name": "John Schreiber",
         "rank": 4
       },
       {
-        "name": "John Schreiber",
+        "name": "Will Warren",
         "rank": 5
       },
       {
-        "name": "Will Warren",
+        "name": "Ryan Weathers",
         "rank": 6
       },
       {
@@ -116,16 +112,20 @@
         "rank": 7
       },
       {
-        "name": "Kervin Castro",
+        "name": "Max Fried",
         "rank": 8
       },
       {
-        "name": "Fernando E. Cruz",
+        "name": "Kervin Castro",
         "rank": 9
       },
       {
-        "name": "Clarke Schmidt",
+        "name": "Fernando E. Cruz",
         "rank": 10
+      },
+      {
+        "name": "Clarke Schmidt",
+        "rank": 11
       }
     ]
   },
