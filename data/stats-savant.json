@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T01:59:05Z",
+  "updated": "2026-10-05T09:01:18Z",
   "season": 2026,
   "players": [
     {
@@ -55,13 +55,13 @@
       "name": "Austin Wells",
       "expected_batting": {
         "pa": 388,
-        "est_ba": 0.208,
-        "est_slg": 0.36,
-        "est_woba": 0.3,
+        "est_ba": 0.211,
+        "est_slg": 0.363,
+        "est_woba": 0.302,
         "ba": 0.186,
         "slg": 0.332,
         "woba": 0.281,
-        "est_woba_minus_woba": 0.019
+        "est_woba_minus_woba": 0.021
       },
       "expected_pitching": null,
       "statcast_batting": {
@@ -584,7 +584,7 @@
       "statcast_batting": null,
       "sprint_speed": {
         "sprint_speed": 28.9,
-        "hp_to_1b": 4.27,
+        "hp_to_1b": 4.26,
         "bolts": 10
       }
     },
