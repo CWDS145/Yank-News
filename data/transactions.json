@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T17:03:50Z",
+  "updated": "2026-10-06T21:48:37Z",
   "count": 70,
   "items": [
     {
@@ -40,6 +40,12 @@
     },
     {
       "date": "2026-09-25",
+      "type": "transferred",
+      "player": "Fernando Cruz",
+      "description": "Transferred to 60-Day IL (Right elbow discomfort)"
+    },
+    {
+      "date": "2026-09-25",
       "type": "sent",
       "player": "Brendan Beck",
       "description": "Sent to Minors"
@@ -55,12 +61,6 @@
       "type": "called up",
       "player": "Yerry De Los Santos",
       "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-09-25",
-      "type": "transferred",
-      "player": "Fernando Cruz",
-      "description": "Transferred to 60-Day IL (Right elbow discomfort)"
     },
     {
       "date": "2026-09-24",
@@ -142,15 +142,15 @@
     },
     {
       "date": "2026-09-10",
-      "type": "called up",
-      "player": "Anthony Volpe",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-09-10",
       "type": "sent",
       "player": "Jasson Dominguez",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-09-10",
+      "type": "called up",
+      "player": "Anthony Volpe",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-09-10",
@@ -250,15 +250,15 @@
     },
     {
       "date": "2026-08-29",
-      "type": "",
-      "player": "Max Fried",
-      "description": "Removed From 15-Day IL (Left elbow bone bruise)"
-    },
-    {
-      "date": "2026-08-29",
       "type": "signed",
       "player": "Jarred Kelenic",
       "description": "Signed to a Minor League Contract"
+    },
+    {
+      "date": "2026-08-29",
+      "type": "",
+      "player": "Max Fried",
+      "description": "Removed From 15-Day IL (Left elbow bone bruise)"
     },
     {
       "date": "2026-08-29",
@@ -274,21 +274,15 @@
     },
     {
       "date": "2026-08-26",
-      "type": "called up",
-      "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-08-26",
       "type": "transferred",
       "player": "Kervin Castro",
       "description": "Transferred to 60-Day IL (Right elbow neuritis)"
     },
     {
       "date": "2026-08-26",
-      "type": "placed",
-      "player": "Fernando Cruz",
-      "description": "Placed on 15-Day IL (Right elbow discomfort)"
+      "type": "signed",
+      "player": "Michael Fulmer",
+      "description": "Signed as Free Agent  ( 2026)(one-year contract)"
     },
     {
       "date": "2026-08-26",
@@ -298,9 +292,15 @@
     },
     {
       "date": "2026-08-26",
-      "type": "signed",
-      "player": "Michael Fulmer",
-      "description": "Signed as Free Agent  ( 2026)(one-year contract)"
+      "type": "called up",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-08-26",
+      "type": "placed",
+      "player": "Fernando Cruz",
+      "description": "Placed on 15-Day IL (Right elbow discomfort)"
     },
     {
       "date": "2026-08-25",
@@ -322,12 +322,6 @@
     },
     {
       "date": "2026-08-23",
-      "type": "",
-      "player": "Cody Bellinger",
-      "description": "Removed From 10-Day IL (Strained left hamstring - out 4-6 weeks)"
-    },
-    {
-      "date": "2026-08-23",
       "type": "called up",
       "player": "Brendan Beck",
       "description": "Called Up from Minors"
@@ -345,16 +339,22 @@
       "description": "Recalled From Minors Rehab Assignment"
     },
     {
-      "date": "2026-08-22",
-      "type": "signed",
-      "player": "Elijah Morgan",
-      "description": "Signed to a Minor League Contract"
+      "date": "2026-08-23",
+      "type": "",
+      "player": "Cody Bellinger",
+      "description": "Removed From 10-Day IL (Strained left hamstring - out 4-6 weeks)"
     },
     {
       "date": "2026-08-22",
       "type": "sent",
       "player": "Max Schuemann",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-08-22",
+      "type": "signed",
+      "player": "Elijah Morgan",
+      "description": "Signed to a Minor League Contract"
     },
     {
       "date": "2026-08-21",
@@ -400,15 +400,15 @@
     },
     {
       "date": "2026-08-11",
-      "type": "called up",
-      "player": "Bradley Hanner",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-08-11",
       "type": "placed",
       "player": "Kervin Castro",
       "description": "Placed on 15-Day IL (Right elbow neuritis)"
+    },
+    {
+      "date": "2026-08-11",
+      "type": "called up",
+      "player": "Bradley Hanner",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-08-08",
