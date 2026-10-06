@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-05T18:30:21Z",
+  "updated": "2026-10-06T00:24:30Z",
   "season": 2026,
   "window_days": 10,
-  "window_start": "2026-09-25",
-  "window_end": "2026-10-05",
+  "window_start": "2026-09-26",
+  "window_end": "2026-10-06",
   "hitters": [
     {
       "id": 592450,
@@ -66,21 +66,12 @@
         "avg_num": 0.2336448598130841,
         "ops_num": 0.6525170815989947
       },
-      "last_10": {
-        "ab": 3,
-        "k": 0,
-        "avg": ".333",
-        "ops": ".833",
-        "avg_num": 0.3333333333333333,
-        "ops_num": 0.8333333333333333
-      },
+      "last_10": null,
       "season_levels": [
         "MLB",
         "AAA"
       ],
-      "last_10_levels": [
-        "MLB"
-      ]
+      "last_10_levels": []
     },
     {
       "id": 642708,
@@ -98,20 +89,11 @@
         "avg_num": 0.23788546255506607,
         "ops_num": 0.6839748682024986
       },
-      "last_10": {
-        "ab": 4,
-        "k": 1,
-        "avg": ".500",
-        "ops": "1.000",
-        "avg_num": 0.5,
-        "ops_num": 1.0
-      },
+      "last_10": null,
       "season_levels": [
         "MLB"
       ],
-      "last_10_levels": [
-        "MLB"
-      ]
+      "last_10_levels": []
     },
     {
       "id": 835219,
@@ -151,22 +133,13 @@
         "avg_num": 0.2518891687657431,
         "ops_num": 0.7434553796329615
       },
-      "last_10": {
-        "ab": 8,
-        "k": 3,
-        "avg": ".375",
-        "ops": ".875",
-        "avg_num": 0.375,
-        "ops_num": 0.875
-      },
+      "last_10": null,
       "season_levels": [
         "MLB",
         "AAA",
         "AA"
       ],
-      "last_10_levels": [
-        "MLB"
-      ]
+      "last_10_levels": []
     },
     {
       "id": 669224,
@@ -184,21 +157,12 @@
         "avg_num": 0.18497109826589594,
         "ops_num": 0.6357012094042351
       },
-      "last_10": {
-        "ab": 2,
-        "k": 1,
-        "avg": ".000",
-        "ops": ".500",
-        "avg_num": 0.0,
-        "ops_num": 0.5
-      },
+      "last_10": null,
       "season_levels": [
         "MLB",
         "AAA"
       ],
-      "last_10_levels": [
-        "MLB"
-      ]
+      "last_10_levels": []
     },
     {
       "id": 824424,
@@ -238,20 +202,11 @@
         "avg_num": 0.26352530541012215,
         "ops_num": 0.8968500043172132
       },
-      "last_10": {
-        "ab": 8,
-        "k": 4,
-        "avg": ".375",
-        "ops": ".944",
-        "avg_num": 0.375,
-        "ops_num": 0.9444444444444444
-      },
+      "last_10": null,
       "season_levels": [
         "MLB"
       ],
-      "last_10_levels": [
-        "MLB"
-      ]
+      "last_10_levels": []
     },
     {
       "id": 701331,
@@ -402,21 +357,12 @@
         "avg_num": 0.26294820717131473,
         "ops_num": 0.7625624263509343
       },
-      "last_10": {
-        "ab": 4,
-        "k": 2,
-        "avg": ".000",
-        "ops": ".000",
-        "avg_num": 0.0,
-        "ops_num": 0.0
-      },
+      "last_10": null,
       "season_levels": [
         "MLB",
         "AAA"
       ],
-      "last_10_levels": [
-        "MLB"
-      ]
+      "last_10_levels": []
     },
     {
       "id": 702068,
@@ -794,22 +740,13 @@
         "avg_num": 0.2648401826484018,
         "ops_num": 0.8199084991565317
       },
-      "last_10": {
-        "ab": 4,
-        "k": 2,
-        "avg": ".000",
-        "ops": ".000",
-        "avg_num": 0.0,
-        "ops_num": 0.0
-      },
+      "last_10": null,
       "season_levels": [
         "MLB",
         "AAA",
         "AA"
       ],
-      "last_10_levels": [
-        "MLB"
-      ]
+      "last_10_levels": []
     },
     {
       "id": 519317,
@@ -894,21 +831,12 @@
         "avg_num": 0.25116279069767444,
         "ops_num": 0.7359408033826639
       },
-      "last_10": {
-        "ab": 7,
-        "k": 1,
-        "avg": ".429",
-        "ops": "1.214",
-        "avg_num": 0.42857142857142855,
-        "ops_num": 1.2142857142857144
-      },
+      "last_10": null,
       "season_levels": [
         "MLB",
         "AAA"
       ],
-      "last_10_levels": [
-        "MLB"
-      ]
+      "last_10_levels": []
     },
     {
       "id": 641555,
@@ -1062,20 +990,11 @@
         "avg_num": 0.23142250530785563,
         "ops_num": 0.7111808182877577
       },
-      "last_10": {
-        "ab": 4,
-        "k": 2,
-        "avg": ".000",
-        "ops": ".000",
-        "avg_num": 0.0,
-        "ops_num": 0.0
-      },
+      "last_10": null,
       "season_levels": [
         "MLB"
       ],
-      "last_10_levels": [
-        "MLB"
-      ]
+      "last_10_levels": []
     },
     {
       "id": 694742,
@@ -1116,20 +1035,11 @@
         "avg_num": 0.23114355231143552,
         "ops_num": 0.6547865124991925
       },
-      "last_10": {
-        "ab": 3,
-        "k": 2,
-        "avg": ".000",
-        "ops": ".250",
-        "avg_num": 0.0,
-        "ops_num": 0.25
-      },
+      "last_10": null,
       "season_levels": [
         "MLB"
       ],
-      "last_10_levels": [
-        "MLB"
-      ]
+      "last_10_levels": []
     },
     {
       "id": 685744,
@@ -1261,20 +1171,11 @@
         "avg_num": 0.2771317829457364,
         "ops_num": 0.8307100946507345
       },
-      "last_10": {
-        "ab": 3,
-        "k": 0,
-        "avg": ".333",
-        "ops": ".833",
-        "avg_num": 0.3333333333333333,
-        "ops_num": 0.8333333333333333
-      },
+      "last_10": null,
       "season_levels": [
         "MLB"
       ],
-      "last_10_levels": [
-        "MLB"
-      ]
+      "last_10_levels": []
     },
     {
       "id": 809772,
@@ -1450,20 +1351,11 @@
         "avg_num": 0.25217391304347825,
         "ops_num": 0.7653318077803204
       },
-      "last_10": {
-        "ab": 4,
-        "k": 0,
-        "avg": ".000",
-        "ops": ".000",
-        "avg_num": 0.0,
-        "ops_num": 0.0
-      },
+      "last_10": null,
       "season_levels": [
         "MLB"
       ],
-      "last_10_levels": [
-        "MLB"
-      ]
+      "last_10_levels": []
     },
     {
       "id": 827290,
@@ -1548,21 +1440,12 @@
         "avg_num": 0.21148036253776434,
         "ops_num": 0.6297174141643438
       },
-      "last_10": {
-        "ab": 4,
-        "k": 2,
-        "avg": ".500",
-        "ops": "1.250",
-        "avg_num": 0.5,
-        "ops_num": 1.25
-      },
+      "last_10": null,
       "season_levels": [
         "MLB",
         "AA"
       ],
-      "last_10_levels": [
-        "MLB"
-      ]
+      "last_10_levels": []
     },
     {
       "id": 682987,
@@ -1580,28 +1463,19 @@
         "avg_num": 0.2571428571428571,
         "ops_num": 0.8284105104914353
       },
-      "last_10": {
-        "ab": 8,
-        "k": 3,
-        "avg": ".250",
-        "ops": ".500",
-        "avg_num": 0.25,
-        "ops_num": 0.5
-      },
+      "last_10": null,
       "season_levels": [
         "MLB",
         "AAA"
       ],
-      "last_10_levels": [
-        "MLB"
-      ]
+      "last_10_levels": []
     },
     {
       "id": 663757,
       "name": "Trent Grisham",
       "position": "CF",
       "level": "MLB",
-      "level_since": "2026-09-05",
+      "level_since": "2026-09-29",
       "prior_level": "AA",
       "prior_level_since": "2026-07-01",
       "season": {
