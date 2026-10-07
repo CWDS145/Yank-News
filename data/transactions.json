@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-06T21:48:37Z",
-  "count": 70,
+  "updated": "2026-10-07T01:14:51Z",
+  "count": 69,
   "items": [
     {
       "date": "2026-10-03",
@@ -16,6 +16,12 @@
     },
     {
       "date": "2026-09-29",
+      "type": "",
+      "player": "Giancarlo Stanton",
+      "description": "Removed From 60-Day IL (Strained right calf)"
+    },
+    {
+      "date": "2026-09-29",
       "type": "designated",
       "player": "Alexander Cornielle",
       "description": "Designated for Assignment"
@@ -27,16 +33,10 @@
       "description": "Removed From 10-Day IL (Strained right hamstring)"
     },
     {
-      "date": "2026-09-29",
-      "type": "",
-      "player": "Giancarlo Stanton",
-      "description": "Removed From 60-Day IL (Strained right calf)"
-    },
-    {
       "date": "2026-09-25",
-      "type": "purchased",
-      "player": "Alexander Cornielle",
-      "description": "Purchased From Minors"
+      "type": "called up",
+      "player": "Yerry De Los Santos",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-09-25",
@@ -46,9 +46,9 @@
     },
     {
       "date": "2026-09-25",
-      "type": "sent",
-      "player": "Brendan Beck",
-      "description": "Sent to Minors"
+      "type": "purchased",
+      "player": "Alexander Cornielle",
+      "description": "Purchased From Minors"
     },
     {
       "date": "2026-09-25",
@@ -58,26 +58,8 @@
     },
     {
       "date": "2026-09-25",
-      "type": "called up",
-      "player": "Yerry De Los Santos",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-09-24",
       "type": "sent",
-      "player": "Luis Gil",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-09-24",
-      "type": "called up",
-      "player": "Bradley Hanner",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-09-24",
-      "type": "sent",
-      "player": "Bradley Hanner",
+      "player": "Brendan Beck",
       "description": "Sent to Minors"
     },
     {
@@ -85,6 +67,24 @@
       "type": "placed",
       "player": "Clarke Schmidt",
       "description": "Placed on 15-Day IL (Right biceps neuritis)"
+    },
+    {
+      "date": "2026-09-24",
+      "type": "sent",
+      "player": "Bradley Hanner",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-09-24",
+      "type": "called up",
+      "player": "Bradley Hanner",
+      "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-09-24",
+      "type": "sent",
+      "player": "Luis Gil",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-09-22",
@@ -100,15 +100,15 @@
     },
     {
       "date": "2026-09-19",
-      "type": "called up",
-      "player": "Max Schuemann",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-09-19",
       "type": "placed",
       "player": "Aaron Judge",
       "description": "Placed on 10-Day IL (Strained right calf)"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "called up",
+      "player": "Max Schuemann",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-09-16",
@@ -118,15 +118,15 @@
     },
     {
       "date": "2026-09-16",
-      "type": "",
-      "player": "Clarke Schmidt",
-      "description": "Removed From 60-Day IL (Recovery from right elbow surgery)"
-    },
-    {
-      "date": "2026-09-16",
       "type": "designated",
       "player": "Oswaldo Cabrera",
       "description": "Designated for Assignment"
+    },
+    {
+      "date": "2026-09-16",
+      "type": "",
+      "player": "Clarke Schmidt",
+      "description": "Removed From 60-Day IL (Recovery from right elbow surgery)"
     },
     {
       "date": "2026-09-15",
@@ -142,12 +142,6 @@
     },
     {
       "date": "2026-09-10",
-      "type": "sent",
-      "player": "Jasson Dominguez",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-09-10",
       "type": "called up",
       "player": "Anthony Volpe",
       "description": "Called Up from Minors"
@@ -159,16 +153,22 @@
       "description": "Placed on 10-Day IL (Sprained right thumb)"
     },
     {
-      "date": "2026-09-07",
-      "type": "",
-      "player": "Aaron Judge",
-      "description": "Removed From 60-Day IL (Right rib stress fracture)"
+      "date": "2026-09-10",
+      "type": "sent",
+      "player": "Jasson Dominguez",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-09-07",
       "type": "designated",
       "player": "Chase Hampton",
       "description": "Designated for Assignment"
+    },
+    {
+      "date": "2026-09-07",
+      "type": "",
+      "player": "Aaron Judge",
+      "description": "Removed From 60-Day IL (Right rib stress fracture)"
     },
     {
       "date": "2026-09-06",
@@ -178,21 +178,21 @@
     },
     {
       "date": "2026-09-05",
-      "type": "placed",
-      "player": "Trent Grisham",
-      "description": "Placed on 10-Day IL (Strained right hamstring)"
-    },
-    {
-      "date": "2026-09-05",
       "type": "called up",
       "player": "Jasson Dominguez",
       "description": "Called Up from Minors"
     },
     {
+      "date": "2026-09-05",
+      "type": "placed",
+      "player": "Trent Grisham",
+      "description": "Placed on 10-Day IL (Strained right hamstring)"
+    },
+    {
       "date": "2026-09-01",
-      "type": "recalled",
-      "player": "Ryan McMahon",
-      "description": "Recalled From Minors Rehab Assignment"
+      "type": "signed",
+      "player": "Justin Topa",
+      "description": "Signed to a Minor League Contract"
     },
     {
       "date": "2026-09-01",
@@ -202,9 +202,9 @@
     },
     {
       "date": "2026-09-01",
-      "type": "signed",
-      "player": "Justin Topa",
-      "description": "Signed to a Minor League Contract"
+      "type": "recalled",
+      "player": "Ryan McMahon",
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-08-31",
@@ -220,21 +220,21 @@
     },
     {
       "date": "2026-08-30",
-      "type": "called up",
-      "player": "Luis Gil",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-08-30",
       "type": "sent",
       "player": "Yerry De Los Santos",
       "description": "Sent to Minors"
     },
     {
+      "date": "2026-08-30",
+      "type": "called up",
+      "player": "Luis Gil",
+      "description": "Called Up from Minors"
+    },
+    {
       "date": "2026-08-29",
-      "type": "",
-      "player": "Brendan Beck",
-      "description": "Return of 27th man"
+      "type": "designated",
+      "player": "Justin Topa",
+      "description": "Designated for Assignment"
     },
     {
       "date": "2026-08-29",
@@ -262,9 +262,9 @@
     },
     {
       "date": "2026-08-29",
-      "type": "designated",
-      "player": "Justin Topa",
-      "description": "Designated for Assignment"
+      "type": "",
+      "player": "Brendan Beck",
+      "description": "Return of 27th man"
     },
     {
       "date": "2026-08-29",
@@ -274,15 +274,15 @@
     },
     {
       "date": "2026-08-26",
-      "type": "transferred",
-      "player": "Kervin Castro",
-      "description": "Transferred to 60-Day IL (Right elbow neuritis)"
+      "type": "placed",
+      "player": "Fernando Cruz",
+      "description": "Placed on 15-Day IL (Right elbow discomfort)"
     },
     {
       "date": "2026-08-26",
-      "type": "signed",
-      "player": "Michael Fulmer",
-      "description": "Signed as Free Agent  ( 2026)(one-year contract)"
+      "type": "transferred",
+      "player": "Kervin Castro",
+      "description": "Transferred to 60-Day IL (Right elbow neuritis)"
     },
     {
       "date": "2026-08-26",
@@ -292,15 +292,15 @@
     },
     {
       "date": "2026-08-26",
-      "type": "called up",
-      "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors"
+      "type": "signed",
+      "player": "Michael Fulmer",
+      "description": "Signed as Free Agent  ( 2026)(one-year contract)"
     },
     {
       "date": "2026-08-26",
-      "type": "placed",
-      "player": "Fernando Cruz",
-      "description": "Placed on 15-Day IL (Right elbow discomfort)"
+      "type": "called up",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-08-25",
@@ -310,27 +310,15 @@
     },
     {
       "date": "2026-08-24",
-      "type": "sent",
-      "player": "Brendan Beck",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-08-24",
       "type": "transferred",
       "player": "Giancarlo Stanton",
       "description": "Transferred to 60-Day IL (Strained right calf)"
     },
     {
-      "date": "2026-08-23",
-      "type": "called up",
+      "date": "2026-08-24",
+      "type": "sent",
       "player": "Brendan Beck",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-08-23",
-      "type": "placed",
-      "player": "Ryan Weathers",
-      "description": "Placed on 15-Day IL (Left forearm, flexor strain)"
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-08-23",
@@ -345,10 +333,16 @@
       "description": "Removed From 10-Day IL (Strained left hamstring - out 4-6 weeks)"
     },
     {
-      "date": "2026-08-22",
-      "type": "sent",
-      "player": "Max Schuemann",
-      "description": "Sent to Minors"
+      "date": "2026-08-23",
+      "type": "placed",
+      "player": "Ryan Weathers",
+      "description": "Placed on 15-Day IL (Left forearm, flexor strain)"
+    },
+    {
+      "date": "2026-08-23",
+      "type": "called up",
+      "player": "Brendan Beck",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-08-22",
@@ -357,16 +351,22 @@
       "description": "Signed to a Minor League Contract"
     },
     {
-      "date": "2026-08-21",
-      "type": "called up",
+      "date": "2026-08-22",
+      "type": "sent",
       "player": "Max Schuemann",
-      "description": "Called Up from Minors"
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-08-21",
       "type": "placed",
       "player": "Ryan McMahon",
       "description": "Placed on 10-Day IL (Left thumb sprain)"
+    },
+    {
+      "date": "2026-08-21",
+      "type": "called up",
+      "player": "Max Schuemann",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-08-20",
@@ -415,12 +415,6 @@
       "type": "sent",
       "player": "Carlos Rodon",
       "description": "Sent to Minors For Rehabilitation"
-    },
-    {
-      "date": "2026-08-07",
-      "type": "signed",
-      "player": "Mitch Garver",
-      "description": "Signed to a Minor League Contract"
     }
   ]
 }
