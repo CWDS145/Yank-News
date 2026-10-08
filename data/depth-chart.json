@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T17:10:30Z",
+  "updated": "2026-10-08T17:08:17Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -16,15 +16,11 @@
       {
         "name": "Luis V. Garcia",
         "rank": 1
-      },
-      {
-        "name": "Paul Goldschmidt",
-        "rank": 2
       }
     ],
     "2B": [
       {
-        "name": "Jazz Chisholm",
+        "name": "Anthony Volpe",
         "rank": 1
       }
     ],
@@ -48,13 +44,13 @@
     ],
     "CF": [
       {
-        "name": "Trent Grisham",
+        "name": "Spencer G. Jones",
         "rank": 1
       }
     ],
     "RF": [
       {
-        "name": "Spencer G. Jones",
+        "name": "Aaron Judge",
         "rank": 1
       }
     ],
@@ -70,91 +66,90 @@
     ],
     "SP": [
       {
-        "name": "Gerrit Cole",
+        "name": "Cam Schlittler",
         "rank": 1
       },
       {
-        "name": "Cam Schlittler",
+        "name": "Max Fried",
         "rank": 2
       },
       {
-        "name": "Max Fried",
+        "name": "Gerrit Cole",
         "rank": 3
       },
       {
         "name": "Carlos Rodon",
         "rank": 4
-      }
-    ],
-    "RP": [
-      {
-        "name": "David Bednar",
-        "rank": 1
-      },
-      {
-        "name": "Brent Headrick",
-        "rank": 2
-      },
-      {
-        "name": "Paul Blackburn",
-        "rank": 3
-      },
-      {
-        "name": "John Schreiber",
-        "rank": 4
       },
       {
         "name": "Will Warren",
         "rank": 5
+      }
+    ],
+    "RP": [
+      {
+        "name": "Brent Headrick",
+        "rank": 1
+      },
+      {
+        "name": "Clarke Schmidt",
+        "rank": 2
       },
       {
         "name": "Ryan Weathers",
-        "rank": 6
+        "rank": 3
       },
       {
-        "name": "Ryan Yarbrough",
-        "rank": 7
+        "name": "Luis Gil",
+        "rank": 4
+      },
+      {
+        "name": "Yerry De Los Santos",
+        "rank": 5
       },
       {
         "name": "Kervin Castro",
+        "rank": 6
+      },
+      {
+        "name": "Angel Chivilli",
+        "rank": 7
+      },
+      {
+        "name": "Bradley Hanner",
         "rank": 8
       },
       {
         "name": "Fernando E. Cruz",
         "rank": 9
-      },
-      {
-        "name": "Clarke Schmidt",
-        "rank": 10
       }
     ]
   },
   "all_players": [
+    "Aaron Judge",
     "Ali Sanchez",
+    "Angel Chivilli",
+    "Anthony Volpe",
     "Austin Wells",
     "Ben Rice",
+    "Bradley Hanner",
     "Brent Headrick",
     "Cam Schlittler",
     "Carlos Rodon",
     "Clarke Schmidt",
     "Cody Bellinger",
-    "David Bednar",
     "Fernando E. Cruz",
     "George Lombard Jr.",
     "Gerrit Cole",
     "Giancarlo Stanton",
-    "Jazz Chisholm",
-    "John Schreiber",
     "Kervin Castro",
+    "Luis Gil",
     "Luis V. Garcia",
     "Max Fried",
-    "Paul Blackburn",
-    "Paul Goldschmidt",
     "Ryan McMahon",
     "Ryan Weathers",
-    "Ryan Yarbrough",
     "Spencer G. Jones",
-    "Trent Grisham",
-    "Will Warren"
+    "Will Warren",
+    "Yerry De Los Santos"
   ]
 }

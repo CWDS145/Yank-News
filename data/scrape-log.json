@@ -2,14 +2,6 @@
   "entries": [
     {
       "timestamp": "2026-10-06T10:39:17Z",
-      "source": "Pinstripe Alley",
-      "url": "https://www.pinstripealley.com/rss/current.xml",
-      "status": 200,
-      "items": 10,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-10-06T10:39:17Z",
       "source": "NY Post Yankees",
       "url": "https://nypost.com/tag/new-york-yankees/feed/",
       "status": 200,
@@ -3999,6 +3991,14 @@
       "status": 200,
       "items": 72,
       "note": "ok=72/72"
+    },
+    {
+      "timestamp": "2026-10-08T17:08:17Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 25,
+      "note": "ok"
     }
   ]
 }
