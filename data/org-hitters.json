@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-07T22:03:22Z",
+  "updated": "2026-10-08T01:59:31Z",
   "season": 2026,
   "window_days": 10,
-  "window_start": "2026-09-27",
-  "window_end": "2026-10-07",
+  "window_start": "2026-09-28",
+  "window_end": "2026-10-08",
   "hitters": [
     {
       "id": 592450,
       "name": "Aaron Judge",
       "position": "RF",
       "level": "MLB",
-      "level_since": "2026-09-07",
+      "level_since": "2026-09-19",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
