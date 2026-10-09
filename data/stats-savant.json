@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T01:27:03Z",
+  "updated": "2026-10-09T08:00:07Z",
   "season": 2026,
   "players": [
     {
@@ -77,7 +77,7 @@
       },
       "sprint_speed": {
         "sprint_speed": 26.1,
-        "hp_to_1b": 4.65,
+        "hp_to_1b": 4.63,
         "bolts": null
       }
     },
@@ -236,7 +236,7 @@
       "statcast_batting": null,
       "sprint_speed": {
         "sprint_speed": 29.3,
-        "hp_to_1b": 4.23,
+        "hp_to_1b": 4.22,
         "bolts": 14
       }
     },
