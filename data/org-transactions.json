@@ -1,6 +1,188 @@
 {
-  "updated": "2026-10-08T21:35:46Z",
+  "updated": "2026-10-09T01:32:38Z",
   "items": [
+    {
+      "id": 945397,
+      "date": "2026-10-08",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 605242,
+      "player": "Michael Fulmer",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated RHP Michael Fulmer."
+    },
+    {
+      "id": 945401,
+      "date": "2026-10-08",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 592450,
+      "player": "Aaron Judge",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated RF Aaron Judge."
+    },
+    {
+      "id": 945404,
+      "date": "2026-10-08",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 695684,
+      "player": "Elmer Rodríguez",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated RHP Elmer Rodríguez."
+    },
+    {
+      "id": 945395,
+      "date": "2026-10-08",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 683409,
+      "player": "Angel Chivilli",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated RHP Angel Chivilli."
+    },
+    {
+      "id": 945396,
+      "date": "2026-10-08",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 660787,
+      "player": "Yerry De los Santos",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated RHP Yerry De los Santos."
+    },
+    {
+      "id": 945402,
+      "date": "2026-10-08",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 657376,
+      "player": "Clarke Schmidt",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated RHP Clarke Schmidt."
+    },
+    {
+      "id": 945399,
+      "date": "2026-10-08",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 691176,
+      "player": "Jasson Domínguez",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated RF Jasson Domínguez."
+    },
+    {
+      "id": 945400,
+      "date": "2026-10-08",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 641555,
+      "player": "J.C. Escarra",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated C J.C. Escarra."
+    },
+    {
+      "id": 945403,
+      "date": "2026-10-08",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 657612,
+      "player": "Tim Hill",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated LHP Tim Hill."
+    },
+    {
+      "id": 945398,
+      "date": "2026-10-08",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 642708,
+      "player": "Amed Rosario",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated 3B Amed Rosario."
+    },
+    {
+      "id": 945405,
+      "date": "2026-10-08",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 680474,
+      "player": "Max Schuemann",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated LF Max Schuemann."
+    },
+    {
+      "id": 945385,
+      "date": "2026-10-08",
+      "type_code": "CU",
+      "type_desc": "Recalled",
+      "player_id": 661563,
+      "player": "Luis Gil",
+      "from_team_id": 475,
+      "to_team_id": 147,
+      "from": "FCL Yankees",
+      "to": "New York Yankees",
+      "description": "New York Yankees recalled RHP Luis Gil from FCL Yankees."
+    },
+    {
+      "id": 945386,
+      "date": "2026-10-08",
+      "type_code": "CU",
+      "type_desc": "Recalled",
+      "player_id": 690440,
+      "player": "Bradley Hanner",
+      "from_team_id": 475,
+      "to_team_id": 147,
+      "from": "FCL Yankees",
+      "to": "New York Yankees",
+      "description": "New York Yankees recalled RHP Bradley Hanner from FCL Yankees."
+    },
+    {
+      "id": 945387,
+      "date": "2026-10-08",
+      "type_code": "CU",
+      "type_desc": "Recalled",
+      "player_id": 694341,
+      "player": "Brendan Beck",
+      "from_team_id": 475,
+      "to_team_id": 147,
+      "from": "FCL Yankees",
+      "to": "New York Yankees",
+      "description": "New York Yankees recalled RHP Brendan Beck from FCL Yankees."
+    },
     {
       "id": 945205,
       "date": "2026-10-06",
@@ -67,6 +249,19 @@
       "description": "New York Yankees sent RHP Alexander Cornielle outright to FCL Yankees."
     },
     {
+      "id": 944377,
+      "date": "2026-09-29",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 519317,
+      "player": "Giancarlo Stanton",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated DH Giancarlo Stanton from the 60-day injured list."
+    },
+    {
       "id": 944386,
       "date": "2026-09-29",
       "type_code": "SC",
@@ -78,32 +273,6 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees activated CF Trent Grisham from the 10-day injured list."
-    },
-    {
-      "id": 944382,
-      "date": "2026-09-29",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 657612,
-      "player": "Tim Hill",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "LHP Tim Hill roster status changed by New York Yankees."
-    },
-    {
-      "id": 944381,
-      "date": "2026-09-29",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 660787,
-      "player": "Yerry De los Santos",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "RHP Yerry De los Santos roster status changed by New York Yankees."
     },
     {
       "id": 944375,
@@ -132,17 +301,30 @@
       "description": "RHP Michael Fulmer roster status changed by New York Yankees."
     },
     {
-      "id": 944377,
+      "id": 944381,
       "date": "2026-09-29",
       "type_code": "SC",
       "type_desc": "Status Change",
-      "player_id": 519317,
-      "player": "Giancarlo Stanton",
+      "player_id": 660787,
+      "player": "Yerry De los Santos",
       "from_team_id": null,
       "to_team_id": 147,
       "from": null,
       "to": "New York Yankees",
-      "description": "New York Yankees activated DH Giancarlo Stanton from the 60-day injured list."
+      "description": "RHP Yerry De los Santos roster status changed by New York Yankees."
+    },
+    {
+      "id": 944382,
+      "date": "2026-09-29",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 657612,
+      "player": "Tim Hill",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "LHP Tim Hill roster status changed by New York Yankees."
     },
     {
       "id": 944387,
@@ -171,6 +353,19 @@
       "description": "LHP Ryan Weathers roster status changed by New York Yankees."
     },
     {
+      "id": 945026,
+      "date": "2026-09-28",
+      "type_code": "CU",
+      "type_desc": "Recalled",
+      "player_id": 680474,
+      "player": "Max Schuemann",
+      "from_team_id": 531,
+      "to_team_id": 147,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
+      "to": "New York Yankees",
+      "description": "New York Yankees recalled LF Max Schuemann from Scranton/Wilkes-Barre RailRiders."
+    },
+    {
       "id": 944390,
       "date": "2026-09-28",
       "type_code": "CU",
@@ -182,6 +377,19 @@
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
       "description": "New York Yankees recalled RHP Angel Chivilli from Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 944391,
+      "date": "2026-09-28",
+      "type_code": "CU",
+      "type_desc": "Recalled",
+      "player_id": 691176,
+      "player": "Jasson Domínguez",
+      "from_team_id": 531,
+      "to_team_id": 147,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
+      "to": "New York Yankees",
+      "description": "New York Yankees recalled RF Jasson Domínguez from Scranton/Wilkes-Barre RailRiders."
     },
     {
       "id": 944389,
@@ -210,32 +418,6 @@
       "description": "New York Yankees recalled RHP Elmer Rodríguez from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 945026,
-      "date": "2026-09-28",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 680474,
-      "player": "Max Schuemann",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled LF Max Schuemann from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 944391,
-      "date": "2026-09-28",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 691176,
-      "player": "Jasson Domínguez",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RF Jasson Domínguez from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
       "id": 943997,
       "date": "2026-09-25",
       "type_code": "SC",
@@ -247,58 +429,6 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees transferred RHP Fernando Cruz from the 15-day injured list to the 60-day injured list. Right elbow discomfort."
-    },
-    {
-      "id": 943996,
-      "date": "2026-09-25",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 694341,
-      "player": "Brendan Beck",
-      "from_team_id": 147,
-      "to_team_id": 475,
-      "from": "New York Yankees",
-      "to": "FCL Yankees",
-      "description": "New York Yankees optioned RHP Brendan Beck to FCL Yankees."
-    },
-    {
-      "id": 943913,
-      "date": "2026-09-25",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 694341,
-      "player": "Brendan Beck",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Brendan Beck from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 943995,
-      "date": "2026-09-25",
-      "type_code": "SE",
-      "type_desc": "Selected",
-      "player_id": 529017,
-      "player": "Alexander Cornielle",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees selected the contract of RHP Alexander Cornielle from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 943907,
-      "date": "2026-09-25",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 690440,
-      "player": "Bradley Hanner",
-      "from_team_id": 147,
-      "to_team_id": 475,
-      "from": "New York Yankees",
-      "to": "FCL Yankees",
-      "description": "New York Yankees optioned RHP Bradley Hanner to FCL Yankees."
     },
     {
       "id": 943914,
@@ -314,6 +444,32 @@
       "description": "New York Yankees recalled RHP Yerry De los Santos from Scranton/Wilkes-Barre RailRiders."
     },
     {
+      "id": 943907,
+      "date": "2026-09-25",
+      "type_code": "OPT",
+      "type_desc": "Optioned",
+      "player_id": 690440,
+      "player": "Bradley Hanner",
+      "from_team_id": 147,
+      "to_team_id": 475,
+      "from": "New York Yankees",
+      "to": "FCL Yankees",
+      "description": "New York Yankees optioned RHP Bradley Hanner to FCL Yankees."
+    },
+    {
+      "id": 943913,
+      "date": "2026-09-25",
+      "type_code": "CU",
+      "type_desc": "Recalled",
+      "player_id": 694341,
+      "player": "Brendan Beck",
+      "from_team_id": 531,
+      "to_team_id": 147,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
+      "to": "New York Yankees",
+      "description": "New York Yankees recalled RHP Brendan Beck from Scranton/Wilkes-Barre RailRiders."
+    },
+    {
       "id": 943906,
       "date": "2026-09-25",
       "type_code": "OPT",
@@ -325,6 +481,32 @@
       "from": "New York Yankees",
       "to": "FCL Yankees",
       "description": "New York Yankees optioned RHP Luis Gil to FCL Yankees."
+    },
+    {
+      "id": 943995,
+      "date": "2026-09-25",
+      "type_code": "SE",
+      "type_desc": "Selected",
+      "player_id": 529017,
+      "player": "Alexander Cornielle",
+      "from_team_id": 531,
+      "to_team_id": 147,
+      "from": "AAA Scranton/Wilkes-Barre RailRiders",
+      "to": "New York Yankees",
+      "description": "New York Yankees selected the contract of RHP Alexander Cornielle from Scranton/Wilkes-Barre RailRiders."
+    },
+    {
+      "id": 943996,
+      "date": "2026-09-25",
+      "type_code": "OPT",
+      "type_desc": "Optioned",
+      "player_id": 694341,
+      "player": "Brendan Beck",
+      "from_team_id": 147,
+      "to_team_id": 475,
+      "from": "New York Yankees",
+      "to": "FCL Yankees",
+      "description": "New York Yankees optioned RHP Brendan Beck to FCL Yankees."
     },
     {
       "id": 944004,
@@ -340,17 +522,17 @@
       "description": "New York Yankees activated RHP Brendan Beck."
     },
     {
-      "id": 943846,
+      "id": 944002,
       "date": "2026-09-24",
       "type_code": "SC",
       "type_desc": "Status Change",
-      "player_id": 657376,
-      "player": "Clarke Schmidt",
+      "player_id": 694341,
+      "player": "Brendan Beck",
       "from_team_id": null,
       "to_team_id": 147,
       "from": null,
       "to": "New York Yankees",
-      "description": "New York Yankees placed RHP Clarke Schmidt on the 15-day injured list retroactive to September 21, 2026. Right bicep neuritis."
+      "description": "New York Yankees activated RHP Brendan Beck."
     },
     {
       "id": 944003,
@@ -366,17 +548,17 @@
       "description": "New York Yankees reassigned RHP Brendan Beck to the minor leagues."
     },
     {
-      "id": 944002,
+      "id": 943846,
       "date": "2026-09-24",
       "type_code": "SC",
       "type_desc": "Status Change",
-      "player_id": 694341,
-      "player": "Brendan Beck",
+      "player_id": 657376,
+      "player": "Clarke Schmidt",
       "from_team_id": null,
       "to_team_id": 147,
       "from": null,
       "to": "New York Yankees",
-      "description": "New York Yankees activated RHP Brendan Beck."
+      "description": "New York Yankees placed RHP Clarke Schmidt on the 15-day injured list retroactive to September 21, 2026. Right bicep neuritis."
     },
     {
       "id": 943845,
