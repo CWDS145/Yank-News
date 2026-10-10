@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T20:24:10Z",
+  "updated": "2026-10-10T00:24:30Z",
   "items": [
     {
       "id": 945397,
@@ -741,19 +741,6 @@
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
       "description": "New York Yankees recalled SS Anthony Volpe from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 941837,
-      "date": "2026-09-09",
-      "type_code": "ASG",
-      "type_desc": "Assigned",
-      "player_id": 657376,
-      "player": "Clarke Schmidt",
-      "from_team_id": 147,
-      "to_team_id": 1956,
-      "from": "New York Yankees",
-      "to": "AA Somerset Patriots",
-      "description": "New York Yankees sent RHP Clarke Schmidt on a rehab assignment to Somerset Patriots."
     }
   ]
 }
