@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11T18:19:27Z",
-  "count": 64,
+  "updated": "2026-10-11T22:18:03Z",
+  "count": 63,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-10-11T18:19:27Z",
+      "published": "2026-10-11T22:18:03Z",
       "image": null
     },
     {
@@ -17,7 +17,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/new-york-yankees-recognize-the-25th-anniversary-of-9-11-with-commemorative-activities-and-outreach-on-and-off-the-field-those-lost-and-impacted-by-the-tragedy-to-be-honored-in-pregame-ceremonies-on-f/",
-      "published": "2026-10-11T18:19:27Z",
+      "published": "2026-10-11T22:18:03Z",
       "image": null
     },
     {
@@ -26,7 +26,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/former-new-york-yankees-fan-favorite-nick-swisher-and-the-sandlot-actor-chauncey-leopardi-to-star-in-third-season-of-award-winning-hexclad-presents-bronx-buds-premiering-this-saturday-august-8-on-th/",
-      "published": "2026-10-11T18:19:27Z",
+      "published": "2026-10-11T22:18:03Z",
       "image": null
     },
     {
@@ -35,7 +35,25 @@
       "source": "MLB.com Yankees",
       "author": "Rob Terranova and Brendan Samson",
       "link": "https://www.mlb.com/yankees/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
-      "published": "2026-10-11T17:29:00Z",
+      "published": "2026-10-11T21:38:00Z",
+      "image": null
+    },
+    {
+      "title": "Yankees Social Media Spotlight: Curtains",
+      "summary": "It’s Sunday once more, and you know what that means — it’s time for our weekly social media roundup! Last week, we had a lot of fun in this space, as the Yankees sent the Boston Red Sox home with two dominant wins that unleashed a fury of social media fun. This week? Well, truly, […]",
+      "source": "Pinstripe Alley",
+      "author": "John Griffin",
+      "link": "https://www.pinstripealley.com/yankees-news/211182/mlb-social-media-cc-sabathia-sober-luke-pettitte-wedding",
+      "published": "2026-10-11T20:00:00Z",
+      "image": null
+    },
+    {
+      "title": "The Yankees Birthday Series, presented by Pinstripe Alley",
+      "summary": "During my tenure at Pinstripe Alley—hell, during my entire time as a baseball fan—I’ve never been shy about delving into the team’s history and exploring the lives of its long roll call of players, both incredible and regrettable. We provide plenty of other coverage on the current-day activities of the teams, so I like having […]",
+      "source": "Pinstripe Alley",
+      "author": "Andrew Mearns",
+      "link": "https://www.pinstripealley.com/yankees-history-trivia/172748/yankees-history-birthdays-famous-players-born-on-this-day",
+      "published": "2026-10-11T19:16:54Z",
       "image": null
     },
     {
@@ -126,24 +144,6 @@
       "author": "Peter Brody",
       "link": "https://www.pinstripealley.com/mlb-news/211440/mlb-playoffs-2026-nlcs-preview-dodgers-brewers-shohei-ohtani-jacob-misiorowski",
       "published": "2026-10-10T18:30:00Z",
-      "image": null
-    },
-    {
-      "title": "Trent Grisham and the Yankees’ flawed philosophy",
-      "summary": "Batting order alone doesn’t dictate a team’s fortune, but it does make a difference. This is especially so in short series, where even the tiniest edges and flaws are magnified. And no place in the lineup matters more than the top spot. Suffice it to say that Aaron Boone and the Yankees faced an extremely […]",
-      "source": "Pinstripe Alley",
-      "author": "Kento Mizuno",
-      "link": "https://www.pinstripealley.com/yankees-analysis-sabermetrics/211409/yankees-analysis-opinion-trent-grisham-leadoff-alds-game-3",
-      "published": "2026-10-10T17:00:00Z",
-      "image": null
-    },
-    {
-      "title": "Yankees Birthday of the Day: David Bednar",
-      "summary": "A generation of Yankees fans have been spoiled. First, it was Mariano Rivera — when “Enter Sandman” began to echo through the halls of Yankee Stadium, the game was effectively over. David Robertson “the Houdini” and Andrew Miller “the Game Enderer” locked down the ninth inning so effectively in their one-year stints as the closer […]",
-      "source": "Pinstripe Alley",
-      "author": "John Griffin",
-      "link": "https://www.pinstripealley.com/yankees-history-trivia/211174/yankees-history-birthday-october-10-david-bednar-closer",
-      "published": "2026-10-10T15:30:00Z",
       "image": null
     },
     {
@@ -567,15 +567,6 @@
       "author": "",
       "link": "https://www.mlb.com/yankees/news/hank-aaron-award-finalists-for-2026",
       "published": "2026-10-05T16:14:53Z",
-      "image": null
-    },
-    {
-      "title": "Jones, Lombard learning (and growing) together on baseball's biggest stage",
-      "summary": "",
-      "source": "MLB.com Yankees",
-      "author": "Bryan Hoch",
-      "link": "https://www.mlb.com/yankees/news/spencer-jones-george-lombard-jr-first-postseason-yankees",
-      "published": "2026-10-04T19:42:10Z",
       "image": null
     }
   ]
