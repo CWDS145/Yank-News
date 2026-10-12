@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T22:33:08Z",
+  "updated": "2026-10-12T01:52:25Z",
   "items": [
     {
       "id": 945397,
@@ -689,32 +689,6 @@
       "from": "New York Yankees",
       "to": "Washington Nationals",
       "description": "Washington Nationals claimed RHP Chase Hampton off waivers from New York Yankees."
-    },
-    {
-      "id": 942017,
-      "date": "2026-09-11",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 690440,
-      "player": "Bradley Hanner",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Bradley Hanner from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 942005,
-      "date": "2026-09-11",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 691176,
-      "player": "Jasson Domínguez",
-      "from_team_id": 147,
-      "to_team_id": 531,
-      "from": "New York Yankees",
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "New York Yankees optioned RF Jasson Domínguez to Scranton/Wilkes-Barre RailRiders."
     }
   ]
 }
