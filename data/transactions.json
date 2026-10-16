@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T20:39:02Z",
+  "updated": "2026-10-16T23:18:08Z",
   "count": 73,
   "items": [
     {
@@ -41,19 +41,7 @@
     {
       "date": "2026-09-28",
       "type": "called up",
-      "player": "Max Schuemann",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-09-28",
-      "type": "called up",
-      "player": "Bradley Hanner",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-09-28",
-      "type": "called up",
-      "player": "J.C. Escarra",
+      "player": "Jasson Dominguez",
       "description": "Called Up from Minors"
     },
     {
@@ -65,7 +53,13 @@
     {
       "date": "2026-09-28",
       "type": "called up",
-      "player": "Jasson Dominguez",
+      "player": "Bradley Hanner",
+      "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-09-28",
+      "type": "called up",
+      "player": "Max Schuemann",
       "description": "Called Up from Minors"
     },
     {
@@ -76,6 +70,18 @@
     },
     {
       "date": "2026-09-28",
+      "type": "called up",
+      "player": "Brendan Beck",
+      "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-09-28",
+      "type": "called up",
+      "player": "J.C. Escarra",
+      "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-09-25",
       "type": "called up",
       "player": "Brendan Beck",
       "description": "Called Up from Minors"
@@ -88,27 +94,21 @@
     },
     {
       "date": "2026-09-25",
-      "type": "called up",
-      "player": "Brendan Beck",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-09-25",
       "type": "sent",
       "player": "Brendan Beck",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-09-25",
-      "type": "transferred",
-      "player": "Fernando Cruz",
-      "description": "Transferred to 60-Day IL (Right elbow discomfort)"
-    },
-    {
-      "date": "2026-09-25",
       "type": "purchased",
       "player": "Alexander Cornielle",
       "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-09-25",
+      "type": "transferred",
+      "player": "Fernando Cruz",
+      "description": "Transferred to 60-Day IL (Right elbow discomfort)"
     },
     {
       "date": "2026-09-24",
@@ -124,15 +124,15 @@
     },
     {
       "date": "2026-09-24",
-      "type": "placed",
-      "player": "Clarke Schmidt",
-      "description": "Placed on 15-Day IL (Right biceps neuritis)"
-    },
-    {
-      "date": "2026-09-24",
       "type": "called up",
       "player": "Bradley Hanner",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-09-24",
+      "type": "placed",
+      "player": "Clarke Schmidt",
+      "description": "Placed on 15-Day IL (Right biceps neuritis)"
     },
     {
       "date": "2026-09-22",
@@ -424,15 +424,15 @@
     },
     {
       "date": "2026-08-18",
-      "type": "recalled",
-      "player": "Carlos Rodon",
-      "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-08-18",
       "type": "",
       "player": "Carlos Rodon",
       "description": "Removed From 15-Day IL (Left elbow inflammation)"
+    },
+    {
+      "date": "2026-08-18",
+      "type": "recalled",
+      "player": "Carlos Rodon",
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-08-17",
