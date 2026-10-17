@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T23:18:08Z",
-  "count": 73,
+  "updated": "2026-10-17T01:26:07Z",
+  "count": 72,
   "items": [
     {
       "date": "2026-10-03",
@@ -16,6 +16,12 @@
     },
     {
       "date": "2026-09-29",
+      "type": "designated",
+      "player": "Alexander Cornielle",
+      "description": "Designated for Assignment"
+    },
+    {
+      "date": "2026-09-29",
       "type": "",
       "player": "Trent Grisham",
       "description": "Removed From 10-Day IL (Strained right hamstring)"
@@ -27,15 +33,15 @@
       "description": "Removed From 60-Day IL (Strained right calf)"
     },
     {
-      "date": "2026-09-29",
-      "type": "designated",
-      "player": "Alexander Cornielle",
-      "description": "Designated for Assignment"
+      "date": "2026-09-28",
+      "type": "called up",
+      "player": "Angel Chivilli",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-09-28",
       "type": "called up",
-      "player": "Elmer Rodriguez",
+      "player": "Brendan Beck",
       "description": "Called Up from Minors"
     },
     {
@@ -47,13 +53,7 @@
     {
       "date": "2026-09-28",
       "type": "called up",
-      "player": "Angel Chivilli",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-09-28",
-      "type": "called up",
-      "player": "Bradley Hanner",
+      "player": "Elmer Rodriguez",
       "description": "Called Up from Minors"
     },
     {
@@ -71,19 +71,13 @@
     {
       "date": "2026-09-28",
       "type": "called up",
-      "player": "Brendan Beck",
+      "player": "Bradley Hanner",
       "description": "Called Up from Minors"
     },
     {
       "date": "2026-09-28",
       "type": "called up",
       "player": "J.C. Escarra",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-09-25",
-      "type": "called up",
-      "player": "Brendan Beck",
       "description": "Called Up from Minors"
     },
     {
@@ -111,10 +105,10 @@
       "description": "Transferred to 60-Day IL (Right elbow discomfort)"
     },
     {
-      "date": "2026-09-24",
-      "type": "sent",
-      "player": "Luis Gil",
-      "description": "Sent to Minors"
+      "date": "2026-09-25",
+      "type": "called up",
+      "player": "Brendan Beck",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-09-24",
@@ -135,9 +129,9 @@
       "description": "Placed on 15-Day IL (Right biceps neuritis)"
     },
     {
-      "date": "2026-09-22",
+      "date": "2026-09-24",
       "type": "sent",
-      "player": "Max Schuemann",
+      "player": "Luis Gil",
       "description": "Sent to Minors"
     },
     {
@@ -145,6 +139,12 @@
       "type": "",
       "player": "Jazz Chisholm Jr.",
       "description": "Removed From 10-Day IL (Sprained right thumb)"
+    },
+    {
+      "date": "2026-09-22",
+      "type": "sent",
+      "player": "Max Schuemann",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-09-19",
@@ -160,9 +160,9 @@
     },
     {
       "date": "2026-09-16",
-      "type": "designated",
-      "player": "Oswaldo Cabrera",
-      "description": "Designated for Assignment"
+      "type": "recalled",
+      "player": "Clarke Schmidt",
+      "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-09-16",
@@ -172,9 +172,9 @@
     },
     {
       "date": "2026-09-16",
-      "type": "recalled",
-      "player": "Clarke Schmidt",
-      "description": "Recalled From Minors Rehab Assignment"
+      "type": "designated",
+      "player": "Oswaldo Cabrera",
+      "description": "Designated for Assignment"
     },
     {
       "date": "2026-09-15",
@@ -190,12 +190,6 @@
     },
     {
       "date": "2026-09-10",
-      "type": "placed",
-      "player": "Jazz Chisholm Jr.",
-      "description": "Placed on 10-Day IL (Sprained right thumb)"
-    },
-    {
-      "date": "2026-09-10",
       "type": "called up",
       "player": "Anthony Volpe",
       "description": "Called Up from Minors"
@@ -205,6 +199,12 @@
       "type": "sent",
       "player": "Jasson Dominguez",
       "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-09-10",
+      "type": "placed",
+      "player": "Jazz Chisholm Jr.",
+      "description": "Placed on 10-Day IL (Sprained right thumb)"
     },
     {
       "date": "2026-09-07",
@@ -238,6 +238,12 @@
     },
     {
       "date": "2026-09-01",
+      "type": "",
+      "player": "Ryan McMahon",
+      "description": "Removed From 10-Day IL (Left thumb sprain)"
+    },
+    {
+      "date": "2026-09-01",
       "type": "recalled",
       "player": "Ryan McMahon",
       "description": "Recalled From Minors Rehab Assignment"
@@ -249,22 +255,16 @@
       "description": "Signed to a Minor League Contract"
     },
     {
-      "date": "2026-09-01",
+      "date": "2026-08-31",
       "type": "",
-      "player": "Ryan McMahon",
-      "description": "Removed From 10-Day IL (Left thumb sprain)"
+      "player": "Justin Topa",
+      "description": "Refused Minor League Assignment - Free Agent"
     },
     {
       "date": "2026-08-31",
       "type": "",
       "player": "John Schreiber",
       "description": "Acquired Off Waivers From Kansas City"
-    },
-    {
-      "date": "2026-08-31",
-      "type": "",
-      "player": "Justin Topa",
-      "description": "Refused Minor League Assignment - Free Agent"
     },
     {
       "date": "2026-08-30",
@@ -280,21 +280,9 @@
     },
     {
       "date": "2026-08-29",
-      "type": "signed",
-      "player": "Jarred Kelenic",
-      "description": "Signed to a Minor League Contract"
-    },
-    {
-      "date": "2026-08-29",
       "type": "designated",
       "player": "Justin Topa",
       "description": "Designated for Assignment"
-    },
-    {
-      "date": "2026-08-29",
-      "type": "sent",
-      "player": "Ryan McMahon",
-      "description": "Sent to Minors For Rehabilitation"
     },
     {
       "date": "2026-08-29",
@@ -304,9 +292,9 @@
     },
     {
       "date": "2026-08-29",
-      "type": "recalled",
-      "player": "Brendan Beck",
-      "description": "Called Up from Minors (recalled as 27th roster player)"
+      "type": "signed",
+      "player": "Jarred Kelenic",
+      "description": "Signed to a Minor League Contract"
     },
     {
       "date": "2026-08-29",
@@ -316,21 +304,27 @@
     },
     {
       "date": "2026-08-29",
+      "type": "recalled",
+      "player": "Brendan Beck",
+      "description": "Called Up from Minors (recalled as 27th roster player)"
+    },
+    {
+      "date": "2026-08-29",
       "type": "",
       "player": "Brendan Beck",
       "description": "Return of 27th man"
     },
     {
-      "date": "2026-08-26",
-      "type": "called up",
-      "player": "Elmer Rodriguez",
-      "description": "Called Up from Minors"
+      "date": "2026-08-29",
+      "type": "sent",
+      "player": "Ryan McMahon",
+      "description": "Sent to Minors For Rehabilitation"
     },
     {
       "date": "2026-08-26",
-      "type": "sent",
-      "player": "Bradley Hanner",
-      "description": "Sent to Minors"
+      "type": "placed",
+      "player": "Fernando Cruz",
+      "description": "Placed on 15-Day IL (Right elbow discomfort)"
     },
     {
       "date": "2026-08-26",
@@ -346,9 +340,15 @@
     },
     {
       "date": "2026-08-26",
-      "type": "placed",
-      "player": "Fernando Cruz",
-      "description": "Placed on 15-Day IL (Right elbow discomfort)"
+      "type": "sent",
+      "player": "Bradley Hanner",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-08-26",
+      "type": "called up",
+      "player": "Elmer Rodriguez",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-08-25",
@@ -358,15 +358,15 @@
     },
     {
       "date": "2026-08-24",
-      "type": "sent",
-      "player": "Brendan Beck",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-08-24",
       "type": "transferred",
       "player": "Giancarlo Stanton",
       "description": "Transferred to 60-Day IL (Strained right calf)"
+    },
+    {
+      "date": "2026-08-24",
+      "type": "sent",
+      "player": "Brendan Beck",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-08-23",
@@ -382,27 +382,27 @@
     },
     {
       "date": "2026-08-23",
-      "type": "called up",
-      "player": "Brendan Beck",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-08-23",
       "type": "placed",
       "player": "Ryan Weathers",
       "description": "Placed on 15-Day IL (Left forearm, flexor strain)"
     },
     {
-      "date": "2026-08-22",
-      "type": "sent",
-      "player": "Max Schuemann",
-      "description": "Sent to Minors"
+      "date": "2026-08-23",
+      "type": "called up",
+      "player": "Brendan Beck",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-08-22",
       "type": "signed",
       "player": "Elijah Morgan",
       "description": "Signed to a Minor League Contract"
+    },
+    {
+      "date": "2026-08-22",
+      "type": "sent",
+      "player": "Max Schuemann",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-08-21",
@@ -433,12 +433,6 @@
       "type": "recalled",
       "player": "Carlos Rodon",
       "description": "Recalled From Minors Rehab Assignment"
-    },
-    {
-      "date": "2026-08-17",
-      "type": "placed",
-      "player": "Max Fried",
-      "description": "Placed on 15-Day IL (Left elbow bone bruise)"
     }
   ]
 }
