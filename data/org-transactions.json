@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T22:41:33Z",
+  "updated": "2026-10-19T00:34:54Z",
   "items": [
     {
       "id": 945405,
@@ -624,19 +624,6 @@
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
       "description": "New York Yankees recalled LF Max Schuemann from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 943124,
-      "date": "2026-09-18",
-      "type_code": "CLW",
-      "type_desc": "Claimed Off Waivers",
-      "player_id": 665828,
-      "player": "Oswaldo Cabrera",
-      "from_team_id": 147,
-      "to_team_id": 113,
-      "from": "New York Yankees",
-      "to": "Cincinnati Reds",
-      "description": "Cincinnati Reds claimed 3B Oswaldo Cabrera off waivers from New York Yankees."
     }
   ]
 }
