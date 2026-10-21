@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-19T19:40:42Z",
+  "updated": "2026-10-21T18:26:28Z",
   "source": "FanGraphs",
   "url": "https://www.fangraphs.com/teams/yankees",
   "season": 2026,
   "scrape_attempt": {
     "status": "ok",
     "http_status": 200,
-    "duration_ms": 1284,
+    "duration_ms": 377,
     "note": "html_tables: batter_rows=51 pitcher_rows=30"
   },
   "team_batting": {
@@ -28,8 +28,8 @@
     "SLG": ".409",
     "wOBA": ".316",
     "wRC+": "101",
-    "BsR": "3.5",
-    "Off": "11.6",
+    "BsR": "3.6",
+    "Off": "11.8",
     "Def": "-15.6",
     "WAR": "21.2"
   },
@@ -120,7 +120,7 @@
       "wOBA": ".312",
       "wRC+": "98",
       "BsR": "5.8",
-      "Off": "4.8",
+      "Off": "4.9",
       "Def": "10.3",
       "WAR": "3.5"
     },
@@ -168,7 +168,7 @@
       "wOBA": ".281",
       "wRC+": "77",
       "BsR": "-0.8",
-      "Off": "-11.0",
+      "Off": "-10.9",
       "Def": "13.5",
       "WAR": "1.7"
     },
@@ -360,7 +360,7 @@
       "wOBA": ".303",
       "wRC+": "93",
       "BsR": "-0.3",
-      "Off": "-1.8",
+      "Off": "-1.7",
       "Def": "0.0",
       "WAR": "0.4"
     },
@@ -1175,9 +1175,9 @@
       "SLG": ".368",
       "wOBA": ".279",
       "wRC+": "76",
-      "BsR": "0.1",
+      "BsR": "0.2",
       "Off": "-6.1",
-      "Def": "-4.0",
+      "Def": "-4.1",
       "WAR": "-0.2"
     },
     {
@@ -1225,7 +1225,7 @@
       "wRC+": "93",
       "BsR": "0.2",
       "Off": "-0.8",
-      "Def": "-8.7",
+      "Def": "-8.8",
       "WAR": "-0.5"
     }
   ],
