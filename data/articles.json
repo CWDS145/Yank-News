@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T00:07:34Z",
-  "count": 48,
+  "updated": "2026-10-22T05:13:21Z",
+  "count": 49,
   "items": [
     {
       "title": "YANKEES SCHEDULE",
@@ -8,7 +8,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/yankees-schedule/",
-      "published": "2026-10-22T00:07:34Z",
+      "published": "2026-10-22T05:13:21Z",
       "image": null
     },
     {
@@ -17,7 +17,7 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/new-york-yankees-recognize-the-25th-anniversary-of-9-11-with-commemorative-activities-and-outreach-on-and-off-the-field-those-lost-and-impacted-by-the-tragedy-to-be-honored-in-pregame-ceremonies-on-f/",
-      "published": "2026-10-22T00:07:34Z",
+      "published": "2026-10-22T05:13:21Z",
       "image": null
     },
     {
@@ -26,16 +26,52 @@
       "source": "YES Network",
       "author": null,
       "link": "https://yesnetwork.com/former-new-york-yankees-fan-favorite-nick-swisher-and-the-sandlot-actor-chauncey-leopardi-to-star-in-third-season-of-award-winning-hexclad-presents-bronx-buds-premiering-this-saturday-august-8-on-th/",
-      "published": "2026-10-22T00:07:34Z",
+      "published": "2026-10-22T05:13:21Z",
       "image": null
     },
     {
-      "title": "Watch LIVE: Yankees prospects in Arizona Fall League action",
+      "title": "Watch Yankees prospects in Arizona Fall League action",
       "summary": "",
       "source": "MLB.com Yankees",
       "author": "Rob Terranova and Brendan Samson",
       "link": "https://www.mlb.com/yankees/news/watch-top-prospects-in-arizona-fall-league-winter-ball-2026",
-      "published": "2026-10-21T22:23:00Z",
+      "published": "2026-10-22T04:26:00Z",
+      "image": null
+    },
+    {
+      "title": "Hal Steinbrenner’s says he’s OK with Aaron Judge’s call for Yankees to go ‘all in’ for title",
+      "summary": "Some Yankees bosses may have been irked by Aaron Judge questioning whether they have gone all in, but Hal Steinbrenner says he was not one of them.",
+      "source": "NY Post Yankees",
+      "author": "Greg Joyce",
+      "link": "https://nypost.com/2026/10/21/sports/hal-steinbrenners-says-hes-ok-with-aaron-judges-call-for-yankees-to-go-all-in-for-title/",
+      "published": "2026-10-22T02:33:06Z",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FHal-Steinbrenner.jpg?w%3D1024"
+    },
+    {
+      "title": "Hal Steinbrenner reveals what Apollo deal means for future of Yankees — and ownership",
+      "summary": "Private Equity Firm Apollo Global Management will now have a 16 percent stake in the Yankees.",
+      "source": "NY Post Yankees",
+      "author": "Andrew Battifarano, Greg Joyce",
+      "link": "https://nypost.com/2026/10/21/sports/hal-steinbrenner-reveals-what-apollo-deal-means-for-future-of-yankees/",
+      "published": "2026-10-22T01:16:26Z",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnew-york-yankees-co-owner-98930306.jpg?w%3D1024"
+    },
+    {
+      "title": "Yankees brass defend approach to player accountability after another playoff exit",
+      "summary": "Those searching for “red meat” from the Yankees will keep having to look elsewhere.",
+      "source": "NY Post Yankees",
+      "author": "Greg Joyce",
+      "link": "https://nypost.com/2026/10/21/sports/yankees-brass-defend-approach-to-player-accountability-after-another-playoff-exit/",
+      "published": "2026-10-22T01:04:17Z",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnew-york-yankees-co-owner-98930332.jpg?w%3D1024"
+    },
+    {
+      "title": "Each team's top performer from the 2026 Draft",
+      "summary": "",
+      "source": "MLB.com Yankees",
+      "author": "Sam Dykstra, Jim Callis and Jonathan Mayo",
+      "link": "https://www.mlb.com/yankees/news/2026-draft-top-performer-for-each-team",
+      "published": "2026-10-22T00:00:00Z",
       "image": null
     },
     {
@@ -48,12 +84,30 @@
       "image": null
     },
     {
+      "title": "Aaron Boone doesn’t have Yankees answers — with time running out",
+      "summary": "As much as the most angry Yankee fans will not believe this, I do think Boone is managing for his job next year.",
+      "source": "NY Post Yankees",
+      "author": "Joel Sherman",
+      "link": "https://nypost.com/2026/10/21/sports/aaron-boone-doesnt-have-yankees-answers-with-time-running-out/",
+      "published": "2026-10-21T21:44:45Z",
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnew-york-yankees-manager-aaron-136397963.jpg?quality%3D90%26"
+    },
+    {
       "title": "Cashman returning for 30th season as Yankees GM",
       "summary": "",
       "source": "MLB.com Yankees",
       "author": "Bryan Hoch",
       "link": "https://www.mlb.com/yankees/news/brian-cashman-returning-as-yankees-general-manager",
       "published": "2026-10-21T19:08:00Z",
+      "image": null
+    },
+    {
+      "title": "Presenting the 2026 Yankees Roster Report Cards",
+      "summary": "Now that we are steadily moving into the offseason with the 2026 Yankees’ disappointing ALDS loss to the Rays thankfully growing more distant to the present day, it’s time for Pinstripe Alley’s very own Roster Report Card series, where our staff evaluates and assigns grades to the most relevant players on the roster. This series […]",
+      "source": "Pinstripe Alley",
+      "author": "Pinstripe Alley Staff",
+      "link": "https://www.pinstripealley.com/yankees-roster/212499/yankees-season-2026-review-report-cards-mlb",
+      "published": "2026-10-21T18:55:56Z",
       "image": null
     },
     {
@@ -75,19 +129,19 @@
       "image": null
     },
     {
-      "title": "Hal Steinbrenner hints at Yankees offseason priorities: ‘Detrimental’",
-      "summary": "In his first comments since the Yankees lost to the Rays in an ALDS sweep, Yankees owner Hal Steinbrenner cited the offense as one of the reasons for yet another early postseason exit for the Bombers. Steinbrenner was asked what changes the Yankees have to make to “get over the hump.” “I was disappointed, frankly,...",
+      "title": "Hal Steinbrenner hints at Yankees’ offseason priorities: ‘Detrimental’",
+      "summary": "Steinbrenner was asked what changes the Yankees have to make to \"get over the hump.\"",
       "source": "NY Post Yankees",
       "author": "Grace McCarron",
       "link": "https://nypost.com/2026/10/21/sports/hal-steinbrenner-hints-at-yankees-offseason-priorities-detrimental/",
       "published": "2026-10-21T15:30:57Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FScreenshot-2026-10-21-at-11.21.58-AM.png"
+      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FScreenshot-2026-10-21-at-11.21.58-AM.png?w%3D1024"
     },
     {
       "title": "Brian Cashman agrees to new contract to remain Yankees GM",
       "summary": "Brian Cashman isn't going anywhere.",
       "source": "NY Post Yankees",
-      "author": "Justin Tasch",
+      "author": "Greg Joyce",
       "link": "https://nypost.com/2026/10/21/sports/brian-cashman-agrees-to-new-contract-to-remain-yankees-gm/",
       "published": "2026-10-21T15:15:38Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fcashman.jpg?w%3D1024"
@@ -111,10 +165,10 @@
       "image": null
     },
     {
-      "title": "Hal Steinbrenner pins ALDS flop on players in first comments since Yankees disaster",
+      "title": "Hal Steinbrenner pins season’s failure on players in first comments since Yankees’ ALDS flop",
       "summary": "Hal Steinbrenner is blaming the players.",
       "source": "NY Post Yankees",
-      "author": "Matt Ehalt",
+      "author": "Greg Joyce",
       "link": "https://nypost.com/2026/10/21/sports/hal-steinbrenner-pins-yankees-alds-flop-on-players/",
       "published": "2026-10-21T14:48:58Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FScreenshot-2026-10-21-at-11.21.58-AM.png?w%3D1024"
@@ -207,15 +261,6 @@
       "author": "Madison Pavich",
       "link": "https://www.pinstripealley.com/mlb-news/212807/mlb-playoff-scores-rays-guardians-alcs-world-series-peralta-diaz-caminero-palacios-brewers",
       "published": "2026-10-20T12:00:00Z",
-      "image": null
-    },
-    {
-      "title": "Today on Pinstripe Alley &#8211; 10/20/26",
-      "summary": "After a long October’s journey into, well, still October, we have our World Series matchup. It’ll be Rays vs. Brewers, Tampa Bay dispatching the Guardians with relative ease last night to win the third pennant in franchise history. As shocking as it may seem on the surface, with each side playing for its first ever […]",
-      "source": "Pinstripe Alley",
-      "author": "Jake Devin",
-      "link": "https://www.pinstripealley.com/pinstripe-alley-discussions/212666/yankees-mlb-pinstripe-alley-10-20-26",
-      "published": "2026-10-20T10:30:00Z",
       "image": null
     },
     {
@@ -397,42 +442,6 @@
       "link": "https://nypost.com/2026/10/15/sports/yankees-ryan-weathers-took-his-first-step-in-breaking-out/",
       "published": "2026-10-15T23:32:34Z",
       "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FNYP082226YANKEES303JS.jpg?quality%3D90%26"
-    },
-    {
-      "title": "How the Yankees’ two qualifying offer calls are expected to shake out",
-      "summary": "The Yankees are expected to extend the $23.15M qualifying offer to at least one of their stars.",
-      "source": "NY Post Yankees",
-      "author": "Jon Heyman",
-      "link": "https://nypost.com/2026/10/15/sports/how-the-yankees-qualifying-offer-calls-are-expected-to-shake-out/",
-      "published": "2026-10-15T21:39:51Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnew-york-yankees-david-bednar-140991365.jpg?quality%3D90%26"
-    },
-    {
-      "title": "What the Yankees need to do to solve their October shortcomings",
-      "summary": "Let’s review what needs to be done to improve a roster that’s consistently good enough to play into October, but not too far into the month.",
-      "source": "NY Post Yankees",
-      "author": "Jon Heyman",
-      "link": "https://nypost.com/2026/10/15/sports/what-the-yankees-need-to-do-to-solve-their-october-shortcomings/",
-      "published": "2026-10-15T21:22:45Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2FGettyImages-2287256927.jpg?quality%3D90%26"
-    },
-    {
-      "title": "Why Yankees bosses are a little upset with Aaron Judge",
-      "summary": "They were said to be taken aback by the comments.",
-      "source": "NY Post Yankees",
-      "author": "Jon Heyman",
-      "link": "https://nypost.com/2026/10/15/sports/why-yankees-bosses-are-a-little-upset-with-aaron-judge/",
-      "published": "2026-10-15T19:29:53Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Ftakes-batting-practice-new-york-142938701.jpg?quality%3D90%26"
-    },
-    {
-      "title": "George Lombard Jr. is the FUTURE! | Pinstripe Post",
-      "summary": "Joel Sherman breaks down the Yankees’ shortstop position and how its future is tied to the young phenom George Lombard Jr. continuing to progress in 2027.",
-      "source": "NY Post Yankees",
-      "author": "NY Post Video",
-      "link": "https://nypost.com/video/george-lombard-jr-is-the-future-pinstripe-post/",
-      "published": "2026-10-15T18:00:00Z",
-      "image": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fpinstripe-wp-thumb-3.png"
     }
   ]
 }
