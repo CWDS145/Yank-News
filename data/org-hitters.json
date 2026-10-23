@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-22T22:26:38Z",
+  "updated": "2026-10-23T01:02:00Z",
   "season": 2026,
   "window_days": 10,
-  "window_start": "2026-10-12",
-  "window_end": "2026-10-22",
+  "window_start": "2026-10-13",
+  "window_end": "2026-10-23",
   "hitters": [
     {
       "id": 592450,
@@ -979,7 +979,7 @@
       "name": "Jazz Chisholm Jr.",
       "position": "2B",
       "level": "MLB",
-      "level_since": "2026-09-22",
+      "level_since": "2026-09-10",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
