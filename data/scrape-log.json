@@ -2,14 +2,6 @@
   "entries": [
     {
       "timestamp": "2026-10-22T22:32:32Z",
-      "source": "MLB statSplits vl/vr: High-A",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=statSplits&sitCodes=vl,vr&sportId={sid}",
-      "status": 200,
-      "items": 72,
-      "note": "ok=72/72"
-    },
-    {
-      "timestamp": "2026-10-22T22:32:32Z",
       "source": "MLB statSplits vl/vr: Low-A",
       "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=statSplits&sitCodes=vl,vr&sportId={sid}",
       "status": 200,
@@ -3998,6 +3990,14 @@
       "url": "https://www.cbssports.com/mlb/teams/NYY/new-york-yankees/transactions/",
       "status": 200,
       "items": 61,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-10-24T13:47:53Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 25,
       "note": "ok"
     }
   ]
