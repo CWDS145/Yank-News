@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T23:16:47Z",
+  "updated": "2026-10-25T01:15:16Z",
   "items": [
     {
       "id": 945401,
@@ -507,71 +507,6 @@
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
       "description": "New York Yankees selected the contract of RHP Alexander Cornielle from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 944004,
-      "date": "2026-09-24",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 694341,
-      "player": "Brendan Beck",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees activated RHP Brendan Beck."
-    },
-    {
-      "id": 944003,
-      "date": "2026-09-24",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 694341,
-      "player": "Brendan Beck",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees reassigned RHP Brendan Beck to the minor leagues."
-    },
-    {
-      "id": 943846,
-      "date": "2026-09-24",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 657376,
-      "player": "Clarke Schmidt",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees placed RHP Clarke Schmidt on the 15-day injured list retroactive to September 21, 2026. Right bicep neuritis."
-    },
-    {
-      "id": 944002,
-      "date": "2026-09-24",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 694341,
-      "player": "Brendan Beck",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees activated RHP Brendan Beck."
-    },
-    {
-      "id": 943845,
-      "date": "2026-09-24",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 690440,
-      "player": "Bradley Hanner",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Bradley Hanner from Scranton/Wilkes-Barre RailRiders."
     }
   ]
 }

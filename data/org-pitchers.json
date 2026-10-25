@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T23:22:45Z",
+  "updated": "2026-10-25T01:20:45Z",
   "season": 2026,
   "pitchers": [
     {
@@ -232,7 +232,7 @@
       "name": "Bradley Hanner",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-09-24",
+      "level_since": "2026-10-08",
       "prior_level": "AAA",
       "prior_level_since": "2026-09-16",
       "season": {
@@ -345,7 +345,7 @@
       "name": "Brendan Beck",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-09-24",
+      "level_since": "2026-09-25",
       "prior_level": "AAA",
       "prior_level_since": "2026-08-30",
       "season": {
@@ -797,7 +797,7 @@
       "name": "Clarke Schmidt",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-09-24",
+      "level_since": "2026-10-06",
       "prior_level": "AA",
       "prior_level_since": "2026-09-09",
       "season": {
