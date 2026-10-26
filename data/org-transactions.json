@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T23:23:03Z",
+  "updated": "2026-10-26T01:48:01Z",
   "items": [
     {
       "id": 945404,
@@ -416,97 +416,6 @@
       "from": "AAA Scranton/Wilkes-Barre RailRiders",
       "to": "New York Yankees",
       "description": "New York Yankees recalled RHP Elmer Rodríguez from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 943997,
-      "date": "2026-09-25",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 518585,
-      "player": "Fernando Cruz",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees transferred RHP Fernando Cruz from the 15-day injured list to the 60-day injured list. Right elbow discomfort."
-    },
-    {
-      "id": 943914,
-      "date": "2026-09-25",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 660787,
-      "player": "Yerry De los Santos",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Yerry De los Santos from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 943907,
-      "date": "2026-09-25",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 690440,
-      "player": "Bradley Hanner",
-      "from_team_id": 147,
-      "to_team_id": 475,
-      "from": "New York Yankees",
-      "to": "FCL Yankees",
-      "description": "New York Yankees optioned RHP Bradley Hanner to FCL Yankees."
-    },
-    {
-      "id": 943913,
-      "date": "2026-09-25",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 694341,
-      "player": "Brendan Beck",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Brendan Beck from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 943995,
-      "date": "2026-09-25",
-      "type_code": "SE",
-      "type_desc": "Selected",
-      "player_id": 529017,
-      "player": "Alexander Cornielle",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre RailRiders",
-      "to": "New York Yankees",
-      "description": "New York Yankees selected the contract of RHP Alexander Cornielle from Scranton/Wilkes-Barre RailRiders."
-    },
-    {
-      "id": 943996,
-      "date": "2026-09-25",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 694341,
-      "player": "Brendan Beck",
-      "from_team_id": 147,
-      "to_team_id": 475,
-      "from": "New York Yankees",
-      "to": "FCL Yankees",
-      "description": "New York Yankees optioned RHP Brendan Beck to FCL Yankees."
-    },
-    {
-      "id": 943906,
-      "date": "2026-09-25",
-      "type_code": "OPT",
-      "type_desc": "Optioned",
-      "player_id": 661563,
-      "player": "Luis Gil",
-      "from_team_id": 147,
-      "to_team_id": 475,
-      "from": "New York Yankees",
-      "to": "FCL Yankees",
-      "description": "New York Yankees optioned RHP Luis Gil to FCL Yankees."
     }
   ]
 }

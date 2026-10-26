@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T23:28:13Z",
+  "updated": "2026-10-26T01:53:19Z",
   "season": 2026,
   "pitchers": [
     {
@@ -345,7 +345,7 @@
       "name": "Brendan Beck",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-09-25",
+      "level_since": "2026-10-08",
       "prior_level": "AAA",
       "prior_level_since": "2026-08-30",
       "season": {
@@ -1137,7 +1137,7 @@
       "name": "Fernando Cruz",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-09-25",
+      "level_since": "2026-08-26",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -3026,7 +3026,7 @@
       "name": "Yerry De los Santos",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-09-25",
+      "level_since": "2026-09-29",
       "prior_level": "AAA",
       "prior_level_since": "2026-08-30",
       "season": {
