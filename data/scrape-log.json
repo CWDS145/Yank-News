@@ -2,14 +2,6 @@
   "entries": [
     {
       "timestamp": "2026-10-27T16:01:34Z",
-      "source": "MLB season+byDateRange: AAA",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season,byDateRange&sportId={sid}",
-      "status": 200,
-      "items": 72,
-      "note": "ok=72/72 window=2026-10-17..2026-10-27"
-    },
-    {
-      "timestamp": "2026-10-27T16:01:34Z",
       "source": "MLB season+byDateRange: AA",
       "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=season,byDateRange&sportId={sid}",
       "status": 200,
@@ -3999,6 +3991,14 @@
       "status": 200,
       "items": 72,
       "note": "ok=72/72"
+    },
+    {
+      "timestamp": "2026-10-29T16:33:20Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 25,
+      "note": "ok"
     }
   ]
 }
