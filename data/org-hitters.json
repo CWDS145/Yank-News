@@ -1,16 +1,16 @@
 {
-  "updated": "2026-10-28T21:58:47Z",
+  "updated": "2026-10-29T01:52:08Z",
   "season": 2026,
   "window_days": 10,
-  "window_start": "2026-10-18",
-  "window_end": "2026-10-28",
+  "window_start": "2026-10-19",
+  "window_end": "2026-10-29",
   "hitters": [
     {
       "id": 592450,
       "name": "Aaron Judge",
       "position": "RF",
       "level": "MLB",
-      "level_since": "2026-09-28",
+      "level_since": "2026-10-08",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -843,7 +843,7 @@
       "name": "J.C. Escarra",
       "position": "C",
       "level": "MLB",
-      "level_since": "2026-09-28",
+      "level_since": "2026-10-08",
       "prior_level": "AAA",
       "prior_level_since": "2026-06-26",
       "season": {
@@ -956,7 +956,7 @@
       "name": "Jasson Domínguez",
       "position": "RF",
       "level": "MLB",
-      "level_since": "2026-09-28",
+      "level_since": "2026-10-08",
       "prior_level": "AAA",
       "prior_level_since": "2026-09-11",
       "season": {
@@ -1271,7 +1271,7 @@
       "name": "Max Schuemann",
       "position": "LF",
       "level": "MLB",
-      "level_since": "2026-09-28",
+      "level_since": "2026-10-03",
       "prior_level": "AAA",
       "prior_level_since": "2026-09-22",
       "season": {

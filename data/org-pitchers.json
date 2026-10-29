@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T22:04:27Z",
+  "updated": "2026-10-29T01:57:50Z",
   "season": 2026,
   "pitchers": [
     {
@@ -120,7 +120,7 @@
       "name": "Angel Chivilli",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-09-28",
+      "level_since": "2026-10-08",
       "prior_level": "AAA",
       "prior_level_since": "2026-08-04",
       "season": {
@@ -1061,7 +1061,7 @@
       "name": "Elmer Rodríguez",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-09-28",
+      "level_since": "2026-10-08",
       "prior_level": "AAA",
       "prior_level_since": "2026-09-07",
       "season": {
@@ -2499,7 +2499,7 @@
       "name": "Ryan Weathers",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-09-28",
+      "level_since": "2026-10-03",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
