@@ -1,9 +1,9 @@
 {
-  "updated": "2026-10-29T20:41:34Z",
+  "updated": "2026-10-30T00:28:43Z",
   "season": 2026,
   "window_days": 10,
-  "window_start": "2026-10-19",
-  "window_end": "2026-10-29",
+  "window_start": "2026-10-20",
+  "window_end": "2026-10-30",
   "hitters": [
     {
       "id": 592450,
@@ -70,28 +70,6 @@
       "season_levels": [
         "MLB",
         "AAA"
-      ],
-      "last_10_levels": []
-    },
-    {
-      "id": 642708,
-      "name": "Amed Rosario",
-      "position": "3B",
-      "level": "MLB",
-      "level_since": "2026-10-03",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 227,
-        "k": 57,
-        "avg": ".238",
-        "ops": ".684",
-        "avg_num": 0.23788546255506607,
-        "ops_num": 0.6839748682024986
-      },
-      "last_10": null,
-      "season_levels": [
-        "MLB"
       ],
       "last_10_levels": []
     },
@@ -753,7 +731,7 @@
       "name": "Giancarlo Stanton",
       "position": "DH",
       "level": "MLB",
-      "level_since": "2026-09-29",
+      "level_since": "2026-04-28",
       "prior_level": null,
       "prior_level_since": null,
       "season": {
@@ -971,28 +949,6 @@
       "season_levels": [
         "MLB",
         "AAA"
-      ],
-      "last_10_levels": []
-    },
-    {
-      "id": 665862,
-      "name": "Jazz Chisholm Jr.",
-      "position": "2B",
-      "level": "MLB",
-      "level_since": "2026-09-10",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 471,
-        "k": 157,
-        "avg": ".231",
-        "ops": ".711",
-        "avg_num": 0.23142250530785563,
-        "ops_num": 0.7111808182877577
-      },
-      "last_10": null,
-      "season_levels": [
-        "MLB"
       ],
       "last_10_levels": []
     },
@@ -1336,28 +1292,6 @@
       "last_10_levels": []
     },
     {
-      "id": 502671,
-      "name": "Paul Goldschmidt",
-      "position": "1B",
-      "level": "MLB",
-      "level_since": "2026-02-12",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 345,
-        "k": 86,
-        "avg": ".252",
-        "ops": ".765",
-        "avg_num": 0.25217391304347825,
-        "ops_num": 0.7653318077803204
-      },
-      "last_10": null,
-      "season_levels": [
-        "MLB"
-      ],
-      "last_10_levels": []
-    },
-    {
       "id": 827290,
       "name": "Paul Gutierrez-Contreras II",
       "position": "OF",
@@ -1467,29 +1401,6 @@
       "season_levels": [
         "MLB",
         "AAA"
-      ],
-      "last_10_levels": []
-    },
-    {
-      "id": 663757,
-      "name": "Trent Grisham",
-      "position": "CF",
-      "level": "MLB",
-      "level_since": "2026-09-29",
-      "prior_level": "AA",
-      "prior_level_since": "2026-07-01",
-      "season": {
-        "ab": 421,
-        "k": 89,
-        "avg": ".211",
-        "ops": ".707",
-        "avg_num": 0.21140142517814728,
-        "ops_num": 0.7067361859657508
-      },
-      "last_10": null,
-      "season_levels": [
-        "MLB",
-        "AA"
       ],
       "last_10_levels": []
     },

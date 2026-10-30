@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T20:47:28Z",
+  "updated": "2026-10-30T00:34:28Z",
   "season": 2026,
   "pitchers": [
     {
@@ -907,43 +907,6 @@
       ]
     },
     {
-      "id": 670280,
-      "name": "David Bednar",
-      "position": "P",
-      "level": "MLB",
-      "level_since": "2026-06-29",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "w": 7,
-        "l": 3,
-        "g": 64,
-        "gs": 0,
-        "cg": 0,
-        "sho": 0,
-        "sv": 35,
-        "svo": 39,
-        "ip": "69.1",
-        "ip_outs": 208,
-        "h": 52,
-        "r": 25,
-        "er": 19,
-        "hr": 4,
-        "hb": 2,
-        "bb": 20,
-        "so": 76,
-        "era": "2.47",
-        "era_num": 2.4663461538461537,
-        "whip": "1.04",
-        "whip_num": 1.0384615384615385,
-        "avg": ".205",
-        "avg_num": 0.2047244094488189
-      },
-      "season_levels": [
-        "MLB"
-      ]
-    },
-    {
       "id": 687589,
       "name": "Dom Hamel",
       "position": "P",
@@ -1542,43 +1505,6 @@
       },
       "season_levels": [
         "High-A"
-      ]
-    },
-    {
-      "id": 670167,
-      "name": "John Schreiber",
-      "position": "P",
-      "level": "MLB",
-      "level_since": "2026-08-31",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "w": 2,
-        "l": 4,
-        "g": 66,
-        "gs": 0,
-        "cg": 0,
-        "sho": 0,
-        "sv": 2,
-        "svo": 5,
-        "ip": "60.1",
-        "ip_outs": 181,
-        "h": 49,
-        "r": 26,
-        "er": 22,
-        "hr": 7,
-        "hb": 1,
-        "bb": 26,
-        "so": 40,
-        "era": "3.28",
-        "era_num": 3.281767955801105,
-        "whip": "1.24",
-        "whip_num": 1.2430939226519337,
-        "avg": ".227",
-        "avg_num": 0.22685185185185186
-      },
-      "season_levels": [
-        "MLB"
       ]
     },
     {
@@ -2271,81 +2197,6 @@
       ]
     },
     {
-      "id": 605242,
-      "name": "Michael Fulmer",
-      "position": "P",
-      "level": "MLB",
-      "level_since": "2026-09-29",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "w": 4,
-        "l": 3,
-        "g": 53,
-        "gs": 0,
-        "cg": 0,
-        "sho": 0,
-        "sv": 10,
-        "svo": 13,
-        "ip": "56.2",
-        "ip_outs": 170,
-        "h": 44,
-        "r": 23,
-        "er": 19,
-        "hr": 3,
-        "hb": 1,
-        "bb": 29,
-        "so": 70,
-        "era": "3.02",
-        "era_num": 3.0176470588235293,
-        "whip": "1.29",
-        "whip_num": 1.2882352941176471,
-        "avg": ".210",
-        "avg_num": 0.20952380952380953
-      },
-      "season_levels": [
-        "MLB",
-        "AAA"
-      ]
-    },
-    {
-      "id": 621112,
-      "name": "Paul Blackburn",
-      "position": "P",
-      "level": "MLB",
-      "level_since": "2026-01-15",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "w": 7,
-        "l": 3,
-        "g": 62,
-        "gs": 2,
-        "cg": 0,
-        "sho": 0,
-        "sv": 1,
-        "svo": 5,
-        "ip": "85.0",
-        "ip_outs": 255,
-        "h": 59,
-        "r": 19,
-        "er": 15,
-        "hr": 7,
-        "hb": 1,
-        "bb": 33,
-        "so": 69,
-        "era": "1.59",
-        "era_num": 1.588235294117647,
-        "whip": "1.08",
-        "whip_num": 1.0823529411764705,
-        "avg": ".195",
-        "avg_num": 0.19536423841059603
-      },
-      "season_levels": [
-        "MLB"
-      ]
-    },
-    {
       "id": 692646,
       "name": "Pedro Rodriguez",
       "position": "P",
@@ -2532,43 +2383,6 @@
       ]
     },
     {
-      "id": 642232,
-      "name": "Ryan Yarbrough",
-      "position": "P",
-      "level": "MLB",
-      "level_since": null,
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "w": 2,
-        "l": 1,
-        "g": 38,
-        "gs": 2,
-        "cg": 0,
-        "sho": 0,
-        "sv": 3,
-        "svo": 3,
-        "ip": "63.1",
-        "ip_outs": 190,
-        "h": 54,
-        "r": 33,
-        "er": 26,
-        "hr": 3,
-        "hb": 4,
-        "bb": 23,
-        "so": 49,
-        "era": "3.69",
-        "era_num": 3.694736842105263,
-        "whip": "1.22",
-        "whip_num": 1.2157894736842105,
-        "avg": ".226",
-        "avg_num": 0.22594142259414227
-      },
-      "season_levels": [
-        "MLB"
-      ]
-    },
-    {
       "id": 800239,
       "name": "Sabier Marte",
       "position": "P",
@@ -2679,43 +2493,6 @@
       "season_levels": [
         "High-A",
         "Low-A"
-      ]
-    },
-    {
-      "id": 657612,
-      "name": "Tim Hill",
-      "position": "P",
-      "level": "MLB",
-      "level_since": "2026-09-29",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "w": 5,
-        "l": 2,
-        "g": 67,
-        "gs": 0,
-        "cg": 0,
-        "sho": 0,
-        "sv": 2,
-        "svo": 6,
-        "ip": "58.2",
-        "ip_outs": 176,
-        "h": 54,
-        "r": 33,
-        "er": 30,
-        "hr": 12,
-        "hb": 7,
-        "bb": 13,
-        "so": 25,
-        "era": "4.60",
-        "era_num": 4.6022727272727275,
-        "whip": "1.14",
-        "whip_num": 1.1420454545454546,
-        "avg": ".247",
-        "avg_num": 0.2465753424657534
-      },
-      "season_levels": [
-        "MLB"
       ]
     },
     {
@@ -3026,7 +2803,7 @@
       "name": "Yerry De los Santos",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-09-29",
+      "level_since": "2026-10-08",
       "prior_level": "AAA",
       "prior_level_since": "2026-08-30",
       "season": {
