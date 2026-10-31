@@ -1,49 +1,7 @@
 {
-  "updated": "2026-10-31T10:45:33Z",
+  "updated": "2026-10-31T15:58:03Z",
   "count": 55,
   "items": [
-    {
-      "date": "2026-10-29",
-      "type": "",
-      "player": "Ryan Yarbrough",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-10-29",
-      "type": "",
-      "player": "David Bednar",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-10-29",
-      "type": "",
-      "player": "John Schreiber",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-10-29",
-      "type": "",
-      "player": "Michael Fulmer",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-10-29",
-      "type": "",
-      "player": "Paul Goldschmidt",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-10-29",
-      "type": "",
-      "player": "Jazz Chisholm Jr.",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-10-29",
-      "type": "",
-      "player": "Paul Blackburn",
-      "description": "Declared Free Agency"
-    },
     {
       "date": "2026-10-29",
       "type": "",
@@ -59,7 +17,25 @@
     {
       "date": "2026-10-29",
       "type": "",
-      "player": "Tim Hill",
+      "player": "Jazz Chisholm Jr.",
+      "description": "Declared Free Agency"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "",
+      "player": "Paul Goldschmidt",
+      "description": "Declared Free Agency"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "",
+      "player": "John Schreiber",
+      "description": "Declared Free Agency"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "",
+      "player": "Paul Blackburn",
       "description": "Declared Free Agency"
     },
     {
@@ -67,6 +43,30 @@
       "type": "",
       "player": "Mitch Garver",
       "description": "Retired"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "",
+      "player": "Ryan Yarbrough",
+      "description": "Declared Free Agency"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "",
+      "player": "David Bednar",
+      "description": "Declared Free Agency"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "",
+      "player": "Michael Fulmer",
+      "description": "Declared Free Agency"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "",
+      "player": "Tim Hill",
+      "description": "Declared Free Agency"
     },
     {
       "date": "2026-10-08",
@@ -113,13 +113,13 @@
     {
       "date": "2026-09-28",
       "type": "called up",
-      "player": "Brendan Beck",
+      "player": "J.C. Escarra",
       "description": "Called Up from Minors"
     },
     {
       "date": "2026-09-28",
       "type": "called up",
-      "player": "Angel Chivilli",
+      "player": "Bradley Hanner",
       "description": "Called Up from Minors"
     },
     {
@@ -137,7 +137,7 @@
     {
       "date": "2026-09-28",
       "type": "called up",
-      "player": "Bradley Hanner",
+      "player": "Angel Chivilli",
       "description": "Called Up from Minors"
     },
     {
@@ -149,14 +149,20 @@
     {
       "date": "2026-09-28",
       "type": "called up",
-      "player": "J.C. Escarra",
+      "player": "Jasson Dominguez",
       "description": "Called Up from Minors"
     },
     {
       "date": "2026-09-28",
       "type": "called up",
-      "player": "Jasson Dominguez",
+      "player": "Brendan Beck",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-09-25",
+      "type": "purchased",
+      "player": "Alexander Cornielle",
+      "description": "Purchased From Minors"
     },
     {
       "date": "2026-09-25",
@@ -172,21 +178,21 @@
     },
     {
       "date": "2026-09-25",
-      "type": "called up",
-      "player": "Brendan Beck",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-09-25",
       "type": "sent",
       "player": "Brendan Beck",
       "description": "Sent to Minors"
     },
     {
       "date": "2026-09-25",
-      "type": "purchased",
-      "player": "Alexander Cornielle",
-      "description": "Purchased From Minors"
+      "type": "called up",
+      "player": "Brendan Beck",
+      "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-09-24",
+      "type": "called up",
+      "player": "Bradley Hanner",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-09-24",
@@ -199,12 +205,6 @@
       "type": "sent",
       "player": "Bradley Hanner",
       "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-09-24",
-      "type": "called up",
-      "player": "Bradley Hanner",
-      "description": "Called Up from Minors"
     },
     {
       "date": "2026-09-24",
@@ -244,15 +244,15 @@
     },
     {
       "date": "2026-09-16",
-      "type": "designated",
-      "player": "Oswaldo Cabrera",
-      "description": "Designated for Assignment"
-    },
-    {
-      "date": "2026-09-16",
       "type": "",
       "player": "Clarke Schmidt",
       "description": "Removed From 60-Day IL (Recovery from right elbow surgery)"
+    },
+    {
+      "date": "2026-09-16",
+      "type": "designated",
+      "player": "Oswaldo Cabrera",
+      "description": "Designated for Assignment"
     },
     {
       "date": "2026-09-15",
