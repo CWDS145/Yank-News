@@ -1,29 +1,11 @@
 {
-  "updated": "2026-10-30T23:37:41Z",
-  "count": 57,
+  "updated": "2026-10-31T04:39:45Z",
+  "count": 55,
   "items": [
     {
       "date": "2026-10-29",
       "type": "",
       "player": "Tim Hill",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-10-29",
-      "type": "",
-      "player": "Trent Grisham",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-10-29",
-      "type": "",
-      "player": "Paul Blackburn",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-10-29",
-      "type": "",
-      "player": "John Schreiber",
       "description": "Declared Free Agency"
     },
     {
@@ -35,25 +17,7 @@
     {
       "date": "2026-10-29",
       "type": "",
-      "player": "Michael Fulmer",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-10-29",
-      "type": "",
-      "player": "Paul Goldschmidt",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-10-29",
-      "type": "",
       "player": "Amed Rosario",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-10-29",
-      "type": "",
-      "player": "Ryan Yarbrough",
       "description": "Declared Free Agency"
     },
     {
@@ -65,7 +29,43 @@
     {
       "date": "2026-10-29",
       "type": "",
+      "player": "Paul Goldschmidt",
+      "description": "Declared Free Agency"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "",
+      "player": "Michael Fulmer",
+      "description": "Declared Free Agency"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "",
+      "player": "John Schreiber",
+      "description": "Declared Free Agency"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "",
+      "player": "Paul Blackburn",
+      "description": "Declared Free Agency"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "",
+      "player": "Trent Grisham",
+      "description": "Declared Free Agency"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "",
       "player": "David Bednar",
+      "description": "Declared Free Agency"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "",
+      "player": "Ryan Yarbrough",
       "description": "Declared Free Agency"
     },
     {
@@ -95,8 +95,8 @@
     {
       "date": "2026-09-29",
       "type": "",
-      "player": "Trent Grisham",
-      "description": "Removed From 10-Day IL (Strained right hamstring)"
+      "player": "Giancarlo Stanton",
+      "description": "Removed From 60-Day IL (Strained right calf)"
     },
     {
       "date": "2026-09-29",
@@ -107,14 +107,8 @@
     {
       "date": "2026-09-29",
       "type": "",
-      "player": "Giancarlo Stanton",
-      "description": "Removed From 60-Day IL (Strained right calf)"
-    },
-    {
-      "date": "2026-09-28",
-      "type": "called up",
-      "player": "Brendan Beck",
-      "description": "Called Up from Minors"
+      "player": "Trent Grisham",
+      "description": "Removed From 10-Day IL (Strained right hamstring)"
     },
     {
       "date": "2026-09-28",
@@ -125,19 +119,19 @@
     {
       "date": "2026-09-28",
       "type": "called up",
-      "player": "Angel Chivilli",
+      "player": "Bradley Hanner",
+      "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-09-28",
+      "type": "called up",
+      "player": "Jasson Dominguez",
       "description": "Called Up from Minors"
     },
     {
       "date": "2026-09-28",
       "type": "called up",
       "player": "Luis Gil",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-09-28",
-      "type": "called up",
-      "player": "Bradley Hanner",
       "description": "Called Up from Minors"
     },
     {
@@ -155,7 +149,13 @@
     {
       "date": "2026-09-28",
       "type": "called up",
-      "player": "Jasson Dominguez",
+      "player": "Brendan Beck",
+      "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-09-28",
+      "type": "called up",
+      "player": "Angel Chivilli",
       "description": "Called Up from Minors"
     },
     {
@@ -172,21 +172,21 @@
     },
     {
       "date": "2026-09-25",
-      "type": "sent",
-      "player": "Brendan Beck",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-09-25",
-      "type": "called up",
-      "player": "Brendan Beck",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-09-25",
       "type": "called up",
       "player": "Yerry De Los Santos",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-09-25",
+      "type": "called up",
+      "player": "Brendan Beck",
+      "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-09-25",
+      "type": "sent",
+      "player": "Brendan Beck",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-09-24",
@@ -196,12 +196,6 @@
     },
     {
       "date": "2026-09-24",
-      "type": "sent",
-      "player": "Luis Gil",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-09-24",
       "type": "called up",
       "player": "Bradley Hanner",
       "description": "Called Up from Minors"
@@ -210,6 +204,12 @@
       "date": "2026-09-24",
       "type": "sent",
       "player": "Bradley Hanner",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-09-24",
+      "type": "sent",
+      "player": "Luis Gil",
       "description": "Sent to Minors"
     },
     {
@@ -238,12 +238,6 @@
     },
     {
       "date": "2026-09-16",
-      "type": "",
-      "player": "Clarke Schmidt",
-      "description": "Removed From 60-Day IL (Recovery from right elbow surgery)"
-    },
-    {
-      "date": "2026-09-16",
       "type": "designated",
       "player": "Oswaldo Cabrera",
       "description": "Designated for Assignment"
@@ -253,6 +247,12 @@
       "type": "recalled",
       "player": "Clarke Schmidt",
       "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-09-16",
+      "type": "",
+      "player": "Clarke Schmidt",
+      "description": "Removed From 60-Day IL (Recovery from right elbow surgery)"
     },
     {
       "date": "2026-09-15",
@@ -268,12 +268,6 @@
     },
     {
       "date": "2026-09-10",
-      "type": "sent",
-      "player": "Jasson Dominguez",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-09-10",
       "type": "called up",
       "player": "Anthony Volpe",
       "description": "Called Up from Minors"
@@ -285,16 +279,22 @@
       "description": "Placed on 10-Day IL (Sprained right thumb)"
     },
     {
-      "date": "2026-09-07",
-      "type": "designated",
-      "player": "Chase Hampton",
-      "description": "Designated for Assignment"
+      "date": "2026-09-10",
+      "type": "sent",
+      "player": "Jasson Dominguez",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-09-07",
       "type": "",
       "player": "Aaron Judge",
       "description": "Removed From 60-Day IL (Right rib stress fracture)"
+    },
+    {
+      "date": "2026-09-07",
+      "type": "designated",
+      "player": "Chase Hampton",
+      "description": "Designated for Assignment"
     },
     {
       "date": "2026-09-06",
@@ -316,33 +316,21 @@
     },
     {
       "date": "2026-09-01",
-      "type": "signed",
-      "player": "Justin Topa",
-      "description": "Signed to a Minor League Contract"
-    },
-    {
-      "date": "2026-09-01",
       "type": "recalled",
       "player": "Ryan McMahon",
       "description": "Recalled From Minors Rehab Assignment"
     },
     {
       "date": "2026-09-01",
+      "type": "signed",
+      "player": "Justin Topa",
+      "description": "Signed to a Minor League Contract"
+    },
+    {
+      "date": "2026-09-01",
       "type": "",
       "player": "Ryan McMahon",
       "description": "Removed From 10-Day IL (Left thumb sprain)"
-    },
-    {
-      "date": "2026-08-31",
-      "type": "",
-      "player": "John Schreiber",
-      "description": "Acquired Off Waivers From Kansas City"
-    },
-    {
-      "date": "2026-08-31",
-      "type": "",
-      "player": "Justin Topa",
-      "description": "Refused Minor League Assignment - Free Agent"
     }
   ]
 }
