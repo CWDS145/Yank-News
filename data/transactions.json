@@ -1,13 +1,7 @@
 {
-  "updated": "2026-11-01T02:27:58Z",
+  "updated": "2026-11-01T09:36:42Z",
   "count": 52,
   "items": [
-    {
-      "date": "2026-10-29",
-      "type": "",
-      "player": "Tim Hill",
-      "description": "Declared Free Agency"
-    },
     {
       "date": "2026-10-29",
       "type": "",
@@ -17,13 +11,7 @@
     {
       "date": "2026-10-29",
       "type": "",
-      "player": "Amed Rosario",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-10-29",
-      "type": "",
-      "player": "Paul Blackburn",
+      "player": "Tim Hill",
       "description": "Declared Free Agency"
     },
     {
@@ -41,7 +29,7 @@
     {
       "date": "2026-10-29",
       "type": "",
-      "player": "David Bednar",
+      "player": "Ryan Yarbrough",
       "description": "Declared Free Agency"
     },
     {
@@ -53,19 +41,31 @@
     {
       "date": "2026-10-29",
       "type": "",
-      "player": "Trent Grisham",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-10-29",
-      "type": "",
       "player": "John Schreiber",
       "description": "Declared Free Agency"
     },
     {
       "date": "2026-10-29",
       "type": "",
-      "player": "Ryan Yarbrough",
+      "player": "Amed Rosario",
+      "description": "Declared Free Agency"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "",
+      "player": "Paul Blackburn",
+      "description": "Declared Free Agency"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "",
+      "player": "Trent Grisham",
+      "description": "Declared Free Agency"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "",
+      "player": "David Bednar",
       "description": "Declared Free Agency"
     },
     {
@@ -94,12 +94,6 @@
     },
     {
       "date": "2026-09-29",
-      "type": "",
-      "player": "Trent Grisham",
-      "description": "Removed From 10-Day IL (Strained right hamstring)"
-    },
-    {
-      "date": "2026-09-29",
       "type": "designated",
       "player": "Alexander Cornielle",
       "description": "Designated for Assignment"
@@ -111,10 +105,10 @@
       "description": "Removed From 60-Day IL (Strained right calf)"
     },
     {
-      "date": "2026-09-28",
-      "type": "called up",
-      "player": "Luis Gil",
-      "description": "Called Up from Minors"
+      "date": "2026-09-29",
+      "type": "",
+      "player": "Trent Grisham",
+      "description": "Removed From 10-Day IL (Strained right hamstring)"
     },
     {
       "date": "2026-09-28",
@@ -125,7 +119,13 @@
     {
       "date": "2026-09-28",
       "type": "called up",
-      "player": "J.C. Escarra",
+      "player": "Jasson Dominguez",
+      "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-09-28",
+      "type": "called up",
+      "player": "Luis Gil",
       "description": "Called Up from Minors"
     },
     {
@@ -143,7 +143,7 @@
     {
       "date": "2026-09-28",
       "type": "called up",
-      "player": "Jasson Dominguez",
+      "player": "J.C. Escarra",
       "description": "Called Up from Minors"
     },
     {
@@ -160,9 +160,9 @@
     },
     {
       "date": "2026-09-25",
-      "type": "sent",
-      "player": "Brendan Beck",
-      "description": "Sent to Minors"
+      "type": "called up",
+      "player": "Yerry De Los Santos",
+      "description": "Called Up from Minors"
     },
     {
       "date": "2026-09-25",
@@ -172,8 +172,14 @@
     },
     {
       "date": "2026-09-25",
+      "type": "sent",
+      "player": "Brendan Beck",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-09-25",
       "type": "called up",
-      "player": "Yerry De Los Santos",
+      "player": "Brendan Beck",
       "description": "Called Up from Minors"
     },
     {
@@ -183,39 +189,27 @@
       "description": "Transferred to 60-Day IL (Right elbow discomfort)"
     },
     {
-      "date": "2026-09-25",
-      "type": "called up",
-      "player": "Brendan Beck",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-09-24",
-      "type": "sent",
-      "player": "Bradley Hanner",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-09-24",
-      "type": "sent",
-      "player": "Luis Gil",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-09-24",
-      "type": "called up",
-      "player": "Bradley Hanner",
-      "description": "Called Up from Minors"
-    },
-    {
       "date": "2026-09-24",
       "type": "placed",
       "player": "Clarke Schmidt",
       "description": "Placed on 15-Day IL (Right biceps neuritis)"
     },
     {
-      "date": "2026-09-22",
+      "date": "2026-09-24",
       "type": "sent",
-      "player": "Max Schuemann",
+      "player": "Bradley Hanner",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-09-24",
+      "type": "called up",
+      "player": "Bradley Hanner",
+      "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-09-24",
+      "type": "sent",
+      "player": "Luis Gil",
       "description": "Sent to Minors"
     },
     {
@@ -225,16 +219,22 @@
       "description": "Removed From 10-Day IL (Sprained right thumb)"
     },
     {
-      "date": "2026-09-19",
-      "type": "placed",
-      "player": "Aaron Judge",
-      "description": "Placed on 10-Day IL (Strained right calf)"
+      "date": "2026-09-22",
+      "type": "sent",
+      "player": "Max Schuemann",
+      "description": "Sent to Minors"
     },
     {
       "date": "2026-09-19",
       "type": "called up",
       "player": "Max Schuemann",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-09-19",
+      "type": "placed",
+      "player": "Aaron Judge",
+      "description": "Placed on 10-Day IL (Strained right calf)"
     },
     {
       "date": "2026-09-16",
@@ -244,15 +244,15 @@
     },
     {
       "date": "2026-09-16",
-      "type": "",
-      "player": "Clarke Schmidt",
-      "description": "Removed From 60-Day IL (Recovery from right elbow surgery)"
-    },
-    {
-      "date": "2026-09-16",
       "type": "recalled",
       "player": "Clarke Schmidt",
       "description": "Recalled From Minors Rehab Assignment"
+    },
+    {
+      "date": "2026-09-16",
+      "type": "",
+      "player": "Clarke Schmidt",
+      "description": "Removed From 60-Day IL (Recovery from right elbow surgery)"
     },
     {
       "date": "2026-09-15",
@@ -274,15 +274,15 @@
     },
     {
       "date": "2026-09-10",
-      "type": "placed",
-      "player": "Jazz Chisholm Jr.",
-      "description": "Placed on 10-Day IL (Sprained right thumb)"
-    },
-    {
-      "date": "2026-09-10",
       "type": "called up",
       "player": "Anthony Volpe",
       "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-09-10",
+      "type": "placed",
+      "player": "Jazz Chisholm Jr.",
+      "description": "Placed on 10-Day IL (Sprained right thumb)"
     },
     {
       "date": "2026-09-07",
@@ -304,15 +304,15 @@
     },
     {
       "date": "2026-09-05",
-      "type": "called up",
-      "player": "Jasson Dominguez",
-      "description": "Called Up from Minors"
-    },
-    {
-      "date": "2026-09-05",
       "type": "placed",
       "player": "Trent Grisham",
       "description": "Placed on 10-Day IL (Strained right hamstring)"
+    },
+    {
+      "date": "2026-09-05",
+      "type": "called up",
+      "player": "Jasson Dominguez",
+      "description": "Called Up from Minors"
     }
   ]
 }
