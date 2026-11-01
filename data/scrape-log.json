@@ -2,14 +2,6 @@
   "entries": [
     {
       "timestamp": "2026-10-30T13:34:46Z",
-      "source": "MLB MiLB: SOM roster",
-      "url": "https://statsapi.mlb.com/api/v1/teams/1956/roster?rosterType=active&season=2026",
-      "status": 200,
-      "items": 29,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-10-30T13:34:46Z",
       "source": "MLB MiLB: SOM team stats",
       "url": "https://statsapi.mlb.com/api/v1/teams/stats?season=2026&stats=season&group=hitting&teamId=1956&sportId=12",
       "status": 200,
@@ -3998,6 +3990,14 @@
       "url": "https://www.cbssports.com/mlb/teams/NYY/new-york-yankees/transactions/",
       "status": 200,
       "items": 52,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-11-01T16:32:35Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 25,
       "note": "ok"
     }
   ]
