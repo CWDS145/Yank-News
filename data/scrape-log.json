@@ -2,14 +2,6 @@
   "entries": [
     {
       "timestamp": "2026-10-31T10:45:30Z",
-      "source": "CBS Sports MLB",
-      "url": "https://www.cbssports.com/rss/headlines/mlb/",
-      "status": 200,
-      "items": 1,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-10-31T10:45:30Z",
       "source": "Pinstripe Post (Sherman)",
       "url": "https://feeds.megaphone.fm/NYPH3296340517",
       "status": 200,
@@ -3998,6 +3990,14 @@
       "url": "https://www.cbssports.com/mlb/teams/NYY/new-york-yankees/transactions/",
       "status": 200,
       "items": 52,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-11-02T19:56:35Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 25,
       "note": "ok"
     }
   ]
