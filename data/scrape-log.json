@@ -1,14 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-10-31T22:49:31Z",
-      "source": "MLB MiLB: HV team stats",
-      "url": "https://statsapi.mlb.com/api/v1/teams/stats?season=2026&stats=season&group=hitting&teamId=537&sportId=13",
-      "status": 200,
-      "items": 2,
-      "note": "ok"
-    },
-    {
       "timestamp": "2026-10-31T22:49:33Z",
       "source": "MLB MiLB: HV player stats",
       "url": "<bulk: 29 players>",
@@ -3998,6 +3990,14 @@
       "url": "https://www.cbssports.com/mlb/teams/NYY/new-york-yankees/transactions/",
       "status": 200,
       "items": 56,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-11-03T17:28:29Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 25,
       "note": "ok"
     }
   ]
