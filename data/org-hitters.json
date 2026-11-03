@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-02T17:06:49Z",
+  "updated": "2026-11-03T06:49:37Z",
   "season": 2026,
   "window_days": 10,
-  "window_start": "2026-10-23",
-  "window_end": "2026-11-02",
+  "window_start": "2026-10-24",
+  "window_end": "2026-11-03",
   "hitters": [
     {
       "id": 592450,
@@ -1227,7 +1227,7 @@
       "name": "Max Schuemann",
       "position": "LF",
       "level": "MLB",
-      "level_since": "2026-10-03",
+      "level_since": "2026-10-08",
       "prior_level": "AAA",
       "prior_level_since": "2026-09-22",
       "season": {

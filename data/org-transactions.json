@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T17:06:49Z",
+  "updated": "2026-11-03T06:49:37Z",
   "items": [
     {
       "id": 947424,
@@ -15,17 +15,17 @@
       "description": "RHP David Bednar elected free agency."
     },
     {
-      "id": 947348,
+      "id": 947421,
       "date": "2026-10-29",
       "type_code": "DFA",
       "type_desc": "Declared Free Agency",
-      "player_id": 642708,
-      "player": "Amed Rosario",
+      "player_id": 665862,
+      "player": "Jazz Chisholm Jr.",
       "from_team_id": null,
       "to_team_id": 147,
       "from": null,
       "to": "New York Yankees",
-      "description": "SS Amed Rosario elected free agency."
+      "description": "2B Jazz Chisholm Jr. elected free agency."
     },
     {
       "id": 947417,
@@ -41,43 +41,17 @@
       "description": "RHP Paul Blackburn elected free agency."
     },
     {
-      "id": 947317,
+      "id": 947393,
       "date": "2026-10-29",
       "type_code": "DFA",
       "type_desc": "Declared Free Agency",
-      "player_id": 642232,
-      "player": "Ryan Yarbrough",
+      "player_id": 502671,
+      "player": "Paul Goldschmidt",
       "from_team_id": null,
       "to_team_id": 147,
       "from": null,
       "to": "New York Yankees",
-      "description": "LHP Ryan Yarbrough elected free agency."
-    },
-    {
-      "id": 947337,
-      "date": "2026-10-29",
-      "type_code": "DFA",
-      "type_desc": "Declared Free Agency",
-      "player_id": 670167,
-      "player": "John Schreiber",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "RHP John Schreiber elected free agency."
-    },
-    {
-      "id": 947390,
-      "date": "2026-10-29",
-      "type_code": "DFA",
-      "type_desc": "Declared Free Agency",
-      "player_id": 657612,
-      "player": "Tim Hill",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "LHP Tim Hill elected free agency."
+      "description": "1B Paul Goldschmidt elected free agency."
     },
     {
       "id": 947395,
@@ -93,19 +67,6 @@
       "description": "RHP Michael Fulmer elected free agency."
     },
     {
-      "id": 947393,
-      "date": "2026-10-29",
-      "type_code": "DFA",
-      "type_desc": "Declared Free Agency",
-      "player_id": 502671,
-      "player": "Paul Goldschmidt",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "1B Paul Goldschmidt elected free agency."
-    },
-    {
       "id": 947401,
       "date": "2026-10-29",
       "type_code": "DFA",
@@ -119,82 +80,56 @@
       "description": "CF Trent Grisham elected free agency."
     },
     {
-      "id": 947421,
+      "id": 947390,
       "date": "2026-10-29",
       "type_code": "DFA",
       "type_desc": "Declared Free Agency",
-      "player_id": 665862,
-      "player": "Jazz Chisholm Jr.",
+      "player_id": 657612,
+      "player": "Tim Hill",
       "from_team_id": null,
       "to_team_id": 147,
       "from": null,
       "to": "New York Yankees",
-      "description": "2B Jazz Chisholm Jr. elected free agency."
+      "description": "LHP Tim Hill elected free agency."
     },
     {
-      "id": 945402,
-      "date": "2026-10-08",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 657376,
-      "player": "Clarke Schmidt",
+      "id": 947337,
+      "date": "2026-10-29",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 670167,
+      "player": "John Schreiber",
       "from_team_id": null,
       "to_team_id": 147,
       "from": null,
       "to": "New York Yankees",
-      "description": "New York Yankees activated RHP Clarke Schmidt."
+      "description": "RHP John Schreiber elected free agency."
     },
     {
-      "id": 945397,
-      "date": "2026-10-08",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 605242,
-      "player": "Michael Fulmer",
+      "id": 947317,
+      "date": "2026-10-29",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 642232,
+      "player": "Ryan Yarbrough",
       "from_team_id": null,
       "to_team_id": 147,
       "from": null,
       "to": "New York Yankees",
-      "description": "New York Yankees activated RHP Michael Fulmer."
+      "description": "LHP Ryan Yarbrough elected free agency."
     },
     {
-      "id": 945400,
-      "date": "2026-10-08",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 641555,
-      "player": "J.C. Escarra",
+      "id": 947348,
+      "date": "2026-10-29",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 642708,
+      "player": "Amed Rosario",
       "from_team_id": null,
       "to_team_id": 147,
       "from": null,
       "to": "New York Yankees",
-      "description": "New York Yankees activated C J.C. Escarra."
-    },
-    {
-      "id": 945401,
-      "date": "2026-10-08",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 592450,
-      "player": "Aaron Judge",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees activated RF Aaron Judge."
-    },
-    {
-      "id": 945396,
-      "date": "2026-10-08",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 660787,
-      "player": "Yerry De los Santos",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees activated RHP Yerry De los Santos."
+      "description": "SS Amed Rosario elected free agency."
     },
     {
       "id": 945395,
@@ -210,6 +145,19 @@
       "description": "New York Yankees activated RHP Angel Chivilli."
     },
     {
+      "id": 945402,
+      "date": "2026-10-08",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 657376,
+      "player": "Clarke Schmidt",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated RHP Clarke Schmidt."
+    },
+    {
       "id": 945399,
       "date": "2026-10-08",
       "type_code": "SC",
@@ -221,6 +169,58 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees activated RF Jasson Domínguez."
+    },
+    {
+      "id": 945401,
+      "date": "2026-10-08",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 592450,
+      "player": "Aaron Judge",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated RF Aaron Judge."
+    },
+    {
+      "id": 945398,
+      "date": "2026-10-08",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 642708,
+      "player": "Amed Rosario",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated 3B Amed Rosario."
+    },
+    {
+      "id": 945397,
+      "date": "2026-10-08",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 605242,
+      "player": "Michael Fulmer",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated RHP Michael Fulmer."
+    },
+    {
+      "id": 945396,
+      "date": "2026-10-08",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 660787,
+      "player": "Yerry De los Santos",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated RHP Yerry De los Santos."
     },
     {
       "id": 945404,
@@ -262,17 +262,30 @@
       "description": "New York Yankees activated LHP Tim Hill."
     },
     {
-      "id": 945398,
+      "id": 945400,
       "date": "2026-10-08",
       "type_code": "SC",
       "type_desc": "Status Change",
-      "player_id": 642708,
-      "player": "Amed Rosario",
+      "player_id": 641555,
+      "player": "J.C. Escarra",
       "from_team_id": null,
       "to_team_id": 147,
       "from": null,
       "to": "New York Yankees",
-      "description": "New York Yankees activated 3B Amed Rosario."
+      "description": "New York Yankees activated C J.C. Escarra."
+    },
+    {
+      "id": 945385,
+      "date": "2026-10-08",
+      "type_code": "CU",
+      "type_desc": "Recalled",
+      "player_id": 661563,
+      "player": "Luis Gil",
+      "from_team_id": 475,
+      "to_team_id": 147,
+      "from": "FCL Yankees",
+      "to": "New York Yankees",
+      "description": "New York Yankees recalled RHP Luis Gil from FCL Yankees."
     },
     {
       "id": 945387,
@@ -301,19 +314,6 @@
       "description": "New York Yankees recalled RHP Bradley Hanner from FCL Yankees."
     },
     {
-      "id": 945385,
-      "date": "2026-10-08",
-      "type_code": "CU",
-      "type_desc": "Recalled",
-      "player_id": 661563,
-      "player": "Luis Gil",
-      "from_team_id": 475,
-      "to_team_id": 147,
-      "from": "FCL Yankees",
-      "to": "New York Yankees",
-      "description": "New York Yankees recalled RHP Luis Gil from FCL Yankees."
-    },
-    {
       "id": 945205,
       "date": "2026-10-06",
       "type_code": "SC",
@@ -325,45 +325,6 @@
       "from": null,
       "to": "New York Yankees",
       "description": "RHP Clarke Schmidt roster status changed by New York Yankees."
-    },
-    {
-      "id": 944962,
-      "date": "2026-10-03",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 677960,
-      "player": "Ryan Weathers",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "New York Yankees activated LHP Ryan Weathers."
-    },
-    {
-      "id": 944963,
-      "date": "2026-10-03",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 642708,
-      "player": "Amed Rosario",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "3B Amed Rosario roster status changed by New York Yankees."
-    },
-    {
-      "id": 945027,
-      "date": "2026-10-03",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 680474,
-      "player": "Max Schuemann",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "LF Max Schuemann roster status changed by New York Yankees."
     }
   ]
 }
