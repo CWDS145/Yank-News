@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-03T14:46:21Z",
+  "updated": "2026-11-04T07:35:19Z",
   "season": 2026,
   "window_days": 10,
-  "window_start": "2026-10-24",
-  "window_end": "2026-11-03",
+  "window_start": "2026-10-25",
+  "window_end": "2026-11-04",
   "hitters": [
     {
       "id": 592450,
@@ -116,6 +116,28 @@
         "MLB",
         "AAA",
         "AA"
+      ],
+      "last_10_levels": []
+    },
+    {
+      "id": 809719,
+      "name": "Austin Green",
+      "position": "SS",
+      "level": "Low-A",
+      "level_since": "2026-11-02",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 74,
+        "k": 14,
+        "avg": ".203",
+        "ops": ".610",
+        "avg_num": 0.20270270270270271,
+        "ops_num": 0.6096264804129973
+      },
+      "last_10": null,
+      "season_levels": [
+        "Low-A"
       ],
       "last_10_levels": []
     },
@@ -569,6 +591,29 @@
       "last_10_levels": []
     },
     {
+      "id": 804603,
+      "name": "Duncan Pastore",
+      "position": "3B",
+      "level": "AA",
+      "level_since": "2026-11-02",
+      "prior_level": "AAA",
+      "prior_level_since": "2026-04-28",
+      "season": {
+        "ab": 35,
+        "k": 9,
+        "avg": ".286",
+        "ops": ".746",
+        "avg_num": 0.2857142857142857,
+        "ops_num": 0.7464285714285714
+      },
+      "last_10": null,
+      "season_levels": [
+        "AAA",
+        "AA"
+      ],
+      "last_10_levels": []
+    },
+    {
       "id": 815528,
       "name": "Ediel Rivera",
       "position": "C",
@@ -699,6 +744,29 @@
       "season_levels": [
         "High-A",
         "Low-A"
+      ],
+      "last_10_levels": []
+    },
+    {
+      "id": 682003,
+      "name": "Garrett Martin",
+      "position": "RF",
+      "level": "AAA",
+      "level_since": "2026-11-02",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 293,
+        "k": 78,
+        "avg": ".270",
+        "ops": ".907",
+        "avg_num": 0.2696245733788396,
+        "ops_num": 0.9073891831906029
+      },
+      "last_10": null,
+      "season_levels": [
+        "AAA",
+        "AA"
       ],
       "last_10_levels": []
     },
@@ -953,6 +1021,28 @@
       "last_10_levels": []
     },
     {
+      "id": 826142,
+      "name": "JoJo Jackson",
+      "position": "OF",
+      "level": "Low-A",
+      "level_since": "2026-11-02",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 188,
+        "k": 50,
+        "avg": ".277",
+        "ops": ".798",
+        "avg_num": 0.2765957446808511,
+        "ops_num": 0.7980589772303098
+      },
+      "last_10": null,
+      "season_levels": [
+        "Low-A"
+      ],
+      "last_10_levels": []
+    },
+    {
       "id": 694742,
       "name": "Josh Moylan",
       "position": "1B",
@@ -971,6 +1061,28 @@
       "last_10": null,
       "season_levels": [
         "AA",
+        "High-A"
+      ],
+      "last_10_levels": []
+    },
+    {
+      "id": 700648,
+      "name": "Josue Gonzalez",
+      "position": "C",
+      "level": "High-A",
+      "level_since": "2026-11-02",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 215,
+        "k": 64,
+        "avg": ".219",
+        "ops": ".730",
+        "avg_num": 0.2186046511627907,
+        "ops_num": 0.7298801973220579
+      },
+      "last_10": null,
+      "season_levels": [
         "High-A"
       ],
       "last_10_levels": []
@@ -1203,10 +1315,10 @@
       "id": 682617,
       "name": "Marco Luciano",
       "position": "SS",
-      "level": "AAA",
-      "level_since": "2026-05-08",
-      "prior_level": "AA",
-      "prior_level_since": "2026-03-23",
+      "level": "MLB",
+      "level_since": "2026-01-22",
+      "prior_level": null,
+      "prior_level_since": null,
       "season": {
         "ab": 420,
         "k": 122,
@@ -1311,6 +1423,19 @@
       "season_levels": [
         "Low-A"
       ],
+      "last_10_levels": []
+    },
+    {
+      "id": 825925,
+      "name": "Richie Bonomolo Jr.",
+      "position": "RF",
+      "level": "Low-A",
+      "level_since": "2026-11-02",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": null,
+      "last_10": null,
+      "season_levels": [],
       "last_10_levels": []
     },
     {
@@ -1450,6 +1575,28 @@
       "last_10_levels": []
     },
     {
+      "id": 694834,
+      "name": "Tyler Wilson",
+      "position": "LF",
+      "level": "High-A",
+      "level_since": "2026-11-02",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 45,
+        "k": 7,
+        "avg": ".200",
+        "ops": ".533",
+        "avg_num": 0.2,
+        "ops_num": 0.5329059829059829
+      },
+      "last_10": null,
+      "season_levels": [
+        "High-A"
+      ],
+      "last_10_levels": []
+    },
+    {
       "id": 821648,
       "name": "Wilberson De Pena",
       "position": "OF",
@@ -1491,6 +1638,28 @@
       "season_levels": [
         "High-A",
         "Low-A"
+      ],
+      "last_10_levels": []
+    },
+    {
+      "id": 815147,
+      "name": "Wilson Rodriguez",
+      "position": "CF",
+      "level": "High-A",
+      "level_since": "2026-11-02",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 293,
+        "k": 72,
+        "avg": ".259",
+        "ops": ".805",
+        "avg_num": 0.2593856655290102,
+        "ops_num": 0.8054512439750159
+      },
+      "last_10": null,
+      "season_levels": [
+        "High-A"
       ],
       "last_10_levels": []
     },
