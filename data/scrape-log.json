@@ -1,22 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-11-01T09:27:08Z",
-      "source": "MLB statSplits vl/vr: High-A",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=statSplits&sitCodes=vl,vr&sportId={sid}",
-      "status": 200,
-      "items": 68,
-      "note": "ok=68/68"
-    },
-    {
-      "timestamp": "2026-11-01T09:27:08Z",
-      "source": "MLB statSplits vl/vr: Low-A",
-      "url": "https://statsapi.mlb.com/api/v1/people/{id}/stats?stats=statSplits&sitCodes=vl,vr&sportId={sid}",
-      "status": 200,
-      "items": 68,
-      "note": "ok=68/68"
-    },
-    {
       "timestamp": "2026-11-01T09:36:39Z",
       "source": "MLB.com Yankees",
       "url": "https://www.mlb.com/yankees/feeds/news/rss.xml",
@@ -3999,6 +3983,22 @@
       "status": 200,
       "items": 25,
       "note": "ok"
+    },
+    {
+      "timestamp": "2026-11-04T20:40:54Z",
+      "source": "FanGraphs Yankees",
+      "url": "https://www.fangraphs.com/teams/yankees",
+      "status": 200,
+      "items": 10,
+      "note": "ok | html_tables: batter_rows=7 pitcher_rows=7"
+    },
+    {
+      "timestamp": "2026-11-04T20:40:55Z",
+      "source": "Baseball-Reference Yankees",
+      "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
+      "status": 200,
+      "items": 53,
+      "note": "ok | tables: bat_id=players_standard_batting pit_id=players_standard_pitching batters=25 pitchers=28"
     }
   ]
 }
