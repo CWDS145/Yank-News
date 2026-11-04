@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T15:51:58Z",
+  "updated": "2026-11-04T21:56:22Z",
   "items": [
     {
       "id": 947780,
@@ -41,17 +41,17 @@
       "description": "New York Yankees selected the contract of SS Marco Luciano from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 948032,
+      "id": 949062,
       "date": "2026-11-02",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 677651,
-      "player": "Luis Garcia",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 668752,
+      "player": "Duke Ellis",
       "from_team_id": null,
       "to_team_id": 531,
       "from": null,
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "Scranton/Wilkes-Barre RailRiders activated RHP Luis Garcia from the full-season injured list."
+      "description": "CF Duke Ellis elected free agency."
     },
     {
       "id": 948030,
@@ -67,19 +67,6 @@
       "description": "Scranton/Wilkes-Barre RailRiders activated LHP Will Brian from the 60-day injured list."
     },
     {
-      "id": 948033,
-      "date": "2026-11-02",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 682003,
-      "player": "Garrett Martin",
-      "from_team_id": null,
-      "to_team_id": 531,
-      "from": null,
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "Scranton/Wilkes-Barre RailRiders activated OF Garrett Martin from the full-season injured list."
-    },
-    {
       "id": 948031,
       "date": "2026-11-02",
       "type_code": "SC",
@@ -93,17 +80,147 @@
       "description": "Scranton/Wilkes-Barre RailRiders activated RHP Brian Hendry from the 60-day injured list."
     },
     {
-      "id": 948125,
+      "id": 949013,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 672284,
+      "player": "Jarred Kelenic",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "RF Jarred Kelenic elected free agency."
+    },
+    {
+      "id": 949036,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 669740,
+      "player": "Travis MacGregor",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "RHP Travis MacGregor elected free agency."
+    },
+    {
+      "id": 949144,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 623437,
+      "player": "Justin Topa",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "RHP Justin Topa elected free agency."
+    },
+    {
+      "id": 949059,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 667803,
+      "player": "Ernesto Martinez Jr.",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "1B Ernesto Martinez Jr. elected free agency."
+    },
+    {
+      "id": 949052,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 669212,
+      "player": "Eli Morgan",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "RHP Eli Morgan elected free agency."
+    },
+    {
+      "id": 948895,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 685744,
+      "player": "Kenedy Corona",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "CF Kenedy Corona elected free agency."
+    },
+    {
+      "id": 948033,
       "date": "2026-11-02",
       "type_code": "SC",
       "type_desc": "Status Change",
-      "player_id": 804603,
-      "player": "Duncan Pastore",
+      "player_id": 682003,
+      "player": "Garrett Martin",
       "from_team_id": null,
-      "to_team_id": 1956,
+      "to_team_id": 531,
       "from": null,
-      "to": "AA Somerset Patriots",
-      "description": "Somerset Patriots activated 3B Duncan Pastore from the 60-day injured list."
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "Scranton/Wilkes-Barre RailRiders activated OF Garrett Martin from the full-season injured list."
+    },
+    {
+      "id": 948032,
+      "date": "2026-11-02",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 677651,
+      "player": "Luis Garcia",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "Scranton/Wilkes-Barre RailRiders activated RHP Luis Garcia from the full-season injured list."
+    },
+    {
+      "id": 948804,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 692585,
+      "player": "Yanquiel Fernández",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "RF Yanquiel Fernández elected free agency."
+    },
+    {
+      "id": 948964,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 680572,
+      "player": "Adam Kloffenstein",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "RHP Adam Kloffenstein elected free agency."
+    },
+    {
+      "id": 949023,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 670868,
+      "player": "Abrahan Gutierrez",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "C Abrahan Gutierrez elected free agency."
     },
     {
       "id": 948124,
@@ -119,6 +236,45 @@
       "description": "Somerset Patriots activated RHP Ben Hess from the 60-day injured list."
     },
     {
+      "id": 948833,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 691411,
+      "player": "Luis Durango",
+      "from_team_id": null,
+      "to_team_id": 1956,
+      "from": null,
+      "to": "AA Somerset Patriots",
+      "description": "OF Luis Durango elected free agency."
+    },
+    {
+      "id": 948872,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 687554,
+      "player": "DJ Gladney",
+      "from_team_id": null,
+      "to_team_id": 1956,
+      "from": null,
+      "to": "AA Somerset Patriots",
+      "description": "OF DJ Gladney elected free agency."
+    },
+    {
+      "id": 948912,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 683522,
+      "player": "Michael Arias",
+      "from_team_id": null,
+      "to_team_id": 1956,
+      "from": null,
+      "to": "AA Somerset Patriots",
+      "description": "RHP Michael Arias elected free agency."
+    },
+    {
       "id": 948126,
       "date": "2026-11-02",
       "type_code": "SC",
@@ -130,6 +286,32 @@
       "from": null,
       "to": "AA Somerset Patriots",
       "description": "Somerset Patriots activated LHP Brock Selvidge from the full-season injured list."
+    },
+    {
+      "id": 948125,
+      "date": "2026-11-02",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 804603,
+      "player": "Duncan Pastore",
+      "from_team_id": null,
+      "to_team_id": 1956,
+      "from": null,
+      "to": "AA Somerset Patriots",
+      "description": "Somerset Patriots activated 3B Duncan Pastore from the 60-day injured list."
+    },
+    {
+      "id": 948931,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 682692,
+      "player": "Miguel Palma",
+      "from_team_id": null,
+      "to_team_id": 1956,
+      "from": null,
+      "to": "AA Somerset Patriots",
+      "description": "C Miguel Palma elected free agency."
     },
     {
       "id": 948178,

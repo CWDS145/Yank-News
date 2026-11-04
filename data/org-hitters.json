@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T15:51:58Z",
+  "updated": "2026-11-04T21:56:22Z",
   "season": 2026,
   "window_days": 10,
   "window_start": "2026-10-25",
@@ -24,29 +24,6 @@
       "last_10": null,
       "season_levels": [
         "MLB"
-      ],
-      "last_10_levels": []
-    },
-    {
-      "id": 670868,
-      "name": "Abrahan Gutierrez",
-      "position": "C",
-      "level": "AAA",
-      "level_since": "2026-06-05",
-      "prior_level": "AA",
-      "prior_level_since": "2026-03-23",
-      "season": {
-        "ab": 109,
-        "k": 18,
-        "avg": ".275",
-        "ops": ".723",
-        "avg_num": 0.27522935779816515,
-        "ops_num": 0.7226352420120216
-      },
-      "last_10": null,
-      "season_levels": [
-        "AAA",
-        "AA"
       ],
       "last_10_levels": []
     },
@@ -547,50 +524,6 @@
       "last_10_levels": []
     },
     {
-      "id": 687554,
-      "name": "DJ Gladney",
-      "position": "LF",
-      "level": "AA",
-      "level_since": "2026-07-28",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 437,
-        "k": 168,
-        "avg": ".263",
-        "ops": ".810",
-        "avg_num": 0.2631578947368421,
-        "ops_num": 0.810228738782006
-      },
-      "last_10": null,
-      "season_levels": [
-        "AA"
-      ],
-      "last_10_levels": []
-    },
-    {
-      "id": 668752,
-      "name": "Duke Ellis",
-      "position": "CF",
-      "level": "AAA",
-      "level_since": null,
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 272,
-        "k": 69,
-        "avg": ".276",
-        "ops": ".738",
-        "avg_num": 0.2757352941176471,
-        "ops_num": 0.7381184261784184
-      },
-      "last_10": null,
-      "season_levels": [
-        "AAA"
-      ],
-      "last_10_levels": []
-    },
-    {
       "id": 804603,
       "name": "Duncan Pastore",
       "position": "3B",
@@ -699,28 +632,6 @@
       "last_10": null,
       "season_levels": [
         "High-A"
-      ],
-      "last_10_levels": []
-    },
-    {
-      "id": 667803,
-      "name": "Ernesto Martinez Jr.",
-      "position": "1B",
-      "level": "AAA",
-      "level_since": null,
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "ab": 387,
-        "k": 113,
-        "avg": ".243",
-        "ops": ".770",
-        "avg_num": 0.24289405684754523,
-        "ops_num": 0.7703726826561226
-      },
-      "last_10": null,
-      "season_levels": [
-        "AAA"
       ],
       "last_10_levels": []
     },
@@ -975,29 +886,6 @@
       "last_10_levels": []
     },
     {
-      "id": 672284,
-      "name": "Jarred Kelenic",
-      "position": "RF",
-      "level": "AAA",
-      "level_since": "2026-08-29",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-08-28",
-      "season": {
-        "ab": 384,
-        "k": 119,
-        "avg": ".268",
-        "ops": ".823",
-        "avg_num": 0.2682291666666667,
-        "ops_num": 0.8229640151515152
-      },
-      "last_10": null,
-      "season_levels": [
-        "MLB",
-        "AAA"
-      ],
-      "last_10_levels": []
-    },
-    {
       "id": 691176,
       "name": "Jasson Domínguez",
       "position": "RF",
@@ -1110,29 +998,6 @@
       "last_10_levels": []
     },
     {
-      "id": 685744,
-      "name": "Kenedy Corona",
-      "position": "CF",
-      "level": "AAA",
-      "level_since": "2026-05-04",
-      "prior_level": "AA",
-      "prior_level_since": "2026-03-23",
-      "season": {
-        "ab": 314,
-        "k": 83,
-        "avg": ".255",
-        "ops": ".776",
-        "avg_num": 0.25477707006369427,
-        "ops_num": 0.7756526912577868
-      },
-      "last_10": null,
-      "season_levels": [
-        "AAA",
-        "AA"
-      ],
-      "last_10_levels": []
-    },
-    {
       "id": 814269,
       "name": "Kevin Verde",
       "position": "SS",
@@ -1174,30 +1039,6 @@
       "last_10": null,
       "season_levels": [
         "High-A"
-      ],
-      "last_10_levels": []
-    },
-    {
-      "id": 691411,
-      "name": "Luis Durango",
-      "position": "LF",
-      "level": "AA",
-      "level_since": "2026-07-28",
-      "prior_level": "High-A",
-      "prior_level_since": "2026-06-04",
-      "season": {
-        "ab": 259,
-        "k": 35,
-        "avg": ".320",
-        "ops": ".763",
-        "avg_num": 0.3204633204633205,
-        "ops_num": 0.7628609494806677
-      },
-      "last_10": null,
-      "season_levels": [
-        "AA",
-        "High-A",
-        "Low-A"
       ],
       "last_10_levels": []
     },
@@ -1354,29 +1195,6 @@
       "season_levels": [
         "MLB",
         "AAA"
-      ],
-      "last_10_levels": []
-    },
-    {
-      "id": 682692,
-      "name": "Miguel Palma",
-      "position": "C",
-      "level": "AA",
-      "level_since": "2026-06-16",
-      "prior_level": "AAA",
-      "prior_level_since": "2026-06-09",
-      "season": {
-        "ab": 187,
-        "k": 45,
-        "avg": ".219",
-        "ops": ".708",
-        "avg_num": 0.2192513368983957,
-        "ops_num": 0.7081313408965966
-      },
-      "last_10": null,
-      "season_levels": [
-        "AAA",
-        "AA"
       ],
       "last_10_levels": []
     },
@@ -1660,28 +1478,6 @@
       "last_10": null,
       "season_levels": [
         "High-A"
-      ],
-      "last_10_levels": []
-    },
-    {
-      "id": 692585,
-      "name": "Yanquiel Fernández",
-      "position": "RF",
-      "level": "AAA",
-      "level_since": "2026-02-16",
-      "prior_level": "MLB",
-      "prior_level_since": "2026-02-04",
-      "season": {
-        "ab": 488,
-        "k": 117,
-        "avg": ".258",
-        "ops": ".783",
-        "avg_num": 0.2581967213114754,
-        "ops_num": 0.7832809866707522
-      },
-      "last_10": null,
-      "season_levels": [
-        "AAA"
       ],
       "last_10_levels": []
     },
