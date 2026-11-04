@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T07:35:19Z",
+  "updated": "2026-11-04T15:51:58Z",
   "items": [
     {
       "id": 947780,
@@ -54,19 +54,6 @@
       "description": "Scranton/Wilkes-Barre RailRiders activated RHP Luis Garcia from the full-season injured list."
     },
     {
-      "id": 948033,
-      "date": "2026-11-02",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 682003,
-      "player": "Garrett Martin",
-      "from_team_id": null,
-      "to_team_id": 531,
-      "from": null,
-      "to": "AAA Scranton/Wilkes-Barre RailRiders",
-      "description": "Scranton/Wilkes-Barre RailRiders activated OF Garrett Martin from the full-season injured list."
-    },
-    {
       "id": 948030,
       "date": "2026-11-02",
       "type_code": "SC",
@@ -78,6 +65,19 @@
       "from": null,
       "to": "AAA Scranton/Wilkes-Barre RailRiders",
       "description": "Scranton/Wilkes-Barre RailRiders activated LHP Will Brian from the 60-day injured list."
+    },
+    {
+      "id": 948033,
+      "date": "2026-11-02",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 682003,
+      "player": "Garrett Martin",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre RailRiders",
+      "description": "Scranton/Wilkes-Barre RailRiders activated OF Garrett Martin from the full-season injured list."
     },
     {
       "id": 948031,
@@ -106,19 +106,6 @@
       "description": "Somerset Patriots activated 3B Duncan Pastore from the 60-day injured list."
     },
     {
-      "id": 948126,
-      "date": "2026-11-02",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 691795,
-      "player": "Brock Selvidge",
-      "from_team_id": null,
-      "to_team_id": 1956,
-      "from": null,
-      "to": "AA Somerset Patriots",
-      "description": "Somerset Patriots activated LHP Brock Selvidge from the full-season injured list."
-    },
-    {
       "id": 948124,
       "date": "2026-11-02",
       "type_code": "SC",
@@ -130,6 +117,19 @@
       "from": null,
       "to": "AA Somerset Patriots",
       "description": "Somerset Patriots activated RHP Ben Hess from the 60-day injured list."
+    },
+    {
+      "id": 948126,
+      "date": "2026-11-02",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 691795,
+      "player": "Brock Selvidge",
+      "from_team_id": null,
+      "to_team_id": 1956,
+      "from": null,
+      "to": "AA Somerset Patriots",
+      "description": "Somerset Patriots activated LHP Brock Selvidge from the full-season injured list."
     },
     {
       "id": 948178,
