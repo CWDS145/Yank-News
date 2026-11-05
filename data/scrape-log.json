@@ -1,38 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-11-02T17:02:45Z",
-      "source": "MLB Transactions team 531",
-      "url": "https://statsapi.mlb.com/api/v1/transactions?teamId=531&startDate=2026-10-03&endDate=2026-11-02",
-      "status": 200,
-      "items": 0,
-      "note": "affiliate fallback"
-    },
-    {
-      "timestamp": "2026-11-02T17:02:45Z",
-      "source": "MLB Transactions team 1956",
-      "url": "https://statsapi.mlb.com/api/v1/transactions?teamId=1956&startDate=2026-10-03&endDate=2026-11-02",
-      "status": 200,
-      "items": 0,
-      "note": "affiliate fallback"
-    },
-    {
-      "timestamp": "2026-11-02T17:02:46Z",
-      "source": "MLB Transactions team 537",
-      "url": "https://statsapi.mlb.com/api/v1/transactions?teamId=537&startDate=2026-10-03&endDate=2026-11-02",
-      "status": 200,
-      "items": 0,
-      "note": "affiliate fallback"
-    },
-    {
-      "timestamp": "2026-11-02T17:02:46Z",
-      "source": "MLB Transactions team 587",
-      "url": "https://statsapi.mlb.com/api/v1/transactions?teamId=587&startDate=2026-10-03&endDate=2026-11-02",
-      "status": 200,
-      "items": 0,
-      "note": "affiliate fallback"
-    },
-    {
       "timestamp": "2026-11-02T17:06:49Z",
       "source": "MLB personId fallback",
       "url": "<bulk>",
@@ -3999,6 +3967,38 @@
       "status": 200,
       "items": 54,
       "note": "ok"
+    },
+    {
+      "timestamp": "2026-11-05T17:48:55Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 403,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-11-05T17:48:57Z",
+      "source": "MLB.com",
+      "url": "https://www.mlb.com/depth-charts",
+      "status": 404,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-11-05T17:48:57Z",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/team/depth/_/name/nyy/new-york-yankees",
+      "status": 202,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-11-05T17:48:57Z",
+      "source": "DepthChart",
+      "url": "all-sources-failed",
+      "status": 0,
+      "items": 0,
+      "note": "all_failed_kept_existing"
     }
   ]
 }
