@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-05T20:56:35Z",
+  "updated": "2026-11-06T20:15:39Z",
   "source": "Baseball-Reference",
   "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
   "season": 2026,
   "scrape_attempt": {
     "status": "ok",
     "http_status": 200,
-    "duration_ms": 203,
+    "duration_ms": 365,
     "note": "tables: bat_id=players_standard_batting pit_id=players_standard_pitching batters=25 pitchers=28"
   },
   "team_record": {
@@ -36,7 +36,7 @@
     "OPS": ".720",
     "OPS+": "99",
     "TB": "2181",
-    "rWAR": "19.7"
+    "rWAR": "19.8"
   },
   "team_pitching": {
     "name": "Team Totals",
@@ -57,7 +57,7 @@
     "ERA+": "130",
     "FIP": "3.71",
     "WHIP": "1.173",
-    "rWAR": "27.2"
+    "rWAR": "27.0"
   },
   "batters": [
     {

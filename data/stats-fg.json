@@ -1,12 +1,12 @@
 {
-  "updated": "2026-11-05T20:56:35Z",
+  "updated": "2026-11-06T20:15:38Z",
   "source": "FanGraphs",
   "url": "https://www.fangraphs.com/teams/yankees",
   "season": 2026,
   "scrape_attempt": {
     "status": "ok",
     "http_status": 200,
-    "duration_ms": 2541,
+    "duration_ms": 677,
     "note": "html_tables: batter_rows=7 pitcher_rows=7"
   },
   "team_batting": {
