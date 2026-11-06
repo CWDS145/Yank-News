@@ -2,14 +2,6 @@
   "entries": [
     {
       "timestamp": "2026-11-04T07:29:03Z",
-      "source": "MLB MiLB: SWB roster",
-      "url": "https://statsapi.mlb.com/api/v1/teams/531/roster?rosterType=active&season=2026",
-      "status": 200,
-      "items": 26,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-11-04T07:29:03Z",
       "source": "MLB MiLB: SWB team stats",
       "url": "https://statsapi.mlb.com/api/v1/teams/stats?season=2026&stats=season&group=hitting&teamId=531&sportId=11",
       "status": 200,
@@ -3998,6 +3990,14 @@
       "url": "https://www.cbssports.com/mlb/teams/NYY/new-york-yankees/transactions/",
       "status": 200,
       "items": 59,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-11-06T17:07:05Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 25,
       "note": "ok"
     }
   ]
