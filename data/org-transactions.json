@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T18:05:56Z",
+  "updated": "2026-11-06T03:45:02Z",
   "items": [
     {
       "id": 947780,
@@ -767,19 +767,6 @@
       "from": "FCL Yankees",
       "to": "New York Yankees",
       "description": "New York Yankees recalled RHP Brendan Beck from FCL Yankees."
-    },
-    {
-      "id": 945205,
-      "date": "2026-10-06",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 657376,
-      "player": "Clarke Schmidt",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "RHP Clarke Schmidt roster status changed by New York Yankees."
     }
   ]
 }
