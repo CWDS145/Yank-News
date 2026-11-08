@@ -1,14 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-11-06T20:17:02Z",
-      "source": "CBS Transactions",
-      "url": "https://www.cbssports.com/mlb/teams/NYY/new-york-yankees/transactions/",
-      "status": 200,
-      "items": 59,
-      "note": "ok"
-    },
-    {
       "timestamp": "2026-11-06T23:30:32Z",
       "source": "MLB StatsAPI: team",
       "url": "https://statsapi.mlb.com/api/v1/teams/147?hydrate=record(type=regularSeason),league,division",
@@ -3998,6 +3990,14 @@
       "url": "https://www.cbssports.com/mlb/teams/NYY/new-york-yankees/transactions/",
       "status": 200,
       "items": 57,
+      "note": "ok"
+    },
+    {
+      "timestamp": "2026-11-08T16:29:23Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 25,
       "note": "ok"
     }
   ]
