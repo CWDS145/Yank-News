@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T20:41:06Z",
+  "updated": "2026-11-08T00:10:26Z",
   "season": 2026,
   "pitchers": [
     {
@@ -83,7 +83,7 @@
       "name": "Angel Chivilli",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-10-08",
+      "level_since": "2026-09-28",
       "prior_level": "AAA",
       "prior_level_since": "2026-08-04",
       "season": {
@@ -232,7 +232,7 @@
       "name": "Bradley Hanner",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-10-08",
+      "level_since": "2026-09-24",
       "prior_level": "AAA",
       "prior_level_since": "2026-09-16",
       "season": {
@@ -345,7 +345,7 @@
       "name": "Brendan Beck",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-10-08",
+      "level_since": "2026-09-24",
       "prior_level": "AAA",
       "prior_level_since": "2026-08-30",
       "season": {
@@ -846,7 +846,7 @@
       "name": "Clarke Schmidt",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-10-08",
+      "level_since": "2026-09-16",
       "prior_level": "AA",
       "prior_level_since": "2026-09-09",
       "season": {
@@ -1035,7 +1035,7 @@
       "name": "Elmer Rodríguez",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-10-08",
+      "level_since": "2026-09-28",
       "prior_level": "AAA",
       "prior_level_since": "2026-09-07",
       "season": {
@@ -1910,7 +1910,7 @@
       "name": "Luis Gil",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-10-08",
+      "level_since": "2026-08-30",
       "prior_level": "AAA",
       "prior_level_since": "2026-08-18",
       "season": {
@@ -2786,7 +2786,7 @@
       "name": "Yerry De los Santos",
       "position": "P",
       "level": "MLB",
-      "level_since": "2026-10-08",
+      "level_since": "2026-09-25",
       "prior_level": "AAA",
       "prior_level_since": "2026-08-30",
       "season": {
