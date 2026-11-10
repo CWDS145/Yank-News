@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T11:12:45Z",
+  "updated": "2026-11-10T18:45:21Z",
   "items": [
     {
       "id": 947780,
@@ -314,6 +314,45 @@
       "description": "C Miguel Palma elected free agency."
     },
     {
+      "id": 948244,
+      "date": "2026-11-02",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 694834,
+      "player": "Tyler Wilson",
+      "from_team_id": null,
+      "to_team_id": 537,
+      "from": null,
+      "to": "High-A Hudson Valley Renegades",
+      "description": "Hudson Valley Renegades activated OF Tyler Wilson from the 60-day injured list."
+    },
+    {
+      "id": 948177,
+      "date": "2026-11-02",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 695589,
+      "player": "Ocean Gabonia",
+      "from_team_id": null,
+      "to_team_id": 537,
+      "from": null,
+      "to": "High-A Hudson Valley Renegades",
+      "description": "Hudson Valley Renegades activated RHP Ocean Gabonia from the full-season injured list."
+    },
+    {
+      "id": 948243,
+      "date": "2026-11-02",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 815147,
+      "player": "Wilson Rodriguez",
+      "from_team_id": null,
+      "to_team_id": 537,
+      "from": null,
+      "to": "High-A Hudson Valley Renegades",
+      "description": "Hudson Valley Renegades activated OF Wilson Rodriguez from the 60-day injured list."
+    },
+    {
       "id": 948178,
       "date": "2026-11-02",
       "type_code": "DFA",
@@ -340,43 +379,17 @@
       "description": "Hudson Valley Renegades activated C Josue Gonzalez from the 60-day injured list."
     },
     {
-      "id": 948177,
+      "id": 948467,
       "date": "2026-11-02",
       "type_code": "SC",
       "type_desc": "Status Change",
-      "player_id": 695589,
-      "player": "Ocean Gabonia",
+      "player_id": 826142,
+      "player": "JoJo Jackson",
       "from_team_id": null,
-      "to_team_id": 537,
+      "to_team_id": 587,
       "from": null,
-      "to": "High-A Hudson Valley Renegades",
-      "description": "Hudson Valley Renegades activated RHP Ocean Gabonia from the full-season injured list."
-    },
-    {
-      "id": 948244,
-      "date": "2026-11-02",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 694834,
-      "player": "Tyler Wilson",
-      "from_team_id": null,
-      "to_team_id": 537,
-      "from": null,
-      "to": "High-A Hudson Valley Renegades",
-      "description": "Hudson Valley Renegades activated OF Tyler Wilson from the 60-day injured list."
-    },
-    {
-      "id": 948243,
-      "date": "2026-11-02",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 815147,
-      "player": "Wilson Rodriguez",
-      "from_team_id": null,
-      "to_team_id": 537,
-      "from": null,
-      "to": "High-A Hudson Valley Renegades",
-      "description": "Hudson Valley Renegades activated OF Wilson Rodriguez from the 60-day injured list."
+      "to": "Low-A Tampa Tarpons",
+      "description": "Tampa Tarpons activated OF JoJo Jackson from the 60-day injured list."
     },
     {
       "id": 948447,
@@ -392,19 +405,6 @@
       "description": "LHP Pedro Rodriguez elected free agency."
     },
     {
-      "id": 948468,
-      "date": "2026-11-02",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 825925,
-      "player": "Richie Bonomolo Jr.",
-      "from_team_id": null,
-      "to_team_id": 587,
-      "from": null,
-      "to": "Low-A Tampa Tarpons",
-      "description": "Tampa Tarpons activated OF Richie Bonomolo Jr. from the 60-day injured list."
-    },
-    {
       "id": 948469,
       "date": "2026-11-02",
       "type_code": "SC",
@@ -418,6 +418,19 @@
       "description": "Tampa Tarpons activated 1B Austin Green from the full-season injured list."
     },
     {
+      "id": 948468,
+      "date": "2026-11-02",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 825925,
+      "player": "Richie Bonomolo Jr.",
+      "from_team_id": null,
+      "to_team_id": 587,
+      "from": null,
+      "to": "Low-A Tampa Tarpons",
+      "description": "Tampa Tarpons activated OF Richie Bonomolo Jr. from the 60-day injured list."
+    },
+    {
       "id": 948470,
       "date": "2026-11-02",
       "type_code": "SC",
@@ -429,19 +442,6 @@
       "from": null,
       "to": "Low-A Tampa Tarpons",
       "description": "Tampa Tarpons activated RHP Mac Heuer from the full-season injured list."
-    },
-    {
-      "id": 948467,
-      "date": "2026-11-02",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 826142,
-      "player": "JoJo Jackson",
-      "from_team_id": null,
-      "to_team_id": 587,
-      "from": null,
-      "to": "Low-A Tampa Tarpons",
-      "description": "Tampa Tarpons activated OF JoJo Jackson from the 60-day injured list."
     },
     {
       "id": 948466,
