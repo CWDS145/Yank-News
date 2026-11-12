@@ -1,14 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-11-10T15:10:14Z",
-      "source": "NY Post Yankees",
-      "url": "https://nypost.com/tag/new-york-yankees/feed/",
-      "status": 200,
-      "items": 20,
-      "note": "ok"
-    },
-    {
       "timestamp": "2026-11-10T15:10:15Z",
       "source": "MLB Trade Rumors NYY",
       "url": "https://www.mlbtraderumors.com/category/new-york-yankees/feed",
@@ -3999,6 +3991,14 @@
       "status": 200,
       "items": 67,
       "note": "ok=67/67"
+    },
+    {
+      "timestamp": "2026-11-12T17:52:12Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 25,
+      "note": "ok"
     }
   ]
 }
