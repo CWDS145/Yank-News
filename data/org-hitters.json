@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-11T18:46:06Z",
+  "updated": "2026-11-12T01:06:18Z",
   "season": 2026,
   "window_days": 10,
-  "window_start": "2026-11-01",
-  "window_end": "2026-11-11",
+  "window_start": "2026-11-02",
+  "window_end": "2026-11-12",
   "hitters": [
     {
       "id": 592450,
