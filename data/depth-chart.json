@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T16:19:47Z",
+  "updated": "2026-11-15T16:45:26Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -100,11 +100,11 @@
         "rank": 3
       },
       {
-        "name": "Luis Gil",
+        "name": "Yerry De Los Santos",
         "rank": 4
       },
       {
-        "name": "Yerry De Los Santos",
+        "name": "Tim Hill",
         "rank": 5
       },
       {
@@ -116,7 +116,7 @@
         "rank": 7
       },
       {
-        "name": "Bradley Hanner",
+        "name": "Luis Gil",
         "rank": 8
       },
       {
@@ -132,7 +132,6 @@
     "Anthony Volpe",
     "Austin Wells",
     "Ben Rice",
-    "Bradley Hanner",
     "Brent Headrick",
     "Cam Schlittler",
     "Carlos Rodon",
@@ -149,6 +148,7 @@
     "Ryan McMahon",
     "Ryan Weathers",
     "Spencer G. Jones",
+    "Tim Hill",
     "Will Warren",
     "Yerry De Los Santos"
   ]
