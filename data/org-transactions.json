@@ -1,18 +1,18 @@
 {
-  "updated": "2026-11-17T11:53:07Z",
+  "updated": "2026-11-17T20:58:19Z",
   "items": [
     {
-      "id": 947779,
-      "date": "2026-11-02",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 665645,
-      "player": "Kervin Castro",
-      "from_team_id": null,
+      "id": 950366,
+      "date": "2026-11-17",
+      "type_code": "CLW",
+      "type_desc": "Claimed Off Waivers",
+      "player_id": 694633,
+      "player": "Chase Hampton",
+      "from_team_id": 110,
       "to_team_id": 147,
-      "from": null,
+      "from": "Baltimore Orioles",
       "to": "New York Yankees",
-      "description": "New York Yankees activated RHP Kervin Castro from the 60-day injured list."
+      "description": "New York Yankees claimed RHP Chase Hampton off waivers from Baltimore Orioles."
     },
     {
       "id": 947780,
@@ -26,6 +26,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "New York Yankees activated RHP Fernando Cruz from the 60-day injured list."
+    },
+    {
+      "id": 947779,
+      "date": "2026-11-02",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 665645,
+      "player": "Kervin Castro",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees activated RHP Kervin Castro from the 60-day injured list."
     },
     {
       "id": 947705,
@@ -457,17 +470,17 @@
       "description": "Tampa Tarpons activated 1B Austin Green from the full-season injured list."
     },
     {
-      "id": 947417,
+      "id": 947337,
       "date": "2026-10-29",
       "type_code": "DFA",
       "type_desc": "Declared Free Agency",
-      "player_id": 621112,
-      "player": "Paul Blackburn",
+      "player_id": 670167,
+      "player": "John Schreiber",
       "from_team_id": null,
       "to_team_id": 147,
       "from": null,
       "to": "New York Yankees",
-      "description": "RHP Paul Blackburn elected free agency."
+      "description": "RHP John Schreiber elected free agency."
     },
     {
       "id": 947348,
@@ -483,19 +496,6 @@
       "description": "SS Amed Rosario elected free agency."
     },
     {
-      "id": 947337,
-      "date": "2026-10-29",
-      "type_code": "DFA",
-      "type_desc": "Declared Free Agency",
-      "player_id": 670167,
-      "player": "John Schreiber",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "RHP John Schreiber elected free agency."
-    },
-    {
       "id": 947317,
       "date": "2026-10-29",
       "type_code": "DFA",
@@ -507,32 +507,6 @@
       "from": null,
       "to": "New York Yankees",
       "description": "LHP Ryan Yarbrough elected free agency."
-    },
-    {
-      "id": 947424,
-      "date": "2026-10-29",
-      "type_code": "DFA",
-      "type_desc": "Declared Free Agency",
-      "player_id": 670280,
-      "player": "David Bednar",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "RHP David Bednar elected free agency."
-    },
-    {
-      "id": 947390,
-      "date": "2026-10-29",
-      "type_code": "DFA",
-      "type_desc": "Declared Free Agency",
-      "player_id": 657612,
-      "player": "Tim Hill",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "LHP Tim Hill elected free agency."
     },
     {
       "id": 947395,
@@ -548,6 +522,19 @@
       "description": "RHP Michael Fulmer elected free agency."
     },
     {
+      "id": 947390,
+      "date": "2026-10-29",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 657612,
+      "player": "Tim Hill",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "LHP Tim Hill elected free agency."
+    },
+    {
       "id": 947393,
       "date": "2026-10-29",
       "type_code": "DFA",
@@ -559,6 +546,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "1B Paul Goldschmidt elected free agency."
+    },
+    {
+      "id": 947401,
+      "date": "2026-10-29",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 663757,
+      "player": "Trent Grisham",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "CF Trent Grisham elected free agency."
     },
     {
       "id": 947421,
@@ -574,17 +574,30 @@
       "description": "2B Jazz Chisholm Jr. elected free agency."
     },
     {
-      "id": 947401,
+      "id": 947424,
       "date": "2026-10-29",
       "type_code": "DFA",
       "type_desc": "Declared Free Agency",
-      "player_id": 663757,
-      "player": "Trent Grisham",
+      "player_id": 670280,
+      "player": "David Bednar",
       "from_team_id": null,
       "to_team_id": 147,
       "from": null,
       "to": "New York Yankees",
-      "description": "CF Trent Grisham elected free agency."
+      "description": "RHP David Bednar elected free agency."
+    },
+    {
+      "id": 947417,
+      "date": "2026-10-29",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 621112,
+      "player": "Paul Blackburn",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "RHP Paul Blackburn elected free agency."
     }
   ]
 }
