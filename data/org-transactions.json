@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T03:00:15Z",
+  "updated": "2026-11-17T11:53:07Z",
   "items": [
     {
       "id": 947779,
@@ -314,45 +314,6 @@
       "description": "RHP Michael Arias elected free agency."
     },
     {
-      "id": 948244,
-      "date": "2026-11-02",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 694834,
-      "player": "Tyler Wilson",
-      "from_team_id": null,
-      "to_team_id": 537,
-      "from": null,
-      "to": "High-A Hudson Valley Renegades",
-      "description": "Hudson Valley Renegades activated OF Tyler Wilson from the 60-day injured list."
-    },
-    {
-      "id": 948177,
-      "date": "2026-11-02",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 695589,
-      "player": "Ocean Gabonia",
-      "from_team_id": null,
-      "to_team_id": 537,
-      "from": null,
-      "to": "High-A Hudson Valley Renegades",
-      "description": "Hudson Valley Renegades activated RHP Ocean Gabonia from the full-season injured list."
-    },
-    {
-      "id": 948243,
-      "date": "2026-11-02",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 815147,
-      "player": "Wilson Rodriguez",
-      "from_team_id": null,
-      "to_team_id": 537,
-      "from": null,
-      "to": "High-A Hudson Valley Renegades",
-      "description": "Hudson Valley Renegades activated OF Wilson Rodriguez from the 60-day injured list."
-    },
-    {
       "id": 948178,
       "date": "2026-11-02",
       "type_code": "DFA",
@@ -377,6 +338,45 @@
       "from": null,
       "to": "High-A Hudson Valley Renegades",
       "description": "Hudson Valley Renegades activated C Josue Gonzalez from the 60-day injured list."
+    },
+    {
+      "id": 948243,
+      "date": "2026-11-02",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 815147,
+      "player": "Wilson Rodriguez",
+      "from_team_id": null,
+      "to_team_id": 537,
+      "from": null,
+      "to": "High-A Hudson Valley Renegades",
+      "description": "Hudson Valley Renegades activated OF Wilson Rodriguez from the 60-day injured list."
+    },
+    {
+      "id": 948244,
+      "date": "2026-11-02",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 694834,
+      "player": "Tyler Wilson",
+      "from_team_id": null,
+      "to_team_id": 537,
+      "from": null,
+      "to": "High-A Hudson Valley Renegades",
+      "description": "Hudson Valley Renegades activated OF Tyler Wilson from the 60-day injured list."
+    },
+    {
+      "id": 948177,
+      "date": "2026-11-02",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 695589,
+      "player": "Ocean Gabonia",
+      "from_team_id": null,
+      "to_team_id": 537,
+      "from": null,
+      "to": "High-A Hudson Valley Renegades",
+      "description": "Hudson Valley Renegades activated RHP Ocean Gabonia from the full-season injured list."
     },
     {
       "id": 948466,
