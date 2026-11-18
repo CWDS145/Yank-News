@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-17T20:58:19Z",
+  "updated": "2026-11-18T02:58:04Z",
   "season": 2026,
   "window_days": 10,
-  "window_start": "2026-11-07",
-  "window_end": "2026-11-17",
+  "window_start": "2026-11-08",
+  "window_end": "2026-11-18",
   "hitters": [
     {
       "id": 592450,
@@ -662,7 +662,7 @@
       "id": 682003,
       "name": "Garrett Martin",
       "position": "RF",
-      "level": "AAA",
+      "level": "MLB",
       "level_since": "2026-11-02",
       "prior_level": null,
       "prior_level_since": null,
