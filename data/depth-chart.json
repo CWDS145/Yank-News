@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T18:54:47Z",
+  "updated": "2026-11-18T18:35:51Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -88,15 +88,15 @@
     ],
     "RP": [
       {
-        "name": "Brent Headrick",
+        "name": "David Bednar",
         "rank": 1
       },
       {
-        "name": "Clarke Schmidt",
+        "name": "Brent Headrick",
         "rank": 2
       },
       {
-        "name": "Ryan Weathers",
+        "name": "Clarke Schmidt",
         "rank": 3
       },
       {
@@ -116,7 +116,7 @@
         "rank": 7
       },
       {
-        "name": "Luis Gil",
+        "name": "Ryan Weathers",
         "rank": 8
       },
       {
@@ -137,12 +137,12 @@
     "Carlos Rodon",
     "Clarke Schmidt",
     "Cody Bellinger",
+    "David Bednar",
     "Fernando E. Cruz",
     "George Lombard Jr.",
     "Gerrit Cole",
     "Giancarlo Stanton",
     "Kervin Castro",
-    "Luis Gil",
     "Luis V. Garcia",
     "Max Fried",
     "Ryan McMahon",
