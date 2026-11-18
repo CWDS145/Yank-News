@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-17T19:18:59Z",
-  "count": 50,
+  "updated": "2026-11-18T01:47:44Z",
+  "count": 55,
   "items": [
+    {
+      "date": "2026-11-17",
+      "type": "",
+      "player": "Chase Hampton",
+      "description": "Acquired Off Waivers From Baltimore"
+    },
+    {
+      "date": "2026-11-17",
+      "type": "purchased",
+      "player": "Carlos Lagrange",
+      "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-11-17",
+      "type": "",
+      "player": "David Bednar",
+      "description": "Accepted Qualifying Offer - Added to Roster"
+    },
+    {
+      "date": "2026-11-17",
+      "type": "purchased",
+      "player": "Kyle Carr",
+      "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-11-17",
+      "type": "purchased",
+      "player": "Garrett Martin",
+      "description": "Purchased From Minors"
+    },
     {
       "date": "2026-11-15",
       "type": "signed",
@@ -10,38 +40,14 @@
     },
     {
       "date": "2026-11-02",
-      "type": "purchased",
-      "player": "Marco Luciano",
-      "description": "Purchased From Minors"
-    },
-    {
-      "date": "2026-11-02",
-      "type": "",
-      "player": "Justin Topa",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-11-02",
-      "type": "",
-      "player": "Adam Kloffenstein",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-11-02",
-      "type": "",
-      "player": "David Bednar",
-      "description": "Tendered Qualifying Offer"
-    },
-    {
-      "date": "2026-11-02",
-      "type": "",
-      "player": "Alexander Cornielle",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-11-02",
       "type": "",
       "player": "Kenedy Corona",
+      "description": "Declared Free Agency"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "",
+      "player": "Elijah Morgan",
       "description": "Declared Free Agency"
     },
     {
@@ -53,7 +59,13 @@
     {
       "date": "2026-11-02",
       "type": "",
-      "player": "Elijah Morgan",
+      "player": "Kervin Castro",
+      "description": "Removed From 60-Day IL (Right elbow neuritis)"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "",
+      "player": "Justin Topa",
       "description": "Declared Free Agency"
     },
     {
@@ -64,38 +76,32 @@
     },
     {
       "date": "2026-11-02",
+      "type": "purchased",
+      "player": "Marco Luciano",
+      "description": "Purchased From Minors"
+    },
+    {
+      "date": "2026-11-02",
       "type": "",
-      "player": "Kervin Castro",
-      "description": "Removed From 60-Day IL (Right elbow neuritis)"
+      "player": "Alexander Cornielle",
+      "description": "Declared Free Agency"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "",
+      "player": "David Bednar",
+      "description": "Tendered Qualifying Offer (accepted)"
+    },
+    {
+      "date": "2026-11-02",
+      "type": "",
+      "player": "Adam Kloffenstein",
+      "description": "Declared Free Agency"
     },
     {
       "date": "2026-10-29",
       "type": "",
       "player": "Ryan Yarbrough",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-10-29",
-      "type": "",
-      "player": "Jazz Chisholm Jr.",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-10-29",
-      "type": "",
-      "player": "Tim Hill",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-10-29",
-      "type": "",
-      "player": "Trent Grisham",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-10-29",
-      "type": "",
-      "player": "Paul Goldschmidt",
       "description": "Declared Free Agency"
     },
     {
@@ -107,19 +113,13 @@
     {
       "date": "2026-10-29",
       "type": "",
-      "player": "Amed Rosario",
-      "description": "Declared Free Agency"
-    },
-    {
-      "date": "2026-10-29",
-      "type": "",
       "player": "Mitch Garver",
       "description": "Retired"
     },
     {
       "date": "2026-10-29",
       "type": "",
-      "player": "Paul Blackburn",
+      "player": "Paul Goldschmidt",
       "description": "Declared Free Agency"
     },
     {
@@ -131,7 +131,37 @@
     {
       "date": "2026-10-29",
       "type": "",
+      "player": "Jazz Chisholm Jr.",
+      "description": "Declared Free Agency"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "",
+      "player": "Paul Blackburn",
+      "description": "Declared Free Agency"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "",
+      "player": "Trent Grisham",
+      "description": "Declared Free Agency"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "",
+      "player": "Tim Hill",
+      "description": "Declared Free Agency"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "",
       "player": "David Bednar",
+      "description": "Declared Free Agency"
+    },
+    {
+      "date": "2026-10-29",
+      "type": "",
+      "player": "Amed Rosario",
       "description": "Declared Free Agency"
     },
     {
@@ -160,9 +190,9 @@
     },
     {
       "date": "2026-09-29",
-      "type": "",
-      "player": "Giancarlo Stanton",
-      "description": "Removed From 60-Day IL (Strained right calf)"
+      "type": "designated",
+      "player": "Alexander Cornielle",
+      "description": "Designated for Assignment"
     },
     {
       "date": "2026-09-29",
@@ -172,15 +202,9 @@
     },
     {
       "date": "2026-09-29",
-      "type": "designated",
-      "player": "Alexander Cornielle",
-      "description": "Designated for Assignment"
-    },
-    {
-      "date": "2026-09-28",
-      "type": "called up",
-      "player": "J.C. Escarra",
-      "description": "Called Up from Minors"
+      "type": "",
+      "player": "Giancarlo Stanton",
+      "description": "Removed From 60-Day IL (Strained right calf)"
     },
     {
       "date": "2026-09-28",
@@ -203,7 +227,7 @@
     {
       "date": "2026-09-28",
       "type": "called up",
-      "player": "Jasson Dominguez",
+      "player": "Bradley Hanner",
       "description": "Called Up from Minors"
     },
     {
@@ -215,13 +239,19 @@
     {
       "date": "2026-09-28",
       "type": "called up",
+      "player": "J.C. Escarra",
+      "description": "Called Up from Minors"
+    },
+    {
+      "date": "2026-09-28",
+      "type": "called up",
       "player": "Brendan Beck",
       "description": "Called Up from Minors"
     },
     {
       "date": "2026-09-28",
       "type": "called up",
-      "player": "Bradley Hanner",
+      "player": "Jasson Dominguez",
       "description": "Called Up from Minors"
     },
     {
@@ -232,15 +262,15 @@
     },
     {
       "date": "2026-09-25",
-      "type": "purchased",
-      "player": "Alexander Cornielle",
-      "description": "Purchased From Minors"
-    },
-    {
-      "date": "2026-09-25",
       "type": "transferred",
       "player": "Fernando Cruz",
       "description": "Transferred to 60-Day IL (Right elbow discomfort)"
+    },
+    {
+      "date": "2026-09-25",
+      "type": "purchased",
+      "player": "Alexander Cornielle",
+      "description": "Purchased From Minors"
     },
     {
       "date": "2026-09-25",
@@ -262,6 +292,12 @@
     },
     {
       "date": "2026-09-24",
+      "type": "sent",
+      "player": "Luis Gil",
+      "description": "Sent to Minors"
+    },
+    {
+      "date": "2026-09-24",
       "type": "called up",
       "player": "Bradley Hanner",
       "description": "Called Up from Minors"
@@ -270,12 +306,6 @@
       "date": "2026-09-24",
       "type": "sent",
       "player": "Bradley Hanner",
-      "description": "Sent to Minors"
-    },
-    {
-      "date": "2026-09-24",
-      "type": "sent",
-      "player": "Luis Gil",
       "description": "Sent to Minors"
     },
     {
