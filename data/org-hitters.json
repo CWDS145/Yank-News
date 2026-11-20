@@ -1,9 +1,9 @@
 {
-  "updated": "2026-11-19T09:35:30Z",
+  "updated": "2026-11-20T01:00:14Z",
   "season": 2026,
   "window_days": 10,
-  "window_start": "2026-11-09",
-  "window_end": "2026-11-19",
+  "window_start": "2026-11-10",
+  "window_end": "2026-11-20",
   "hitters": [
     {
       "id": 592450,
@@ -46,6 +46,28 @@
       "last_10": null,
       "season_levels": [
         "MLB",
+        "AAA"
+      ],
+      "last_10_levels": []
+    },
+    {
+      "id": 691369,
+      "name": "Allan Castro",
+      "position": "OF",
+      "level": "AAA",
+      "level_since": "2026-11-13",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "ab": 448,
+        "k": 92,
+        "avg": ".252",
+        "ops": ".722",
+        "avg_num": 0.25223214285714285,
+        "ops_num": 0.7220739038189533
+      },
+      "last_10": null,
+      "season_levels": [
         "AAA"
       ],
       "last_10_levels": []

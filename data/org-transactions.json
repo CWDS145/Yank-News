@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T09:35:30Z",
+  "updated": "2026-11-20T01:00:14Z",
   "items": [
     {
       "id": 950408,
@@ -15,17 +15,17 @@
       "description": "New York Yankees signed free agent RHP David Bednar."
     },
     {
-      "id": 950410,
+      "id": 950411,
       "date": "2026-11-17",
       "type_code": "SE",
       "type_desc": "Selected",
-      "player_id": 801739,
-      "player": "Carlos Lagrange",
+      "player_id": 682003,
+      "player": "Garrett Martin",
       "from_team_id": 531,
       "to_team_id": 147,
       "from": "AAA Scranton/Wilkes-Barre Highlanders",
       "to": "New York Yankees",
-      "description": "New York Yankees selected the contract of RHP Carlos Lagrange from Scranton/Wilkes-Barre Highlanders."
+      "description": "New York Yankees selected the contract of RF Garrett Martin from Scranton/Wilkes-Barre Highlanders."
     },
     {
       "id": 950366,
@@ -41,19 +41,6 @@
       "description": "New York Yankees claimed RHP Chase Hampton off waivers from Baltimore Orioles."
     },
     {
-      "id": 950411,
-      "date": "2026-11-17",
-      "type_code": "SE",
-      "type_desc": "Selected",
-      "player_id": 682003,
-      "player": "Garrett Martin",
-      "from_team_id": 531,
-      "to_team_id": 147,
-      "from": "AAA Scranton/Wilkes-Barre Highlanders",
-      "to": "New York Yankees",
-      "description": "New York Yankees selected the contract of RF Garrett Martin from Scranton/Wilkes-Barre Highlanders."
-    },
-    {
       "id": 950409,
       "date": "2026-11-17",
       "type_code": "SE",
@@ -65,6 +52,45 @@
       "from": "AAA Scranton/Wilkes-Barre Highlanders",
       "to": "New York Yankees",
       "description": "New York Yankees selected the contract of LHP Kyle Carr from Scranton/Wilkes-Barre Highlanders."
+    },
+    {
+      "id": 950410,
+      "date": "2026-11-17",
+      "type_code": "SE",
+      "type_desc": "Selected",
+      "player_id": 801739,
+      "player": "Carlos Lagrange",
+      "from_team_id": 531,
+      "to_team_id": 147,
+      "from": "AAA Scranton/Wilkes-Barre Highlanders",
+      "to": "New York Yankees",
+      "description": "New York Yankees selected the contract of RHP Carlos Lagrange from Scranton/Wilkes-Barre Highlanders."
+    },
+    {
+      "id": 950660,
+      "date": "2026-11-13",
+      "type_code": "SFA",
+      "type_desc": "Signed as Free Agent",
+      "player_id": 691369,
+      "player": "Allan Castro",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "New York Yankees signed free agent OF Allan Castro to a minor league contract."
+    },
+    {
+      "id": 950661,
+      "date": "2026-11-13",
+      "type_code": "ASG",
+      "type_desc": "Assigned",
+      "player_id": 691369,
+      "player": "Allan Castro",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre Highlanders",
+      "description": "OF Allan Castro assigned to Scranton/Wilkes-Barre Highlanders."
     },
     {
       "id": 947780,
@@ -106,6 +132,123 @@
       "description": "New York Yankees selected the contract of SS Marco Luciano from Scranton/Wilkes-Barre RailRiders."
     },
     {
+      "id": 949036,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 669740,
+      "player": "Travis MacGregor",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre Highlanders",
+      "description": "RHP Travis MacGregor elected free agency."
+    },
+    {
+      "id": 949052,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 669212,
+      "player": "Eli Morgan",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre Highlanders",
+      "description": "RHP Eli Morgan elected free agency."
+    },
+    {
+      "id": 949059,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 667803,
+      "player": "Ernesto Martinez Jr.",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre Highlanders",
+      "description": "1B Ernesto Martinez Jr. elected free agency."
+    },
+    {
+      "id": 948033,
+      "date": "2026-11-02",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 682003,
+      "player": "Garrett Martin",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre Highlanders",
+      "description": "Scranton/Wilkes-Barre RailRiders activated OF Garrett Martin from the full-season injured list."
+    },
+    {
+      "id": 948030,
+      "date": "2026-11-02",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 684608,
+      "player": "Will Brian",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre Highlanders",
+      "description": "Scranton/Wilkes-Barre RailRiders activated LHP Will Brian from the 60-day injured list."
+    },
+    {
+      "id": 948804,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 692585,
+      "player": "Yanquiel Fernández",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre Highlanders",
+      "description": "RF Yanquiel Fernández elected free agency."
+    },
+    {
+      "id": 949013,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 672284,
+      "player": "Jarred Kelenic",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre Highlanders",
+      "description": "RF Jarred Kelenic elected free agency."
+    },
+    {
+      "id": 948032,
+      "date": "2026-11-02",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 677651,
+      "player": "Luis Garcia",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre Highlanders",
+      "description": "Scranton/Wilkes-Barre RailRiders activated RHP Luis Garcia from the full-season injured list."
+    },
+    {
+      "id": 948895,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 685744,
+      "player": "Kenedy Corona",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre Highlanders",
+      "description": "CF Kenedy Corona elected free agency."
+    },
+    {
       "id": 948964,
       "date": "2026-11-02",
       "type_code": "DFA",
@@ -145,43 +288,17 @@
       "description": "CF Duke Ellis elected free agency."
     },
     {
-      "id": 948030,
-      "date": "2026-11-02",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 684608,
-      "player": "Will Brian",
-      "from_team_id": null,
-      "to_team_id": 531,
-      "from": null,
-      "to": "AAA Scranton/Wilkes-Barre Highlanders",
-      "description": "Scranton/Wilkes-Barre RailRiders activated LHP Will Brian from the 60-day injured list."
-    },
-    {
-      "id": 948033,
-      "date": "2026-11-02",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 682003,
-      "player": "Garrett Martin",
-      "from_team_id": null,
-      "to_team_id": 531,
-      "from": null,
-      "to": "AAA Scranton/Wilkes-Barre Highlanders",
-      "description": "Scranton/Wilkes-Barre RailRiders activated OF Garrett Martin from the full-season injured list."
-    },
-    {
-      "id": 948895,
+      "id": 949144,
       "date": "2026-11-02",
       "type_code": "DFA",
       "type_desc": "Declared Free Agency",
-      "player_id": 685744,
-      "player": "Kenedy Corona",
+      "player_id": 623437,
+      "player": "Justin Topa",
       "from_team_id": null,
       "to_team_id": 531,
       "from": null,
       "to": "AAA Scranton/Wilkes-Barre Highlanders",
-      "description": "CF Kenedy Corona elected free agency."
+      "description": "RHP Justin Topa elected free agency."
     },
     {
       "id": 948031,
@@ -195,97 +312,6 @@
       "from": null,
       "to": "AAA Scranton/Wilkes-Barre Highlanders",
       "description": "Scranton/Wilkes-Barre RailRiders activated RHP Brian Hendry from the 60-day injured list."
-    },
-    {
-      "id": 948032,
-      "date": "2026-11-02",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 677651,
-      "player": "Luis Garcia",
-      "from_team_id": null,
-      "to_team_id": 531,
-      "from": null,
-      "to": "AAA Scranton/Wilkes-Barre Highlanders",
-      "description": "Scranton/Wilkes-Barre RailRiders activated RHP Luis Garcia from the full-season injured list."
-    },
-    {
-      "id": 949013,
-      "date": "2026-11-02",
-      "type_code": "DFA",
-      "type_desc": "Declared Free Agency",
-      "player_id": 672284,
-      "player": "Jarred Kelenic",
-      "from_team_id": null,
-      "to_team_id": 531,
-      "from": null,
-      "to": "AAA Scranton/Wilkes-Barre Highlanders",
-      "description": "RF Jarred Kelenic elected free agency."
-    },
-    {
-      "id": 949036,
-      "date": "2026-11-02",
-      "type_code": "DFA",
-      "type_desc": "Declared Free Agency",
-      "player_id": 669740,
-      "player": "Travis MacGregor",
-      "from_team_id": null,
-      "to_team_id": 531,
-      "from": null,
-      "to": "AAA Scranton/Wilkes-Barre Highlanders",
-      "description": "RHP Travis MacGregor elected free agency."
-    },
-    {
-      "id": 948804,
-      "date": "2026-11-02",
-      "type_code": "DFA",
-      "type_desc": "Declared Free Agency",
-      "player_id": 692585,
-      "player": "Yanquiel Fernández",
-      "from_team_id": null,
-      "to_team_id": 531,
-      "from": null,
-      "to": "AAA Scranton/Wilkes-Barre Highlanders",
-      "description": "RF Yanquiel Fernández elected free agency."
-    },
-    {
-      "id": 949052,
-      "date": "2026-11-02",
-      "type_code": "DFA",
-      "type_desc": "Declared Free Agency",
-      "player_id": 669212,
-      "player": "Eli Morgan",
-      "from_team_id": null,
-      "to_team_id": 531,
-      "from": null,
-      "to": "AAA Scranton/Wilkes-Barre Highlanders",
-      "description": "RHP Eli Morgan elected free agency."
-    },
-    {
-      "id": 949059,
-      "date": "2026-11-02",
-      "type_code": "DFA",
-      "type_desc": "Declared Free Agency",
-      "player_id": 667803,
-      "player": "Ernesto Martinez Jr.",
-      "from_team_id": null,
-      "to_team_id": 531,
-      "from": null,
-      "to": "AAA Scranton/Wilkes-Barre Highlanders",
-      "description": "1B Ernesto Martinez Jr. elected free agency."
-    },
-    {
-      "id": 949144,
-      "date": "2026-11-02",
-      "type_code": "DFA",
-      "type_desc": "Declared Free Agency",
-      "player_id": 623437,
-      "player": "Justin Topa",
-      "from_team_id": null,
-      "to_team_id": 531,
-      "from": null,
-      "to": "AAA Scranton/Wilkes-Barre Highlanders",
-      "description": "RHP Justin Topa elected free agency."
     },
     {
       "id": 948833,
@@ -522,58 +548,6 @@
       "description": "Tampa Tarpons activated 1B Austin Green from the full-season injured list."
     },
     {
-      "id": 947395,
-      "date": "2026-10-29",
-      "type_code": "DFA",
-      "type_desc": "Declared Free Agency",
-      "player_id": 605242,
-      "player": "Michael Fulmer",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "RHP Michael Fulmer elected free agency."
-    },
-    {
-      "id": 947401,
-      "date": "2026-10-29",
-      "type_code": "DFA",
-      "type_desc": "Declared Free Agency",
-      "player_id": 663757,
-      "player": "Trent Grisham",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "CF Trent Grisham elected free agency."
-    },
-    {
-      "id": 947390,
-      "date": "2026-10-29",
-      "type_code": "DFA",
-      "type_desc": "Declared Free Agency",
-      "player_id": 657612,
-      "player": "Tim Hill",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "LHP Tim Hill elected free agency."
-    },
-    {
-      "id": 947421,
-      "date": "2026-10-29",
-      "type_code": "DFA",
-      "type_desc": "Declared Free Agency",
-      "player_id": 665862,
-      "player": "Jazz Chisholm Jr.",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "2B Jazz Chisholm Jr. elected free agency."
-    },
-    {
       "id": 947317,
       "date": "2026-10-29",
       "type_code": "DFA",
@@ -585,6 +559,19 @@
       "from": null,
       "to": "New York Yankees",
       "description": "LHP Ryan Yarbrough elected free agency."
+    },
+    {
+      "id": 947348,
+      "date": "2026-10-29",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 642708,
+      "player": "Amed Rosario",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "SS Amed Rosario elected free agency."
     },
     {
       "id": 947337,
@@ -613,30 +600,17 @@
       "description": "RHP David Bednar elected free agency."
     },
     {
-      "id": 947348,
+      "id": 947390,
       "date": "2026-10-29",
       "type_code": "DFA",
       "type_desc": "Declared Free Agency",
-      "player_id": 642708,
-      "player": "Amed Rosario",
+      "player_id": 657612,
+      "player": "Tim Hill",
       "from_team_id": null,
       "to_team_id": 147,
       "from": null,
       "to": "New York Yankees",
-      "description": "SS Amed Rosario elected free agency."
-    },
-    {
-      "id": 947417,
-      "date": "2026-10-29",
-      "type_code": "DFA",
-      "type_desc": "Declared Free Agency",
-      "player_id": 621112,
-      "player": "Paul Blackburn",
-      "from_team_id": null,
-      "to_team_id": 147,
-      "from": null,
-      "to": "New York Yankees",
-      "description": "RHP Paul Blackburn elected free agency."
+      "description": "LHP Tim Hill elected free agency."
     },
     {
       "id": 947393,
@@ -650,6 +624,58 @@
       "from": null,
       "to": "New York Yankees",
       "description": "1B Paul Goldschmidt elected free agency."
+    },
+    {
+      "id": 947395,
+      "date": "2026-10-29",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 605242,
+      "player": "Michael Fulmer",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "RHP Michael Fulmer elected free agency."
+    },
+    {
+      "id": 947401,
+      "date": "2026-10-29",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 663757,
+      "player": "Trent Grisham",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "CF Trent Grisham elected free agency."
+    },
+    {
+      "id": 947421,
+      "date": "2026-10-29",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 665862,
+      "player": "Jazz Chisholm Jr.",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "2B Jazz Chisholm Jr. elected free agency."
+    },
+    {
+      "id": 947417,
+      "date": "2026-10-29",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 621112,
+      "player": "Paul Blackburn",
+      "from_team_id": null,
+      "to_team_id": 147,
+      "from": null,
+      "to": "New York Yankees",
+      "description": "RHP Paul Blackburn elected free agency."
     }
   ]
 }
