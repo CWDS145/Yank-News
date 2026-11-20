@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T17:28:25Z",
+  "updated": "2026-11-20T23:31:51Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1183,43 +1183,6 @@
       ]
     },
     {
-      "id": 518585,
-      "name": "Fernando Cruz",
-      "position": "P",
-      "level": "MLB",
-      "level_since": "2026-11-02",
-      "prior_level": null,
-      "prior_level_since": null,
-      "season": {
-        "w": 4,
-        "l": 6,
-        "g": 61,
-        "gs": 0,
-        "cg": 0,
-        "sho": 0,
-        "sv": 2,
-        "svo": 8,
-        "ip": "54.2",
-        "ip_outs": 164,
-        "h": 41,
-        "r": 23,
-        "er": 19,
-        "hr": 7,
-        "hb": 2,
-        "bb": 32,
-        "so": 67,
-        "era": "3.13",
-        "era_num": 3.1280487804878048,
-        "whip": "1.34",
-        "whip_num": 1.3353658536585367,
-        "avg": ".207",
-        "avg_num": 0.20707070707070707
-      },
-      "season_levels": [
-        "MLB"
-      ]
-    },
-    {
       "id": 800471,
       "name": "Franyer Herrera",
       "position": "P",
@@ -1980,45 +1943,6 @@
       "prior_level_since": "2026-03-22",
       "season": null,
       "season_levels": []
-    },
-    {
-      "id": 661563,
-      "name": "Luis Gil",
-      "position": "P",
-      "level": "MLB",
-      "level_since": "2026-08-30",
-      "prior_level": "AAA",
-      "prior_level_since": "2026-08-18",
-      "season": {
-        "w": 2,
-        "l": 2,
-        "g": 15,
-        "gs": 7,
-        "cg": 0,
-        "sho": 0,
-        "sv": 0,
-        "svo": 0,
-        "ip": "39.1",
-        "ip_outs": 118,
-        "h": 30,
-        "r": 19,
-        "er": 17,
-        "hr": 7,
-        "hb": 4,
-        "bb": 26,
-        "so": 32,
-        "era": "3.89",
-        "era_num": 3.889830508474576,
-        "whip": "1.42",
-        "whip_num": 1.423728813559322,
-        "avg": ".204",
-        "avg_num": 0.20408163265306123
-      },
-      "season_levels": [
-        "MLB",
-        "AAA",
-        "High-A"
-      ]
     },
     {
       "id": 702436,
