@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T18:47:50Z",
+  "updated": "2026-11-20T18:14:03Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -96,15 +96,15 @@
         "rank": 2
       },
       {
-        "name": "Clarke Schmidt",
+        "name": "Jonathan Loaisiga",
         "rank": 3
       },
       {
-        "name": "Yerry De Los Santos",
+        "name": "Tim Hill",
         "rank": 4
       },
       {
-        "name": "Tim Hill",
+        "name": "Yerry De Los Santos",
         "rank": 5
       },
       {
@@ -112,11 +112,11 @@
         "rank": 6
       },
       {
-        "name": "Angel Chivilli",
+        "name": "Ryan Weathers",
         "rank": 7
       },
       {
-        "name": "Ryan Weathers",
+        "name": "Clarke Schmidt",
         "rank": 8
       },
       {
@@ -128,7 +128,6 @@
   "all_players": [
     "Aaron Judge",
     "Ali Sanchez",
-    "Angel Chivilli",
     "Anthony Volpe",
     "Austin Wells",
     "Ben Rice",
@@ -142,6 +141,7 @@
     "George Lombard Jr.",
     "Gerrit Cole",
     "Giancarlo Stanton",
+    "Jonathan Loaisiga",
     "Kervin Castro",
     "Luis V. Garcia",
     "Max Fried",
