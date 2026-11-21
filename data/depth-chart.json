@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T18:14:03Z",
+  "updated": "2026-11-21T17:03:26Z",
   "source_used": "FanGraphs",
   "positions": {
     "C": [
@@ -118,10 +118,6 @@
       {
         "name": "Clarke Schmidt",
         "rank": 8
-      },
-      {
-        "name": "Fernando E. Cruz",
-        "rank": 9
       }
     ]
   },
@@ -137,7 +133,6 @@
     "Clarke Schmidt",
     "Cody Bellinger",
     "David Bednar",
-    "Fernando E. Cruz",
     "George Lombard Jr.",
     "Gerrit Cole",
     "Giancarlo Stanton",

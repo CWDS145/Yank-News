@@ -2,14 +2,6 @@
   "entries": [
     {
       "timestamp": "2026-11-19T01:29:08Z",
-      "source": "MLB StatsAPI: roster 40Man",
-      "url": "https://statsapi.mlb.com/api/v1/teams/147/roster?rosterType=40Man&season=2026",
-      "status": 200,
-      "items": 38,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-11-19T01:29:08Z",
       "source": "MLB StatsAPI: roster active",
       "url": "https://statsapi.mlb.com/api/v1/teams/147/roster?rosterType=active&season=2026",
       "status": 200,
@@ -3999,6 +3991,14 @@
       "status": 200,
       "items": 68,
       "note": "ok=68/68"
+    },
+    {
+      "timestamp": "2026-11-21T17:03:26Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 200,
+      "items": 24,
+      "note": "ok"
     }
   ]
 }
