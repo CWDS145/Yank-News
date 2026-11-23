@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T10:48:46Z",
+  "updated": "2026-11-23T22:20:22Z",
   "items": [
     {
       "id": 950777,
@@ -457,19 +457,6 @@
       "description": "Hudson Valley Renegades activated C Josue Gonzalez from the 60-day injured list."
     },
     {
-      "id": 948243,
-      "date": "2026-11-02",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 815147,
-      "player": "Wilson Rodriguez",
-      "from_team_id": null,
-      "to_team_id": 537,
-      "from": null,
-      "to": "High-A Hudson Valley Renegades",
-      "description": "Hudson Valley Renegades activated OF Wilson Rodriguez from the 60-day injured list."
-    },
-    {
       "id": 948244,
       "date": "2026-11-02",
       "type_code": "SC",
@@ -481,6 +468,19 @@
       "from": null,
       "to": "High-A Hudson Valley Renegades",
       "description": "Hudson Valley Renegades activated OF Tyler Wilson from the 60-day injured list."
+    },
+    {
+      "id": 948243,
+      "date": "2026-11-02",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 815147,
+      "player": "Wilson Rodriguez",
+      "from_team_id": null,
+      "to_team_id": 537,
+      "from": null,
+      "to": "High-A Hudson Valley Renegades",
+      "description": "Hudson Valley Renegades activated OF Wilson Rodriguez from the 60-day injured list."
     },
     {
       "id": 948177,
@@ -496,17 +496,17 @@
       "description": "Hudson Valley Renegades activated RHP Ocean Gabonia from the full-season injured list."
     },
     {
-      "id": 948466,
+      "id": 948470,
       "date": "2026-11-02",
       "type_code": "SC",
       "type_desc": "Status Change",
-      "player_id": 695765,
-      "player": "Thatcher Hurd",
+      "player_id": 806121,
+      "player": "Mac Heuer",
       "from_team_id": null,
       "to_team_id": 587,
       "from": null,
       "to": "Low-A Tampa Tarpons",
-      "description": "Tampa Tarpons activated RHP Thatcher Hurd from the 60-day injured list."
+      "description": "Tampa Tarpons activated RHP Mac Heuer from the full-season injured list."
     },
     {
       "id": 948467,
@@ -522,17 +522,17 @@
       "description": "Tampa Tarpons activated OF JoJo Jackson from the 60-day injured list."
     },
     {
-      "id": 948470,
+      "id": 948466,
       "date": "2026-11-02",
       "type_code": "SC",
       "type_desc": "Status Change",
-      "player_id": 806121,
-      "player": "Mac Heuer",
+      "player_id": 695765,
+      "player": "Thatcher Hurd",
       "from_team_id": null,
       "to_team_id": 587,
       "from": null,
       "to": "Low-A Tampa Tarpons",
-      "description": "Tampa Tarpons activated RHP Mac Heuer from the full-season injured list."
+      "description": "Tampa Tarpons activated RHP Thatcher Hurd from the 60-day injured list."
     },
     {
       "id": 948447,
