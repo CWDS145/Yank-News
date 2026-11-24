@@ -1,38 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-11-22T07:16:56Z",
-      "source": "CBS Sports MLB",
-      "url": "https://www.cbssports.com/rss/headlines/mlb/",
-      "status": 200,
-      "items": 3,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-11-22T07:16:56Z",
-      "source": "Pinstripe Post (Sherman)",
-      "url": "https://feeds.megaphone.fm/NYPH3296340517",
-      "status": 200,
-      "items": 1,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-11-22T07:16:57Z",
-      "source": "YES Network",
-      "url": "https://www.yesnetwork.com/yankees",
-      "status": 200,
-      "items": 2,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-11-22T07:16:59Z",
-      "source": "CBS Transactions",
-      "url": "https://www.cbssports.com/mlb/teams/NYY/new-york-yankees/transactions/",
-      "status": 200,
-      "items": 55,
-      "note": "ok"
-    },
-    {
       "timestamp": "2026-11-22T07:27:32Z",
       "source": "MLB StatsAPI: team",
       "url": "https://statsapi.mlb.com/api/v1/teams/147?hydrate=record(type=regularSeason),league,division",
@@ -3999,6 +3967,38 @@
       "status": 200,
       "items": 52,
       "note": "ok"
+    },
+    {
+      "timestamp": "2026-11-24T20:28:00Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 403,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-11-24T20:28:00Z",
+      "source": "MLB.com",
+      "url": "https://www.mlb.com/depth-charts",
+      "status": 404,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-11-24T20:28:00Z",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/team/depth/_/name/nyy/new-york-yankees",
+      "status": 202,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-11-24T20:28:00Z",
+      "source": "DepthChart",
+      "url": "all-sources-failed",
+      "status": 0,
+      "items": 0,
+      "note": "all_failed_kept_existing"
     }
   ]
 }
