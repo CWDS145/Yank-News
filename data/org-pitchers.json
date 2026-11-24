@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T06:16:11Z",
+  "updated": "2026-11-24T17:50:28Z",
   "season": 2026,
   "pitchers": [
     {
@@ -447,6 +447,43 @@
         "whip_num": 1.2127659574468086,
         "avg": ".231",
         "avg_num": 0.23129251700680273
+      },
+      "season_levels": [
+        "MLB"
+      ]
+    },
+    {
+      "id": 608718,
+      "name": "Brent Suter",
+      "position": "P",
+      "level": "MLB",
+      "level_since": "2026-11-24",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "w": 3,
+        "l": 2,
+        "g": 54,
+        "gs": 4,
+        "cg": 0,
+        "sho": 0,
+        "sv": 0,
+        "svo": 1,
+        "ip": "91.0",
+        "ip_outs": 273,
+        "h": 86,
+        "r": 42,
+        "er": 34,
+        "hr": 9,
+        "hb": 1,
+        "bb": 25,
+        "so": 78,
+        "era": "3.36",
+        "era_num": 3.3626373626373627,
+        "whip": "1.22",
+        "whip_num": 1.2197802197802199,
+        "avg": ".248",
+        "avg_num": 0.2478386167146974
       },
       "season_levels": [
         "MLB"
@@ -2477,6 +2514,43 @@
       "season_levels": [
         "High-A",
         "Low-A"
+      ]
+    },
+    {
+      "id": 657612,
+      "name": "Tim Hill",
+      "position": "P",
+      "level": "MLB",
+      "level_since": "2026-10-29",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "w": 5,
+        "l": 2,
+        "g": 67,
+        "gs": 0,
+        "cg": 0,
+        "sho": 0,
+        "sv": 2,
+        "svo": 6,
+        "ip": "58.2",
+        "ip_outs": 176,
+        "h": 54,
+        "r": 33,
+        "er": 30,
+        "hr": 12,
+        "hb": 7,
+        "bb": 13,
+        "so": 25,
+        "era": "4.60",
+        "era_num": 4.6022727272727275,
+        "whip": "1.14",
+        "whip_num": 1.1420454545454546,
+        "avg": ".247",
+        "avg_num": 0.2465753424657534
+      },
+      "season_levels": [
+        "MLB"
       ]
     },
     {
