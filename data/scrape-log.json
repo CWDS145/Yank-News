@@ -1,38 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-11-22T21:16:14Z",
-      "source": "MLB StatsAPI: player stats",
-      "url": "<bulk>",
-      "status": 200,
-      "items": 31,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-11-22T21:16:14Z",
-      "source": "Baseball Savant: expected_batting",
-      "url": "https://baseballsavant.mlb.com/leaderboard/expected_statistics?type=batter&year=2026&team=147&csv=true",
-      "status": 200,
-      "items": 10,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-11-22T21:16:15Z",
-      "source": "Baseball Savant: expected_pitching",
-      "url": "https://baseballsavant.mlb.com/leaderboard/expected_statistics?type=pitcher&year=2026&team=147&csv=true",
-      "status": 200,
-      "items": 13,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-11-22T21:16:15Z",
-      "source": "Baseball Savant: statcast_batting",
-      "url": "https://baseballsavant.mlb.com/leaderboard/statcast?type=batter&year=2026&team=147&min=q&csv=true",
-      "status": 200,
-      "items": 10,
-      "note": "ok"
-    },
-    {
       "timestamp": "2026-11-22T21:16:15Z",
       "source": "Baseball Savant: sprint_speed",
       "url": "https://baseballsavant.mlb.com/sprint_speed_leaderboard?year=2026&team=147&min_year=2026&min_opp=10&min_pa=10&csv=true",
@@ -3999,6 +3967,38 @@
       "status": 200,
       "items": 47,
       "note": "ok"
+    },
+    {
+      "timestamp": "2026-11-25T19:42:54Z",
+      "source": "FanGraphs",
+      "url": "https://www.fangraphs.com/roster-resource/depth-charts/yankees",
+      "status": 403,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-11-25T19:42:54Z",
+      "source": "MLB.com",
+      "url": "https://www.mlb.com/depth-charts",
+      "status": 404,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-11-25T19:42:54Z",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mlb/team/depth/_/name/nyy/new-york-yankees",
+      "status": 202,
+      "items": 0,
+      "note": "http_error"
+    },
+    {
+      "timestamp": "2026-11-25T19:42:54Z",
+      "source": "DepthChart",
+      "url": "all-sources-failed",
+      "status": 0,
+      "items": 0,
+      "note": "all_failed_kept_existing"
     }
   ]
 }
