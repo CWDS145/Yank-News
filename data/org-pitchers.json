@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T20:22:21Z",
+  "updated": "2026-11-26T03:02:05Z",
   "season": 2026,
   "pitchers": [
     {
@@ -1592,6 +1592,43 @@
       },
       "season_levels": [
         "High-A"
+      ]
+    },
+    {
+      "id": 642528,
+      "name": "Jonathan Loáisiga",
+      "position": "P",
+      "level": "MLB",
+      "level_since": "2026-11-25",
+      "prior_level": null,
+      "prior_level_since": null,
+      "season": {
+        "w": 7,
+        "l": 3,
+        "g": 67,
+        "gs": 0,
+        "cg": 0,
+        "sho": 0,
+        "sv": 2,
+        "svo": 6,
+        "ip": "67.0",
+        "ip_outs": 201,
+        "h": 56,
+        "r": 20,
+        "er": 18,
+        "hr": 3,
+        "hb": 1,
+        "bb": 13,
+        "so": 48,
+        "era": "2.42",
+        "era_num": 2.417910447761194,
+        "whip": "1.03",
+        "whip_num": 1.0298507462686568,
+        "avg": ".231",
+        "avg_num": 0.23140495867768596
+      },
+      "season_levels": [
+        "MLB"
       ]
     },
     {
