@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T02:56:04Z",
+  "updated": "2026-11-26T12:32:23Z",
   "items": [
     {
       "id": 951125,
@@ -223,19 +223,6 @@
       "description": "New York Yankees selected the contract of SS Marco Luciano from Scranton/Wilkes-Barre RailRiders."
     },
     {
-      "id": 949036,
-      "date": "2026-11-02",
-      "type_code": "DFA",
-      "type_desc": "Declared Free Agency",
-      "player_id": 669740,
-      "player": "Travis MacGregor",
-      "from_team_id": null,
-      "to_team_id": 531,
-      "from": null,
-      "to": "AAA Scranton/Wilkes-Barre Highlanders",
-      "description": "RHP Travis MacGregor elected free agency."
-    },
-    {
       "id": 949052,
       "date": "2026-11-02",
       "type_code": "DFA",
@@ -260,6 +247,110 @@
       "from": null,
       "to": "AAA Scranton/Wilkes-Barre Highlanders",
       "description": "1B Ernesto Martinez Jr. elected free agency."
+    },
+    {
+      "id": 949144,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 623437,
+      "player": "Justin Topa",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre Highlanders",
+      "description": "RHP Justin Topa elected free agency."
+    },
+    {
+      "id": 948895,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 685744,
+      "player": "Kenedy Corona",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre Highlanders",
+      "description": "CF Kenedy Corona elected free agency."
+    },
+    {
+      "id": 948804,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 692585,
+      "player": "Yanquiel Fernández",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre Highlanders",
+      "description": "RF Yanquiel Fernández elected free agency."
+    },
+    {
+      "id": 949062,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 668752,
+      "player": "Duke Ellis",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre Highlanders",
+      "description": "CF Duke Ellis elected free agency."
+    },
+    {
+      "id": 949023,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 670868,
+      "player": "Abrahan Gutierrez",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre Highlanders",
+      "description": "C Abrahan Gutierrez elected free agency."
+    },
+    {
+      "id": 948964,
+      "date": "2026-11-02",
+      "type_code": "DFA",
+      "type_desc": "Declared Free Agency",
+      "player_id": 680572,
+      "player": "Adam Kloffenstein",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre Highlanders",
+      "description": "RHP Adam Kloffenstein elected free agency."
+    },
+    {
+      "id": 948031,
+      "date": "2026-11-02",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 809137,
+      "player": "Brian Hendry",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre Highlanders",
+      "description": "Scranton/Wilkes-Barre RailRiders activated RHP Brian Hendry from the 60-day injured list."
+    },
+    {
+      "id": 948032,
+      "date": "2026-11-02",
+      "type_code": "SC",
+      "type_desc": "Status Change",
+      "player_id": 677651,
+      "player": "Luis Garcia",
+      "from_team_id": null,
+      "to_team_id": 531,
+      "from": null,
+      "to": "AAA Scranton/Wilkes-Barre Highlanders",
+      "description": "Scranton/Wilkes-Barre RailRiders activated RHP Luis Garcia from the full-season injured list."
     },
     {
       "id": 948033,
@@ -288,19 +379,6 @@
       "description": "Scranton/Wilkes-Barre RailRiders activated LHP Will Brian from the 60-day injured list."
     },
     {
-      "id": 948804,
-      "date": "2026-11-02",
-      "type_code": "DFA",
-      "type_desc": "Declared Free Agency",
-      "player_id": 692585,
-      "player": "Yanquiel Fernández",
-      "from_team_id": null,
-      "to_team_id": 531,
-      "from": null,
-      "to": "AAA Scranton/Wilkes-Barre Highlanders",
-      "description": "RF Yanquiel Fernández elected free agency."
-    },
-    {
       "id": 949013,
       "date": "2026-11-02",
       "type_code": "DFA",
@@ -314,95 +392,17 @@
       "description": "RF Jarred Kelenic elected free agency."
     },
     {
-      "id": 948032,
-      "date": "2026-11-02",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 677651,
-      "player": "Luis Garcia",
-      "from_team_id": null,
-      "to_team_id": 531,
-      "from": null,
-      "to": "AAA Scranton/Wilkes-Barre Highlanders",
-      "description": "Scranton/Wilkes-Barre RailRiders activated RHP Luis Garcia from the full-season injured list."
-    },
-    {
-      "id": 948895,
+      "id": 949036,
       "date": "2026-11-02",
       "type_code": "DFA",
       "type_desc": "Declared Free Agency",
-      "player_id": 685744,
-      "player": "Kenedy Corona",
+      "player_id": 669740,
+      "player": "Travis MacGregor",
       "from_team_id": null,
       "to_team_id": 531,
       "from": null,
       "to": "AAA Scranton/Wilkes-Barre Highlanders",
-      "description": "CF Kenedy Corona elected free agency."
-    },
-    {
-      "id": 948964,
-      "date": "2026-11-02",
-      "type_code": "DFA",
-      "type_desc": "Declared Free Agency",
-      "player_id": 680572,
-      "player": "Adam Kloffenstein",
-      "from_team_id": null,
-      "to_team_id": 531,
-      "from": null,
-      "to": "AAA Scranton/Wilkes-Barre Highlanders",
-      "description": "RHP Adam Kloffenstein elected free agency."
-    },
-    {
-      "id": 949023,
-      "date": "2026-11-02",
-      "type_code": "DFA",
-      "type_desc": "Declared Free Agency",
-      "player_id": 670868,
-      "player": "Abrahan Gutierrez",
-      "from_team_id": null,
-      "to_team_id": 531,
-      "from": null,
-      "to": "AAA Scranton/Wilkes-Barre Highlanders",
-      "description": "C Abrahan Gutierrez elected free agency."
-    },
-    {
-      "id": 949062,
-      "date": "2026-11-02",
-      "type_code": "DFA",
-      "type_desc": "Declared Free Agency",
-      "player_id": 668752,
-      "player": "Duke Ellis",
-      "from_team_id": null,
-      "to_team_id": 531,
-      "from": null,
-      "to": "AAA Scranton/Wilkes-Barre Highlanders",
-      "description": "CF Duke Ellis elected free agency."
-    },
-    {
-      "id": 949144,
-      "date": "2026-11-02",
-      "type_code": "DFA",
-      "type_desc": "Declared Free Agency",
-      "player_id": 623437,
-      "player": "Justin Topa",
-      "from_team_id": null,
-      "to_team_id": 531,
-      "from": null,
-      "to": "AAA Scranton/Wilkes-Barre Highlanders",
-      "description": "RHP Justin Topa elected free agency."
-    },
-    {
-      "id": 948031,
-      "date": "2026-11-02",
-      "type_code": "SC",
-      "type_desc": "Status Change",
-      "player_id": 809137,
-      "player": "Brian Hendry",
-      "from_team_id": null,
-      "to_team_id": 531,
-      "from": null,
-      "to": "AAA Scranton/Wilkes-Barre Highlanders",
-      "description": "Scranton/Wilkes-Barre RailRiders activated RHP Brian Hendry from the 60-day injured list."
+      "description": "RHP Travis MacGregor elected free agency."
     },
     {
       "id": 948126,
