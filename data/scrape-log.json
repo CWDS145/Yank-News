@@ -1,22 +1,6 @@
 {
   "entries": [
     {
-      "timestamp": "2026-11-25T01:35:41Z",
-      "source": "Baseball Savant: statcast_batting",
-      "url": "https://baseballsavant.mlb.com/leaderboard/statcast?type=batter&year=2026&team=147&min=q&csv=true",
-      "status": 200,
-      "items": 10,
-      "note": "ok"
-    },
-    {
-      "timestamp": "2026-11-25T01:35:42Z",
-      "source": "Baseball Savant: sprint_speed",
-      "url": "https://baseballsavant.mlb.com/sprint_speed_leaderboard?year=2026&team=147&min_year=2026&min_opp=10&min_pa=10&csv=true",
-      "status": 200,
-      "items": 20,
-      "note": "ok"
-    },
-    {
       "timestamp": "2026-11-25T01:35:42Z",
       "source": "MLB MiLB: affiliates",
       "url": "https://statsapi.mlb.com/api/v1/teams/affiliates?teamIds=147&season=2026",
@@ -3999,6 +3983,22 @@
       "status": 200,
       "items": 25,
       "note": "ok"
+    },
+    {
+      "timestamp": "2026-11-27T22:30:55Z",
+      "source": "FanGraphs Yankees",
+      "url": "https://www.fangraphs.com/teams/yankees",
+      "status": 403,
+      "items": 0,
+      "note": "http_403"
+    },
+    {
+      "timestamp": "2026-11-27T22:30:56Z",
+      "source": "Baseball-Reference Yankees",
+      "url": "https://www.baseball-reference.com/teams/NYY/2026.shtml",
+      "status": 200,
+      "items": 53,
+      "note": "ok | tables: bat_id=players_standard_batting pit_id=players_standard_pitching batters=25 pitchers=28"
     }
   ]
 }
