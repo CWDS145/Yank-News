@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22T17:34:08Z",
-  "source_used": "FanGraphs",
+  "updated": "2026-11-27T19:18:35Z",
+  "source_used": "ESPN",
   "positions": {
     "C": [
       {
@@ -10,48 +10,160 @@
       {
         "name": "Ali Sanchez",
         "rank": 2
+      },
+      {
+        "name": "Ben Rice",
+        "rank": 3
       }
     ],
     "1B": [
       {
-        "name": "Luis V. Garcia",
+        "name": "Luis Garcia Jr.",
         "rank": 1
+      },
+      {
+        "name": "Ben Rice",
+        "rank": 2
+      },
+      {
+        "name": "Cody Bellinger",
+        "rank": 3
+      },
+      {
+        "name": "Austin Wells",
+        "rank": 4
       }
     ],
     "2B": [
       {
         "name": "Anthony Volpe",
         "rank": 1
+      },
+      {
+        "name": "Jose Caballero",
+        "rank": 2
+      },
+      {
+        "name": "George Lombard Jr.",
+        "rank": 3
+      },
+      {
+        "name": "Luis Garcia Jr.",
+        "rank": 4
+      },
+      {
+        "name": "Marco Luciano",
+        "rank": 5
       }
     ],
     "3B": [
       {
         "name": "Ryan McMahon",
         "rank": 1
+      },
+      {
+        "name": "Jose Caballero",
+        "rank": 2
+      },
+      {
+        "name": "George Lombard Jr.",
+        "rank": 3
+      },
+      {
+        "name": "Anthony Volpe",
+        "rank": 4
+      },
+      {
+        "name": "Marco Luciano",
+        "rank": 5
       }
     ],
     "SS": [
       {
         "name": "George Lombard Jr.",
         "rank": 1
+      },
+      {
+        "name": "Anthony Volpe",
+        "rank": 2
+      },
+      {
+        "name": "Jose Caballero",
+        "rank": 3
+      },
+      {
+        "name": "Marco Luciano",
+        "rank": 4
+      },
+      {
+        "name": "Ryan McMahon",
+        "rank": 5
       }
     ],
     "LF": [
       {
         "name": "Cody Bellinger",
         "rank": 1
+      },
+      {
+        "name": "Heliot Ramos",
+        "rank": 2
+      },
+      {
+        "name": "Spencer Jones",
+        "rank": 3
+      },
+      {
+        "name": "Aaron Judge",
+        "rank": 4
+      },
+      {
+        "name": "Jose Caballero",
+        "rank": 5
       }
     ],
     "CF": [
       {
-        "name": "Spencer G. Jones",
+        "name": "Spencer Jones",
         "rank": 1
+      },
+      {
+        "name": "Cody Bellinger",
+        "rank": 2
+      },
+      {
+        "name": "Jose Caballero",
+        "rank": 3
+      },
+      {
+        "name": "Heliot Ramos",
+        "rank": 4
+      },
+      {
+        "name": "Aaron Judge",
+        "rank": 5
       }
     ],
     "RF": [
       {
         "name": "Aaron Judge",
         "rank": 1
+      },
+      {
+        "name": "Spencer Jones",
+        "rank": 2
+      },
+      {
+        "name": "Heliot Ramos",
+        "rank": 3
+      },
+      {
+        "name": "Jose Caballero",
+        "rank": 4
+      },
+      {
+        "name": "Cody Bellinger",
+        "rank": 5
       }
     ],
     "DH": [
@@ -62,6 +174,18 @@
       {
         "name": "Giancarlo Stanton",
         "rank": 2
+      },
+      {
+        "name": "Aaron Judge",
+        "rank": 3
+      },
+      {
+        "name": "Luis Garcia Jr.",
+        "rank": 4
+      },
+      {
+        "name": "Spencer Jones",
+        "rank": 5
       }
     ],
     "SP": [
@@ -88,36 +212,28 @@
     ],
     "RP": [
       {
-        "name": "David Bednar",
+        "name": "Brent Headrick",
         "rank": 1
       },
       {
-        "name": "Brent Headrick",
+        "name": "Jonathan Loaisiga",
         "rank": 2
       },
       {
-        "name": "Jonathan Loaisiga",
+        "name": "Tim Hill",
         "rank": 3
       },
       {
-        "name": "Tim Hill",
+        "name": "Brent Suter",
         "rank": 4
       },
       {
-        "name": "Yerry De Los Santos",
+        "name": "Yerry De los Santos",
         "rank": 5
       },
       {
-        "name": "Kervin Castro",
+        "name": "David Bednar",
         "rank": 6
-      },
-      {
-        "name": "Ryan Weathers",
-        "rank": 7
-      },
-      {
-        "name": "Clarke Schmidt",
-        "rank": 8
       }
     ]
   },
@@ -128,23 +244,24 @@
     "Austin Wells",
     "Ben Rice",
     "Brent Headrick",
+    "Brent Suter",
     "Cam Schlittler",
     "Carlos Rodon",
-    "Clarke Schmidt",
     "Cody Bellinger",
     "David Bednar",
     "George Lombard Jr.",
     "Gerrit Cole",
     "Giancarlo Stanton",
+    "Heliot Ramos",
     "Jonathan Loaisiga",
-    "Kervin Castro",
-    "Luis V. Garcia",
+    "Jose Caballero",
+    "Luis Garcia Jr.",
+    "Marco Luciano",
     "Max Fried",
     "Ryan McMahon",
-    "Ryan Weathers",
-    "Spencer G. Jones",
+    "Spencer Jones",
     "Tim Hill",
     "Will Warren",
-    "Yerry De Los Santos"
+    "Yerry De los Santos"
   ]
 }
